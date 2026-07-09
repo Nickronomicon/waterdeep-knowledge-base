@@ -1,0 +1,82 @@
+# TODO
+
+Setup checklist for turning this repo into a working Waterdeep campaign wiki.
+
+## Add Source Material
+
+- [ ] Add current character sheets for every player character.
+  - Suggested location: `raw/notes/character-sheets/`
+  - Include exported PDFs, markdown, text, screenshots, or whatever format is easiest to preserve.
+- [ ] Add PC background notes and character arc notes.
+  - Suggested location: `raw/notes/character-arcs/`
+  - Include secrets, player goals, faction ties, bonds, unresolved hooks, and planned personal beats.
+- [ ] Add existing DM session notes.
+  - Suggested location: `raw/notes/session-notes/`
+  - Include notes for session 1, since there is no transcript.
+  - Include prep notes, post-session notes, private rulings, and any ad hoc recap documents.
+- [ ] Add any campaign planning notes that explain your version of the Remix.
+  - Suggested location: `raw/notes/dm-planning/`
+  - Include villain choices, faction changes, altered timelines, changed NPC motives, custom hooks, and table-specific canon.
+- [ ] Add any handouts, images, maps, tavern/business notes, or legal/financial documents created during play.
+  - Suggested location: `raw/notes/handouts/`
+
+Agents may read these files after you add them, but should never edit anything under `raw/`.
+
+## Clarify Campaign Facts
+
+- [ ] Confirm the player character roster and exact spellings.
+- [ ] Map player names to character names, if useful for transcript interpretation.
+- [ ] Identify the speaker labels in the transcripts where possible.
+- [ ] Confirm current party level, current in-world date, and current real-world session cadence.
+- [ ] Confirm the party name, if any.
+- [ ] Confirm the tavern name, if the group has chosen one.
+- [ ] Record any known retcons or table rulings that should override transcript wording.
+- [ ] Decide whether the vault is entirely DM-facing or whether it will also contain player-safe handouts.
+
+## Initial Wiki Build
+
+- [ ] Ask Codex to inventory newly added `raw/notes/` files without editing them.
+- [ ] Ingest character sheets into `Waterdeep Knowledge Base/People/PCs/`.
+- [ ] Ingest background and character arc notes into PC pages and open-thread pages.
+- [ ] Ingest existing DM session notes before transcript ingest, so table canon and private prep are available.
+- [ ] Reconstruct `Sessions/Session 01` from notes, memory, and the session 2 recap.
+- [ ] Ingest recorded sessions 2 through 11 in chronological order.
+- [ ] Update people, factions, places, objects, and timeline pages as each session is processed.
+- [ ] Build `Dashboard/Current Campaign State`.
+- [ ] Build `Dashboard/Open Threads`.
+- [ ] Build `Timeline/Campaign Timeline`.
+- [ ] Build `Dashboard/Faction Clocks` from actual play plus the Remix.
+
+## Remix and Adventure Reference
+
+- [ ] Ingest the Remix at a structural level.
+  - Villain goals.
+  - Faction outposts.
+  - Response teams.
+  - Clue and revelation lists.
+  - Eyes of the Stone.
+  - Golorr artifacts.
+  - Faction timelines.
+  - Simple running checklist.
+- [ ] Cross-link Remix structures to the current campaign state.
+- [ ] Ingest original adventure reference only where it supports active play.
+- [ ] Create quick-reference pages for frequently used Waterdeep law, wards, factions, NPCs, and locations.
+
+## Begin Weekly Use
+
+- [ ] Create the first `Prep/Session Prep - YYYY-MM-DD.md` for the next scheduled session.
+- [ ] Use the prep page to produce:
+  - recap bullets;
+  - likely scenes;
+  - active NPC agendas;
+  - secrets and clues to reveal;
+  - consequences waiting in the background;
+  - maps, handouts, and stat blocks to review.
+- [ ] After each future session, add the transcript and/or notes, then run a session ingest.
+- [ ] Periodically ask Codex to lint the vault for stale facts, missing links, orphan pages, and unresolved threads.
+
+## Repository Hygiene
+
+- [ ] Confirm `.gitignore` excludes generated junk but keeps the vault, raw sources, and setup docs tracked as intended.
+- [ ] Make an initial commit once the setup docs and source inventory look right.
+- [ ] Commit after each meaningful ingest batch.

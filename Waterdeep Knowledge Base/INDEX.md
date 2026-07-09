@@ -71,8 +71,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 
 ### Non-Campaign or Unclassified Sources
 
-- `../raw/text_transcripts/Here_Lies_Playtest_1-2026-05-28_18-10-07.txt` - appears unrelated to Waterdeep. Do not ingest into this campaign unless instructed.
-- `../raw/notes/` - currently empty.
+- `../raw/notes/` - reserved for user-provided source notes such as character sheets, character arcs, DM notes, session notes, handouts, and campaign planning. It currently contains a placeholder file.
 
 ## Campaign Pages
 
@@ -170,14 +169,19 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 
 ## Immediate Backlog
 
-1. Ingest sessions 2 through 11 in chronological order.
-2. Reconstruct missing session 1 from session 2 recap and user memory.
-3. Build [[Dashboard/Current Campaign State]] after at least the latest session is processed.
-4. Build [[Dashboard/Open Threads]] from session summaries.
-5. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
-6. Create a weekly prep workflow page once the next real session date is known.
-7. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
-8. Decide with the user whether any player-facing notes or handouts should exist in this vault.
+1. Complete the setup checklist in `../TODO.md`.
+2. Add character sheets, background notes, character arc notes, existing DM notes, and session notes to `../raw/notes/`.
+3. Inventory newly added raw notes without editing them.
+4. Ingest character sheets and character arc notes into PC pages.
+5. Ingest existing DM notes before transcript ingest, so table canon and private prep are available.
+6. Reconstruct missing session 1 from notes, session 2 recap, and user memory.
+7. Ingest sessions 2 through 11 in chronological order.
+8. Build [[Dashboard/Current Campaign State]] after at least the latest session is processed.
+9. Build [[Dashboard/Open Threads]] from session summaries.
+10. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
+11. Create a weekly prep workflow page once the next real session date is known.
+12. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
+13. Decide with the user whether any player-facing notes or handouts should exist in this vault.
 
 ## Maintenance Notes
 

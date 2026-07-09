@@ -15,6 +15,17 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-09] setup | Add project setup checklist
+
+- Added `../TODO.md` as the top-level setup checklist for collecting character sheets, character arc notes, DM notes, existing session notes, and handouts before full ingest.
+- Updated `INDEX.md` to remove the stale unrelated playtest transcript reference after the source was deleted.
+- Updated `INDEX.md` to point the immediate backlog at the new setup checklist and the `../raw/notes/` source collection step.
+
+Follow-up:
+
+- Add user-owned source files under `../raw/notes/`.
+- Inventory the newly added sources before starting session ingest.
+
 ## [2026-07-09] setup | Initialize vault operating files
 
 - Created the canonical vault guide, index, and changelog.
