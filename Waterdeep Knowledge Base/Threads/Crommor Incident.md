@@ -9,6 +9,7 @@ source_paths:
   - ../raw/notes/handouts/s0-private-archive-house-thalosmere.md
   - ../raw/notes/handouts/s0-what-broethuul-remembers.md
   - ../raw/notes/character-arcs/davy-dm-notes.md
+  - ../raw/notes/handouts/the-crommor-warning.md
 tags:
   - waterdeep
   - thread
@@ -18,7 +19,7 @@ tags:
 
 # Crommor Incident
 
-The Crommor Incident is the shared backstory knot around Anastasia Crommor's fall during Laeral Silverhand's ascension ceremony in 1489 DR. Publicly, it is remembered as humiliation and comedy. Privately, multiple PC-facing sources suggest misassigned blame, infernal interference, and a message that failed to reach Laeral.
+The Crommor Incident is the shared backstory knot around Anastasia Crommor's fall during Laeral Silverhand's ascension ceremony in 1489 DR. Publicly, it is remembered as humiliation and comedy. Privately, multiple PC-facing sources suggest misassigned blame, infernal interference, and [[Objects/The Crommor Warning|a message that failed to reach Laeral]].
 
 ## Public Version
 
@@ -36,9 +37,9 @@ Aladeen's Crommor Collapse routine turned the event into a citywide joke.
 
 ## Working Secret
 
-The bugle may have been a transmission vector for a warning meant for Laeral Silverhand. Davy's DM arc notes suggest the warning concerned Cassalanter infernal dealings and never reached Laeral.
+The bugle was a transmission vector for a warning meant for Laeral Silverhand. Davy's unrevealed handout, [[Objects/The Crommor Warning]], preserves the message as a recovered copy or draft. The warning describes infernal bargains, unnatural noble prosperity, and hidden civic debts; it does not name the Cassalanters directly, but it strongly supports the Cassalanter-infernal thread.
 
-This should remain a flexible DM truth until session play locks it down.
+The exact writer, recovery path, and Victoro Cassalanter's role should remain flexible until session play locks them down.
 
 ## Open Questions
 
@@ -56,3 +57,4 @@ This should remain a flexible DM truth until session play locks it down.
 - `../raw/notes/handouts/s0-private-archive-house-thalosmere.md`
 - `../raw/notes/handouts/s0-what-broethuul-remembers.md`
 - `../raw/notes/character-arcs/davy-dm-notes.md`
+- `../raw/notes/handouts/the-crommor-warning.md`

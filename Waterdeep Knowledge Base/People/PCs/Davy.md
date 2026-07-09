@@ -13,6 +13,7 @@ source_paths:
   - ../raw/notes/character-sheets/Davy-level-3.pdf
   - ../raw/notes/handouts/s0-davy-backstory.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
+  - ../raw/notes/handouts/the-crommor-warning.md
   - ../raw/notes/character-arcs/davy-dm-notes.md
 tags:
   - waterdeep
@@ -82,13 +83,13 @@ Anastasia left home after a bitter conflict with Davin Crommor and survived on W
 
 Davy now carries multiple identities at once: noble daughter, street survivor, thief, apprentice to a death-priest, and party member. Aladeen does not appear to recognize Davy as the girl whose humiliation helped make him famous. Jonathan may not know Davy is the Anastasia Crommor once considered as a possible noble match. Elior's scar reacts to Davy as something persistently misfiled.
 
-The DM arc notes establish a deeper secret: the ceremonial bugle may have contained a warning meant for Laeral Silverhand about infernal contracts and House Cassalanter. The current working truth appears to be that Cassalanter was not simply innocent, but the moment was not simple either.
+The DM arc notes and unrevealed handout establish a deeper secret: the ceremonial bugle contained [[Objects/The Crommor Warning|a warning meant for Laeral Silverhand]] about infernal contracts, abnormal noble prosperity, and Waterdeep being pledged in hidden pieces. The warning does not name House Cassalanter outright, but it points directly toward the kind of civic-faced infernal bargain the Cassalanters embody.
 
 ## Open Threads
 
 - Track [[Threads/Davy Is Anastasia Crommor|Davy's hidden identity as Anastasia Crommor]].
 - Track [[Threads/Crommor Incident|the Crommor Incident]] and the truth of the broken bugle.
-- Track [[Threads/Cassalanter Warning in the Bugle|the warning meant for Laeral]] and whether Davy can help recover or prove it.
+- Track [[Threads/Cassalanter Warning in the Bugle|the warning meant for Laeral]] and the unrevealed handout [[Objects/The Crommor Warning]].
 - Clarify Davy's current relationship to Dorgar, Myrkul, Kelemvor, Bonnie, and Threestrings.
 - Connect Davy's tools and forgery/thievery profile to actual table behavior.
 - Decide when and how Aladeen, Jonathan, or Laeral might learn who Davy really is.
@@ -99,10 +100,12 @@ The DM arc notes establish a deeper secret: the ceremonial bugle may have contai
 - `../raw/notes/character-sheets/Davy-level-3.pdf`
 - `../raw/notes/handouts/s0-davy-backstory.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
+- `../raw/notes/handouts/the-crommor-warning.md`
 - `../raw/notes/character-arcs/davy-dm-notes.md`
 
 ## Uncertainties
 
 - Anastasia/Davy's secret identity should be treated as DM-facing information unless the table reveals it.
+- [[Objects/The Crommor Warning]] is explicitly unrevealed to Davy as of ingest.
 - The exact truth of Victoro Cassalanter's action during the ceremony is intentionally unresolved.
 - No current Foundry deltas have been ingested; this page reflects the exported level-3 sheet only.

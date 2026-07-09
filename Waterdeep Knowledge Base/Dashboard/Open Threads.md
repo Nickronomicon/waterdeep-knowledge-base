@@ -11,6 +11,7 @@ source_paths:
   - ../raw/notes/handouts/s0-private-archive-house-thalosmere.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/notes/handouts/s0-what-broethuul-remembers.md
+  - ../raw/notes/handouts/the-crommor-warning.md
 tags:
   - waterdeep
   - dashboard
@@ -27,7 +28,7 @@ Current DM-facing thread index built from character backgrounds and arc notes. T
 |---|---|---|---|
 | [[Threads/Crommor Incident]] | [[People/PCs/Davy]], [[People/PCs/Aladeen]], [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]], [[People/PCs/Elior Thalosmere]], [[People/PCs/Broethuul]] | Active, unresolved | Shared backstory knot and Cassalanter hook. |
 | [[Threads/Davy Is Anastasia Crommor]] | [[People/PCs/Davy]] | Secret | Identity reveal, Laeral audience, party trust. |
-| [[Threads/Cassalanter Warning in the Bugle]] | [[People/PCs/Davy]], [[People/PCs/Elior Thalosmere]], [[People/PCs/Broethuul]] | Secret truth candidate | Slow-burn proof of infernal contract. |
+| [[Threads/Cassalanter Warning in the Bugle]] | [[People/PCs/Davy]], [[People/PCs/Elior Thalosmere]], [[People/PCs/Broethuul]] | Unrevealed Davy handout exists | Slow-burn proof of infernal contract. |
 | [[Threads/Aladeen and the Crommor Collapse]] | [[People/PCs/Aladeen]], [[People/PCs/Davy]] | Dormant until revealed | Redemption or rupture through performance. |
 | [[Threads/Jonathan and House Crommor]] | [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]], [[People/PCs/Davy]] | Dormant until revealed | Test of justice, punishment, and noble duty. |
 | [[Threads/House Thalosmere Divine Correction]] | [[People/PCs/Elior Thalosmere]] | Active observation | Divine anomaly logic, scar triggers, ledger clues. |
@@ -37,5 +38,5 @@ Current DM-facing thread index built from character backgrounds and arc notes. T
 
 - During session ingest, mark which thread facts have actually been revealed at the table.
 - Create NPC pages for Anastasia Crommor, Davin Crommor, Dorgar, Bonnie, Threestrings, Victoro Cassalanter, Laeral Silverhand, and relevant noble houses once they appear in session summaries.
-- Decide whether the Crommor warning text exists as a recoverable physical document, destroyed original, copy, or divinatory reconstruction.
+- Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
