@@ -15,6 +15,30 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-09] ingest | Add PC player names
+
+- Used `../raw/roster.md` to fill the `player` field on the five generated PC pages.
+- Added `../raw/roster.md` to each PC page's source list.
+- Current roster mapping: Aladeen/Ankur, Broethuul/Tom, Davy/Hannah, Elior Thalosmere/Dane, and Jonathan Usman Sonny Theodore Icarus Charles Eagleshield/Jake.
+
+Follow-up:
+
+- If the roster changes again, update the PC page frontmatter and this mapping.
+
+## [2026-07-09] ingest | Character sheets
+
+- Created PC pages under `People/PCs/` for Aladeen, Broethuul, Davy, Elior Thalosmere, and Jonathan Usman Sonny Theodore Icarus Charles Eagleshield.
+- Ingested the five level-3 PDF character sheets from `../raw/notes/character-sheets/`.
+- Ingested `../raw/notes/character-sheets/Broethuul-expanded.md` into Broethuul's PC page because it supplements text cut off by the exported PDF.
+- Updated `INDEX.md` to list the generated PC pages and adjust the immediate backlog.
+- Updated [[Meta/Raw Source Inventory]] to mark character-sheet sources as ingested.
+- Marked the character-sheet ingest task complete in `../TODO.md`.
+
+Follow-up:
+
+- Ingest character arc notes, especially `../raw/notes/character-arcs/davy-dm-notes.md`.
+- Ingest session-0/backstory handouts for richer PC arc pages and open threads.
+
 ## [2026-07-09] setup | Inventory raw source files
 
 - Created [[Meta/Raw Source Inventory]] to classify the current `../raw/` tree after commit `5fdbc1b`.

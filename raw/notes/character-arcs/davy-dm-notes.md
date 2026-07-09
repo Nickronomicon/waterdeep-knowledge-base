@@ -1,5 +1,5 @@
 # Davy
-**Player:** Hanna
+**Player:** Hannah
 
 **Secret:** Davy, the young street tough, is actually Anastasia Crommor, a noble girl from House Crommor posing as a boy.
 

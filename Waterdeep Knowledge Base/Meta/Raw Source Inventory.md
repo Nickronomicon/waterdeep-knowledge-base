@@ -29,7 +29,7 @@ Inventory of `../raw/` after commit `5fdbc1b` (`Begins addressing items in TODO.
 
 | Path | Purpose | Ingest Use |
 |---|---|---|
-| `../raw/roster.md` | Player-to-character roster. Confirms Aladeen/Ankur, Broethuul/Tom, Davy/Hanna, Elior Thalosmere/Dane, Jonathan Usman Sonny Theodore Icarus Charles Eagleshield/Jake, and Nick as DM. | Use before transcript ingest and PC page creation. |
+| `../raw/roster.md` | Player-to-character roster. Confirms Aladeen/Ankur, Broethuul/Tom, Davy/Hannah, Elior Thalosmere/Dane, Jonathan Usman Sonny Theodore Icarus Charles Eagleshield/Jake, and Nick as DM. | Use before transcript ingest and PC page creation. |
 | `../raw/stats.md` | Current campaign status. Party name TBD, tavern still Trollskull Manor, party level 3, in-world date 5 Ches 1492 DR, next session 12 on 2026-07-09, aspirational weekly Thursday cadence. | Seed `Dashboard/Current Campaign State` and session prep. |
 
 ## Technical and Process Notes
@@ -45,12 +45,12 @@ Inventory of `../raw/` after commit `5fdbc1b` (`Begins addressing items in TODO.
 
 | Path | Format | Purpose | Ingest Use |
 |---|---|---|---|
-| `../raw/notes/character-sheets/Aladeen-level-3.pdf` | PDF, 4 pages | Level-3 character sheet. | Create/update Aladeen PC page. |
-| `../raw/notes/character-sheets/Broethuul-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Create/update Broethuul PC page. |
-| `../raw/notes/character-sheets/Broethuul-expanded.md` | Markdown, 49 lines | Expanded Broethuul background, personality traits, ideals, bonds, flaws, organizations, enemies, and backstory. | Use with Broethuul sheet; likely higher narrative value than PDF alone. |
-| `../raw/notes/character-sheets/Davy-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Create/update Davy PC page. |
-| `../raw/notes/character-sheets/Elior-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Create/update Elior Thalosmere PC page. |
-| `../raw/notes/character-sheets/Jonathan-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Create/update Jonathan/JUSTICE PC page. |
+| `../raw/notes/character-sheets/Aladeen-level-3.pdf` | PDF, 4 pages | Level-3 character sheet. | Ingested into [[People/PCs/Aladeen]]. |
+| `../raw/notes/character-sheets/Broethuul-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Ingested into [[People/PCs/Broethuul]]. |
+| `../raw/notes/character-sheets/Broethuul-expanded.md` | Markdown, 49 lines | Expanded Broethuul background, personality traits, ideals, bonds, flaws, organizations, enemies, and backstory. | Ingested into [[People/PCs/Broethuul]]. |
+| `../raw/notes/character-sheets/Davy-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Ingested into [[People/PCs/Davy]]. |
+| `../raw/notes/character-sheets/Elior-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Ingested into [[People/PCs/Elior Thalosmere]]. |
+| `../raw/notes/character-sheets/Jonathan-level-3.pdf` | PDF, 5 pages | Level-3 character sheet. | Ingested into [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]]. |
 
 ### Character Arcs
 
@@ -143,7 +143,7 @@ Original adventure markdown files:
 ## Recommended Ingest Order
 
 1. `../raw/roster.md`, `../raw/stats.md`, and `../raw/notes/technical-notes.md`.
-2. Character sheets and character narrative sources.
+2. Character narrative and arc sources not already covered by sheet ingest.
 3. Session 0/backstory handouts and the Crommor/Thalosmere materials.
 4. `../raw/notes/discord-synopsis-channel.md` and `../raw/notes/dm-planning/session-1/opening-scene.md` to reconstruct session 1.
 5. Session transcripts 2-11, each paired with same-session prep notes when available.

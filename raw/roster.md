@@ -6,7 +6,7 @@ Player: Ankur
 Player: Tom
 
 ## Davy
-Player: Hanna
+Player: Hannah
 
 ## Elior Thalosmere
 Player: Dane

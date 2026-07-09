@@ -84,7 +84,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 
 ## Campaign Pages
 
-No campaign pages have been generated yet.
+Initial PC pages have been generated from level-3 character-sheet sources. Most narrative backstory handouts and character arc notes still need a later ingest pass.
 
 As pages are created, maintain these sections:
 
@@ -105,7 +105,7 @@ As pages are created, maintain these sections:
 
 ### Player Characters
 
-Create pages under `People/PCs/` during character-source ingest. Confirmed roster:
+Pages under `People/PCs/`:
 
 - [[People/PCs/Aladeen]]
 - [[People/PCs/Broethuul]]
@@ -180,7 +180,7 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 
 1. Complete the setup checklist in `../TODO.md`.
 2. Ingest `../raw/roster.md`, `../raw/stats.md`, and `../raw/notes/technical-notes.md` into campaign operations/current-state pages.
-3. Ingest character sheets and character arc notes into PC pages.
+3. Ingest character arc notes into PC pages.
 4. Ingest session-0/backstory handouts and create personal arc/open-thread pages.
 5. Reconstruct missing session 1 from `../raw/notes/discord-synopsis-channel.md`, `../raw/notes/dm-planning/session-1/opening-scene.md`, session 2 recap, and user memory.
 6. Ingest sessions 2 through 11 in chronological order, pairing transcripts with DM planning notes where available.
