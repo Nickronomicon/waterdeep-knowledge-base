@@ -1,0 +1,2295 @@
+[SPEAKER_01]: All right, guys.
+[SPEAKER_01]: Welcome back.
+[SPEAKER_01]: It's been a month, right?
+[SPEAKER_01]: I think so, yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Well.
+[SPEAKER_01]: Seems right.
+[SPEAKER_01]: Seems right.
+[SPEAKER_01]: Not much happened in the interim.
+[SPEAKER_01]: Dane, you didn't miss much.
+[SPEAKER_01]: Did you run the one shot?
+[SPEAKER_01]: No, actually.
+[SPEAKER_01]: We ran my game.
+[SPEAKER_01]: We ran the...
+[SPEAKER_01]: I changed the name from Epitaph to Hear Lies.
+[SPEAKER_01]: Kind of a play on words, I guess.
+[SPEAKER_01]: It went well.
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: I recorded that.
+[SPEAKER_01]: I should post that up.
+[SPEAKER_01]: It was pretty funny.
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: These guys were absolute champs about it.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: That's worth running again.
+[SPEAKER_01]: Some serious shenanigans.
+[SPEAKER_01]: I believe we had to face off against a semi-rogue AI in the last human-run data center in the solar system.
+[SPEAKER_01]: I believe they were in charge of decommissioning Series West 2.
+[SPEAKER_04]: I was really on my shit about being mad about AWS.
+[SPEAKER_04]: That was a day.
+[SPEAKER_04]: I think I tried to get ECS running.
+[SPEAKER_01]: Yeah, no, it was.
+[SPEAKER_01]: And I, I had him, I had him give me the scenario and everything.
+[SPEAKER_01]: Like I did the whole thing.
+[SPEAKER_01]: Impromptu on the fly.
+[SPEAKER_01]: I was like, okay, what's the setting.
+[SPEAKER_01]: What's the genre.
+[SPEAKER_01]: What are we doing?
+[SPEAKER_01]: And they just threw out some ideas and it was like a giant game of whose line is that anyway with dice.
+[SPEAKER_01]: It was good.
+[SPEAKER_01]: Um,
+[SPEAKER_03]: I still have Dr. Kaufman running around through my head, honestly.
+[SPEAKER_01]: Dr. Kaufman was pretty good.
+[SPEAKER_01]: Dr. Kaufman was...
+[SPEAKER_01]: I feel like I know people like Dr. Kaufman, though.
+[SPEAKER_03]: Well, his whole speaking pattern was just based off of Dr.
+[SPEAKER_03]: Evil.
+[SPEAKER_03]: So, like... Sure.
+[SPEAKER_03]: Sure.
+[SPEAKER_03]: You've heard him before.
+[SPEAKER_01]: But, like, that whole... All dollars, no cents.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: but really not that many dollars.
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: Like, I know, I, I feel like I know those people.
+[SPEAKER_03]: I feel like I knew that as soon as you're like, what's his doctor did.
+[SPEAKER_03]: And I'm like, it doesn't matter.
+[SPEAKER_01]: Uh, yeah.
+[SPEAKER_01]: Anyway, I'll, um, I will see if I can get that compressed and diarized and thrown up in the, um, in the, uh, uh, sessions, uh, shared folder.
+[SPEAKER_01]: if any of y'all want to watch it I'll check it out for sure alright so last we left off it was a calmer session if I remember correctly we started out the day meeting your essentially your handler or contact or however you want to think of her
+[SPEAKER_01]: for the Harpers.
+[SPEAKER_01]: Turns out Lady Romalia Hoventry is not just a shut-in noble.
+[SPEAKER_01]: It appears she's been kind of running a game behind the scenes, and you are now embroiled in that game.
+[SPEAKER_01]: I don't
+[SPEAKER_01]: recall off the top of my head, I don't think she gave you another task, right?
+[SPEAKER_01]: Like it was just kind of a meet and greet and fill her in on the Maxine business, right?
+[SPEAKER_01]: That sounds right.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: I believe she left you with...
+[SPEAKER_01]: A note to give to Falalaflir if you needed anything, potion-wise, with the admonishment not to abuse it.
+[SPEAKER_01]: I believe she also gave you a paper bird in case you needed to contact her.
+[SPEAKER_01]: Beyond that... Did she come to the tavern?
+[SPEAKER_01]: No, you went to Ol' Brinter Villa.
+[SPEAKER_01]: Oh, yeah, yeah, that's right.
+[SPEAKER_01]: You met her in kind of like a Harper's Safe room, almost.
+[SPEAKER_01]: Like, the parlor she engaged you in was like... Had all those... Yeah, almost like a hidden shrine to the Harpers.
+[SPEAKER_01]: Nothing that was obvious, but...
+[SPEAKER_01]: When you start looking for the signs, like, it was all there in the motifs and the shapes.
+[SPEAKER_01]: But after you met with Lady Hoventry, I think y'all went on a bit of a search to hold a seance.
+[SPEAKER_04]: Mm-hmm.
+[SPEAKER_01]: You ran around town looking for someone who could talk to the dead.
+[SPEAKER_01]: Yes.
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: How could you forget?
+[SPEAKER_03]: That's all Brothel's thinking about.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: You met an acolyte.
+[SPEAKER_01]: Oh man, I forgot which... Yeah, you went to the plinth.
+[SPEAKER_01]: You met with...
+[SPEAKER_01]: One of the gods representatives there.
+[SPEAKER_01]: I don't remember.
+[SPEAKER_01]: Oh, wait.
+[SPEAKER_01]: Wait, wait, wait, wait, wait.
+[SPEAKER_01]: My stuff.
+[SPEAKER_01]: Oh, no.
+[SPEAKER_01]: Weird.
+[SPEAKER_01]: My D&D stuff is under a postcard that says, wow, you are cool.
+[SPEAKER_01]: I wonder where that could have come from.
+[SPEAKER_01]: Clearly spam.
+[SPEAKER_01]: Clearly spam.
+[SPEAKER_01]: I threw it out.
+[SPEAKER_01]: I don't like that shit.
+[SPEAKER_01]: I want to say...
+[SPEAKER_01]: It wasn't... Oh, no, I know.
+[SPEAKER_01]: I know.
+[SPEAKER_01]: I know.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: You went to visit... You were looking for a representative of Kelimvor.
+[SPEAKER_01]: Right?
+[SPEAKER_01]: The accepted Lord of the Dead, not realizing that Kelimvor fucking hates the undead.
+[SPEAKER_01]: And if you sent them to talk to your ghost, they're probably gonna try and wipe your ghosts out of the manor.
+[SPEAKER_01]: So, Davy lets you guys twist in the wind a little bit, and kind of do it your way, before revealing that, in fact...
+[SPEAKER_01]: Davey did know somebody who could probably help them out.
+[SPEAKER_01]: Yes, and that is how everybody got to meet Davey's father figure?
+[SPEAKER_01]: Surrogate guardian?
+[SPEAKER_01]: I don't know what you want to call him.
+[SPEAKER_01]: Uh-oh.
+[SPEAKER_01]: Oh no, Google logged me out.
+[SPEAKER_01]: Give me one sec.
+[SPEAKER_01]: I do everything across two accounts.
+[SPEAKER_01]: If you haven't noticed, the DM account is logged on in here.
+[SPEAKER_01]: That's where our recording comes from.
+[SPEAKER_01]: But it's also like where all my notes are kept and where I'm going to have to start like a notebook LM to keep track of all this shit.
+[SPEAKER_02]: Sorry.
+[SPEAKER_02]: I went to scroll my notes and it's like, bloop, you're logged out.
+[SPEAKER_02]: Who was I talking about?
+[SPEAKER_02]: Oh, I was talking about Dorger, right?
+[SPEAKER_01]: Which is kind of a cadaverous looking man, turns out to be a priest of Miracle.
+[SPEAKER_01]: who is residing in a hidden altar underneath the City of the Dead in town.
+[SPEAKER_01]: He told you that, yes, in fact, he can talk to ghosts.
+[SPEAKER_01]: And I believe he gave you... Was it candles?
+[SPEAKER_01]: Uh... That you have to burn in a window for...
+[SPEAKER_01]: Shit, I forgot how long I said.
+[SPEAKER_01]: I want to say it was at least 24 hours, but it might have been two days.
+[SPEAKER_04]: The puppy being very cute, Hannah.
+[SPEAKER_05]: Yeah, she's snoring.
+[SPEAKER_01]: And I believe that's actually where we ended.
+[SPEAKER_01]: Was... Having secured... Dorger's promise of assistance...
+[SPEAKER_01]: Uh... You guys left the hidden temple... Of Merkle...
+[SPEAKER_01]: Uh... And you were told to... Keep it to yourselves... Because it's not...
+[SPEAKER_01]: He's not exactly a favored deity...
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: In Faerun in general...
+[SPEAKER_01]: He's um...
+[SPEAKER_01]: one of the dead three, right?
+[SPEAKER_01]: He's usually lumped in there with also the Lord of Murder and a few other problematic people.
+[SPEAKER_01]: Bane, Ball, and Merkle.
+[SPEAKER_01]: Bane, Ball, and Merkle.
+[SPEAKER_01]: Ball plays a serious role in all of Baldur's Gate.
+[SPEAKER_01]: Like, all three of them.
+[SPEAKER_01]: Oh, Baal, like B-A-A-L?
+[SPEAKER_01]: I think it's B-H-A-A-L?
+[SPEAKER_04]: Baal?
+[SPEAKER_01]: Okay, not Baal, like Baal so hard.
+[SPEAKER_01]: Like we Baal?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: No.
+[SPEAKER_01]: And then there's...
+[SPEAKER_01]: I actually forget.
+[SPEAKER_01]: Baal is the Lord of Murder.
+[SPEAKER_01]: Merkle was the...
+[SPEAKER_01]: former lord of the dead before being taken over and i do believe that bane is it's like not war like tyranny like he's the tyrant i don't remember yeah he got god of tyranny his domain is war
+[SPEAKER_01]: But they're all referred to the Dead Three if you read back in Forgotten Realms lore.
+[SPEAKER_01]: They basically split off from Jergal.
+[SPEAKER_01]: There was a big old fight.
+[SPEAKER_01]: They are not looked upon kindly in Faeron at this point.
+[SPEAKER_01]: Okay, so...
+[SPEAKER_01]: We're going to come back from there.
+[SPEAKER_01]: We will join our party yet again the following day.
+[SPEAKER_01]: The next morning.
+[SPEAKER_01]: Having assumed everyone made it home safely from the hidden temple.
+[SPEAKER_01]: Back to Troll School Manor.
+[SPEAKER_01]: It is...
+[SPEAKER_01]: sunrise, and everyone wakes to the sounds of three children downstairs playing loudly with whatever latest weapon Aladdin has given them.
+[SPEAKER_01]: Don't remember exactly which sharp, blunt, and or deadly object he handed them last, but they're starting to...
+[SPEAKER_01]: I believe two have daggers and one has a mace.
+Yes.
+[SPEAKER_01]: I think that's right.
+[SPEAKER_01]: He is starting to build an arsenal in his child soldier arm.
+[SPEAKER_01]: But with that... That's a dice, my friend.
+[SPEAKER_01]: If you think I'm not sitting here rolling mock combats at home while you guys are all out doing your thing, you're seriously mistaken.
+[SPEAKER_04]: Have you really been rolling this whole time on whether or not we're going to come home to one of those children dead?
+[SPEAKER_01]: Not dead, necessarily.
+[SPEAKER_01]: Grievously injured is also a possibility.
+[SPEAKER_01]: Jesus Christ.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: He gave them weapons!
+[SPEAKER_01]: What do you want me to do with that?
+[SPEAKER_00]: They got a level up for you, man.
+[SPEAKER_00]: That's within your right.
+[SPEAKER_00]: That's the world of living and breathing, man.
+[SPEAKER_01]: I roll that dice every day.
+[SPEAKER_01]: Can I please play a fantasy game?
+[SPEAKER_01]: I was gonna say.
+[SPEAKER_01]: It's a little too real.
+[SPEAKER_01]: Basically, when one of my kids gets hurt, one of these kids gets hurt.
+[SPEAKER_04]: Don't worry, guys.
+[SPEAKER_04]: Rolling out to fraud as we speak.
+[SPEAKER_04]: Oh, that's fine.
+[SPEAKER_04]: That's fine.
+[SPEAKER_04]: We'll be fine.
+[SPEAKER_04]: I'm rolling the dice and
+[SPEAKER_04]: more than a few ways for the next couple of hours.
+[SPEAKER_01]: Are you deploying GKE on prod right now?
+[SPEAKER_04]: I am, yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Do you need full attention on this?
+[SPEAKER_04]: I got it.
+[SPEAKER_04]: I got it.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Yeah, I went through all of this.
+[SPEAKER_04]: It's not going to tear anything down until I move DNS.
+[SPEAKER_04]: We're good.
+[SPEAKER_01]: Sure.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Don't worry, he's removed a chunk of his brain, put it in a vat, and now he's across multiple horizontal scaling brain nodes.
+[SPEAKER_01]: This is perfect.
+[SPEAKER_01]: Teach me your ways.
+[SPEAKER_01]: Anyway, it's a brand new day.
+[SPEAKER_01]: I believe it is now... What did I say it was?
+[SPEAKER_01]: Fifth of Chess?
+[SPEAKER_01]: which means all this has only been about five or six days that you guys have been doing this, right?
+[SPEAKER_01]: It's only, it's been less than a 10 day since you rescued Floon and suddenly gained minor celebrity within the city.
+[SPEAKER_01]: So the day is yours.
+[SPEAKER_01]: What would you like to do?
+[SPEAKER_01]: You already know the answer from Brothel.
+[SPEAKER_01]: He wants to fuck with ghosts.
+[SPEAKER_04]: Yeah, so we have to light up candles, right?
+[SPEAKER_01]: Yeah, he gave you specific candles.
+[SPEAKER_01]: I think he gave you enough for whatever the time span was.
+[SPEAKER_01]: But you have to keep them burning in a window to make preparation for this seance.
+[SPEAKER_04]: Oh, someone ought to do that.
+[SPEAKER_04]: But I'm certain that Jonathan, in his morning routine, is sitting straight up, two feet on the ground, hands on either knee, at complete rest, staring at the wall, awaiting for stimulus.
+[SPEAKER_01]: Yeah, that checks out.
+[SPEAKER_01]: I like that he's like, he's not like a warrior for justice.
+[SPEAKER_01]: He's like a golem for justice.
+[SPEAKER_00]: Yeah.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: I love it.
+[SPEAKER_04]: Empty, man.
+[SPEAKER_04]: What I want to be, what I'm aspiring to be.
+[SPEAKER_05]: I think Davey would be very down to tend to the candles today.
+[SPEAKER_01]: I think I do think that is a Davey role.
+[SPEAKER_01]: Um, there's not much tending that needs to be done, right?
+[SPEAKER_01]: You, you have to light it and eight hours ish, you know, candles aren't an accurate exact science.
+[SPEAKER_01]: Um, you have to light the next one from the first one, just to keep the flame going.
+[SPEAKER_01]: Um, and I do believe it's, it's 24 hours.
+[SPEAKER_01]: So after today, if the candles are all burning, um,
+[SPEAKER_01]: Dorval can come by and do his thing.
+[SPEAKER_00]: Okay.
+[SPEAKER_01]: So Jonathan, Jonathan Justice is hanging out in his room, waiting, waiting for the day to begin, as it were.
+[SPEAKER_01]: The kids are down in the common room having yet another mock battle.
+[SPEAKER_01]: Rothul is doing something looking for the ghosts, but it's early for the seance, so they can't do that yet.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I need...
+[SPEAKER_01]: Anyone in the common room...
+[SPEAKER_01]: Anyone out of their rooms, basically, to roll a perception check.
+[SPEAKER_01]: All right, guys.
+[SPEAKER_01]: First roll in a month.
+[SPEAKER_04]: Anyone in the common rooms?
+[SPEAKER_01]: Oh.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Oh.
+[SPEAKER_02]: Oh, there we go.
+[SPEAKER_03]: We hit the extremes right away.
+[SPEAKER_01]: Yeah, that's interesting.
+[SPEAKER_01]: All right, who got the?
+[SPEAKER_01]: There's my chat line.
+[SPEAKER_01]: I'm totally distracted by the children.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: They are borderline a menace.
+[SPEAKER_01]: Rosul, you realize that Elior is not here.
+[SPEAKER_03]: He's done a runner.
+[SPEAKER_03]: First off, what does that say about us if we have to make a perception roll to notice that our party member's missing?
+[SPEAKER_02]: Hey, we just woke up.
+[SPEAKER_02]: It's the morning.
+[SPEAKER_02]: He could still be in his room.
+[SPEAKER_02]: We don't know.
+[SPEAKER_02]: Right.
+[SPEAKER_01]: No, like, specifically, his room, the door is ajar.
+[SPEAKER_01]: No one is inside.
+[SPEAKER_01]: He has not been seen.
+[SPEAKER_01]: You just realize that Elior is not in the manor.
+[SPEAKER_03]: Everybody.
+[SPEAKER_03]: Has anybody seen Elior?
+[SPEAKER_03]: Nope.
+[SPEAKER_02]: Do you think the ghost got him?
+[SPEAKER_02]: He better have gone to get some fish.
+[SPEAKER_02]: He still owes me some.
+[SPEAKER_02]: Fish?
+[SPEAKER_02]: He owes you fish?
+[SPEAKER_02]: Thanks, babe.
+[SPEAKER_02]: He bought that fish when we were out the other day, and he didn't cook it.
+[SPEAKER_02]: And I'm still waiting for my fish.
+[SPEAKER_01]: I did give it to the priest because I felt bad for him.
+[SPEAKER_01]: I have forgotten about that.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yes.
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Just gave away our dinner like it was nothing.
+[SPEAKER_01]: The dinner that made everyone step back ten feet?
+[SPEAKER_01]: That one?
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: Cool, cool.
+[SPEAKER_01]: I had forgotten about the... Was it a mackerel?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I hear the common folk like to trade in them.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Yep, yep.
+[SPEAKER_01]: The mackerel that you had purchased from the fishwife two days previous and kind of left in your pouch.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Seems to be of value in these parts.
+[SPEAKER_01]: Yep, yep, yep, yep.
+[SPEAKER_01]: For the south ward of the north ward I've ever gone.
+[SPEAKER_01]: Slumming it.
+[SPEAKER_01]: Slum it all the way down in Castle Ward.
+[SPEAKER_01]: I want to live like the common people.
+[SPEAKER_01]: For sure.
+[SPEAKER_01]: Yeah, none of you
+[SPEAKER_01]: None of you have any idea.
+[SPEAKER_01]: Well, actually, Elior, did you say anything to anyone or leave a note?
+[SPEAKER_01]: You're just Gonzo.
+[SPEAKER_01]: He's just Gonzo.
+[SPEAKER_01]: Left a very well-made bed.
+[SPEAKER_01]: His whole room is just, despite the building being a bit run down and ramshackle, his room is in perfect order.
+[SPEAKER_01]: Looks like a hotel room.
+[SPEAKER_01]: Like I think he might've even left himself a mint on the pillow.
+[SPEAKER_03]: So.
+[SPEAKER_03]: Where'd he go?
+[SPEAKER_03]: Doesn't look like there was signs of struggle.
+[SPEAKER_03]: Do you think he simply left?
+[SPEAKER_04]: Should we rent his room out?
+[SPEAKER_04]: Has anyone alerted me of anything at this point?
+[SPEAKER_04]: Realistically, I think I'm still in bed, or rather staring at the wall, but I just want to make sure that if I have not been... No, we're just chatting in the common room.
+[SPEAKER_02]: Hellier is a big boy.
+[SPEAKER_02]: I'm sure he'll be fine.
+[SPEAKER_03]: In that case, how do you suggest we keep ourselves busy?
+[SPEAKER_03]: It is fun watching this candle burn, but I can only do this for so long.
+[SPEAKER_01]: So, question for you, Dane.
+[SPEAKER_01]: Do you want to run this at the table, or do you want to handle it later?
+[SPEAKER_01]: What Elhor is up to.
+[SPEAKER_01]: Later.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: We will do that in a bit.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: I guess at some point I'll make everyone hop off and we'll handle that.
+[SPEAKER_01]: Yeah, we can hop to another sidebar, the sidebar room a bit.
+[SPEAKER_01]: Yep, yep.
+[SPEAKER_02]: Why don't we, if you're so concerned, why don't we go visit some of our neighbors and see what's been going on lately?
+[SPEAKER_02]: Maybe somebody saw him.
+[SPEAKER_03]: Anybody have a better idea?
+[SPEAKER_03]: Who's going to stay and watch the candle?
+[SPEAKER_01]: Davey will.
+[SPEAKER_01]: The children with the weapons.
+[SPEAKER_01]: It really does not need babysitting.
+[SPEAKER_01]: You light it, and you come back and relight it later.
+[SPEAKER_01]: But if you want to stay and watch Candle, you totally can.
+[SPEAKER_01]: Davey would know this, right?
+[SPEAKER_01]: Davey.
+[SPEAKER_05]: OK, yeah.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: You've been initiated a little bit.
+[SPEAKER_01]: Give the kids weapons, but we got to worry about that candle.
+[SPEAKER_03]: Candle could burn the whole place down.
+[SPEAKER_01]: Sure, but also, candles can't swing weapons, so it's not safe.
+[SPEAKER_03]: I mean, most likely a weapon would knock the candle on the ground.
+[SPEAKER_02]: I want to head over to Steam and Steel.
+[SPEAKER_02]: Steam and Steel.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Our forge neighbor.
+[SPEAKER_01]: Uh-huh.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Have we met the folks at Steam and Steel yet?
+[SPEAKER_02]: I don't remember.
+[SPEAKER_01]: That's what I'm looking up right now.
+[SPEAKER_02]: I don't think we have.
+[SPEAKER_02]: I went to the book guy.
+[SPEAKER_02]: We went to Fern's.
+[SPEAKER_02]: I went to the Tiger's Eye.
+[SPEAKER_02]: The herbalist person came by our place and
+[SPEAKER_01]: Elior visited Thala at their place, too.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: The bent nail guy came over to the shop.
+[SPEAKER_02]: So, yeah.
+[SPEAKER_02]: Stephen Steel's the only place we haven't been yet.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Perfect.
+[SPEAKER_01]: Let me... Oh, no.
+[SPEAKER_02]: I've got some weapons I need to trade in.
+[SPEAKER_01]: That's true.
+[SPEAKER_01]: Oh, let me switch from night music first.
+[SPEAKER_02]: I'm going to ask one of the kids to go up and get Jonathan, see if any of his armor needs any work while we're going over there.
+[SPEAKER_02]: Invite him along.
+[SPEAKER_01]: Jonathan, do you hear scamper, scamper, scamper?
+[SPEAKER_01]: Knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock, knock.
+[SPEAKER_01]: knock knock knock knock knock knock knock knock it just keeps going i'm gonna stand up walk up to the door and say hello oh hey uh oh i was i don't remember all the dean said come up here yeah
+[SPEAKER_01]: And he turns around and runs off.
+[SPEAKER_04]: Fair enough.
+[SPEAKER_04]: And I will...
+[SPEAKER_04]: Walk on down.
+[SPEAKER_04]: Become apprised to the situation.
+[SPEAKER_04]: What seems to be going on?
+[SPEAKER_02]: Elior seems to have gone missing, but I'm sure it'll be fine.
+[SPEAKER_02]: We're gonna head over to the forge around the corner and see if they've seen him slash.
+[SPEAKER_02]: See if we can trade up some of these weapons that I've been collecting.
+[SPEAKER_02]: Wanted to see if you had anything that you needed fixed up while we were over there.
+[SPEAKER_04]: Oh...
+[SPEAKER_04]: Nothing at the moment, but I'm happy to tag along.
+[SPEAKER_02]: Excellent.
+[SPEAKER_02]: Come on, kids, let's go.
+[SPEAKER_02]: Maybe they'll have some spare armor sitting around for you all.
+[SPEAKER_02]: Feel like you're going to stab each other one of these days.
+[SPEAKER_01]: They all hop up and like ducklings in a line form up behind you.
+[SPEAKER_01]: Okay, so steam and steel.
+[SPEAKER_01]: So as you approach, smoke and steam just kind of billow from all the windows of the building because the forge is actually inside.
+[SPEAKER_01]: It's surprisingly quiet for a forge.
+[SPEAKER_01]: You can hear
+[SPEAKER_01]: the sounds of bellows and hammers inside as you get close, but a few feet away, you can't really hear the sounds of it, which is actually pretty impressive, because normally a forge would be extremely loud.
+[SPEAKER_01]: They're also usually open air.
+[SPEAKER_01]: Let's see, I don't...
+[SPEAKER_01]: Sorry, I've been looking for my Trollskull Alley map.
+[SPEAKER_01]: And I cannot find it.
+[SPEAKER_02]: There's one in handouts.
+[SPEAKER_02]: But it's not...
+[SPEAKER_02]: It's only labeled with, like...
+[SPEAKER_01]: I need my map.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: There it is.
+[SPEAKER_01]: Okay, cool.
+[SPEAKER_01]: So...
+[SPEAKER_01]: I will... Oh, no.
+[SPEAKER_01]: I got logged out.
+[SPEAKER_01]: Are you guys... Yeah, I'm still logged in.
+[SPEAKER_01]: Ah!
+[SPEAKER_01]: I have...
+[SPEAKER_01]: two foundry windows open.
+[SPEAKER_01]: That's what was going on.
+[SPEAKER_01]: Okay, I am not logged out.
+[SPEAKER_02]: Troll skull alley.
+[SPEAKER_01]: So...
+[SPEAKER_01]: This here is the forge building.
+[SPEAKER_01]: If you want to check it out.
+[SPEAKER_01]: I can't tell if it's marked on your map, but it's marked T3 on mine.
+[SPEAKER_01]: So, from the alley side as you approach, you hear the banging and clanging from inside.
+[SPEAKER_01]: Uh, the
+[SPEAKER_01]: door is not like wide open it's just ajar a little bit and you get little wisps of smoke and steam also coming out from the slightly opened door yeah give it a couple of hard knocks uh
+[SPEAKER_01]: No response.
+[SPEAKER_01]: No one can hear anything over the sounds of bellows and hammer on steel from inside.
+[SPEAKER_01]: But through the crack, you can see at least two people in there hard at work.
+[SPEAKER_02]: Yes, they must be pretty busy.
+[SPEAKER_02]: Let's go in and see what they're up to.
+[SPEAKER_02]: Just kind of push the door open and take a peek in.
+[SPEAKER_01]: So as you enter, you can tell it is only two individuals.
+[SPEAKER_01]: One man is at an anvil, swinging a hammer at what looks like is going to be an absolutely enormous sword when it's done.
+[SPEAKER_01]: But the metal is still glowing hot, and it's just in vaguely sword shape as it is.
+[SPEAKER_01]: What's interesting is every time he swings the sparks and a gout of flame kind of come off of the weapon and the hammer and the handle and his arm up to the shoulder.
+[SPEAKER_01]: Like every time he strikes his whole arm from the shoulder down is briefly wreathed in fire.
+[SPEAKER_01]: Uh,
+[SPEAKER_01]: He's kind of got his back to you right now, so you can't see his face.
+[SPEAKER_01]: Um, but you can tell he's got dark skin and what looks like insanely bright orange hair.
+[SPEAKER_01]: The other guy, uh, is currently working, stoking the forge itself.
+[SPEAKER_01]: Uh, there appears to be a giant shield inside.
+[SPEAKER_01]: Um, either tempering or melting down, you can't tell.
+[SPEAKER_01]: Uh,
+[SPEAKER_01]: And this person you can see pretty plainly.
+[SPEAKER_01]: He's kind of got a vague bluish cast to his skin.
+[SPEAKER_01]: And you can see what looks like little swirls.
+[SPEAKER_01]: Almost like he's a glass of water being sloshed every time he moves.
+[SPEAKER_01]: Let's see, what...
+[SPEAKER_01]: Everybody in the Forge roll either an Arcana, a Nature, or a History check, whatever's highest.
+[SPEAKER_04]: Nature or what was it again?
+[SPEAKER_01]: Arcana, Nature, or History.
+[SPEAKER_04]: They're all the same.
+[SPEAKER_04]: Hell yeah, I have one that's not shit.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Doesn't matter.
+[SPEAKER_01]: Davey got it.
+[SPEAKER_01]: OK.
+[SPEAKER_01]: Most interestingly is the only one who does not recognize what they are is Brothul, which I guess might make sense.
+[SPEAKER_01]: These are two Genasi, right?
+[SPEAKER_01]: They're a fire genasi.
+[SPEAKER_01]: Been in hiding, you know.
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: Genasi aren't fey, I don't think.
+[SPEAKER_01]: Are they?
+[SPEAKER_01]: I don't think they are.
+[SPEAKER_01]: I don't think so.
+[SPEAKER_01]: They're a different kind of semi-supernatural, right?
+[SPEAKER_01]: They're the descendants of djinns.
+[SPEAKER_01]: The blue one is very obviously a water genasi.
+[SPEAKER_01]: And the dark-skinned one is probably a fire genasi, because he keeps lighting up every time he strikes the hammer.
+[SPEAKER_01]: They're just...
+[SPEAKER_01]: They have not seen you.
+[SPEAKER_01]: They are just working.
+[SPEAKER_01]: Hello, neighbors.
+[SPEAKER_01]: As soon as you speak, the hammering stops.
+[SPEAKER_01]: And they turn around.
+[SPEAKER_01]: Ah!
+[SPEAKER_01]: The new neighbors!
+[SPEAKER_01]: The owners!
+[SPEAKER_01]: The... Oh, man.
+[SPEAKER_01]: I knew the name of the place.
+[SPEAKER_02]: Oh, well.
+[SPEAKER_01]: No, that's the alley.
+[SPEAKER_01]: I think the manor is something else.
+[SPEAKER_01]: Are you going to call it that, though?
+[SPEAKER_01]: That's a good name.
+[SPEAKER_01]: People will know where you're at.
+[SPEAKER_01]: That's the plan.
+[SPEAKER_00]: It's a good pick.
+[SPEAKER_01]: I like that.
+[SPEAKER_01]: Questions if you've got them.
+[SPEAKER_01]: Uh, hmm.
+[SPEAKER_01]: The stiff drink.
+[SPEAKER_01]: Plain, simple.
+[SPEAKER_01]: Truth in advertising.
+[SPEAKER_01]: I like it.
+[SPEAKER_01]: Kids, add it to the list.
+[SPEAKER_01]: Uh, Nat kind of like rolls her eyes and pretends like she's writing in air.
+Ha ha ha.
+[SPEAKER_01]: Well, what brings you to the forge?
+[SPEAKER_01]: Welcome to Steam and Steel.
+[SPEAKER_01]: What can I help you gentlemen with?
+[SPEAKER_01]: I know you three.
+[SPEAKER_01]: And he points to the kids.
+[SPEAKER_01]: I've chased you out of here before.
+[SPEAKER_01]: Haven't I?
+[SPEAKER_01]: Uh, Nat gets her, like, most innocent look on her face with big eyes and, like, shrugs.
+[SPEAKER_01]: Uh,
+[SPEAKER_01]: jinx is like kind of like hiding his face and squidly is like yeah yep you you've chased us out a couple times but we're back all right yeah are you uh are you watching these guys i don't i don't like kids running loose in here they'll behave themselves and i look at them
+[SPEAKER_01]: Nat still has her super innocent expression on.
+[SPEAKER_01]: Jinx is nodding, like, very emphatically.
+[SPEAKER_01]: And Squidly's like, maybe.
+[SPEAKER_01]: Well, sorry.
+[SPEAKER_01]: Introductions are in order.
+[SPEAKER_01]: I'm Embrick, the weaponsmith at this place.
+[SPEAKER_01]: My fine husband is Avi.
+[SPEAKER_01]: Avi says, hello.
+[SPEAKER_01]: Avi is our armorsmith.
+[SPEAKER_01]: Just the two of us here today.
+[SPEAKER_01]: Sometimes we have a third who comes to help, but haven't seen him in a while.
+[SPEAKER_01]: He works when he can.
+[SPEAKER_01]: We pay him when he does.
+[SPEAKER_01]: Ah, so you've got a missing compatriot as well.
+[SPEAKER_01]: Not missing.
+[SPEAKER_01]: It's like freelance work.
+[SPEAKER_01]: When he's got time, he helps us out.
+[SPEAKER_01]: We always have stuff for him to do.
+[SPEAKER_01]: Gotcha, gotcha.
+[SPEAKER_01]: He'll probably be at your tavern often enough.
+[SPEAKER_02]: We're rushing to open as fast as we can.
+[SPEAKER_02]: Right, Jonathan?
+[SPEAKER_02]: Don't you know it.
+[SPEAKER_02]: So, when is the big day?
+[SPEAKER_02]: Still working on figuring that one out.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I look forward to when we can leave a hard day's work at the hot forge and cool off with a real drink.
+[SPEAKER_01]: A real drink.
+[SPEAKER_01]: And he, like, looks the direction of Froon's bruise, like, through the wall.
+[SPEAKER_02]: Well, our selection's a little limited right now, but feel free to come by anytime and we'll pour you what we've got.
+[SPEAKER_02]: Thanks.
+[SPEAKER_02]: I'll do that.
+[SPEAKER_02]: You haven't happened to see one of our other compatriots around, have you?
+[SPEAKER_02]: His name is Elior.
+[SPEAKER_02]: Seems to be missing this morning.
+[SPEAKER_01]: No.
+[SPEAKER_01]: I mean, we've been at the forge since before sunup.
+[SPEAKER_01]: You're the first people we've seen today.
+[SPEAKER_02]: Working hard for those dragons, I see.
+[SPEAKER_01]: Avi's like, yeah, sure.
+[SPEAKER_01]: I'd probably be doing this even if they didn't pay me.
+[SPEAKER_01]: Imbrick is shaking his head like, nah, nope.
+[SPEAKER_01]: I get paid.
+[SPEAKER_02]: Well, we've picked up a couple of souvenirs lately.
+[SPEAKER_02]: Yeah?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Don't think they're worth anything, but wouldn't mind getting some upgrades.
+[SPEAKER_02]: Wanted to see what you might have available.
+[SPEAKER_01]: Oh, well.
+[SPEAKER_01]: Let's take a look at what you got, and then I can show you what we have ready to go.
+[SPEAKER_01]: We do special orders as well.
+[SPEAKER_01]: Basically, these guys have any of the metal weapons, armor, and shields in the player's handbook.
+[SPEAKER_01]: Um...
+[SPEAKER_01]: bitch i have the link throw this up in handouts it's it's basically anything you could want that is from the kind of basic gear
+[SPEAKER_01]: So swords, daggers, spears, a lance if anyone wants to get on horseback.
+[SPEAKER_01]: He says, I'll let you look that over, but let me see what you've got.
+[SPEAKER_01]: You looking to maybe offload some of it or repair some of it?
+[SPEAKER_01]: What do you need?
+[SPEAKER_01]: Yeah, I've got this spear that I don't really need.
+[SPEAKER_02]: and wouldn't mind upgrading some of these daggers to something a little bit higher quality.
+[SPEAKER_01]: Upgrade, like, trade in for something, or you want me to do some work on them?
+[SPEAKER_01]: Probably trade in, I'd think.
+[SPEAKER_01]: Looking over his selection of knives, daggers, punch daggers, etc., there's nothing really that stands out that's going to be any better, like, in terms of quality than what you have there.
+[SPEAKER_01]: Like,
+[SPEAKER_01]: Nothing in here rises to the level of masterwork or anything like that, and definitely none of them are enchanted.
+[SPEAKER_02]: Do they have any...
+[SPEAKER_02]: I've got leather armor now.
+[SPEAKER_02]: Can I wear heavier armor?
+[SPEAKER_02]: I don't even know what that would do for me.
+[SPEAKER_01]: So, check your proficiencies.
+[SPEAKER_01]: I don't remember off the top of my head what
+[SPEAKER_01]: bard proficiencies are let me pull up your character sheet light armor only I guess I do believe as a bard you are light armor only you have leather so I think the top armor you can get in light is usually studded leather or perhaps I think
+[SPEAKER_01]: No, change shirt is medium.
+[SPEAKER_01]: Hide is medium.
+[SPEAKER_01]: Yeah, so you could upgrade from leather to studded leather, which is an extra 1 AC.
+[SPEAKER_01]: There is no penalty for wearing it.
+[SPEAKER_01]: It's just better armor plus 1 AC.
+[SPEAKER_01]: Does he have any?
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: Yeah, yeah.
+[SPEAKER_01]: Like I said, anything listed on that sheet that I posted.
+[SPEAKER_02]: Okay, I'll just use all my gold.
+Okay.
+[SPEAKER_01]: I mean, all this stuff is listed at price too.
+[SPEAKER_01]: Like they have little hanging tags.
+[SPEAKER_01]: Like he's gone through and put a price tag on everything.
+[SPEAKER_02]: Do you have any...
+[SPEAKER_01]: Just, like, training shields?
+[SPEAKER_01]: Training shields?
+[SPEAKER_01]: I mean, a shield is a shield is a shield if you're using it in training.
+[SPEAKER_01]: Or, this is Avi, by the way.
+[SPEAKER_01]: Avi will dive deep at this point into, like, the theory of shield craft.
+[SPEAKER_01]: I just need some kids to... Yeah, so, I mean...
+[SPEAKER_01]: A shield will protect you if it's for the real thing or if it's for training.
+[SPEAKER_01]: You don't want anything different.
+[SPEAKER_01]: You don't want something that's lighter.
+[SPEAKER_01]: You want to practice with the same weight you're going to use.
+[SPEAKER_01]: As they're kids, I'd start them out with a buckler.
+[SPEAKER_01]: A buckler is a small shield that kind of fits on your hand.
+[SPEAKER_01]: It's basically attached.
+[SPEAKER_01]: It's more used in like, rather than something to hide behind, it's a more active type
+[SPEAKER_01]: Defense, you parry with it, essentially.
+[SPEAKER_01]: They're about this big around.
+[SPEAKER_01]: And I do believe, I didn't look through the sheet, bucklers should be on here.
+[SPEAKER_01]: Oh, they just list shield.
+[SPEAKER_01]: But yes, he would have a buckler.
+[SPEAKER_01]: Which should have the same stats as a shield.
+[SPEAKER_01]: I don't think D&D differentiates.
+[SPEAKER_01]: I think other than very large shields, a shield is a shield.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: I'm not going to spend 130.
+[SPEAKER_02]: That's a lot of gold.
+[SPEAKER_01]: I mean, it's finely crafted, right?
+[SPEAKER_01]: It's got a nice embossed center.
+[SPEAKER_02]: I'm looking at it for the kids, not me.
+[SPEAKER_01]: Yeah, yeah.
+[SPEAKER_01]: Yeah, I know.
+[SPEAKER_01]: We can get you a wooden shield.
+[SPEAKER_01]: It's going to be a lot bigger than that.
+[SPEAKER_01]: It's going to be a lot heavier than that.
+[SPEAKER_01]: A wooden shield is also going to be 10 gold.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: I'll come back for those, I think.
+[SPEAKER_01]: Suit yourself.
+[SPEAKER_01]: Can I tell you this spear?
+[SPEAKER_01]: Let me take a look.
+[SPEAKER_01]: And Avi takes it and, like, without even looking, hands it to Embrick, who's, like, checking the deflection of it.
+[SPEAKER_01]: Check the edge.
+[SPEAKER_01]: It's...
+[SPEAKER_01]: fine work probably could be better I'd probably I'd probably take the head off keep the shaft melt this down and make something a little more stable out of it says I can I can probably use this yeah where's the spear listing it's simple right it's like
+[SPEAKER_01]: I need before silver for it.
+[SPEAKER_02]: Oh, silver pieces.
+[SPEAKER_02]: Yep, sure.
+[SPEAKER_02]: All right, you got it.
+[SPEAKER_02]: You can hold on to the silver, though.
+[SPEAKER_02]: I'll add it to my tab.
+[SPEAKER_02]: I'll bring you back some more.
+[SPEAKER_01]: Yeah, all right.
+[SPEAKER_01]: Hey, Avi.
+[SPEAKER_01]: Start these guys up an account.
+[SPEAKER_01]: Yeah, all right.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: What'd you say you were calling your place?
+[SPEAKER_01]: Trollskull Drink?
+[SPEAKER_01]: What was it?
+[SPEAKER_01]: Trollskull Manor.
+[SPEAKER_01]: Trollskull Manor.
+[SPEAKER_01]: It's a great name.
+[SPEAKER_01]: Someone should have thought of that before.
+[SPEAKER_01]: Jonathan, you got anything you're trying to offload?
+[SPEAKER_04]: At the moment, no.
+[SPEAKER_04]: No, I'm pretty pleased with where my inventory is at.
+[SPEAKER_01]: Was that all you had that you wanted to get rid of?
+[SPEAKER_01]: I thought you had other stuff.
+[SPEAKER_02]: No, because I gave Jonathan the martial something.
+[SPEAKER_02]: Oh, yes.
+[SPEAKER_02]: The crossbow.
+[SPEAKER_02]: And then I picked up this spear and then an extra dagger, but I want to keep it because I can two-hand.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: I get in trouble.
+[SPEAKER_02]: So, yeah, I'm just offloading the spear.
+[SPEAKER_01]: Alright, well, we'll keep an account for you, but in about an hour, this won't be a spear anymore, so don't come looking for it.
+[SPEAKER_02]: Nah, I need to get some studded leather.
+[SPEAKER_02]: I'll be back.
+[SPEAKER_01]: Okay, okay.
+[SPEAKER_01]: We can definitely do that.
+[SPEAKER_01]: Avi, like, pulls down a
+[SPEAKER_01]: a crate on a shelf to show you the studs that they've handcrafted to...
+[SPEAKER_01]: They're like little...
+[SPEAKER_01]: They look kind of like square buttons.
+[SPEAKER_01]: And they get pressed into a set of leather armor all over.
+[SPEAKER_01]: So look at these beauties.
+[SPEAKER_01]: I spent two days hammering out this box.
+[SPEAKER_01]: Looks very nice.
+[SPEAKER_01]: Nothing will protect you like this.
+[SPEAKER_01]: And he immediately dives into yet another diatribe on armor craft.
+[SPEAKER_01]: You can tell that Avi is...
+[SPEAKER_01]: He's a dig it.
+[SPEAKER_01]: Like, he digs it.
+[SPEAKER_01]: He's way into his work.
+[SPEAKER_01]: Imbric... Not so much.
+[SPEAKER_01]: Well, is there anything else we can help you guys with?
+[SPEAKER_01]: Nah, just...
+[SPEAKER_02]: If you see a wizard-looking dude hanging around...
+[SPEAKER_02]: Named Elior.
+[SPEAKER_02]: Tell him we're looking for him.
+[SPEAKER_01]: Oh, your wayward member.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: How many of them are you?
+[SPEAKER_01]: One, two, three, four.
+[SPEAKER_01]: Three little ones.
+[SPEAKER_01]: All right.
+[SPEAKER_02]: We've got another one.
+[SPEAKER_02]: Our friend Berthoul.
+[SPEAKER_02]: You may have seen him looking around here.
+[SPEAKER_02]: Can't miss him.
+[SPEAKER_01]: The lanky looking fella.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: It's not too often you see a bugbear outside of the Xanth.
+[SPEAKER_02]: Yeah, we're an eclectic bunch, I think.
+[SPEAKER_02]: And a fancy one.
+[SPEAKER_01]: That's fair.
+[SPEAKER_02]: Davy, you've been quiet.
+[SPEAKER_02]: Need to pick up any more ninja stars or anything?
+[SPEAKER_05]: I think from a role-playing perspective, I'm probably with the candle.
+[SPEAKER_02]: Oh, okay.
+[SPEAKER_05]: This puppy's being a fucking nightmare right now.
+[SPEAKER_01]: Aw, that's fair.
+[SPEAKER_01]: Alright, well, we got work to do.
+[SPEAKER_01]: We're gonna get back to it.
+[SPEAKER_01]: But, uh, come back and visit.
+[SPEAKER_01]: We'll, uh, we'll stop by for a drink sometime.
+[SPEAKER_01]: Please do.
+[SPEAKER_01]: And with that, the hammers start swinging again.
+[SPEAKER_01]: Avi's restoking the floors that had started to quiet when you guys started talking.
+[SPEAKER_01]: And soon enough, the smoke and steam is billowing away.
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: Nevertheless, okay...
+[SPEAKER_01]: Can we go to the Bent Nail next real quick?
+[SPEAKER_01]: The Bent Nail, yes.
+[SPEAKER_01]: You've already met Tally.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Tally Felbranch.
+[SPEAKER_01]: He was the half-elf that was hanging out.
+[SPEAKER_01]: Actually, he came with Fala and saw you in the manor right after you came back from fighting on the docks covered in Eldritch Ick.
+[SPEAKER_01]: uh yeah so uh you you approach the shop and it's uh the sign outside the shop is great right it's a wooden sign on the door with there's no like paint or words on it at all there's just a very large nail driven into the sign and bent at an upward angle now kind of knock and enter tally my boy are you home uh
+[SPEAKER_01]: Talit, you can hear in the back the sounds of woodworking.
+[SPEAKER_01]: He says, I'll be out in a minute.
+[SPEAKER_01]: So the front room you walk into is it's like almost like walking into a furniture store, right?
+[SPEAKER_01]: Where everything is all laid out.
+[SPEAKER_01]: It almost feels like a home, but it's not.
+[SPEAKER_01]: It's designed to showcase all the furniture and stuff.
+[SPEAKER_01]: So it's just
+[SPEAKER_01]: displays of ornate wooden furniture.
+[SPEAKER_01]: Uh, hanging on the walls, there are some, some bows and crossbows.
+[SPEAKER_01]: Uh, there's a kind of a front counter and the wall behind it is, uh, lined with rows of finely carved wooden canes, quarterstaffs, shields, things like that.
+[SPEAKER_01]: Um,
+[SPEAKER_01]: Tally comes out pretty well covered in like sawdust.
+[SPEAKER_01]: He's like shaking it, brushing it off himself as he comes out.
+[SPEAKER_01]: He says, oh, it's the Manor Boys.
+[SPEAKER_01]: How's business been lately, my friend?
+[SPEAKER_01]: Oh, you know, slow, steady.
+[SPEAKER_01]: I appreciate good business.
+[SPEAKER_01]: You looking to maybe replace some chairs and tables?
+[SPEAKER_02]: As soon as we get the funds to pay you, I think so.
+[SPEAKER_02]: Okay, okay.
+[SPEAKER_02]: But today, I wanted to say you had some scraps laying around that you might be able to fashion some light shields for our little security force here.
+[SPEAKER_02]: And I gesture to the kids.
+[SPEAKER_01]: Light shields?
+[SPEAKER_01]: Of scrap?
+[SPEAKER_01]: I mean, I have
+[SPEAKER_01]: He points behind him.
+[SPEAKER_01]: I have shield shields.
+[SPEAKER_02]: I need something a little cheap right now, just to keep these guys from pricking each other.
+[SPEAKER_01]: Well, I mean, I'll see what I can do, but anything, any plank of a good size like that isn't really scrap.
+[SPEAKER_02]: Just some tiny bucklers made of wood, I think, but...
+[SPEAKER_02]: What can you do for, like, ten gold?
+[SPEAKER_01]: For ten gold, I can definitely get you some wooden bucklers.
+[SPEAKER_01]: How many do you need?
+[SPEAKER_01]: One for each of them.
+[SPEAKER_01]: One for each of you guys.
+[SPEAKER_01]: Well, it looks like, children, you have found somebody willing to look after you.
+[SPEAKER_01]: Huh.
+[SPEAKER_02]: I didn't think that day would come.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I mean, I'm working on a commission piece right now.
+[SPEAKER_01]: It's a beautiful table.
+[SPEAKER_01]: One of the gents down in the castle ward got a new dining room set.
+[SPEAKER_01]: He wants me to finish up.
+[SPEAKER_01]: Hand carved.
+[SPEAKER_01]: Beautiful piece.
+[SPEAKER_01]: I'll show it to you before I ship it off.
+[SPEAKER_01]: Uh,
+[SPEAKER_01]: Let me finish up on that.
+[SPEAKER_01]: Come see me tomorrow.
+[SPEAKER_01]: I'll have some bucklers for you.
+[SPEAKER_01]: No rush whenever you get to it.
+[SPEAKER_01]: You got it.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: So, if it comes to this, right, if the kids are ever fighting, any sort of wooden buckler that you make for this is going to be like a no bonus, like a
+[SPEAKER_01]: No penalty, but no bonus.
+[SPEAKER_02]: It's going to be purely decorative.
+[SPEAKER_02]: As a table.
+[SPEAKER_02]: Yeah, okay.
+[SPEAKER_02]: I'm just trying to get them to learn some basic skills.
+[SPEAKER_01]: As you do with children by just setting them loose with weapons.
+[SPEAKER_01]: They'll pick it up.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: I'll have something tomorrow.
+[SPEAKER_01]: Is that what you were coming over for?
+[SPEAKER_01]: Do you have anything in particular?
+[SPEAKER_02]: No.
+[SPEAKER_02]: I just wanted to check out your...
+[SPEAKER_02]: bows, your short bows, to see if you had anything nice?
+[SPEAKER_02]: Sure.
+[SPEAKER_01]: You thinking like a laminate?
+[SPEAKER_01]: I got a few exotic wood pieces.
+[SPEAKER_01]: They have a pretty good stretch.
+[SPEAKER_01]: Mostly they just look better than the other ones.
+[SPEAKER_01]: Short bow is simple weapon, right?
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Give me a perception check.
+[SPEAKER_01]: Super easy DC.
+[SPEAKER_01]: Okay, not that easy.
+[SPEAKER_01]: Yeah, I mean, they're...
+[SPEAKER_01]: Hold on.
+[SPEAKER_01]: What's that?
+[SPEAKER_01]: I want to use one of my luck.
+[SPEAKER_01]: Oh, sure, if you want.
+[SPEAKER_01]: Mark it off.
+[SPEAKER_01]: There it is.
+[SPEAKER_01]: You see the hanging tags that also have prices on them?
+[SPEAKER_01]: They are exactly the same.
+[SPEAKER_01]: Like, the same kind of scalloped cutout shape, and even possibly the same handwriting as was hanging in the other shop.
+[SPEAKER_01]: Like, it appears, at least between the two shops so far, that price tags are standardized.
+[SPEAKER_01]: Did you make these bows yourself?
+[SPEAKER_01]: The bows?
+[SPEAKER_01]: Each and every one.
+[SPEAKER_01]: Even the horn laminate.
+[SPEAKER_01]: I don't normally work with, like, animal product.
+[SPEAKER_01]: Some leather here and there, but working with horn is a lot different than working with wood, let me tell you.
+[SPEAKER_01]: He points up to a little short, like, recurve that's clearly been made out of some sort of horn or antler.
+[SPEAKER_02]: Hmm.
+[SPEAKER_02]: What are the price tags?
+[SPEAKER_01]: Are you asking him?
+[SPEAKER_02]: I can't see.
+[SPEAKER_02]: I'm going to read some of the price tags.
+[SPEAKER_01]: What are they asking for?
+[SPEAKER_01]: I mean, bows are 25 gold.
+[SPEAKER_01]: Crossbows are also... A light crossbow is 25 gold.
+[SPEAKER_01]: When you get out of the simple, the short bow, and the light crossbow, heavier crossbows and long bows are like 50.
+[SPEAKER_01]: Hand crossbows, which are pretty cool, but also martial weapons.
+[SPEAKER_01]: They're listed for 75 dragon.
+[SPEAKER_01]: I don't think they have anything beyond that.
+[SPEAKER_01]: I don't think there's any exotics.
+[SPEAKER_01]: I'm looking on the page.
+[SPEAKER_01]: Nope.
+[SPEAKER_01]: It looks like shields are ten apiece for the most part.
+[SPEAKER_01]: They're all wood.
+[SPEAKER_01]: It looks like the wood shields have a metal banding, like a metal frame, but they're all just like plank shields.
+[SPEAKER_01]: Some round, some in the more traditional... Not chevron.
+[SPEAKER_01]: What is that shape?
+[SPEAKER_01]: Whatever.
+[SPEAKER_01]: Shield shape.
+[SPEAKER_02]: Pentagon.
+[SPEAKER_02]: Pentagon.
+[SPEAKER_02]: Now the flat on top comes to a point.
+[SPEAKER_02]: Where the heck do I mark my luck?
+[SPEAKER_01]: I can't even see it.
+[SPEAKER_01]: On Foundry?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Oh, that's a good question.
+[SPEAKER_01]: I know where it is in D&D Beyond.
+[SPEAKER_01]: Look through all the tabs.
+[SPEAKER_01]: I don't see it.
+[SPEAKER_01]: It's probably under features.
+[SPEAKER_01]: Yeah, Lucky says uses.
+[SPEAKER_01]: Two of two.
+[SPEAKER_01]: At the very bottom on features.
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: By the way, everyone...
+[SPEAKER_01]: I don't think it matters because there was no combat yesterday, but everyone should have had a long rest if you have not restored all your stuff.
+[SPEAKER_02]: We don't happen to have any...
+[SPEAKER_01]: neighborhood friendly neighborhood discounts do you uh guild prices man i don't i don't really get to choose ah all right otherwise i'd love to you know they don't mind if we barter so long as the value is the same
+[SPEAKER_01]: And they get their cut, obviously.
+[SPEAKER_02]: I'll keep that in mind.
+[SPEAKER_02]: I'm known to procure things from time to time.
+[SPEAKER_01]: I am known to drink things from time to time, if you catch my drift.
+[SPEAKER_02]: I think we'll be fine friends once we get our shop open.
+[SPEAKER_01]: Speaking of, when are you all going to do that?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: You know what?
+[SPEAKER_02]: I want to go back to the tavern.
+[SPEAKER_02]: Well, thanks for the reminder.
+[SPEAKER_02]: We'll give you a shout when we do that.
+[SPEAKER_02]: Looking forward to it.
+[SPEAKER_02]: And rally the troops and go see that banker dude that we've been introduced to.
+[SPEAKER_01]: The banker?
+[SPEAKER_01]: Oh, um, the noble.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Uh,
+[SPEAKER_01]: Before we do that, guys, I'm going to hop over into a sidebar.
+[SPEAKER_01]: Dane, join me there.
+[SPEAKER_02]: Okay, get more water.
+[SPEAKER_02]: What's the little puppy doing?
+[SPEAKER_02]: Just whining?
+[SPEAKER_02]: Ha ha ha ha ha.
+[SPEAKER_01]: that's okay okay i don't i don't even know what it what that means but or how it has to do with any of it right that's uh okay i guess there's two lips
+[SPEAKER_01]: always is i hate the medieval uh let's see i was trying to um but we can resolve it super quick i just want to go and figure out how to exercise ghosts from this guy yeah uh i don't even remember the guy's name um but actually but it smelled well so when you when you go back to the to the plinth um
+[SPEAKER_01]: there is still a vague fish smell at uh at kalimbor stall um but it's it's not uh it's not the same guy right it looks like he said he'd been there for a few years and he seemed like he'd been stuck there but it seems like possibly that they have a group of people who rotate through here
+[SPEAKER_01]: But yeah, so it's a kind of tall, very solemn-looking fellow.
+[SPEAKER_01]: They don't do the monastic shaved head, but he looks like the kind of guy who would have one if he could.
+[SPEAKER_01]: All right, well, Elior is going to go up to him and just basically say, Hey, you know, I was talking with your associate.
+[SPEAKER_01]: Gave him a fish.
+[SPEAKER_01]: That donation was me.
+[SPEAKER_01]: Oh, no.
+[SPEAKER_01]: Kelimvor thanks you for the fish.
+[SPEAKER_01]: Yeah, and you see, I'm needing some help.
+[SPEAKER_01]: There's some undead I think need to move on that are hanging around in my new manor.
+[SPEAKER_01]: You need an exorcism.
+[SPEAKER_01]: I do.
+[SPEAKER_01]: Oh, you are in the right place.
+[SPEAKER_01]: Uh, let's see.
+[SPEAKER_01]: I had all this stuff, too.
+[SPEAKER_01]: So tell me more about this manor and about this ghost.
+[SPEAKER_01]: Well, it's Trollskull Manor.
+[SPEAKER_01]: I don't know much about the ghosts other than they seem pretty jovial and tend to pull little pranks like pulling a chair out or moving things slightly or messing with a mug, a tavern mug.
+[SPEAKER_01]: see.
+[SPEAKER_01]: This sounds like a poltergeist.
+[SPEAKER_01]: Mm-hmm.
+[SPEAKER_01]: That seems about right.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, we can definitely do something about it.
+[SPEAKER_01]: Do you...
+[SPEAKER_01]: I'm not familiar with troll school.
+[SPEAKER_01]: I don't make it to the north side of town too often.
+[SPEAKER_01]: Do you know
+[SPEAKER_01]: how long it has been haunted?
+[SPEAKER_01]: I ask because typically the longer a spirit or a poltergeist can remain in a place, remain attached to a place, the stronger they tend to grow.
+[SPEAKER_01]: Well, I imagine a while.
+[SPEAKER_01]: All I know is that the last person who had it for just a spell...
+[SPEAKER_01]: maybe a few years, was an author who wanted to be there strictly for the Poltergeist.
+[SPEAKER_01]: So, I mean, I'd imagine longer than that.
+[SPEAKER_01]: There's also another caveat, which is other roommates, more or less, have decided they want to try to convene and talk with them, and they seem pretty immune to reason.
+[SPEAKER_01]: And I think that they should move on.
+[SPEAKER_01]: Talk, talk with the ghost.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And I was out here talking to your associate and I agree with him that that's, you know, dead things should stay dead.
+[SPEAKER_01]: As Lord Kellenvor directs.
+[SPEAKER_01]: Yes, they should.
+[SPEAKER_01]: Uh, well, we can convene exorcists, uh,
+[SPEAKER_01]: We, of course, require some sort of donation as a show of good faith to Kelimvor.
+[SPEAKER_01]: Well, what sort of donation?
+[SPEAKER_01]: Well, I suppose that is up to you and what sort of donation you feel is appropriate for the level of work.
+[SPEAKER_01]: Hmm.
+[SPEAKER_01]: The donation should reflect your devotion to the cause and to Kelimvor.
+[SPEAKER_01]: Pretty devoted.
+[SPEAKER_01]: I'm gonna pass him five gold.
+[SPEAKER_01]: He's gonna look at it.
+[SPEAKER_01]: Says, Hmm.
+[SPEAKER_01]: Not a devout man, are you?
+[SPEAKER_01]: What?
+[SPEAKER_01]: !
+[SPEAKER_01]: uh history or arcana i think no let me get a blind roll too or private gm roll yeah wait where's my don't i get plus three oh it's a six i see yeah yeah plus one plus two yeah um
+[SPEAKER_01]: nine you may not know the numbers but you know that exorcisms aren't cheap uh and like if it were something serious like like a specter or something that was like harming people then the temple would probably handle it but what you're effectively trying to do is hire exorcists to come and do this
+[SPEAKER_01]: yeah essentially I mean it's through the temple and all but like like it's gonna be you know tens to hundreds depending on how many exorcists it takes and if five is your donation then it's gonna take a while before they get around to you because they'll do every other one first
+[SPEAKER_01]: They won't say no.
+[SPEAKER_01]: You could have given them nothing and you would go on the list.
+[SPEAKER_01]: But how much you donate indicates where you land on that list.
+[SPEAKER_01]: Okay, I think...
+[SPEAKER_01]: I think I'm going to try and impress upon him the urgency of the situation in a way that basically L.A.R.
+[SPEAKER_01]: is going to say...
+[SPEAKER_01]: I don't think you understand that my friends are trying to materialize this.
+[SPEAKER_01]: It's such an affront to Kelimvor.
+[SPEAKER_01]: And while I may not be a rich man, I am devoted to the Order.
+[SPEAKER_01]: I thought you were as well.
+[SPEAKER_01]: You're saying this dressed as Elior dresses?
+[SPEAKER_01]: That you're not a rich man?
+[SPEAKER_01]: I am going to need a deception check for sure.
+[SPEAKER_01]: Okay, okay, okay.
+[SPEAKER_01]: Yeah, he could totally believe you've fallen on hard times.
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: I understand that this is something that must be handled, but you've got to understand that
+[SPEAKER_01]: There are many such cases and few exorcists.
+[SPEAKER_01]: A poltergeist is a nuisance.
+[SPEAKER_01]: Not much beyond that.
+[SPEAKER_01]: They rarely hurt people.
+[SPEAKER_01]: Do you have any sort of literature?
+[SPEAKER_01]: I mean, I consider myself a student of the magic arts.
+[SPEAKER_01]: I mean, yes, we have books, but we have books.
+[SPEAKER_01]: Uh, I can direct you to some titles, but we're a temple, not a library.
+[SPEAKER_01]: Alright, yeah, I'd appreciate that.
+[SPEAKER_01]: Uh, one moment.
+[SPEAKER_01]: And he pulls some parchment from the little, um, dais they've got set up there, and scribbles down some names.
+[SPEAKER_01]: Um, you've got, like, uh, uh, Dead and Beyond, uh,
+[SPEAKER_01]: appears to be a semi-scholarly work, um, that you, you at least recognize the author, if not the title.
+[SPEAKER_01]: Um, it would be like, uh, like if this were a physics book, this would be like a, like a Michio Kaku, right?
+[SPEAKER_01]: This would be almost, almost a pop author, but like knows his shit.
+[SPEAKER_01]: Uh, he lists another one.
+[SPEAKER_01]: Uh, it's, um, uh,
+[SPEAKER_01]: Domain of Death and other esoteric topics, which is a much denser, it has a list of names after it.
+[SPEAKER_01]: Apparently it was some sort of truly scholarly work.
+[SPEAKER_01]: You don't recognize any of the names.
+[SPEAKER_01]: And the last one on there is Volo's Guide to the Undead.
+[SPEAKER_01]: Classic.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: These are a start
+[SPEAKER_01]: And we will definitely put you on our list.
+[SPEAKER_01]: And as soon as we have an Exorcist 3, we'll send word to arrange the performance.
+[SPEAKER_01]: Well, I appreciate your help.
+[SPEAKER_01]: And hopefully the order remains intact.
+[SPEAKER_01]: And then Elior is going to go and...
+[SPEAKER_01]: try and find these books somewhere and then depending on how the timing works out for you, just return home and start perusing them.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Uh, these books, uh, you could find, uh, dead and beyond, uh, the, the talismans would have a copy of dead and beyond.
+[SPEAKER_01]: So you could go home for that.
+[SPEAKER_01]: Um,
+[SPEAKER_01]: Volo's Guide to the Undead is apparently just released, and you can find it where you find any of Volo's other things.
+[SPEAKER_01]: Ridiculously overpriced, because it has Volo's name on it.
+[SPEAKER_01]: Don't know how much you'll get out of it, but it is definitely a work of Volo Thomp Goddard.
+[SPEAKER_01]: The other one... Shit, I already forgot what I called it.
+[SPEAKER_01]: Uh, Domain of Death and other esoteric topics.
+[SPEAKER_01]: Domain of... Yep.
+[SPEAKER_01]: Domain of Death and other esoteric topics.
+[SPEAKER_01]: That is gonna be a bit of a search.
+[SPEAKER_01]: What's a... What's a good role for, like, a research, kind of?
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: History, maybe?
+[SPEAKER_01]: Yeah, like, D&D does not do this.
+[SPEAKER_01]: We're playing Daggerheart next time.
+[SPEAKER_01]: Religion, maybe?
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Take, let's see, take your pick of either religion, investigation, history.
+[SPEAKER_01]: No, I'd say religion or investigation.
+[SPEAKER_01]: Take your pick and we'll see if you can find a copy.
+[SPEAKER_01]: So close.
+[SPEAKER_01]: Oh, it's above a 10.
+[SPEAKER_01]: So yes, actually.
+[SPEAKER_01]: It turns out, deep in the archives, Talismere does have a copy of this.
+[SPEAKER_01]: So you're able to get those two books from home, which you could just borrow because they're yours.
+[SPEAKER_01]: However, Talismere archives have not bothered to pick up Volo's latest.
+[SPEAKER_01]: But you can get it at any local store for a mere fraction of its worth at 12 gold, 5 silver.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I'll do it.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Down to 38 and four silver.
+[SPEAKER_01]: All right, so you have those three books.
+[SPEAKER_01]: That was more expensive than the bucklers.
+[SPEAKER_01]: Dude, it's...
+[SPEAKER_01]: I guess books are really expensive.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: There's no printing press at this point, right?
+[SPEAKER_01]: Right.
+[SPEAKER_01]: These things are hand-copied and hand-bound.
+[SPEAKER_01]: Mage hand-copied.
+[SPEAKER_01]: Mage hand-copied, mage hand-bound.
+[SPEAKER_01]: Although, knowing the Volo Enterprises, it's probably like 30 gnomes in a sweatshop somewhere.
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: Okay, so then you're just going to kind of like head back to the manor and just like start reading like nothing happened.
+[SPEAKER_01]: Yeah, I'm going to try and find a way to exercise them on my own.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: We'll hop back into the session.
+[SPEAKER_01]: All righty, all right.
+[SPEAKER_03]: It's webpage is still up.
+[SPEAKER_03]: We used to always go there with Maggie and she could just wander around like no one gave a shit.
+[SPEAKER_01]: It's so funny.
+[SPEAKER_01]: Vern still does that with his eyes to the REM while he's sleeping and I'll just like look at him and it's so creepy.
+[SPEAKER_01]: I messed up the recording when I jumped over.
+[SPEAKER_01]: Let me figure out how to get that back.
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: All right, we're back.
+[SPEAKER_01]: So where did we leave off?
+[SPEAKER_01]: You... Oh, you left the bent nail.
+[SPEAKER_01]: Where'd the other two go?
+[SPEAKER_01]: Are they still here?
+[SPEAKER_02]: Just making food.
+[SPEAKER_01]: Yeah, I'll be ready in just a moment.
+Okay.
+[SPEAKER_01]: Do we want to take a minute real quick?
+[SPEAKER_01]: Anybody else need to like...
+[SPEAKER_01]: I could bio.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Short break.
+[SPEAKER_01]: We'll be back in like five minutes.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: You guys will never guess what we had for dinner tonight.
+[SPEAKER_01]: Pulled pork mac and cheese.
+[SPEAKER_01]: Pulled pork mac and cheese put together.
+[SPEAKER_02]: Jen got the stuff to make a smoky mac and cheese with some Gouda and smoked cheddar.
+[SPEAKER_02]: Haven't quite made it yet.
+[SPEAKER_02]: Unfortunately, I don't know.
+[SPEAKER_02]: I was like,
+[SPEAKER_02]: I gave it a couple days, but then I was like, nope, I'm finishing this pulled pork, sorry.
+[SPEAKER_01]: It works pretty well with, like, bacon, too.
+[SPEAKER_01]: Actually, in some ways, it works a lot better, because when you use a little bacon fat to start your cheese sauce, oh, so rich.
+[SPEAKER_01]: I ate it with a little homemade kimchi on top.
+[SPEAKER_01]: Ooh, nice.
+[SPEAKER_01]: Kimchi just kind of, like, cuts through the real rich.
+[SPEAKER_01]: Which I don't know if I told you, but...
+[SPEAKER_01]: Well, so after the barbecue, it finally took off and got the bubbles inside.
+[SPEAKER_01]: I didn't think it would in that fermenter, but it got there.
+[SPEAKER_01]: So we've got some full-on sparkly cabbage.
+[SPEAKER_01]: I've just about eaten that batch.
+[SPEAKER_01]: I'm ready for the next.
+[SPEAKER_01]: What is this?
+[SPEAKER_01]: Tide pools?
+[SPEAKER_02]: Oh, yeah, there's a low tide coming on Sunday.
+[SPEAKER_02]: Poor octopus.
+[SPEAKER_03]: Like a once-in-a-decade low tide, too.
+[SPEAKER_02]: Oh, really?
+[SPEAKER_02]: No, the negative 4?
+[SPEAKER_02]: No, we had a negative 4 back in April or May.
+[SPEAKER_03]: I don't know.
+[SPEAKER_03]: I mean, it's probably by zone.
+[SPEAKER_03]: But up here, it's like a negative 4, too.
+[SPEAKER_03]: And I think that the lowest we get during summer up here is normally like 3.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: But yeah, there's been some unusually lower tides lately.
+[SPEAKER_02]: So the tide pooling is really good.
+[SPEAKER_02]: So these are some of the things that we've seen.
+[SPEAKER_02]: And Jen is doing her, she completed her marine science, some of her training courses.
+[SPEAKER_02]: And so now she has to get volunteer hours going out and helping people out during, like volunteering on beaches and stuff when there's low tides.
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: So we're going out on Sunday at Fauntleroy.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Um, it's going to be definitely hot.
+[SPEAKER_02]: And like, I think where we've seen the octopus, it's a little bit better tide pooling, but in this heat, we're going to need the cover.
+[SPEAKER_02]: Then we're going to go to Fauntleroy.
+[SPEAKER_02]: There's the ferry dock.
+[SPEAKER_02]: We can give you shade.
+[SPEAKER_01]: And then try and get that guy back in the water.
+[SPEAKER_01]: Or did you just leave him there?
+[SPEAKER_01]: Uh, you're not supposed to touch him.
+[SPEAKER_01]: You're not like, Oh man, these guys were fine.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: In this heat, your high is 80.
+[SPEAKER_02]: Sorry, what?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Hey, that's 80 with, like, humidity, okay?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: I don't know if you know this, Dane, but in normal parts of the world, there's water in the air.
+[SPEAKER_01]: The high today was 108.
+[SPEAKER_03]: But it's a dry heat.
+[SPEAKER_03]: I'll be that jerk.
+[SPEAKER_03]: We might break 70 on Sunday.
+[SPEAKER_02]: How are you going to survive?
+[SPEAKER_02]: We wouldn't be surviving if we hit 90, at least down here.
+[SPEAKER_02]: You've got all those nice winds from all that water.
+[SPEAKER_01]: 90 is a walking around temperature.
+[SPEAKER_01]: 90, so I remember growing up in the desert.
+[SPEAKER_01]: I love, like, high 80s, low 90s.
+[SPEAKER_01]: That's a delicious temperature.
+[SPEAKER_01]: When you can sweat, and the sweat does something.
+[SPEAKER_01]: Right, yeah.
+[SPEAKER_01]: Out here, it gets that hot, you sweat, and it just sticks to you, and it's gross.
+[SPEAKER_01]: Yeah, look at the humidity out there.
+[SPEAKER_01]: Up here?
+[SPEAKER_04]: Up here?
+[SPEAKER_04]: not bad during the summer the winter it gets pretty humid but summertime it's 44 it's not like crazy but it's not like it's not no it's not like the swampy south but it's but it's enough to notice not i'm yeah i never noticed it once compared to new york oh dang we've got a heat advisory for hitting oh yeah
+[SPEAKER_01]: i i'm used to bother advising us anymore see i'm i'm used to idaho upper 90s triple digits for a little while in the summer but like five percent humidity always never any water in the air so the alakai swamp and on the top of mount waialeale and kawaii
+[SPEAKER_01]: It's like the wettest place on Earth is what it said, but it just depends how you measure that in rainfall.
+[SPEAKER_01]: But it is straight up like nearly 100% humidity.
+[SPEAKER_01]: And it is the weirdest place to be.
+[SPEAKER_01]: You breathe in and you feel like you're drowning.
+[SPEAKER_01]: It's really, really a wild place.
+[SPEAKER_01]: It's cool, though.
+[SPEAKER_01]: Yeah, I don't care for Mother Nature to waterboard me.
+[SPEAKER_02]: That's what I feel like when I go visit my sister in the summer in Tampa.
+[SPEAKER_02]: It's just like,
+[SPEAKER_01]: The 20 feet you gotta walk to the car from the front door, you're just pooling in sweat.
+[SPEAKER_01]: Oh, shit.
+[SPEAKER_01]: Hannah's got those Korean noodles.
+[SPEAKER_01]: Ah, they're good.
+[SPEAKER_01]: They hurt my stomach, though.
+[SPEAKER_01]: Oh, what?
+[SPEAKER_01]: Bulldog?
+[SPEAKER_01]: Bulldog, yeah.
+[SPEAKER_04]: Yeah, we just put a fuckload of veggies and tuna and...
+[SPEAKER_01]: Hold on.
+[SPEAKER_01]: Chill out, dog.
+[SPEAKER_01]: What?
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: I like...
+[SPEAKER_01]: If you ever go to a marination, I buy bottles of their nunya sauce, and I just put a scoop of that in my noodles.
+[SPEAKER_02]: Oh, that with a spicy chili noodle is so good.
+[SPEAKER_01]: It's a beef short rib.
+[SPEAKER_02]: One more bite and you can have it.
+[SPEAKER_02]: Thank you.
+[SPEAKER_01]: Oh, oh yeah.
+[SPEAKER_01]: I got what I want.
+[SPEAKER_01]: Uh, okay.
+[SPEAKER_01]: So everybody back, we get to go.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So you guys are coming back from the bent nail, uh, in order to, um, uh, go visit the Castellanter Villa.
+[SPEAKER_01]: Um, Davey is chilling.
+[SPEAKER_01]: Uh,
+[SPEAKER_01]: eyes on the candle, and Elior is at one of the tables, reading a stack of books.
+[SPEAKER_02]: Oh, dude, he'd be back.
+[SPEAKER_02]: Did I, like, see him come in?
+[SPEAKER_01]: No.
+[SPEAKER_01]: You're watching the candle.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: I should have clarified.
+[SPEAKER_01]: The candle's upstairs.
+[SPEAKER_01]: In a window.
+[SPEAKER_01]: All your down windows are boarded up.
+[SPEAKER_02]: earlier we were just about to head over to the castle lanterns see if we can finally secure that loan get this place open you want to come I'm busy but you can tell them you have my blessing if you need to invoke my family name what you're working on I'm treating
+[SPEAKER_01]: Reading?
+[SPEAKER_01]: Reading.
+[SPEAKER_01]: It's like where there's pages on books and they confer information.
+[SPEAKER_01]: Ah.
+[SPEAKER_02]: I got... Did you go visit the... What's the library down the street?
+[SPEAKER_01]: The book dude?
+[SPEAKER_01]: Oh, it's an actual bookstore.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: It's...
+[SPEAKER_01]: I forget the name of it now.
+[SPEAKER_01]: Bookworm's treasure.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: Bookworm's treasure.
+[SPEAKER_01]: Rashad.
+[SPEAKER_01]: Pots me an arm and a leg.
+[SPEAKER_02]: I've got some stuff I've got to go return to him, actually.
+[SPEAKER_01]: I will do it sooner than later.
+[SPEAKER_01]: He seems a shrewd businessman.
+[SPEAKER_01]: Oh, pretty nice to me.
+[SPEAKER_01]: Guild prices.
+[SPEAKER_02]: I know this might seem strange to a noble like you, but you can borrow things and then give them back and not have to pay as much.
+[SPEAKER_01]: I know, but then other people have touched them.
+[SPEAKER_02]: Oh, that I can't help you with, my friend.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Who's coming to the castle lanterns?
+[SPEAKER_03]: i i could go if you want me to sure maybe some feather tickling will uh get us some discounts or a favorable rate ah you think i should wear my hat of course i will retrieve my hat absolutely
+[SPEAKER_02]: Justice, you want to tag along?
+[SPEAKER_02]: Are you going to stay and guard the flame?
+[SPEAKER_01]: I'm trying to remember if there is any intersection with Victorio Casalinter and Justice.
+[SPEAKER_01]: Where again?
+[SPEAKER_01]: I'm sorry.
+[SPEAKER_01]: Visit the Castle Lanterns for a loan to open the manor or get this place fixed up.
+[SPEAKER_01]: When you were at the opera, you met Lord and Lady Castle Lenter, and they said drop by the manor if you were interested in a loan.
+[SPEAKER_01]: They're in the money lending business.
+[SPEAKER_01]: A commercial loan to get the property up and running.
+[SPEAKER_04]: And I may have missed, what exactly, have we gotten any information as to what Elior has been up to?
+[SPEAKER_00]: He's reading some books.
+[SPEAKER_00]: But he wasn't reading books earlier.
+[SPEAKER_02]: Nope.
+[SPEAKER_02]: Nope.
+[SPEAKER_02]: You can ask him.
+[SPEAKER_01]: So, uh, where you been, buddy?
+[SPEAKER_01]: I ran out to get some books.
+[SPEAKER_01]: Now I'm reading the books.
+[SPEAKER_00]: What are the books about?
+[SPEAKER_01]: Well, just particular interests of mine.
+[SPEAKER_01]: Oh, what are those?
+[SPEAKER_01]: Eh, you know, just trying to learn more about who I am and my family's history and whatnot.
+[SPEAKER_03]: Anything we can do to assist?
+[SPEAKER_01]: Yeah, you can leave me alone.
+[SPEAKER_01]: Dick.
+[SPEAKER_00]: All right, yeah.
+[SPEAKER_00]: I guess we'll go home.
+[SPEAKER_00]: I'll tag along with the manor.
+[SPEAKER_02]: Great.
+[SPEAKER_02]: Hey, Elior.
+[SPEAKER_02]: I'm going to rush the group out.
+[SPEAKER_02]: And as I am, I'm going to tell Elior, hey, thanks for watching the kids for us.
+[SPEAKER_02]: Appreciate it.
+[SPEAKER_02]: And just walk out.
+[SPEAKER_01]: Elliot just doesn't even register.
+[SPEAKER_01]: Did you try and go rope Davey into this, too?
+[SPEAKER_02]: No, I'm just guessing Davey still just upstairs.
+[SPEAKER_02]: So, yeah, Jonathan, Victor, and myself, I guess.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Going to go negotiate getting on behalf of the five of you to get yourselves in hock to open the tavern.
+[SPEAKER_01]: The baba.
+[SPEAKER_01]: Ooh.
+[SPEAKER_01]: Baba is strong.
+[SPEAKER_02]: Care to lead the negotiations?
+[SPEAKER_02]: I feel it might be advantageous to do this noble to noble.
+[SPEAKER_01]: Sorry, let me pull up the map.
+[SPEAKER_02]: Do you care to lead the negotiation, noble to noble?
+[SPEAKER_03]: Oh, I'm sorry.
+[SPEAKER_03]: I had no idea you were talking to me.
+[SPEAKER_03]: Sure.
+[SPEAKER_01]: Do you guys have the Castle Enter Villa on the map?
+[SPEAKER_01]: If not, I will add it.
+[SPEAKER_03]: On the Waterdeep map, what are we looking for?
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Castle Enter Villa, it's in the Sea Ward, just about dead center.
+[SPEAKER_01]: Right here-ish.
+[SPEAKER_02]: No.
+[SPEAKER_02]: No, we don't have it on the map.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: okay okay let me uh add this in real quick i was not prepared to go to the castle enters today but we'll do it why can't i add a new note oh create no there we go
+[SPEAKER_02]: just as we're walking over.
+[SPEAKER_02]: So what do you think?
+[SPEAKER_02]: Should we just ask for an open line of credit?
+[SPEAKER_02]: Well.
+[SPEAKER_04]: We certainly could.
+[SPEAKER_02]: Are we prepared to offer part ownership, or are we just looking for it?
+[SPEAKER_03]: No, we're prepared to use Elior's name.
+[SPEAKER_02]: Ah.
+[SPEAKER_02]: Let's see what that can get us.
+[SPEAKER_02]: Let's change the damn icon.
+[SPEAKER_02]: There it is.
+[SPEAKER_02]: Make it a dollar sign?
+[SPEAKER_02]: Oh, OK. Yeah.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: So I mean, a bit of a hike.
+[SPEAKER_01]: It's over down on Dilzoran Street.
+[SPEAKER_01]: That's a short walk.
+[SPEAKER_02]: We've been hiking all over the city.
+[SPEAKER_01]: Yeah, actually, it's not that far.
+[SPEAKER_01]: They are technically on the same street as the Olbrenters, just in different wards.
+[SPEAKER_01]: OK.
+[SPEAKER_01]: Now let me pull up what I have on the castle intervilla.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: So, as you make your way down through the Sea Ward, on Dilzoran Street, Castelanter Villa comes into view.
+[SPEAKER_01]: The stark white walls and gleaming crimson roof and turrets stand out even amongst the other opulent estates of the Sea Ward.
+[SPEAKER_01]: It's a three-story mansion in the midst of picturesque green gardens dappled with hedges and water features.
+[SPEAKER_01]: The estate is surrounded by a tall white brick wall with a single wrought iron gate as an entrance.
+[SPEAKER_01]: The Castleenter family crest, a green Y overlapping a stylized goose being fed, is emblazoned on the gate and armored guards stand at attention on either side.
+[SPEAKER_01]: you announce yourselves?
+[SPEAKER_01]: Sure.
+[SPEAKER_04]: Knock, knock.
+[SPEAKER_04]: I'm going to walk right up.
+[SPEAKER_04]: Wait, so we're at a front door right now?
+[SPEAKER_01]: No, it's a wrought iron fence on a tall wall that surrounds the whole mansion.
+[SPEAKER_01]: And there's two guards standing outside the fence.
+[SPEAKER_04]: I want to grab onto the bars and
+[SPEAKER_04]: Look at general for me really quick.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Give me just a second here.
+[SPEAKER_02]: So...
+[SPEAKER_02]: So...
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: You walk up to within grabbing distance of the gate, and the guards on either side grab a hold of their weapons and step in front of it real close.
+[SPEAKER_01]: Stay on your way, peasants.
+[SPEAKER_04]: I walk through the gate.
+[SPEAKER_04]: It's chill.
+[SPEAKER_04]: I'm just announcing myself.
+[SPEAKER_01]: Are you just shouting, let me in?
+[SPEAKER_01]: Or are you announcing that... Yeah, I am just shouting, let me in.
+[SPEAKER_01]: I said, on your way, peasants.
+[SPEAKER_01]: And one of the guards goes to give you a big old shove.
+[SPEAKER_04]: I don't do this often, but I'm going to flex my...
+[SPEAKER_04]: I didn't appreciate the...
+[SPEAKER_04]: the degradation because whether I was a peasant or not being a peasant is just fine but I want to put him in his place so I'm going to tell him you're speaking to Jonathan you got to say it Johnny Theodore Icarus Eagle Charles Shield yes specifically just to drop the Eagle Shield name yeah yeah yeah
+[SPEAKER_04]: And I have friends here to see.
+[SPEAKER_01]: Specifically friends who invited me.
+[SPEAKER_01]: Intimidation or persuasion?
+[SPEAKER_01]: Which one are you trying to do?
+[SPEAKER_01]: Persuasion, obviously.
+[SPEAKER_01]: Well, all right.
+[SPEAKER_01]: Roll your persuasion then.
+[SPEAKER_04]: Oh, I guess we're the same.
+[SPEAKER_01]: Actually, with intimidation, you can use your strength instead of your charisma if you wanted to.
+[SPEAKER_01]: Well... Uh-huh.
+[SPEAKER_01]: Uh-huh.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Wait, wait, wait.
+[SPEAKER_01]: Okay, okay.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Do I have any bardic inspiration left still?
+[SPEAKER_01]: No, that lasts about ten minutes.
+[SPEAKER_00]: God fucking damn it.
+[SPEAKER_00]: I'm not lucky on this character either.
+[SPEAKER_00]: God damn it.
+[SPEAKER_02]: Uh-huh.
+[SPEAKER_01]: I'm gonna... One of the guards says...
+[SPEAKER_01]: Oh, go ahead.
+[SPEAKER_02]: I was going to step in and be like, excuse my friend here.
+[SPEAKER_02]: But the Eagle Shield and Brathul of the, I forget what he is, of the Fae.
+[SPEAKER_02]: And we are compatriots of Elior, what's his last name?
+[SPEAKER_02]: Talismir.
+[SPEAKER_02]: Talismir.
+[SPEAKER_02]: here to see Mr. Castle Lantern, per his invite.
+[SPEAKER_01]: You say Mr. and not Lord?
+[SPEAKER_01]: Lord.
+[SPEAKER_01]: Also Persuasion.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Uh-huh, uh-huh.
+[SPEAKER_01]: That's going to be a 17.
+[SPEAKER_01]: Minimum 10.
+[SPEAKER_01]: I fucking forgot.
+[SPEAKER_01]: Awesome.
+[SPEAKER_01]: Awesome.
+[SPEAKER_01]: Lowest I can roll on first place.
+[SPEAKER_01]: The guards kind of stand down and one of them says, you should have led with that, not just grabbing the gate.
+[SPEAKER_01]: We've got a responsibility here.
+[SPEAKER_01]: This is, uh, wait a moment.
+[SPEAKER_01]: Remember us by face.
+[SPEAKER_01]: Don't worry.
+[SPEAKER_01]: You wait a moment.
+[SPEAKER_01]: And he turns and speaks through the gate to someone on the inside.
+[SPEAKER_01]: Who then runs off up the path.
+[SPEAKER_01]: About three, four minutes later, that same person looks dressed in servant garb.
+[SPEAKER_01]: Dressed nicely, but very clearly the castellanter colors and the crest on his shoulder.
+[SPEAKER_01]: Comes back.
+[SPEAKER_01]: Let them in.
+[SPEAKER_01]: Let them through.
+[SPEAKER_01]: when the guards stand to one side and the, the gate swings open.
+[SPEAKER_02]: Uh, please have the gate open for us next time you see us walking up.
+[SPEAKER_01]: Are you, are you trying to get a reaction out of them?
+[SPEAKER_01]: Or are you just saying this as you walk by?
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Just saying that I'm walking by not even looking back.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: They don't even look at you.
+[SPEAKER_01]: Um,
+[SPEAKER_01]: Says the gentleman on the inside.
+[SPEAKER_01]: Says, please, come with me.
+[SPEAKER_01]: And he leads you up to this beautiful, if a little opulent, manor.
+[SPEAKER_01]: Through the front doors.
+[SPEAKER_01]: I have a whole fucking map of this place too, man.
+[SPEAKER_01]: This is why I like playing with Forgotten Realms.
+[SPEAKER_01]: There's so much shit already built for it.
+[SPEAKER_01]: So you... You step through the doors, and it's...
+[SPEAKER_01]: Very, like...
+[SPEAKER_01]: I would say for us, old-fashioned, but very in-fashion at that time, right?
+[SPEAKER_01]: It's a large...
+[SPEAKER_01]: opening a large foyer with a staircase across the top and two stairs coming down like wings.
+[SPEAKER_01]: The whole floor is done in marble.
+[SPEAKER_01]: Rich tapestries hang from every available space.
+[SPEAKER_01]: It screams, I have too much money.
+[SPEAKER_01]: Too much?
+[SPEAKER_01]: Too much.
+[SPEAKER_01]: Like, they...
+[SPEAKER_01]: You don't need every bit of visible wall space covered with expensive cloth or art or statues like busts in niches, but it is.
+[SPEAKER_01]: This is an extravagant display of the wealth of the castle enters.
+[SPEAKER_01]: The footman says, one moment and the Lord will be with you.
+[SPEAKER_01]: he stands off to one side, keeping an eye on some of you, especially the smooth-talking one that looks a bit like a street urchin.
+[SPEAKER_01]: Also probably the bugbear.
+[SPEAKER_01]: Yeah, I mean, Aladin doesn't...
+[SPEAKER_01]: He dresses nice, but not, like, fancy.
+[SPEAKER_01]: Right?
+[SPEAKER_01]: Like, he's not wearing the clothes of nobility.
+[SPEAKER_01]: What's that?
+[SPEAKER_02]: Yeah, I'm not rich, Rich.
+[SPEAKER_01]: Right, right, right, right.
+[SPEAKER_01]: But he's also probably looking at the bugbear, who you can't tell if that's fancy dress or not, because it's just weird.
+[SPEAKER_01]: But after a few minutes, Lord Castellenter, who you remember from the opera...
+[SPEAKER_01]: appears up at the top balcony and is headed down the stairs.
+[SPEAKER_01]: Says, oh, my friends, my friends, if it isn't Renaer's heroes, come to pay visit to our humble villa.
+[SPEAKER_01]: Please, come this way.
+[SPEAKER_01]: So good to see you again.
+[SPEAKER_01]: I don't have a beautiful, rich, deep baritone.
+[SPEAKER_01]: but Lord Castellentor does.
+[SPEAKER_01]: It is a smooth voice, borderline hypnotic.
+[SPEAKER_01]: If the man is responsible for, if the man's fortune comes from his negotiating skills, you can see where it starts.
+[SPEAKER_01]: Now, join me in our salon
+[SPEAKER_03]: uh what is it i can do for you today is this a social call i'm just gonna kind of bump rathul and like make like a tickling motion i had actually already been talking except i was on mute oh you were dude i didn't hear any of it
+[SPEAKER_03]: Well, no, actually.
+[SPEAKER_03]: We've come today hoping to conduct some business, or at least get the ball rolling.
+[SPEAKER_03]: As you know, these things can take some time.
+[SPEAKER_01]: Well, for friends of Renaer's, this should take no time at all.
+[SPEAKER_01]: I'm assuming this is about getting Trollskull Manor in operating condition again.
+[SPEAKER_03]: Indeed it is.
+[SPEAKER_03]: I love working with an intelligent individual.
+[SPEAKER_01]: Oh, this is wonderful news.
+[SPEAKER_01]: That was a fine establishment once, and the location is impeccable.
+[SPEAKER_01]: So, what is it that we can do to help get that place serving the public once again?
+[SPEAKER_03]: Well, we've had a few visits from the guilds, and apparently we need a new roof, new windows.
+[SPEAKER_03]: Uh-huh.
+[SPEAKER_03]: And then a little bit of cleanup, renovations.
+[SPEAKER_03]: Naturally.
+[SPEAKER_03]: And then, of course, inventory to get started.
+[SPEAKER_01]: Yes, indeed.
+[SPEAKER_01]: What level of clientele are you hoping to attract?
+[SPEAKER_03]: Well, as far as I'm concerned, any and all.
+[SPEAKER_03]: However, considering where it's located,
+[SPEAKER_01]: Perhaps slightly above average.
+[SPEAKER_01]: It's no dockside pub, that's for certain.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So do you have a total in mind?
+[SPEAKER_01]: I don't know that we do.
+[SPEAKER_01]: I think you do.
+[SPEAKER_01]: You've probably conducted more business than any of us have.
+[SPEAKER_01]: I think I might have given you guys...
+[SPEAKER_01]: a rough total didn't I I remember writing down stuff somewhere but it's not in my general notes so I'm not really sure yeah I'm looking back through my notes too I want to say it was like 250 gold to get started or something I think that would let them start the work but they needed like 1500 or something or 2500 to do it all
+[SPEAKER_01]: uh it was oh that's it i'm gonna set up notebook lm so i could just turn around and ask
+[SPEAKER_01]: It was Suket that came and talked to you, right?
+[SPEAKER_03]: I think so.
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: Good.
+[SPEAKER_01]: That's a word I can search for.
+[SPEAKER_01]: uh sorry i absolutely was not ready to go visit the castle enters uh i think it was it was 250 to do the roof and walls and it was where is it
+[SPEAKER_04]: Sorry, y'all.
+[SPEAKER_04]: Poo-poo emergency.
+[SPEAKER_04]: Sure.
+[SPEAKER_04]: That happens.
+[SPEAKER_04]: That was the cat, not the dog.
+[SPEAKER_04]: Oh, interesting.
+[SPEAKER_02]: They're keeping you on your toes.
+[SPEAKER_00]: Yep.
+[SPEAKER_00]: If it's not one thing, man.
+[SPEAKER_01]: 50...
+[SPEAKER_01]: So all told, to pay the carpenters, roofers, and plasterers was $250.
+[SPEAKER_01]: I don't remember if we went over this.
+[SPEAKER_01]: I have a whole list here.
+[SPEAKER_01]: It's $100 to get your cellar and plumbing back up and working.
+[SPEAKER_01]: It's $250 to replace all the windows that were boarded up and broken out, like to put actual glass back in.
+[SPEAKER_01]: That's $600.
+[SPEAKER_01]: Another 50 to do your sign.
+[SPEAKER_01]: That's with a different guild.
+[SPEAKER_01]: For services, for operating costs, you have to deposit 100 gold with the launderers.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: 25 for the dung sweepers to keep up the the streets around it um another 10 for the stable masters and farriers guild uh i believe you had a visit from broxley fair kettle right the fellowship of innkeepers yeah
+[SPEAKER_01]: um search for fair kettle uh to join the fellowship of innkeepers is uh 25 gold per year
+[SPEAKER_01]: Also, I think...
+[SPEAKER_01]: I can't remember.
+[SPEAKER_01]: Did you have a visit from Hammond Craddock from the Vintners, Distillers, and Brewers about your beverage selection?
+[SPEAKER_01]: Mm-hmm.
+[SPEAKER_01]: He left behind Guild Prices.
+[SPEAKER_01]: And that is like...
+[SPEAKER_01]: It's a wide swing, right?
+[SPEAKER_01]: It's...
+[SPEAKER_01]: On one end, it's like 50 gold per 10 day, and you could spend upward of 1,000 gold per 10 day, depending on how nice the stuff you want in.
+[SPEAKER_01]: You have not met the Guild of Butchers or the Baker's Guild yet.
+[SPEAKER_01]: But you'll have to buy meat and breadstuffs through them.
+[SPEAKER_01]: You'll probably also need to hire people.
+[SPEAKER_01]: You'll need cooks, barmaids, bartenders.
+[SPEAKER_03]: Barthol still has great hope that the ghost will do it.
+[SPEAKER_03]: Sure.
+[SPEAKER_03]: Probably can't explain that to the lender.
+[SPEAKER_02]: Sure.
+[SPEAKER_02]: So looking back at Barthol and the castle interdunum,
+[SPEAKER_02]: I'm going to lean over and be like, I don't know.
+[SPEAKER_02]: We probably need at least 1,000 gold to get this place up and fixed up because of all the guilds that we have to pay, plus we have to get some furniture.
+[SPEAKER_02]: So about 1,000 gold for that and probably another 200, 300 gold to pay all the guilds.
+[SPEAKER_02]: Plus some operating costs, so...
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: Take about $1,500 to get off the ground.
+[SPEAKER_01]: Uh... $1,500 Dragon seems reasonable to open a business.
+[SPEAKER_01]: Certainly.
+[SPEAKER_01]: What kind of timeline are we looking at?
+[SPEAKER_01]: When do you want to open?
+[SPEAKER_01]: You know that the roof will take probably a week.
+[SPEAKER_01]: At least.
+[SPEAKER_01]: And nothing else could be done.
+[SPEAKER_01]: They won't put in windows or anything like that until the roof and walls are repaired.
+[SPEAKER_02]: The sooner the better, right?
+[SPEAKER_02]: Kind of looking around at everyone for guidance.
+[SPEAKER_03]: Let's call it the beginning of the next month.
+[SPEAKER_01]: Well, may I make a suggestion?
+[SPEAKER_01]: At the very end of this month,
+[SPEAKER_01]: is the start of fleet week including the festivals fleet week is bookended by two different festivals uh which i don't remember off the top of my head which ones they are because there is actually a shitload of festivals uh on chess 21 so uh what is that like 15 or 16 days from now uh
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: The celebration of Salune, goddess of the moon and navigation.
+[SPEAKER_01]: So the 21st is a festival.
+[SPEAKER_01]: If possible, and it's just my suggestion, if you could be open for Salune Seychelles...
+[SPEAKER_01]: what a way to introduce yourself to the town again.
+[SPEAKER_01]: The entire town will be out in droves.
+[SPEAKER_01]: The parade is that day.
+[SPEAKER_01]: There's going to be people standing in the hot sun, thirsty for a drink.
+[SPEAKER_01]: Oh, the parade.
+[SPEAKER_01]: The kids are going to love that one.
+[SPEAKER_01]: The kids are going to steal that one.
+[SPEAKER_03]: Well, then let's shoot for Fleet Week then.
+[SPEAKER_03]: That seems wise.
+[SPEAKER_02]: What an excellent suggestion.
+[SPEAKER_01]: And also a less noted celebration.
+[SPEAKER_01]: Saloon Ace of Shells is a big one.
+[SPEAKER_01]: This is a seafaring town and she controls the tides and all that business.
+[SPEAKER_01]: This is just a water deep seafare.
+[SPEAKER_01]: This is part of it.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: So there's Fleet's Wake and Joaquin Tide are the two, like, festivals that are very, very close together.
+[SPEAKER_01]: However, on Chess 19th, so two days before Salunes Aeschylus, is Fae Day, which isn't as celebrated.
+[SPEAKER_01]: It's like Earth Day for us, right?
+[SPEAKER_01]: Like,
+[SPEAKER_01]: yeah, it's a holiday and all, but people still go to work and maybe they'll remember that the Feywild exists on that day.
+[SPEAKER_01]: Maybe it'd be like St. Patrick's Day, right?
+[SPEAKER_01]: They might wear some green, but it's only kind of a holiday.
+[SPEAKER_01]: That's on Chess 19th.
+[SPEAKER_01]: Officially, it's to celebrate the Spring Equinox.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So,
+[SPEAKER_01]: I can get you the funds tomorrow if needed.
+[SPEAKER_01]: And I won't ask for repayment until after you open.
+[SPEAKER_01]: But we need a timeline to pay this back.
+[SPEAKER_01]: My dog showed up.
+[SPEAKER_01]: Hi, pup.
+[SPEAKER_01]: You scared me.
+[SPEAKER_01]: She sneaks up and like sticks her head on your lap.
+[SPEAKER_01]: And so all of a sudden I feel like someone's grabbing my hip.
+[SPEAKER_01]: It's it's interesting.
+[SPEAKER_02]: Rhaenyra has always spoken so highly of you.
+[SPEAKER_02]: I'm sure we can come to some generous terms.
+[SPEAKER_01]: I mean, absolutely.
+[SPEAKER_01]: For the saviors of Flune Blagmar, for Rhaenyra's heroes, we can absolutely come up with the best of terms.
+[SPEAKER_01]: Which is why I won't charge you until you get a chance to open.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: But for $1,500, I've got to ask for 3% over the next year.
+[SPEAKER_01]: And so loans like this back in the day were not ever amortized, right?
+[SPEAKER_01]: Like, there's no payment that burns down the balance.
+[SPEAKER_01]: It's up to you to pay off the principal, and you just, every 10 days, you have to pay 3% on whatever you owe.
+[SPEAKER_01]: Technically, it could go on forever.
+[SPEAKER_01]: So 45 per 10 day?
+[SPEAKER_01]: So 45 gold per 10 day.
+[SPEAKER_01]: Starting the first 10 day after you open.
+[SPEAKER_01]: And then, of course, any balance you pay off, it's 3%, right?
+[SPEAKER_01]: So it's always just 3% of whatever the principal is.
+[SPEAKER_03]: Well, that sounds extremely generous.
+[SPEAKER_03]: Let me ask you something.
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: Do you want us to succeed?
+[SPEAKER_03]: More than you know.
+[SPEAKER_03]: I don't mean that as an offense, but you've already given us some really wise insights onto when to open.
+[SPEAKER_01]: this troll school manor has long been a reminder of what the whole alley once was and i would love to see nothing more than that tavern open again serving doing anything besides sitting and rotting right now it's an eyesore and it needs to be an emblem of what waterdeep offers more than anything
+[SPEAKER_01]: I want to see businesses succeed because when you do well, I do well.
+[SPEAKER_01]: Then let me propose this.
+[SPEAKER_03]: For the first three months, we will pay 2% and then move to 3%.
+[SPEAKER_03]: Interesting.
+[SPEAKER_03]: Did you say the first three months?
+[SPEAKER_03]: It will take time for us to build up a reputation and for people to actually know that we are open again.
+[SPEAKER_03]: The initial splash will likely be large, considering what you've told us.
+[SPEAKER_03]: But figuring out the day-to-day afterwards will take some time.
+[SPEAKER_02]: Or better yet, we can provide you something more valuable than money, if you're interested.
+[SPEAKER_02]: And that is?
+[SPEAKER_02]: A favor of your own for whenever you might need something delicate done.
+[SPEAKER_01]: He kind of grins behind his hand.
+[SPEAKER_01]: It has been a long time since I've had to rely on outside favors to get anything done in this city.
+[SPEAKER_01]: I will agree to your terms.
+[SPEAKER_01]: Three months.
+[SPEAKER_01]: Your first three months at 2%.
+[SPEAKER_01]: the remainder at three.
+[SPEAKER_01]: But in order to make sure that this succeeds, I want you to borrow 2,000.
+[SPEAKER_01]: I think you need more than you think you need.
+Hmm.
+[SPEAKER_00]: You're going to call us broke?
+[SPEAKER_01]: Young Lord Eagleshield, compared to me, everyone is broke.
+[SPEAKER_01]: At 2,000, how would you feel about four months?
+[SPEAKER_01]: Four months at 2%?
+[SPEAKER_01]: At 2,000, three therefore after?
+[SPEAKER_03]: Yes.
+[SPEAKER_01]: I agree to that.
+[SPEAKER_00]: I know, right?
+[SPEAKER_00]: Sorry.
+[SPEAKER_01]: Yeah, be careful with those arm lungs.
+[SPEAKER_01]: That's what happens.
+[SPEAKER_01]: You start low.
+[SPEAKER_01]: And they balloon.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: I can agree to those terms.
+[SPEAKER_02]: For Thule, with that kind of investment, perhaps we could have a private tasting room upstairs for some of the more discerning clientele.
+[SPEAKER_02]: Meaning the ones you want to sleep with.
+[SPEAKER_02]: Hey, just because my room happens to be off the side of the den, things can happen.
+[SPEAKER_03]: Well, I like your private tasting room idea for that.
+[SPEAKER_03]: There's no need to advertise it though.
+[SPEAKER_03]: Just pick people out on a daily basis.
+[SPEAKER_03]: I'll show you how.
+[SPEAKER_03]: You already know how to sing.
+[SPEAKER_03]: You'll probably come along quite well.
+[SPEAKER_02]: Sounds like a plan.
+[SPEAKER_01]: Well, if we're in agreement then, we can deliver the funds tomorrow midday.
+[SPEAKER_01]: I will need all parties present to sign.
+[SPEAKER_03]: We shall be available.
+[SPEAKER_01]: A representative will be there as well.
+[SPEAKER_02]: Fantastic.
+[SPEAKER_02]: This is exciting news.
+[SPEAKER_02]: Let's get the guild the relevant guilds there as well.
+[SPEAKER_01]: Get this all done at once.
+[SPEAKER_01]: I will reach out to the Gilts and have them present for the signing.
+[SPEAKER_01]: I'm sure they'll want their pound of flesh immediately.
+[SPEAKER_01]: All the better.
+[SPEAKER_01]: You can give the money straight to them.
+[SPEAKER_01]: Well, gentlemen, I look forward to this business endeavor.
+[SPEAKER_01]: Shall we drink a toast?
+[SPEAKER_03]: Our pleasure.
+[SPEAKER_03]: Of course.
+[SPEAKER_03]: We are in the hospitality business, after all.
+[SPEAKER_01]: And he steps over to the sideboard, and there is a carafe of unlabeled, unmarked brandy, but as he pulls the stopper off of it, the smell fills the room.
+[SPEAKER_01]: It is...
+[SPEAKER_01]: a rich, probably obscenely expensive brandy.
+[SPEAKER_01]: It smells like the two fingers he pours into a glass for each of you probably cost 100 gold.
+[SPEAKER_01]: Whether or not it does, it definitely smells like it.
+[SPEAKER_01]: And he hands everyone a glass and says,
+[SPEAKER_01]: To business.
+[SPEAKER_01]: Throws it back.
+[SPEAKER_01]: Gentlemen, we will see you tomorrow.
+[SPEAKER_01]: Until the morn.
+[SPEAKER_01]: He gestures out the door of the salon back the way you came.
+[SPEAKER_01]: Says, please, I'll walk you to the gate.
+[SPEAKER_01]: Thank you.
+[SPEAKER_01]: It seems he has taken a liking to your group for whatever reason.
+[SPEAKER_01]: Who could know with you guys?
+[SPEAKER_01]: But yeah.
+[SPEAKER_01]: If there's nothing else, it appears you guys have secured a loan and will start construction on the end tomorrow.
+[SPEAKER_02]: Um...
+[SPEAKER_02]: On the way back, we just swing by the Betnail and tell our buddy to come by.
+[SPEAKER_02]: We'll have some business for him as well.
+[SPEAKER_01]: You hear from the back the sound of sawing stops.
+[SPEAKER_01]: You got it!
+[SPEAKER_01]: Back into it.
+[SPEAKER_01]: So as you approach Trollskull Manor,
+[SPEAKER_01]: you see, uh-oh, where'd my notes go?
+[SPEAKER_01]: Right, they're not my session 10 notes.
+[SPEAKER_01]: As you approach Troll School Manor, you see a pair of halflings waiting kind of near the front of the manor with a covered basket,
+[SPEAKER_01]: Each has like a bedroll on their back, like traveling gear.
+[SPEAKER_01]: And the hopeful patience of people who have been turned away before.
+[SPEAKER_01]: The woman has flour on one sleeve and kind of a no-nonsense kerchief around her hair.
+[SPEAKER_01]: The man carries a bundle of knives wrapped in oilcloth and keeps shifting from one foot to the other until he sees that you're headed towards the manor.
+[SPEAKER_01]: As you approach, the man says, beg pardon, we heard you might be opening a public house.
+[SPEAKER_01]: Is that true?
+[SPEAKER_01]: News travels fast.
+[SPEAKER_01]: Where'd you hear that?
+[SPEAKER_01]: It's been the talk of the whole ward.
+[SPEAKER_01]: Everyone knows Troll School Manor.
+[SPEAKER_01]: I figure if you're opening a place, then well, you're going to need cooks before you need customers, right?
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: What do you think?
+[SPEAKER_02]: Well...
+[SPEAKER_03]: I think we should have these two show us what they can do.
+[SPEAKER_03]: Excellent idea.
+[SPEAKER_01]: Really?
+[SPEAKER_01]: That's great.
+[SPEAKER_01]: Oh, man, you will not be disappointed.
+[SPEAKER_01]: Let me introduce myself.
+[SPEAKER_01]: My name is Corvin.
+[SPEAKER_01]: I'm Corvin Underbow.
+[SPEAKER_01]: This is my sister, Miri.
+[SPEAKER_01]: Miri doesn't say anything, just kind of
+[SPEAKER_01]: can't decide between like a bow and a curtsy and does kind of like a half of each uh says Corbin says uh she's she's my sous chef she's my assistant best in the business oh uh you you won't be disappointed uh oh Doc Beery this is great this is fantastic uh
+[SPEAKER_01]: After you.
+[SPEAKER_01]: It's your place.
+[SPEAKER_01]: Can we... Yep.
+[SPEAKER_01]: Well, we don't have much.
+[SPEAKER_02]: Perhaps you should go get some ingredients and make us dinner?
+[SPEAKER_02]: And kind of flip them...
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: What are some vegetables on that stuff?
+[SPEAKER_02]: Cost them a couple of silver?
+[SPEAKER_01]: Probably if he's going to feed everyone here, you'd probably give him probably a gold coin would cover
+[SPEAKER_01]: Everything.
+[SPEAKER_01]: I'll toss him a gold.
+[SPEAKER_04]: Do you make a mean perpetual stew?
+[SPEAKER_04]: Sorry, make what?
+[SPEAKER_04]: Do you make a mean perpetual stew?
+[SPEAKER_01]: I can.
+[SPEAKER_01]: Maybe something a little bit concerning for tonight.
+[SPEAKER_01]: I was going to say, anyone can make a perpetual stew.
+[SPEAKER_01]: Well, not
+[SPEAKER_01]: starting from nothing uh if that's what you want to serve here we can do that but uh let me let me show you what i can make uh your best dad yeah yeah yeah we'll uh here's what one two three four five five of us and three kids plus the two of you what about gleaming
+[SPEAKER_01]: Yep, I can definitely make gruel.
+[SPEAKER_01]: I mean, no gruel is good, but I can make the best.
+[SPEAKER_01]: We're not on the battlefield, my friend.
+[SPEAKER_01]: Let's have something nice.
+[SPEAKER_01]: Okay, in that case, do you have anything you want us to use here in the kitchen?
+[SPEAKER_01]: Should I come take stock?
+[SPEAKER_01]: Feel free to look around, but we don't have much.
+[SPEAKER_03]: Okay, I'll... That's one way to put it.
+[SPEAKER_04]: By much, I think you mean anything.
+[SPEAKER_01]: I'll see what we're working with.
+[SPEAKER_01]: As you guys kind of step inside, like, his expression doesn't fall, but it, like, tightens up a bit.
+[SPEAKER_01]: Like, whew.
+[SPEAKER_01]: Like, whew.
+[SPEAKER_01]: What has he got himself into?
+[SPEAKER_01]: He says, uh,
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Kitchen's back there?
+[SPEAKER_02]: Yup.
+[SPEAKER_02]: Pantry's right next to it, behind the bar.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Well, let me see what we're working with.
+[SPEAKER_01]: We've got some guilds.
+[SPEAKER_02]: We've got the guilds coming through tomorrow to help fix up the place.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Miri, uh, like, peeks around the corner into the pantry and turns back to her brother and says, uh, you first.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Uh, so he's, like, taking stock in your pantry, like, trying to see if any of it is not rotten.
+[SPEAKER_01]: And it all is.
+[SPEAKER_01]: It's all, it's all, it's been there years, right?
+[SPEAKER_01]: Uh, okay.
+[SPEAKER_01]: Pantry's a total loss, but, uh,
+[SPEAKER_01]: Let me, let me, let's go look in the kitchen.
+[SPEAKER_01]: Like, you hear, like, quiet swearing from around the corner as he looks in the kitchen.
+[SPEAKER_01]: Has this, uh, has this hearth been fired, uh, ever?
+[SPEAKER_01]: Not since we moved in.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Nope.
+[SPEAKER_01]: We can do this.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Shit, Miri.
+[SPEAKER_01]: Here we go again.
+[SPEAKER_01]: All right.
+[SPEAKER_02]: If you want, you can come back after some of the renovations start.
+[SPEAKER_02]: Or you can do it now and help with the reservations and make it go your way.
+[SPEAKER_03]: I mean, well, or you can literally fail the test and not have a job.
+[SPEAKER_01]: It's up to you.
+[SPEAKER_01]: No, no.
+[SPEAKER_01]: We can do this.
+[SPEAKER_01]: We can definitely work with this.
+[SPEAKER_01]: he starts like unbundling his knives on there's like a uh a three-legged table in there and he's like holding up one side while like unpacking uh the knives from the oil cloth says yeah this can work uh actually let me see if you have anything like pots and pans or anything oh yeah all right sure so like you know those don't they may be rust but like they don't
+[SPEAKER_01]: decay so much so you still have like a little bit of cookware that he can work with well we're not gonna give anybody tetanus odd i mean we'll roll for it later uh he says uh yeah he says i'll uh i'll go get started uh we'll get you what you need uh tonight uh dinner uh sixth bell sharp we'll be ready he looks out in the main room
+[SPEAKER_01]: We can serve it at those tables.
+[SPEAKER_01]: Yeah, sure.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Are you still reading?
+[SPEAKER_02]: Elliot, are you still reading?
+[SPEAKER_01]: You're on mute.
+[SPEAKER_01]: I'm kind of coming out of my room and seeing what's up.
+[SPEAKER_01]: You see two unknown halflings being escorted around the place and checking out the pantry and kitchen.
+[SPEAKER_03]: I'm going to grab more water, everybody.
+[SPEAKER_03]: Who are these guys?
+[SPEAKER_01]: We're the Underbows.
+[SPEAKER_01]: It's a pleasure to meet you.
+[SPEAKER_01]: We're going to be serving you dinner tonight.
+[SPEAKER_01]: Tonight?
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: You're with the guild?
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: No, not yet.
+[SPEAKER_01]: Typically, you have to be employed and able to pay before you can join the guild.
+[SPEAKER_01]: I see.
+[SPEAKER_01]: We will be.
+[SPEAKER_01]: We intend to be.
+[SPEAKER_01]: I suppose that's your choice.
+[SPEAKER_01]: Actually, it would be your choice, because you're their employer.
+[SPEAKER_01]: there'll be no unionist labor under my roof.
+[SPEAKER_01]: Potentially.
+[SPEAKER_01]: Potentially you're their employer.
+[SPEAKER_01]: They...
+[SPEAKER_01]: The Hospitallers Guild... Not Hospitallers.
+[SPEAKER_01]: What was the... League of Innkeepers?
+[SPEAKER_01]: Whatever.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: It's...
+[SPEAKER_01]: Businesses join guilds.
+[SPEAKER_01]: Typically.
+[SPEAKER_01]: Um...
+[SPEAKER_01]: employees don't join guilds because, yeah, that's organized labor and they don't want that shit.
+[SPEAKER_01]: Like, guilds are not unions.
+[SPEAKER_01]: They're something far worse.
+[SPEAKER_02]: Racketeering organizations?
+[SPEAKER_01]: Yeah, they're racketeering.
+[SPEAKER_01]: Alright, well, I suppose it sounds good to me.
+[SPEAKER_01]: Alright, uh,
+[SPEAKER_01]: While they're making dinner, scribble a Help Wanted sign.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And stick it outside.
+[SPEAKER_01]: Just, like, post a parchment outside the, like, on the door frame or whatever?
+[SPEAKER_01]: Yeah, and just put Help Wanted bartender and waitress.
+[SPEAKER_02]: We call them barmaids.
+[SPEAKER_01]: yeah uh so how how good how good a sign can aladdin make how how about aladdin gives us he had some paint so i'm gonna what's that i said i remember davey had some paint i'm gonna go ask to use some of that
+[SPEAKER_01]: You were using it to dye your thing, weren't you?
+[SPEAKER_01]: It wasn't paint.
+[SPEAKER_01]: It was ink that you were using as a dye.
+[SPEAKER_05]: Yeah, I made it out of charcoal, I think.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_02]: You know what?
+[SPEAKER_02]: I'm just going to go over to the fire and just grab a piece of coal from burnt wood.
+[SPEAKER_01]: Do a little charcoal.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And then just take a scrap piece of wood from all the broken tables or whatever.
+[SPEAKER_01]: Okay, I'm going to have you make a roll, but I'm going to save it for later to see how good your sign is and if it presents with help or not.
+[SPEAKER_01]: So I want you to roll performance, I guess.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Mister, I can't roll below a 10 anyway.
+[SPEAKER_01]: No, not on performance.
+[SPEAKER_01]: Only on persuasion and deception.
+[SPEAKER_01]: Oh, that's right.
+[SPEAKER_01]: Uh, still, that's a solid roll.
+[SPEAKER_01]: Okay, 18.
+[SPEAKER_01]: All right, I marked that down.
+[SPEAKER_01]: You have a Help Wanted for a barman and a barmaid.
+[SPEAKER_01]: Plural or just one of each?
+[SPEAKER_01]: Or do you even say?
+[SPEAKER_02]: Just gonna leave it one of each for now, I think.
+[SPEAKER_03]: I'm still holding out hope that the, since we've seen the ghost, that it can be our barkeep, but we're waiting on David for that one.
+[SPEAKER_01]: So about the time you finish the sign, you hear like a short shriek from the kitchen, followed by Miri just tearing out of there.
+[SPEAKER_01]: Dead white, like in shock,
+[SPEAKER_01]: running through the pantry out from behind the bar and like ducking down and hiding behind it.
+[SPEAKER_01]: Ah, did you meet our ghostly friend?
+[SPEAKER_03]: That's your friend?
+[SPEAKER_03]: Indeed.
+[SPEAKER_03]: There's a few of them.
+[SPEAKER_03]: Which one did you meet?
+[SPEAKER_03]: The cook?
+[SPEAKER_03]: The barkeep?
+[SPEAKER_03]: The bouncer?
+[SPEAKER_03]: Uh, the one moving the pots and pans.
+[SPEAKER_03]: Yes, that's the cook.
+[SPEAKER_03]: Oh, wait.
+[SPEAKER_03]: Wait, you have a cook?
+[SPEAKER_03]: Well, not exactly.
+[SPEAKER_03]: They definitely still...
+[SPEAKER_03]: But you'll need to... You will need to...
+[SPEAKER_03]: If you want them to cook for you, you will need to definitely guide them.
+[SPEAKER_03]: And guide them with a firm hand.
+[SPEAKER_01]: Corvid!
+[SPEAKER_01]: Corvid, they've got ghosts!
+[SPEAKER_01]: Corvid!
+[SPEAKER_01]: He's out shopping.
+[SPEAKER_01]: She's hollering at empty air.
+[SPEAKER_01]: Shall we go introduce ourselves?
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Are you sure they're friendly?
+[SPEAKER_03]: Of course they are.
+[SPEAKER_03]: Except for the one upstairs.
+[SPEAKER_01]: Don't worry about that.
+[SPEAKER_01]: I'm never going upstairs.
+[SPEAKER_03]: Oh, really?
+[SPEAKER_03]: I'll see if I can make you get upstairs.
+[SPEAKER_01]: She's like somewhere between terrified and blushing.
+[SPEAKER_01]: Like wherever on the spectrum that can possibly land.
+[SPEAKER_01]: And she goes from hiding behind the bar to hiding behind Aladin.
+[SPEAKER_01]: Aladin.
+[SPEAKER_01]: Let's go say hello to our cook.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: You first.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: I'll wander around in there.
+[SPEAKER_01]: She's like slowly creeping behind you.
+[SPEAKER_01]: Go ahead.
+[SPEAKER_01]: What was her name again?
+[SPEAKER_01]: Corbin and Marie?
+[SPEAKER_01]: Corbin and Miri.
+[SPEAKER_01]: Miri.
+[SPEAKER_01]: yeah let me i'll i'll drop it in uh in general here hmm okay uh yep so she's like like following behind you uh
+[SPEAKER_01]: And nothing seems to be going on once you get in the kitchen.
+[SPEAKER_01]: Like, there's some pots and pans out, and Corvin's knives are laid out mostly where he set them.
+[SPEAKER_03]: I'm not fazed at all.
+[SPEAKER_03]: I will simply say, hello, famous chef.
+[SPEAKER_03]: We are going to hire some new kitchen staff, and tonight we are testing them.
+[SPEAKER_03]: So if you'd be so kind, please let them cook.
+[SPEAKER_03]: This is Miri Underbow.
+[SPEAKER_03]: She is a sous chef.
+[SPEAKER_03]: Her friend Corbin, brother even, will be coming later and cooking with us.
+[SPEAKER_03]: If they ask you for help, please help them, but not too much, because this is a test.
+[SPEAKER_03]: We would be much obliged.
+[SPEAKER_01]: The pots and pans don't move or anything.
+[SPEAKER_01]: but in like the dirt and grime on the wall, you see writing start to form.
+[SPEAKER_03]: Ooh, this is new.
+[SPEAKER_01]: I like it.
+[SPEAKER_01]: He's done this before, right?
+[SPEAKER_01]: Well, that's true.
+[SPEAKER_03]: We saw it on the table.
+[SPEAKER_01]: You're right.
+[SPEAKER_01]: He wrote, it wrote closing tile on the table.
+[SPEAKER_01]: I think there was one other one.
+[SPEAKER_03]: I just assumed that was a different ghost.
+[SPEAKER_03]: That was a bouncer or something.
+[SPEAKER_01]: Anyways.
+[SPEAKER_01]: It,
+[SPEAKER_01]: It says, I think we've got rats.
+[SPEAKER_03]: Indeed, we likely do.
+[SPEAKER_03]: But that's one of the things they're going to be tested on is how do they deal with adversarial environments?
+[SPEAKER_03]: But don't you worry.
+[SPEAKER_03]: We have Carpenter Guild coming tomorrow.
+[SPEAKER_03]: They're going to start cleaning this place up and fixing the walls.
+[SPEAKER_01]: Who's all in there with Brothul?
+[SPEAKER_01]: In the kitchen or just in the main area?
+[SPEAKER_01]: In the kitchen.
+[SPEAKER_01]: While he's talking to the ghost.
+[SPEAKER_02]: Yeah, I'm like standing in the doorway.
+[SPEAKER_01]: No.
+[SPEAKER_01]: Okay, you two that are in there, roll perception.
+[SPEAKER_02]: Oh, I rolled twice by accident.
+[SPEAKER_02]: Uh, no, four seconds ago.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: So it's a, it's a, it's a seven and a 12.
+[SPEAKER_02]: Um, I'm going to, well, is it that successful or no?
+[SPEAKER_01]: A seven?
+[SPEAKER_01]: No.
+[SPEAKER_01]: Uh, or at least not.
+[SPEAKER_01]: Well, I'm going to use a lot.
+[SPEAKER_01]: It's not a hard fail.
+[SPEAKER_01]: Uh, you guys both noticed that like,
+[SPEAKER_01]: Mirri is... After writing I Think You've Got Rats on the Wall, she is absolutely terrified.
+[SPEAKER_01]: Like, body shaking, like, pure terror right now.
+[SPEAKER_03]: I will totally attempt to reassure her in a way that only Brothel can.
+[SPEAKER_03]: Mirri, there's nothing to fear.
+[SPEAKER_03]: As you can see, this ghost was trying to help you by letting you know that we may have rats.
+[SPEAKER_03]: It's not here to hurt you.
+[SPEAKER_03]: It just wants to cook with you.
+[SPEAKER_01]: Roll a persuasion check.
+[SPEAKER_01]: At disadvantage.
+[SPEAKER_01]: At disadvantage.
+[SPEAKER_01]: Yes.
+[SPEAKER_03]: Doesn't surprise me, though.
+[SPEAKER_01]: That's a pretty good disadvantage roll.
+[SPEAKER_01]: Yeah, I'll take it.
+[SPEAKER_01]: Like,
+[SPEAKER_01]: She doesn't stop being terrified, but the light kind of comes back.
+[SPEAKER_01]: Like, she's at least home again.
+[SPEAKER_01]: She's not about to go catatonic.
+[SPEAKER_01]: She's like, I've never worked in a place with ghosts before.
+[SPEAKER_01]: Do you mind if I wait outside until Corvin gets back?
+[SPEAKER_01]: No, I'll come with you.
+[SPEAKER_01]: I'll tell you all about the ghosts.
+[SPEAKER_02]: Trust me, you have nothing to fear.
+[SPEAKER_02]: We've been living here for weeks, and we haven't had any problems.
+[SPEAKER_03]: You've been here for four days.
+[SPEAKER_03]: Do you think Aladin led to the truth?
+[SPEAKER_01]: She doesn't need to know that.
+[SPEAKER_01]: Awesome.
+[SPEAKER_01]: I'm very personal.
+[SPEAKER_02]: Okay.
+[SPEAKER_03]: yeah actually you are very persuasive i forget how you are okay okay okay okay she just keeps saying okay to herself like as she kind of trails out the the front door uh we don't have to like actually role play through it but i'll tell her about you know growing up in the farewell just feeling like we speak to spirits all the time and the thing that you know like you don't understand here is that most of them are just people like us
+[SPEAKER_03]: They're not angry.
+[SPEAKER_03]: They're not here to mess with us any more than a person is.
+[SPEAKER_03]: Yada, yada, yada.
+[SPEAKER_01]: Except for the red caps.
+[SPEAKER_01]: The edderlings?
+[SPEAKER_01]: Edderlings and red caps?
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: So, all right.
+[SPEAKER_01]: Here's the thing, guys.
+[SPEAKER_01]: We got to make a quick decision because it's quarter to nine.
+[SPEAKER_01]: And
+[SPEAKER_01]: We're finally getting to the stuff I had planned for tonight.
+[SPEAKER_01]: We can either stop here or we might have to like stop mid whatever comes next.
+[SPEAKER_03]: I say we battle because that's what you're trying not to say.
+[SPEAKER_01]: Well it's the whole dinner.
+[SPEAKER_04]: Dinner time.
+[SPEAKER_04]: Um, I mean, I am...
+[SPEAKER_01]: Unless there's something you guys want to do before dinner to take care of.
+[SPEAKER_01]: Um, otherwise, like, we'll be here another two hours.
+[SPEAKER_01]: Or we'll have to stop midway.
+[SPEAKER_03]: Up to the rest of y'all.
+[SPEAKER_04]: I am down with either.
+[SPEAKER_04]: I... am finally, uh...
+[SPEAKER_04]: on deploying things.
+[SPEAKER_04]: Are we finally deployed?
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Yeah, it took a little bit.
+[SPEAKER_04]: Sure.
+[SPEAKER_04]: It took a little bit.
+[SPEAKER_03]: The IAC worked perfectly, right?
+[SPEAKER_03]: What's that mean?
+[SPEAKER_03]: IAC worked perfectly, right?
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: It sure did.
+[SPEAKER_01]: Every time.
+[SPEAKER_01]: The first time, every time.
+[SPEAKER_01]: Um...
+[SPEAKER_01]: okay uh shit i'm gonna miss like the first hour of next week just fyi that's fine yeah you'll you'll be you'll be okay that's what i'm saying like i had i had a lot planned for today but we decided to go to the castle enters and on a book hunt instead
+[SPEAKER_01]: Uh, I'm going to say we call it here.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: That's my vote.
+[SPEAKER_01]: I can't, I can't go to bed past 10 o'clock.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: It's yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Uh, well we can jump in next week, uh, with our dinner.
+[SPEAKER_01]: And, uh, yeah, it'll be exciting.
+[SPEAKER_04]: I'm excited.
+[SPEAKER_01]: I smell some pulled pork mac and cheese upstairs.
+[SPEAKER_01]: Are you guys in spider season yet?
+[SPEAKER_01]: When does the spider season officially kick off?
+[SPEAKER_01]: Spider season is more the fall.
+[SPEAKER_01]: When it starts to get a little bit cool and they start coming inside.
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: I've been watching Spider Noir if that counts.
+[SPEAKER_01]: Yeah, I watched that too on the plane.
+[SPEAKER_01]: It was good.
+[SPEAKER_01]: It's fun.
+[SPEAKER_01]: Was it?
+[SPEAKER_01]: It was fun.
+[SPEAKER_01]: It's Nick Cage.
+[SPEAKER_01]: Like, it's fun.
+[SPEAKER_03]: Yeah, I think it shouldn't work, but Nick Cage was, like, perfect for that role.
+[SPEAKER_01]: I'm not, like, a discerning consumer.
+[SPEAKER_01]: Like, I enjoyed it.
+[SPEAKER_01]: I was on an airplane.
+[SPEAKER_01]: It was fine.
+[SPEAKER_01]: I liked it.
+[SPEAKER_01]: It was entertaining.
+[SPEAKER_03]: Like, direct Nick Cage confessing to his secretary over and over and over that he's the spider was hilarious.
+Yeah.
+[SPEAKER_01]: I, uh, I used to feel like I was a discerning movie connoisseur, but like, I feel like I watched too many things that hurt my soul.
+[SPEAKER_01]: And now I'm like, give me die hard.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Give me just feel good.
+[SPEAKER_01]: Give me pulp.
+[SPEAKER_01]: Give me, I don't,
+[SPEAKER_01]: Some of my favorite movies, Stalker, Nacho Libre.
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: I can do the one minute, 30 second long single take, but also I love Nacho Libre so much.
+[SPEAKER_01]: I'm a huge Jack Black fan.
+[SPEAKER_01]: I used to look a lot like him.
+[SPEAKER_01]: I can imagine that.
+[SPEAKER_01]: A lot like him, especially in my college days.
+[SPEAKER_01]: It was weird.
+[SPEAKER_01]: Conan the Barbarian, still one of my favorites.
+[SPEAKER_03]: It's a good one.
+[SPEAKER_03]: And I forget that Destroyer exists, but, you know.
+[SPEAKER_01]: We don't talk about that, all right?
+[SPEAKER_01]: He-Man, dude.
+[SPEAKER_01]: He-Man.
+[SPEAKER_01]: Oh, the Dolph Lundgren one?
+[SPEAKER_04]: Actually, I heard it's, like, surprisingly pretty good.
+[SPEAKER_04]: Oh, the new Masters of the Universe?
+[SPEAKER_04]: Yeah.
+[SPEAKER_01]: I'd go see it.
+[SPEAKER_04]: I'll watch it.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: That's a big budget.
+[SPEAKER_01]: I even liked the Conan remake they did, like, a decade ago.
+[SPEAKER_03]: Yeah, it was alright.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: It was better than Destroyer.
+[SPEAKER_01]: That movie didn't happen.
+[SPEAKER_01]: That's like saying there was a sequel to Highlander.
+[SPEAKER_01]: Sorry, they got a title theme by The Darkness?
+[SPEAKER_01]: That's pretty sick.
+[SPEAKER_01]: Alright, well, so sorry we had like two sessions in a row one month apart with like
+[SPEAKER_01]: No combat.
+[SPEAKER_03]: Y'all need to start jumping in because fucking Barthool is obsessed with ghosts.
+[SPEAKER_01]: Well, that's the other thing.
+[SPEAKER_01]: After the dinner, the next day, it's time for the seance.
+[SPEAKER_01]: So I'm actually hoping next session we can do both dinner and the communing with ghosts.
+[SPEAKER_01]: Sounds like dating in the 90s in Seattle.
+[SPEAKER_01]: Well, in between, in between, y'all have to sign a loan.
+[SPEAKER_03]: Hell yeah.
+[SPEAKER_03]: We're just going to make all your signs fun.
+[SPEAKER_04]: Uh-huh.
+[SPEAKER_04]: Uh-huh.
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: As always.
+[SPEAKER_04]: I love simulating business.
+[SPEAKER_01]: Yeah, please stop making me simulate business.
+[SPEAKER_04]: It's so fun simulating business after a hard day's work of business.
+[SPEAKER_01]: Hey, this should be mostly the end of it because the fun part is being able to run a tavern and having people come into your tavern.
+[SPEAKER_04]: We're running a successful business.
+[SPEAKER_01]: Right.
+[SPEAKER_02]: Okay, cool.
+[SPEAKER_03]: I mean, if I did roleplay Brothel, should I talk to Tyler or what?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Only if you get a feather cap with a three-foot feather.
+[SPEAKER_03]: There's probably a three-foot peacock feather if I go look where Kevin roosts.
+[SPEAKER_03]: Yep, probably.
+[SPEAKER_03]: Yeah, I could put that in my hat.
+[SPEAKER_01]: That would work.
+[SPEAKER_01]: Yeah, you need to get like a felt Robin Hood cap.
+[SPEAKER_01]: I have a fun one.
+[SPEAKER_01]: I've got the Leather Barbados Tricorn.
+[SPEAKER_01]: Good enough.
+[SPEAKER_01]: Close enough.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I have one of those.
+[SPEAKER_01]: So, back when Pirates of the Caribbean was, like, super popular, so, like, what, 2004?
+[SPEAKER_01]: Whenever it came out?
+[SPEAKER_01]: When did that come out?
+[SPEAKER_01]: I mean, it's still super popular and awesome, but sure.
+[SPEAKER_01]: Yeah, I hear you.
+[SPEAKER_01]: I hear you.
+[SPEAKER_01]: Sure.
+[SPEAKER_01]: No, I...
+[SPEAKER_01]: Especially the first one was absolutely...
+[SPEAKER_01]: Loved that movie, but I always kind of had a thing for pirates, so I...
+[SPEAKER_01]: In college, when I had zero money...
+[SPEAKER_04]: When I had...
+[SPEAKER_01]: When I had zero money as a broke-ass college student, I spent...
+[SPEAKER_01]: It was probably $300 putting together a legit pirate outfit.
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: And that's like $300 in the mid-2000s.
+[SPEAKER_01]: I spent as much on my pirate outfit as I did my wife's engagement ring.
+[SPEAKER_01]: not only was i broke i came from broke people yeah yeah one time when i was in hawaii my my my dad's best friend is this guy named rudy who was from the netherlands and at 16 he just like sailed away
+[SPEAKER_01]: and then eventually like he figured out this rig and like this gig in hawaii where he would import like large 300 of furniture sets from uh southeast asia and like then the hotels would have to buy 300 of the same furniture pieces and he'd be like guess what i'm the only game in town um
+[SPEAKER_01]: but he's like a salty sea dog like he sails constantly uh and so i went out with him like not the last time but the time before that i was in hawaii and we're like we're cruising in the seas are getting pretty rough it's like a six or seven foot swell like and i'm like we're going like up and down not a huge boat like a 28 foot or 32 foot boat and i'm like oh god like should i be worried like
+[SPEAKER_01]: And I was like, well, let me check what Rudy's doing.
+[SPEAKER_01]: He's hanging off the side of the boat and he just says, the dead ones are the lucky ones!
+[SPEAKER_01]: And it shouldn't have been very comforting, but I was like, no, that seems like someone who knows what he's doing.
+[SPEAKER_01]: Of course, he'd be my dad's best buddy.
+[SPEAKER_01]: They're both fucking insane.
+[SPEAKER_03]: We had a dude who lived on this island forever who
+[SPEAKER_03]: ran away from home when he was eight and like a little boat and um rode over because he didn't want the ferry crew to know he was over here and ended up living on the island his whole life and nobody knew what his name was he was eddie but he didn't know what his last name was or at least he never told anybody and so when he went to finally get um id and all that like because he had no idea like you know where any of his real papers were they were like well you have to have two names and so he had learned to play the banjo so he was banjo eddie
+[SPEAKER_03]: He lived over on the island for, like, 63 years before he passed away.
+[SPEAKER_03]: Like, no education, nothing.
+[SPEAKER_03]: Like, just dodged fucking everything.
+[SPEAKER_02]: That's amazing.
+[SPEAKER_03]: Island people are special people.
+[SPEAKER_03]: Yeah, so, like, now if you ever go into gigs, there's a painted wood cutout that says Banjo-Eddie under it, and that's the dude.
+[SPEAKER_02]: Okay.
+[SPEAKER_03]: What island do you live on, Tom?
+[SPEAKER_03]: Cuimus.
+[SPEAKER_03]: Cuimus.
+[SPEAKER_03]: Or Cuimus.
+[SPEAKER_03]: Depends on who you ask.
+[SPEAKER_04]: Gwemus sounds weird.
+[SPEAKER_04]: It feels, Gwemus seems correct.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: I mean, considering, considering Ana Cortez is named after a Spanish mistress, I imagine like Gwemus is a bastard anglization of Guaymas, right?
+[SPEAKER_03]: Which is a very common Spanish word.
+[SPEAKER_04]: I still rage on the daily about the fact that people call it Ana Cortez.
+[SPEAKER_03]: I mean, most of the people who are up here actually call it Can't Afford Us, so... Yep.
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: Just the idea of seeing Anacortes and saying, Anacortes!
+[SPEAKER_04]: Like, shut up, man.
+[SPEAKER_04]: Fucking white-ass calling people... Have you looked around when you're in town up here?
+[SPEAKER_03]: I mean, what do you expect?
+[SPEAKER_04]: Well, south of Phoenix, you have an entire area called Casa Grande, and what do they call it?
+[SPEAKER_01]: Casa Grande oh yeah dude I don't it is incredible to me coming from California to Phoenix and like just the absolute refusal to even interface with the Spanish language it's like there's not even an attempt no there's not even an attempt like the other day how would you guys here how would you guys pronounce that word that town name in general Du Bois I have no idea in general
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Yeah, I'd drop it in general.
+[SPEAKER_01]: Dubois would be the French word.
+[SPEAKER_01]: The French word Dubois means like of the woods, right?
+[SPEAKER_01]: Dubois is like forest, like woods.
+[SPEAKER_01]: Or it means two dudes.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Or if you're in Idaho and live there, it's Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Dubois.
+[SPEAKER_01]: Well, Boise is Boise, like hard S. You can tell if people are not from Idaho if they say Boise.
+[SPEAKER_01]: Yeah, Boise?
+[SPEAKER_01]: Boise.
+[SPEAKER_01]: Like Joisey?
+[SPEAKER_01]: No, because there's a Z sound in Joisey.
+[SPEAKER_01]: Yeah, that's fair.
+[SPEAKER_01]: It's like, it's Boise.
+[SPEAKER_01]: And I have lived out of state long enough that if I slip up and say Boise, like, I will get a raft of shit from people.
+[SPEAKER_04]: yeah if I if someone said Dubois in front of me or Dubois Dubois Dubois first of all what a bunch of fucking perverts second of all if someone said that in front of me I would have no choice but to fucking hit them it's an extremely Mormon town so like they need to get hit amongst other things
+[SPEAKER_04]: Yeah, I mean, I used to also live in a very Mormon town and lived off of a street called Germain.
+[SPEAKER_04]: I've heard of it already, but how do you think you spell that?
+[SPEAKER_02]: G-E-R-M-A-N-E. Yeah.
+[SPEAKER_02]: G-E-R-M-A-N-N. German, huh?
+[SPEAKER_02]: Sure.
+[SPEAKER_01]: I think, yeah, one of my pet peeve words is people saying guillotine instead of guillotine.
+[SPEAKER_01]: Like, I don't know why.
+[SPEAKER_03]: I understand why they mean it.
+[SPEAKER_01]: i just i don't know why i literally in jujitsu if people be like oh you got me in a guillotine how do i get out i just wouldn't tell them and i would keep squeezing i don't know why that's my weird word ism that like really drives me crazy that's the one literally anything else is fine by me like ask marie antoinette
+[SPEAKER_01]: just like i'm just it just doesn't feel like a guillotine sounds like oh man it's like quesadilla like ugh quesadilla something about it like literally scratches my brain you know i'm hungry man i was looking i was trying to find a picture of me as a pirate my mom's got one she put it up on the goddamn wall um
+[SPEAKER_03]: There's like a whole bunch of advertisements for Eleven Winery with me as Captain Cork.
+[SPEAKER_02]: Go find that shit.
+[SPEAKER_02]: Oh, well.
+[SPEAKER_01]: I guess it doesn't exist digitally.
+[SPEAKER_01]: Guaymas Island is really selling the Pokemon Go for some reason.
+[SPEAKER_01]: Interesting.
+[SPEAKER_01]: What?
+[SPEAKER_01]: Like the official Guaymas Island tourism, they got a whole Pokemon Go page showing their gyms.
+[SPEAKER_00]: That's really funny.
+[SPEAKER_01]: It's very cute.
+[SPEAKER_03]: You may have found a different Guaymas Island before we have no gym.
+[SPEAKER_00]: They're not that populous.
+[SPEAKER_00]: I mean, Guemes is like, what, like the third smallest?
+[SPEAKER_03]: Oh, I have no idea.
+[SPEAKER_03]: I mean, it all depends on how you decide what counts or what doesn't, right?
+[SPEAKER_03]: So we're technically part of Skagit rather than San Juan.
+[SPEAKER_03]: But if you're talking about the archipelago, like, yeah, we're like the third or fourth smallest island that has residences on it.
+[SPEAKER_03]: But like having Jack and Susha and it's gone like all those islands are fucking tiny.
+[SPEAKER_03]: But they don't have anybody trying to live on them.
+[SPEAKER_01]: And then there's all the little, little ones that if they have a residence, it's yeah, there's like big rocks off Orcus with like, yeah, you know, the bridge to Orcus.
+[SPEAKER_01]: This feels like the right one, the shapes, right?
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: I mean, we have no gym, so I'm trying to understand.
+[SPEAKER_03]: No, a Pokemon Go gym.
+[SPEAKER_03]: At the church.
+[SPEAKER_03]: Yeah, not like a... Oh, well, the church might have something like that.
+[SPEAKER_03]: Who knows?
+[SPEAKER_03]: The hippie church is rad.
+[SPEAKER_03]: It basically hosts everything.
+[SPEAKER_03]: Like, all my GPAC meetings are in the church.
+[SPEAKER_01]: Oh, shit.
+[SPEAKER_01]: I'm going to turn off the recording now.

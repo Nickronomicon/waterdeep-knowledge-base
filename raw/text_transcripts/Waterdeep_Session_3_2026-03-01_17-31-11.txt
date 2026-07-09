@@ -1,0 +1,2543 @@
+[SPEAKER_03]: i'm just here with my buddy jake don't poke my don't don't pick my nose you can't stop me okay last we left off last week uh
+[SPEAKER_02]: On the search for Floon at the behest of Volo to find his missing friend, you ventured to the Skewered Dragon, met a few of the dock ward locals, almost started a bar fight.
+[SPEAKER_02]: Well, successfully started the bar fight, but it was promptly stopped.
+[SPEAKER_02]: Visited Zoblob's shop.
+[SPEAKER_02]: i met the purple deep gnome where everything was purple uh i think bro thule got a tempting offer for uh one or both of his eyes uh i rolled for the price i think it was it was above a gold coin though wasn't it it was yeah one gold five silver yeah yeah yeah no reasonable
+[SPEAKER_02]: You don't need both eyes.
+[SPEAKER_02]: But Zoblob was able to confirm that Flume was probably Flume, and his friend jumped by five-ish ruffians outside his shop.
+[SPEAKER_02]: So looking in the gutter out there, you stumble across a trail of blue pearls.
+[SPEAKER_02]: which led you to the Zinterum warehouse.
+[SPEAKER_02]: You were ambushed by Kenku.
+[SPEAKER_02]: I believe Jonathan kicked down the front door and was immediately feathered with several arrows.
+[SPEAKER_02]: Fight ensued.
+[SPEAKER_02]: Eventually the Kenku tried to flee to no avail.
+[SPEAKER_02]: Killed one fleeing, cornered another, interrogated him, scared the life out of the poor bird,
+[SPEAKER_02]: uh eventually let him go discovered renair never remember hiding in a closet having been taken by these these uh were probably zentrum agents he had been taken he had been questioned about his father having embezzled half a million gold dragons and hidden it somewhere in the city uh
+[SPEAKER_02]: They ripped off his locket of his mother, to which apparently there was a secret compartment that had something in it, the contents of which Renaer has no idea.
+[SPEAKER_02]: You found the locket with the secret compartment busted open.
+[SPEAKER_02]: What was ever in there is gone now, but still no flume.
+[SPEAKER_02]: However...
+[SPEAKER_02]: When interrogating the Kenku, I believe he may have dropped some hints in mimicking his Zhentarim friends.
+[SPEAKER_02]: He mentioned Xanathar.
+[SPEAKER_02]: He mentioned tie up the pretty boy in the back room, which you think could be Flume or maybe Vrenir.
+[SPEAKER_02]: He mentioned follow the yellow signs in the sewers.
+[SPEAKER_02]: and he mentioned... What was the other thing he said?
+[SPEAKER_02]: Oh.
+[SPEAKER_02]: The other thing he kept repeating was no time to loot the place, just get him to the boss.
+[SPEAKER_02]: That's what you got from the Kenku.
+[SPEAKER_02]: So, while searching the rest of the warehouse, speaking with Renair, which he is familiar with some of you, and you are definitely familiar with him.
+[SPEAKER_02]: He is the lord of the former open lord of Waterdeep.
+[SPEAKER_02]: um former and disgraced i should say currently renier may not be part of the nobility or on any council but he is still well liked and fairly respected in the city so maybe not a position of power but definitely still some sort of standing social standing uh
+[SPEAKER_02]: So about then, while you guys were kind of searching the offices at the top of the building, you could hear the sound of hobnailed boots on cobblestones marching towards the warehouse that you were hanging out in.
+[SPEAKER_02]: And I believe that is where we left off.
+[SPEAKER_02]: Did I forget anything?
+[SPEAKER_04]: Not to my recollection.
+[SPEAKER_04]: That's not right.
+[SPEAKER_02]: Great.
+[SPEAKER_02]: So, here we are, back in the warehouse.
+[SPEAKER_02]: The sound of boots.
+[SPEAKER_02]: What's everyone doing?
+[SPEAKER_05]: Hmm.
+[SPEAKER_05]: I'm gonna ask Renair for help.
+[SPEAKER_05]: Renair, it sounds like our lovely watch has shown up.
+[SPEAKER_00]: Could you perhaps go have a word with them?
+[SPEAKER_02]: Of course.
+[SPEAKER_02]: We, uh...
+[SPEAKER_02]: We get along better these days than we used to.
+[SPEAKER_05]: Certainly better than I do.
+[SPEAKER_02]: Some of you may remember stories of Renaer and his friends in their younger years made a game of avoiding the watch.
+[SPEAKER_02]: Oh no.
+[SPEAKER_02]: We don't have music anymore.
+[SPEAKER_02]: It just broke.
+[SPEAKER_02]: I mean, we have it, but I can't.
+[SPEAKER_02]: I hear music.
+[SPEAKER_02]: I know, but I can't control it.
+[SPEAKER_02]: It's gone back to a blank screen.
+[SPEAKER_02]: It's about to crash.
+[SPEAKER_00]: Windows!
+[SPEAKER_02]: Music may be a bust.
+[SPEAKER_02]: Sorry.
+[SPEAKER_02]: Give me one second.
+[SPEAKER_02]: Yep, there it went.
+[SPEAKER_02]: What do we know about the sewers in Waterdeep?
+[SPEAKER_02]: They are extensive.
+[SPEAKER_02]: There's a whole guild responsible for maintaining them.
+[SPEAKER_02]: They run under, I'd say, most of the city.
+[SPEAKER_03]: Are they turtles?
+[SPEAKER_02]: What's that?
+[SPEAKER_02]: Are they turtles?
+[SPEAKER_02]: Yeah, yeah, a lot of turtles.
+[SPEAKER_02]: Younger turtles, really.
+[SPEAKER_02]: More teenagers than anything.
+[SPEAKER_05]: Heroes, though, right?
+[SPEAKER_02]: Well, half hero.
+[SPEAKER_02]: Half shell.
+[SPEAKER_05]: Okay, good.
+[SPEAKER_02]: Okay, good.
+[SPEAKER_00]: Apparently the Teenage Mutant Ninja Turtles pre-releases have not been very popular this weekend.
+[SPEAKER_03]: Really?
+[SPEAKER_03]: Shocking, I know.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I feel like all the magic things, what are they called?
+[SPEAKER_02]: The secret whatever?
+[SPEAKER_02]: The crossing of the world shit?
+[SPEAKER_02]: Universe is beyond.
+[SPEAKER_05]: What they should have done is they should have started with the comic books post-Master Splinter dying.
+[SPEAKER_05]: Because nobody even knows about that storyline because everybody only watched the TV programs.
+[SPEAKER_02]: I was going to say, spoilers.
+[SPEAKER_02]: My wife would know.
+[SPEAKER_05]: It's interesting, right?
+[SPEAKER_05]: So in the comic books, like...
+[SPEAKER_05]: Bebop and Rock said he teamed up with them because they're a huge anti-mutant thing starts up, and that's how Master Splinter's killed.
+[SPEAKER_05]: Ah.
+[SPEAKER_05]: Little X-Men trick.
+[SPEAKER_00]: Yeah, I was going to say, are they taking some of the similar inspiration?
+[SPEAKER_02]: Are they also trying to do a Malcolm X?
+[SPEAKER_05]: Sort of, kind of.
+[SPEAKER_05]: It's like they kill Krang.
+[SPEAKER_02]: before all this happens and so Shredder kind of like gets rid of his footmen and all his shit and is like oh I'm a human being I know how to handle this and he starts stoking some anti-mutant shit I feel like very neutral leaning somewhat negative these days towards comics I will always defend X-Men I feel like that's the one that is like
+[SPEAKER_00]: really actually have some things to say that a lot of them don't necessarily do.
+[SPEAKER_02]: When it comes to comics, I always read DC, but more specifically Dark Horse.
+[SPEAKER_00]: I mean, I still rehash jokes from The Tick.
+[SPEAKER_00]: That is probably my favorite comic book series, though I don't think it really counts for what y'all are talking about.
+[SPEAKER_02]: I don't know, man.
+[SPEAKER_02]: It's pretty good.
+[SPEAKER_04]: I think comic book storylines are more tied to author and the writer than anything else.
+[SPEAKER_04]: I've seen certain writers do a whole bunch of different treatments, and they're great.
+[SPEAKER_04]: I think I just like certain writers.
+[SPEAKER_00]: Yeah, that's fair.
+[SPEAKER_00]: I feel like X-Men has baked in a certain amount of social commentary.
+[SPEAKER_04]: Mm-hmm.
+[SPEAKER_02]: Like the very basic fundamental premise is literally rooted in civil rights.
+[SPEAKER_02]: And in some ways I could see that also with Spider-Man being like the working man's hero, you know?
+[SPEAKER_04]: Yeah, but he's from New York.
+[SPEAKER_04]: That doesn't count.
+[SPEAKER_02]: He's from Queens, bro.
+[SPEAKER_04]: Is that not New York?
+[SPEAKER_02]: It's not like upper echelon New York.
+[SPEAKER_02]: That's very much regular working person.
+[SPEAKER_04]: I'm swinging here.
+[SPEAKER_04]: Okay.
+[SPEAKER_02]: Alright, we got it.
+[SPEAKER_02]: We're back, I think.
+[SPEAKER_00]: So they're outside, and we hear things outside, right?
+[SPEAKER_02]: So Vanir, yes, he heads outside to intercept the watch on their way through.
+[SPEAKER_02]: And you can hear the sounds of conversation, right?
+[SPEAKER_02]: You hear Vanir speaking.
+[SPEAKER_02]: And another not
+[SPEAKER_02]: loud angry or strident voice just a very calm baritone from outside uh it appears the watch is here and viner is outside talking to their commander davy i dare you to shoot one with a crossbow no
+[SPEAKER_02]: So while they're talking, you see several of the other constables.
+[SPEAKER_02]: Actually, where is everyone?
+[SPEAKER_05]: Where he left off was on the second floor.
+[SPEAKER_02]: Mm-hmm.
+[SPEAKER_02]: Which I believe, on the second floor, there are no windows that look out of this warehouse down on the courtyard.
+[SPEAKER_02]: Nope.
+[SPEAKER_02]: So all you can hear is talking out there.
+[SPEAKER_02]: Hold on, Nick.
+[SPEAKER_02]: Isn't this a window?
+[SPEAKER_02]: The thing that I'm standing by?
+[SPEAKER_02]: Are you on the first floor still?
+[SPEAKER_02]: That is a window, but it is painted over.
+[SPEAKER_04]: Oh.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: But yeah, so you hear the sounds of conversation, and several of the constables have come in through the double doors and are fanning out, basically looking at the chaos.
+[SPEAKER_02]: It's going to be a fun investigation.
+[SPEAKER_02]: It was one fight over the top of another fight, so we'll see just how Sherlock Holmes the City Watch can actually get.
+[SPEAKER_02]: What are you guys doing while the constables look around?
+[SPEAKER_04]: Elliot is going to stand with his chest popped a bit, waiting for them to don him with a medal.
+[SPEAKER_02]: You're waiting for manacles?
+[SPEAKER_04]: A medal.
+[SPEAKER_04]: I just saved a noble.
+[SPEAKER_04]: Huh?
+[SPEAKER_02]: Uh-huh.
+[SPEAKER_02]: uh i think technically maybe not socially but like in the scheme of things you guys might outrank rainier maybe you might not be as socially connected right you might not be as famous or as popular but like in terms of of pecking order theoretically because you still both belong to houses in good standing never remember is not a house in good standing in waterdeep
+[SPEAKER_04]: Um, Elior's then gonna go to the watch and basically say, I'm here to answer any questions you have, and kind of introduce himself, be like, Elior, Elior Thalassmere.
+[SPEAKER_02]: Uh, you see the constable, his eyes narrow as you approach, and they get bigger when you drop the name Thalassmere.
+[SPEAKER_02]: And he points over his shoulder back towards the door.
+[SPEAKER_02]: You want to address anything to Captain Staggett?
+[SPEAKER_00]: I'm going to go over and introduce myself and try and be chummy with the the captain.
+[SPEAKER_02]: Yeah, dude, we're rich.
+[SPEAKER_02]: Police are our friends.
+[SPEAKER_02]: Right.
+[SPEAKER_02]: I'm going to add like
+[SPEAKER_02]: I'm obviously not a noble, but I'm going to walk behind and associate myself with these guys as much as I can.
+[SPEAKER_02]: You're part of the entourage.
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: As you step outside, you can see Vernier talking to who must be Captain Stajic.
+[SPEAKER_02]: He's...
+[SPEAKER_02]: Not a particularly remarkable looking man, other than he does have the trappings of his rank.
+[SPEAKER_02]: Captain of the Guard.
+[SPEAKER_02]: His cape is slightly cleaner than everyone else's armor.
+[SPEAKER_02]: You can hear him and Rene kind of finishing up their conversation, and Rene's been telling him what happened.
+[SPEAKER_02]: It basically ends with, you know, and that's when they found me.
+[SPEAKER_02]: Hmm.
+[SPEAKER_02]: The captain's nodding along and looks up when he sees you guys approach.
+[SPEAKER_04]: I'm going to say, hey, captain.
+[SPEAKER_04]: I think there's something fishy going on here.
+[SPEAKER_02]: Doesn't even register.
+[SPEAKER_02]: Like, it's not that the joke didn't land.
+[SPEAKER_02]: It's that there was no, he had no idea there was a joke there.
+[SPEAKER_02]: You got that?
+[SPEAKER_02]: So, see, I need a statement from everybody.
+[SPEAKER_02]: I've already captured Master Veneers.
+[SPEAKER_02]: About this time, who's all outside right now?
+[SPEAKER_02]: Is it just you three?
+[SPEAKER_02]: Is Davy and Brothel still inside the warehouse?
+[SPEAKER_03]: Davy is hiding.
+[SPEAKER_02]: Hiding.
+[SPEAKER_02]: Actually hiding.
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Upstairs?
+[SPEAKER_01]: I was trying to remember if I was upstairs or downstairs.
+[SPEAKER_01]: I put myself in the downstairs closet.
+[SPEAKER_02]: Okay, you had time when everyone was approaching.
+[SPEAKER_02]: You can hide anywhere in that warehouse you want, but I do want to stealth check.
+[SPEAKER_01]: Okay, yeah, I put myself in the fish closet.
+[SPEAKER_02]: Yep, that works.
+[SPEAKER_00]: Yeah, I'm like right by the doors, but I'm technically inside.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: 14.
+[SPEAKER_02]: Total 14, okay.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So then everybody but Davy... Actually, I don't even need to make you roll for this, because now that the consoles have banned out, it's pretty obvious.
+[SPEAKER_02]: Standing next to Captain Staget in short manacles, looking very dejected, is a sad little Kenku.
+[SPEAKER_02]: Which may look...
+[SPEAKER_02]: Not quite as catatonic as the last time you saw him.
+[SPEAKER_02]: I think his fear of imprisonment is much, much less than his fear of being murdered by a group of adventurers.
+[SPEAKER_02]: Let's see.
+[SPEAKER_02]: I don't even know if Stajic knows who either of you two
+[SPEAKER_00]: Is there a keyboard shortcut to unmute Discord?
+[SPEAKER_02]: To unmute it?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: To mute, to toggle your mute state.
+[SPEAKER_05]: There is.
+[SPEAKER_05]: You can set it.
+[SPEAKER_00]: Oh, OK.
+[SPEAKER_00]: I wasn't sure if anyone just had it offhand.
+[SPEAKER_02]: Uh, he definitely does not recognize everyone.
+[SPEAKER_00]: That's a nap one.
+[SPEAKER_02]: Uh, he does recognize Jonathan, however.
+[SPEAKER_00]: Everyone recognizes me because I'm hot.
+[SPEAKER_02]: probably what it is.
+[SPEAKER_02]: Probably has nothing to do with the shine eyes.
+[SPEAKER_02]: Nope.
+[SPEAKER_02]: He gives a bit of a nod.
+[SPEAKER_02]: Says, Lord Eagle Shield, I didn't realize you were here as well.
+[SPEAKER_02]: I am.
+[SPEAKER_02]: So, does anyone want to give me
+[SPEAKER_02]: their story of events i mean i heard what happened after you found some lord veneer here but i what led up to you appearing at the warehouse drinking drinking i would hope
+[SPEAKER_02]: How does a pub crawl lead one to a... Not out there raising too much of a ruckus, I hope, but how does a pub crawl lead to a warehouse?
+[SPEAKER_00]: As it turns out, all it takes is blue pearls.
+[SPEAKER_04]: I just got a hankering for some pickled herring.
+[SPEAKER_04]: Real bad hankering, you know, when you're drinking a lot, dude, and like... You know?
+[SPEAKER_00]: No.
+[SPEAKER_00]: Kinda, yeah.
+[SPEAKER_03]: You never had pickle herring while drinking?
+[SPEAKER_02]: I've never been drinking.
+[SPEAKER_02]: I don't drink.
+[SPEAKER_04]: You want to join us next time?
+[SPEAKER_02]: No.
+[SPEAKER_04]: You sure?
+[SPEAKER_00]: Come on.
+[SPEAKER_02]: He seems like a bit of a stick in the mud.
+[SPEAKER_04]: Can he be persuaded otherwise?
+[SPEAKER_02]: To go drinking?
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: Yeah, you can try.
+[SPEAKER_02]: Total of... 19.
+[SPEAKER_02]: Close.
+[SPEAKER_04]: Dang it!
+[SPEAKER_02]: This guy's really a stick in the mud.
+[SPEAKER_02]: He doesn't... Are you rolling persuasion?
+[SPEAKER_02]: Yeah, I tried to persuade him to go drinking with him.
+[SPEAKER_00]: Okay, hang on, hang on, hang on.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Slow your horses.
+[SPEAKER_02]: Fuck!
+[SPEAKER_02]: So close.
+[SPEAKER_00]: I mean, drinking really isn't justice, so... Oh!
+[SPEAKER_02]: 20.
+[SPEAKER_02]: Merriment can always lead to justice.
+[SPEAKER_02]: You're...
+[SPEAKER_02]: You're not part of the set.
+[SPEAKER_02]: Your DC's higher.
+[SPEAKER_02]: You're not noble.
+[SPEAKER_02]: Right?
+[SPEAKER_02]: There's a chance that he might take this as a directive, right?
+[SPEAKER_02]: As an order, as something he has to do.
+[SPEAKER_02]: And even then, the odds of him actually drinking, the odds of him going out along with you on a pub crawl, it's possible.
+[SPEAKER_02]: But the man doesn't drink.
+[SPEAKER_00]: What a fucking nerd.
+[SPEAKER_02]: I mean, he is the captain of the watch in charge of the dock.
+[SPEAKER_00]: Sounds like some nerd.
+[SPEAKER_02]: You guys know him, maybe not personally, but at least by reputation.
+[SPEAKER_02]: What was his name again?
+[SPEAKER_02]: His name is Hustus Staget.
+[SPEAKER_00]: Dude, it sounds like a nerd.
+[SPEAKER_02]: Yep, probably.
+[SPEAKER_02]: He's well liked.
+[SPEAKER_02]: All the merchants, the shopkeepers, everyone in Doc Ward who isn't trying to pull criminal shit seems to like Captain Staget.
+[SPEAKER_02]: I think it's a good thing he's in charge of the watch down here.
+[SPEAKER_04]: Alright, I'm going to relay what happened with an extra focus on the Kangoo letting us know what
+[SPEAKER_05]: information that might lead to Floon.
+[SPEAKER_02]: So, yeah, you go back to the story, and he's nodding along as if he knew some of it.
+[SPEAKER_02]: Maybe not the stuff about Floon, but he doesn't seem surprised that there are a bunch of dead gangsters in a warehouse in his ward.
+[SPEAKER_02]: Of all the things, this has not come as a shock to him.
+[SPEAKER_02]: Actually, what he's going to do is he takes down your story, he listens to everything, and he asks a couple of you to corroborate as you're telling it, like, oh, is that right?
+[SPEAKER_02]: Is that what happened?
+[SPEAKER_02]: Uh, and when you're done, he hands everybody, except Davey, who is still hiding, uh...
+[SPEAKER_02]: He hands everybody, uh, a sheet.
+[SPEAKER_02]: It's actually, I already sent it to the handouts.
+[SPEAKER_02]: It's a copy of the code legal.
+[SPEAKER_02]: Uh... Basically, it's in the handouts channel.
+[SPEAKER_02]: Um, I think.
+[SPEAKER_04]: Yeah, it is.
+[SPEAKER_02]: Okay, good.
+[SPEAKER_02]: Uh, he hands each of you a copy of the code legal.
+[SPEAKER_02]: Um...
+[SPEAKER_02]: you know just a reminder of noble or not what you can and cannot do in his city and he specifically mentions as he hands one to each of you you know these are the things that you can and cannot do on the streets of the dock ward and it's very funny how he says he emphasizes the streets what you do in private is a whole other story
+[SPEAKER_02]: could be one interpretation he does not appear it appears that flume missing is news to him like he's it's that's probably the part of the story that he did not have any sort of take on when you were describing it
+[SPEAKER_02]: And so, yeah, he hands you all the code legal to take down your story.
+[SPEAKER_02]: He says, well, I'm sorry about your missing friend, but it's best not to meddle in criminal matters.
+[SPEAKER_02]: Leave the dirty business to the city watch.
+[SPEAKER_04]: Isn't that like your whole job, meddling in criminal matters?
+[SPEAKER_04]: Can you help us?
+[SPEAKER_02]: What kind of help?
+[SPEAKER_05]: Get our friend back?
+[SPEAKER_02]: From what you've described and what we've got out of the Kenku, it sounds like there's a good chance your friend is down in the sewers.
+[SPEAKER_02]: And I can't send the watch down into the sewers when there's borderline open warfare on the streets.
+[SPEAKER_04]: No, so your jurisdiction only extends to above ground.
+[SPEAKER_04]: Except for your poop, I guess.
+[SPEAKER_02]: That sounds right.
+[SPEAKER_02]: I'm not saying the watch...
+[SPEAKER_02]: Couldn't head down to the sewers should we need.
+[SPEAKER_02]: Right now, it's more important that we stay above ground.
+[SPEAKER_04]: Ain't better just to cut the head off the snake, though.
+[SPEAKER_04]: You've said most activities in the sewers.
+[SPEAKER_02]: They seem to be cutting each other's heads off.
+[SPEAKER_02]: I say let them.
+[SPEAKER_04]: Fair enough.
+[SPEAKER_04]: Any advice you could give us if we were to, um...
+[SPEAKER_02]: feel so inclined as to maybe hire a private group to go after our friend yeah keep the blood off the streets which by the way is a that's kind of a common saying amongst the city watch i'm gonna turn to the party and be like i'm starting to think the police aren't necessarily here to help us
+[SPEAKER_00]: Oh, do leave the poor man alone.
+[SPEAKER_00]: He's given us quite a bit.
+[SPEAKER_00]: I think it's just flown over your head.
+[SPEAKER_05]: He needs to fly over your head when you're licking his boot.
+[SPEAKER_00]: Weren't you just groveling to them moments ago?
+[SPEAKER_04]: Yeah, but I'm like 20.
+[SPEAKER_02]: My opinions change on literally one interaction.
+[SPEAKER_01]: I don't think our friend would have come to us.
+[SPEAKER_02]: but this asked if he could have just gone to the Y. Dave, you can hear the consoles rustling around out in the warehouse, but so far no one has approached your closet.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: Has anyone mentioned Davy in the whole story?
+[SPEAKER_02]: No.
+[SPEAKER_04]: Not because out of, like, some sense of kinship, because I just forget Davy's there.
+[SPEAKER_00]: I am just a... Real well.
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So, I mean, with that, Stadget appears to be done with you.
+[SPEAKER_02]: He doesn't suspect you of being Xanathar or Zhent.
+[SPEAKER_02]: This investigation is probably not going to be too involved because, again, it's Xanth on Zhent hate crimes.
+[SPEAKER_02]: He doesn't care.
+[SPEAKER_02]: What are you guys up to?
+[SPEAKER_02]: What's next?
+[SPEAKER_05]: Are we done here, then?
+[SPEAKER_05]: I think we've got a hatchet planned to get flown.
+[SPEAKER_04]: I was asking the constable.
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: I recommend you don't leave the city, should I have more questions.
+[SPEAKER_02]: But I know where to find at least one of you.
+[SPEAKER_00]: Might we leave the streets?
+[SPEAKER_02]: That's a fine suggestion.
+[SPEAKER_00]: Indeed.
+[SPEAKER_00]: I'm going to whistle.
+[SPEAKER_00]: I'm going to whistle real loud and say, Davey, it's time to go.
+[SPEAKER_02]: Can Davey even hear you all the way downstairs and in a closet?
+[SPEAKER_02]: No, you guys are outside, so it's around the corner in a closet that doesn't have a door.
+[SPEAKER_05]: Maybe it's vexed with hypervigilance.
+[SPEAKER_05]: But isn't Davey downstairs?
+[SPEAKER_02]: Everyone's downstairs.
+[SPEAKER_02]: The upstairs is just like a foyer and an office over the top.
+[SPEAKER_02]: Everyone's outside in the main court, the main yard, docking yard.
+[SPEAKER_02]: I know.
+[SPEAKER_02]: Exactly.
+[SPEAKER_02]: But Davey is, where's the courtyard?
+[SPEAKER_02]: There's no downstairs.
+[SPEAKER_02]: There's a ground floor and an upstairs.
+[SPEAKER_02]: Oh, that was a set of stairs off of.
+[SPEAKER_02]: Oh.
+[SPEAKER_02]: Oh, okay.
+[SPEAKER_02]: I thought that was a basement.
+[SPEAKER_02]: Gotcha.
+[SPEAKER_02]: No, no, no, no.
+[SPEAKER_02]: So, yeah, so there was the ground floor of the warehouse, and there was kind of like a foyer up top, a bit of a balcony with a loading crane, and then offices back behind it.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: So, I mean, it's just inside around the corner.
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: Davey, can you hear that?
+[SPEAKER_02]: Make a perception check.
+[SPEAKER_02]: DC is like an eight.
+[SPEAKER_02]: Okay.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Just barely.
+[SPEAKER_01]: Alright, I will, like, very casually walk out of the closet and towards the door.
+[SPEAKER_02]: Uh, you see one of the constables, like, watch you make a full exit, start to, like, open his mouth and say something.
+[SPEAKER_02]: You see the other one next to him, like, put a hand on his shoulder and just, like,
+[SPEAKER_02]: Stadget sees you come around the corner and let's see, actually... Yeah.
+[SPEAKER_02]: You look a bit the ruffian, right?
+[SPEAKER_02]: With the clothes and the little bit of dirt.
+[SPEAKER_02]: And so he gives you a bit of a hard look.
+[SPEAKER_02]: But from everything you've described, it doesn't seem like you're dressed like a Zhent or Xanathar's guild.
+[SPEAKER_02]: He pulls out another one of the broadsheets and hands you a copy of the Code Legal.
+[SPEAKER_01]: I'll thank him and I'll say, I didn't know if you were good guys and I don't like to fight.
+[SPEAKER_02]: Anything you want to add to the story, kiddo?
+[SPEAKER_01]: I think my friends probably covered it.
+[SPEAKER_00]: Indeed, we are very thorough.
+[SPEAKER_00]: Your constables, however.
+[SPEAKER_00]: I can't believe they missed him.
+[SPEAKER_01]: I chuckle.
+[SPEAKER_02]: You can see of everything anyone has said tonight, that has raised the most reaction from the man.
+[SPEAKER_04]: They were great nearby.
+[SPEAKER_04]: Hey, dude, maybe closets aren't in his jurisdiction.
+[SPEAKER_02]: Maybe what?
+[SPEAKER_04]: Maybe closets aren't in his jurisdiction.
+[SPEAKER_02]: Well, he did say he works on the streets, and that wasn't in the streets.
+[SPEAKER_02]: Somebody asked something about sewers nearby.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Well, you can...
+[SPEAKER_02]: You can give me an investigation check to search for a sewer, or if anyone wants to try and track the results, try and track the Xanathar's Guild that drugged Floon away.
+[SPEAKER_02]: The trail's not too cold.
+[SPEAKER_02]: I'll let anybody make a survival check if they want to try and track them.
+[SPEAKER_04]: Wait.
+[SPEAKER_04]: I think I have a genius plan.
+[SPEAKER_04]: Does anybody know any sort of tracking magic?
+[SPEAKER_02]: Level one?
+[SPEAKER_04]: Yeah, well, we could procure a tracking spell.
+[SPEAKER_05]: Yeah, we could follow the yellow arrows, you know.
+[SPEAKER_00]: I think I might, but I think I'm out of spell slots.
+[SPEAKER_04]: Yeah, we need to definitely do a full rest before we get into the next fight.
+[SPEAKER_04]: I'm just saying we could track our own excrement.
+[SPEAKER_04]: We know exactly where the sewers are.
+[SPEAKER_02]: There's finding the sewers, and then there's finding fair entrance to the sewers, right?
+[SPEAKER_04]: Mm-hmm.
+[SPEAKER_04]: But look, are we not trying to make some money here?
+[SPEAKER_04]: We all go to separate areas of the city, track each individual poop to create a map of the sewers.
+[SPEAKER_02]: The sewers are extensive.
+[SPEAKER_02]: We don't need a map.
+[SPEAKER_02]: If we wanted to know more about the sewers, we would just go find one of the sewer guild people.
+[SPEAKER_04]: You guys are no fun.
+[SPEAKER_02]: No, I'm digging this now.
+[SPEAKER_02]: You want to swallow some sort of tracking, some sort of scrying object.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: What would it be?
+[SPEAKER_02]: It would be an object you could scry on.
+[SPEAKER_02]: Everybody, swallow one.
+[SPEAKER_02]: Go make your business at points in the city and try and find where it all goes to map it out.
+[SPEAKER_05]: Exactly.
+[SPEAKER_02]: That is one way to get a map.
+[SPEAKER_04]: Another way would be to buy one from the sewer guild.
+[SPEAKER_04]: I thought this was a water deep heist.
+[SPEAKER_02]: No, I'm digging it.
+[SPEAKER_02]: I wonder how long that would take.
+[SPEAKER_05]: Depends how bad you have to go.
+[SPEAKER_05]: What's the D&D equivalent of Indian food?
+[SPEAKER_05]: Because that'll run right through me.
+[SPEAKER_01]: No, we need to find the nearest Taco Bell.
+[SPEAKER_04]: Yeah, the D&D equivalent of Taco Bell.
+[SPEAKER_02]: That would be any of the street vendors.
+[SPEAKER_05]: Preferably in the South Ward.
+[SPEAKER_02]: Yeah, anything in the South Ward.
+[SPEAKER_04]: I mean, there's pickled herring inside, honestly.
+[SPEAKER_02]: It's gone well past pickle.
+[SPEAKER_05]: That's my suggestion.
+[SPEAKER_05]: That way we really know what we're going into.
+[SPEAKER_02]: You guys can find a sewer entrance, if you're looking for one.
+[SPEAKER_05]: And go in blind?
+[SPEAKER_02]: You can go in, well, I mean, first off, finding someone that can cast Scry, that has been willing to cast Scry on five individual pieces of excrement.
+[SPEAKER_02]: And then willing to continually do it in order to generate a map.
+[SPEAKER_02]: Because remember, Scry lets you see the person and a little bit of their surroundings, but it's not much in focus.
+[SPEAKER_05]: Let's try something different.
+[SPEAKER_05]: If I was making a getaway from a place like this, and I was going to use the sewers, I'd probably go to the nearest sewer entrance.
+[SPEAKER_00]: Perhaps we should look around for the nearest sewer entrance to this point.
+[SPEAKER_02]: I rolled for that, but I had a shitty roll.
+[SPEAKER_02]: I didn't see what you rolled, actually.
+[SPEAKER_04]: I'm not worried about gaining access to the sewers.
+[SPEAKER_04]: I'm worried about what happens when we go in there.
+[SPEAKER_04]: We gotta have a plan.
+[SPEAKER_04]: We're walking into the lion's den.
+[SPEAKER_02]: Well, you guys are discussing the let's track our poop approach.
+[SPEAKER_02]: It appears Davey has...
+[SPEAKER_02]: found not just the nearest grate, which is just to the north of the street from you.
+[SPEAKER_02]: It appears that there are the leftover little bits of yellow paint, possibly like fingerprints in yellow, have started to wash off, but they're definitely on the edge of that manhole cover.
+[SPEAKER_05]: And Davey relays this information to us?
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Okay, well, first Elior is like, oh!
+[SPEAKER_05]: Who are you?
+[SPEAKER_05]: Oh, right, right, right.
+[SPEAKER_04]: Sorry.
+[SPEAKER_04]: I'll put my hood up higher over my face.
+[SPEAKER_04]: Now I recognize you.
+[SPEAKER_04]: I'm not used to it.
+[SPEAKER_02]: Your hood was way far down.
+[SPEAKER_02]: I didn't even really know you had a face.
+[SPEAKER_02]: This is all great and dandy, but no problem.
+[SPEAKER_05]: We can find the sewers, but I just really think we should have a plan for once we're in the sewers, given that we just lost to their...
+[SPEAKER_04]: I took a pretty fat arrow fighting their mercenaries.
+[SPEAKER_04]: I can't imagine what their upper echelon of gangsters is like.
+[SPEAKER_02]: I've got a plan B if anyone wants to hear it.
+[SPEAKER_02]: We're not continuing the bar call.
+[SPEAKER_02]: No, that's plan D. Renair ducks away for a minute.
+[SPEAKER_02]: He says, excuse me.
+[SPEAKER_02]: And he runs back to the stagic.
+[SPEAKER_02]: And they're talking back and forth real quick.
+[SPEAKER_04]: What a narc.
+[SPEAKER_04]: Okay, plan B.
+[SPEAKER_04]: We met our new good buddy, Renair, right?
+[SPEAKER_05]: What if we just pop in that tattoo shop down the street we passed when we were drinking, you know, tat ourselves up and, you know, present him.
+[SPEAKER_02]: Six inch unicorn with blue pearls.
+[SPEAKER_02]: Oh, no.
+[SPEAKER_05]: No, no, the Xanathar's Guild tattoo, the, like, eight spokes coming out of the center or whatever, right?
+[SPEAKER_03]: That sounds even more dangerous.
+[SPEAKER_02]: No, and then we bring them.
+[SPEAKER_02]: We've got the golden goose from there.
+[SPEAKER_05]: We caught him.
+[SPEAKER_05]: All right, that's what he was looking for.
+[SPEAKER_05]: He was looking for those gold pieces.
+[SPEAKER_05]: They'll take us right to wherever we probably have to go.
+[SPEAKER_04]: You want to pull, like, a Return of the Jedi.
+[SPEAKER_02]: We're one of you.
+[SPEAKER_02]: We're bringing you a prisoner.
+[SPEAKER_01]: I mean, Oladin, you have a disguise kit, right?
+[SPEAKER_01]: We could just draw them on.
+[SPEAKER_02]: Yeah, I have a disguise kit.
+[SPEAKER_02]: We could just try and dress up as, I mean, you've got something to work with.
+[SPEAKER_02]: You've seen quite a few Xanathar bodies in the warehouse.
+[SPEAKER_02]: Rhaenyra's coming back at about this time, and he's holding up three little bottles, each sloshing with red liquid.
+[SPEAKER_01]: What do you got there?
+[SPEAKER_02]: These are my kind of road flagons.
+[SPEAKER_02]: They appear to be, he appears to have three potions.
+[SPEAKER_05]: All right, I'm going to, Helio's going to pitch him on plan B.
+[SPEAKER_05]: Actually, you know what?
+[SPEAKER_05]: I'll present both plans to him.
+[SPEAKER_05]: Plan A and plan B.
+[SPEAKER_02]: So the poop map.
+[SPEAKER_05]: Yep.
+[SPEAKER_02]: It's plan A.
+[SPEAKER_02]: And plan B is head down the manhole that was discovered, but first stop and go get Xanathar tattoos.
+[SPEAKER_05]: Yeah, and then put Renair in manacles and have him take us to the Golgotha and be like, we got this guy.
+[SPEAKER_02]: You... You're willing to tattoo yourself with a known symbol of one of the major criminal guilds in Waterdeep?
+[SPEAKER_04]: As a noble?
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Yeah, we're cool like that, dude.
+[SPEAKER_03]: Maybe we could just do marketing.
+[SPEAKER_04]: We need money.
+[SPEAKER_02]: I know the feeling.
+[SPEAKER_02]: Moon and I are good friends.
+[SPEAKER_02]: I don't know that I would tattoo myself for it.
+[SPEAKER_05]: He's a case they coming for somebody who's got half a million gold pieces somewhere.
+[SPEAKER_02]: Mm-hmm Probably a probably a girlfriend too All right guys, what's it gonna be plan a or plan B I
+[SPEAKER_01]: Plan C is just follow the yellow sign.
+[SPEAKER_00]: Plan A is just go into this grate that we've just found, correct?
+[SPEAKER_05]: No, no.
+[SPEAKER_05]: Plan A is find someone to cast Scry on stones that we swallow and then spread across the map to poop into a sewer so we can get a rudimentary map so we have some idea of where we're going.
+[SPEAKER_02]: I don't think we have time for that.
+[SPEAKER_03]: You're how old again?
+[SPEAKER_02]: You guys are awful, awful, uh, hastily running to certain death.
+[SPEAKER_00]: But what is, how does pooping prevent us from falling into certain death?
+[SPEAKER_05]: Because we'll at least know where we're going.
+[SPEAKER_05]: We already know where we're going.
+[SPEAKER_05]: You're just following some yellow arrow.
+[SPEAKER_05]: You don't know what awaits you down there.
+[SPEAKER_00]: How would our poop make us any more knowledgeable?
+[SPEAKER_05]: Because it's going to go down the sewers, and we're going to get a good map of what's going on, and you're going to... You know, with the... That's why the idea that our poop is going to traverse all of the sewers.
+[SPEAKER_05]: That's why we have to go to the ends of the cities.
+[SPEAKER_02]: So that we'll get, like, 10 feet of poop.
+[SPEAKER_02]: And then we'll have a map of the sewers.
+[SPEAKER_02]: It's not going to travel the entire sewers.
+[SPEAKER_02]: They're supposedly labyrinthian, no?
+[SPEAKER_02]: I don't know.
+[SPEAKER_05]: We need a sewer expert.
+[SPEAKER_05]: Certainly not the captain over here.
+[SPEAKER_05]: We can find someone who knows the sewers.
+[SPEAKER_05]: Or we can get those tattoos, and we can go with plan B.
+[SPEAKER_05]: I'm just not seeing any other plans than let's go into the sewers, most certainly to our certain deaths, with no idea of what's happening.
+[SPEAKER_05]: Explain to me how having a map would prepare us for what we will meet down there.
+[SPEAKER_02]: We could sneak Floon out.
+[SPEAKER_05]: We know the back alleys.
+[SPEAKER_05]: We know how to navigate around there if we ever get in trouble.
+[SPEAKER_00]: Do you really think we would be able to sneak Floon away from one of the sneakiest thieves guilds in the city?
+[SPEAKER_00]: If we got a poop map, yep.
+[SPEAKER_00]: Okay, so A is off the table.
+[SPEAKER_00]: What else would the group like to do?
+[SPEAKER_05]: Well, I gave you my idea.
+[SPEAKER_05]: I say we all go get tatted up.
+[SPEAKER_05]: We pretend to be new recruits into this guild.
+[SPEAKER_05]: Put Renair here in Manacles and have him take us to the big guy because they seem pretty interested in him.
+[SPEAKER_02]: They didn't seem to know who Renair was.
+[SPEAKER_02]: Why don't we put you in Manacles?
+[SPEAKER_05]: We'll correct some of their errors and let them know you mistakenly took this other guy, but we got the guy who actually knows where the half mil gold Drakens are.
+[SPEAKER_02]: Yeah, but we don't need to bother Renair for that.
+[SPEAKER_02]: We can just put you in Manacle and say that you're Rhaenar, and they're not going to know the difference.
+[SPEAKER_04]: Everyone knows I'm not Rhaenar.
+[SPEAKER_04]: Everyone knows the name Talismir, okay?
+[SPEAKER_04]: Yeah, but they don't know what you look like.
+[SPEAKER_04]: Everyone knows what I look like.
+[SPEAKER_04]: I mean, I'm no Jonathan, but I get around.
+[SPEAKER_00]: I fear the waters have been too muddied for me to make any clear decision now.
+[SPEAKER_00]: Muddied by the poop.
+[SPEAKER_02]: Were they muddied before, or you're just unable to make clear decisions, period?
+[SPEAKER_00]: Um... Mostly the poop has thrown me off at this point.
+[SPEAKER_00]: I don't actually know what is the right course of action anymore.
+[SPEAKER_05]: This is great.
+[SPEAKER_05]: You're playing like Jonathan thinks.
+[SPEAKER_05]: I just imagine you're over there screaming, JUSTICE!
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: I don't know what the most just course of action.
+[SPEAKER_00]: I don't think getting gang tattoos feels very just.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: That seems unnecessary when we can just put on a disguise that makes us look like them.
+[SPEAKER_04]: Sneaky ones like Davey will get away with it.
+[SPEAKER_04]: Davey might even be Xanathar as it is.
+[SPEAKER_04]: We don't know anything about Davey.
+[SPEAKER_04]: I just learned their name.
+[SPEAKER_04]: I forgot they were here the whole time.
+[SPEAKER_01]: I'm going to show my hands and show that they are tattoo-free.
+[SPEAKER_00]: What does it take for us to get a guide from the Sewer Guild?
+[SPEAKER_02]: From the Guild of...
+[SPEAKER_02]: It would take a lot of coin and it would be tomorrow noon.
+[SPEAKER_02]: You could start negotiating...
+[SPEAKER_02]: at their office opens in the morning and by noon we could probably have someone willing to escort us or it might even be the next day that's what they say yeah then they don't show up for a week dude can't trust this that guild you dealt with them before they had a plumbing issue took weeks weeks we don't have
+[SPEAKER_02]: Now, you guys can sit and discuss this if you like, but ultimately, I'm going after Flynn.
+[SPEAKER_05]: I'm with you.
+[SPEAKER_02]: You got a plan?
+[SPEAKER_02]: We didn't have much of a plan at the warehouse.
+[SPEAKER_02]: I'm not worried about it.
+[SPEAKER_02]: No, now I got two great plans, though.
+[SPEAKER_00]: Elior, you're 20.
+[SPEAKER_01]: Shut the fuck up.
+[SPEAKER_02]: My plan is to crawl down this disgusting sewer hole and see where it leads me.
+[SPEAKER_00]: Then I will join you.
+[SPEAKER_00]: As will I.
+[SPEAKER_02]: You probably opened the manhole, and it's dark down there.
+[SPEAKER_02]: It's real dark.
+[SPEAKER_02]: A couple of you have darkvision, yes?
+[SPEAKER_01]: Yep.
+[SPEAKER_02]: I imagine both of you do.
+[SPEAKER_02]: I think the Asmer both do.
+[SPEAKER_05]: They do, yeah.
+[SPEAKER_00]: Oh, hell yeah.
+[SPEAKER_00]: God, it's so fucking clutch always playing a character that has that.
+[SPEAKER_02]: So, uh, Renair, Davey, Aladin are all going to need a light source, or you guys are going to have to guide them.
+[SPEAKER_01]: I'm going to go back into the warehouse and rummage at the torch.
+[SPEAKER_02]: I think you probably have one in your starter gear.
+[SPEAKER_02]: I think you have a lamp or...
+[SPEAKER_02]: I'm just saying, you'll have to have a light out.
+[SPEAKER_01]: I have a candle.
+[SPEAKER_02]: You have a candle.
+[SPEAKER_02]: That'll work.
+[SPEAKER_01]: Alright, I will light a candle.
+[SPEAKER_01]: I've got a hooded lantern that I'll use.
+[SPEAKER_05]: I also have the light cantrip.
+[SPEAKER_02]: If need be.
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: I believe I do.
+[SPEAKER_02]: Which, like cantrip, I believe makes an object glow, right?
+[SPEAKER_03]: Yeah.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So then my next question is, this sewer is roughly one person wide.
+[SPEAKER_02]: What's your marching order?
+[SPEAKER_05]: I just want to point to clarity before we get into that.
+[SPEAKER_05]: I'm going to cast light on my flagon with the koozie.
+[SPEAKER_00]: It says that it can't be carried by someone.
+[SPEAKER_02]: What?
+[SPEAKER_02]: The light cantrip?
+[SPEAKER_00]: Yeah, you touch one large or smaller object that isn't being worn.
+[SPEAKER_00]: Oh, or by someone else.
+[SPEAKER_00]: Okay, never mind.
+[SPEAKER_02]: Yeah, so you can't use it to light somebody up in battle?
+[SPEAKER_05]: Yeah, that makes sense.
+[SPEAKER_05]: That's fairy fire.
+[SPEAKER_02]: That's fairy fire.
+[SPEAKER_00]: I'm going to shove Renair up front and encourage him to go first.
+[SPEAKER_01]: Okay, if Renair is first, I would like to be last.
+[SPEAKER_05]: I'd like to be second to last.
+[SPEAKER_02]: I'll go second right after Renair.
+[SPEAKER_00]: I will go in the middle.
+[SPEAKER_00]: That leaves me right between the acers.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: I lost it.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Sorry.
+[SPEAKER_02]: It was... You're good.
+[SPEAKER_05]: I got it.
+[SPEAKER_05]: Renair.
+[SPEAKER_05]: Aladin.
+[SPEAKER_05]: Aladin, yeah.
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: Jonathan.
+[SPEAKER_02]: Yep.
+[SPEAKER_05]: Grothul.
+[SPEAKER_02]: Yep.
+[SPEAKER_05]: Elior.
+[SPEAKER_05]: Yep.
+[SPEAKER_02]: Davey.
+[SPEAKER_02]: That is your marching order.
+[SPEAKER_02]: Davey has the Hooded Lantern.
+[SPEAKER_01]: What does Rhaenyra have?
+[SPEAKER_02]: Rhaenyra has a torch.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: But if you guys already have light sources, then he'll hold onto his rapier and dagger if he's in the front.
+[SPEAKER_02]: I've got a candle in one hand and a dagger in the other.
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: I've got my illuminated beer koozie and a flagon.
+[SPEAKER_02]: Right.
+[SPEAKER_02]: What is the range on light camshaft?
+[SPEAKER_05]: 20 feet radius.
+[SPEAKER_02]: 20 feet bright and then 20 feet dim?
+[SPEAKER_05]: Oh, sorry.
+[SPEAKER_05]: Yeah, 20 foot bright, 20 foot dim, yeah.
+[SPEAKER_02]: I've never got too many lights on this before.
+[SPEAKER_05]: It's quite nice, honestly.
+[SPEAKER_02]: Is it?
+[SPEAKER_05]: Yeah, I found it nice.
+[SPEAKER_05]: It's a little tricky, but once you get it, it's nice.
+[SPEAKER_02]: Let me pull it up.
+[SPEAKER_01]: Yeah, so bright light in a 30-foot radius and dim light for an additional 30 feet.
+[SPEAKER_01]: But as a bonus action, I can switch it to dim light with a 5-foot radius or vice versa.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: My candle is
+[SPEAKER_01]: Bright for five, and then him for five.
+[SPEAKER_02]: I don't know what candles were, I don't remember.
+[SPEAKER_02]: Had too many characters with candles, I guess.
+[SPEAKER_01]: Honestly, the candle scene is wasteful right now.
+[SPEAKER_02]: It's one of those things that I'm not going to track, like... How many candles I have, and how many, and when to renew.
+[SPEAKER_02]: Like, I'm just not...
+[SPEAKER_04]: I've got a candle of ever-burning.
+[SPEAKER_04]: Roger that.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: So with that, Renair heads into the sewers to find Bloom.
+[SPEAKER_02]: And I imagine the rest of you follow in said order.
+[SPEAKER_02]: Do we want to roll as a party, or do we want to designate basically the navigator spotter?
+[SPEAKER_04]: Designate navigator spotter.
+[SPEAKER_02]: You can also have someone assist whoever the navigator spotter is to give them advantage.
+[SPEAKER_05]: Yeah, I'd say we run it like we had it, so we're in there, and then...
+[SPEAKER_05]: All the dean would be right behind assisting.
+[SPEAKER_02]: I should not assist.
+[SPEAKER_02]: I don't have darkvision.
+[SPEAKER_05]: Eh.
+[SPEAKER_01]: Or a good lantern.
+[SPEAKER_05]: I should have thought of a different marching order then.
+[SPEAKER_02]: That's the one that makes the most sense to me.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Well, in that case, what news?
+[SPEAKER_02]: Oh, the navigation block.
+[SPEAKER_04]: I couldn't tell you.
+[SPEAKER_04]: I can look it up.
+[SPEAKER_02]: No, no.
+[SPEAKER_02]: I don't want his navigation.
+[SPEAKER_02]: I want his survival.
+[SPEAKER_02]: Just... Eh.
+[SPEAKER_02]: It's plus zero.
+[SPEAKER_02]: Alright.
+[SPEAKER_02]: Do you guys want me to roll or do you want to roll?
+[SPEAKER_02]: Somebody should roll.
+[SPEAKER_05]: For, you know...
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: Give me a survival check.
+[SPEAKER_02]: This is basically a straight D20.
+[SPEAKER_02]: OK. Every couple intersections in this dim light,
+[SPEAKER_02]: You're marching through these kind of reeking sewers.
+[SPEAKER_02]: There's a little slick of water on the ground.
+[SPEAKER_02]: When I say slick, I mean like oil slick.
+[SPEAKER_02]: It's not water you necessarily want on your boots, but the corridor is so narrow that you really don't have much of a choice.
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: So that putrid stream kind of flows along the sewer tunnel.
+[SPEAKER_02]: And you can see this tiny symbol on the wall of several of the intersections.
+[SPEAKER_02]: It's starting to look familiar, right?
+[SPEAKER_02]: It's a palm-sized circle with 10 equidistant spokes radiating out from the center of it.
+[SPEAKER_05]: Make a pretty sick tattoo.
+[SPEAKER_02]: Why do you think they like it so much?
+[SPEAKER_02]: So give me one more tracking check as you make your way following these signs.
+[SPEAKER_01]: Just another d20 or?
+Yep.
+[SPEAKER_02]: Somebody roll a d20.
+[SPEAKER_02]: That's a d100.
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah, you find the next one, and the next one, and the next one.
+[SPEAKER_02]: And you're down there.
+[SPEAKER_02]: It's been about an hour of following these signs through the tunnel.
+[SPEAKER_02]: And after about that, you come to this three-way intersection.
+[SPEAKER_02]: It's not working.
+[SPEAKER_02]: There it is.
+[SPEAKER_02]: You come to a three-way intersection where a ladder leads up into a stone shaft capped by another circular metal cover.
+[SPEAKER_02]: One of the symbols is marked on the wall nearby.
+[SPEAKER_02]: And as you approach, you see something floating next to the center.
+I think so.
+[SPEAKER_02]: In the dim light, you can make out this sphere kind of standing next to the symbol.
+[SPEAKER_02]: And as you are looking at it, you realize that that little sphere is looking back at you.
+[SPEAKER_02]: It's about a grapefruit-sized eyeball with four stumpy eyestalks in it.
+[SPEAKER_02]: About the time you recognize it, it sees you.
+[SPEAKER_02]: And it bares its teeth at you.
+[SPEAKER_02]: And we have a floating gazer at the end of this tunnel.
+[SPEAKER_05]: It's smiling at us.
+[SPEAKER_00]: The grace of the eyeball of smiling.
+[SPEAKER_02]: We'll call it smiling, sure.
+[SPEAKER_02]: The way a shark smiles at you.
+[SPEAKER_02]: And it's small?
+[SPEAKER_00]: How big?
+[SPEAKER_02]: It's either the grapefruit.
+[SPEAKER_02]: Whoops.
+[SPEAKER_02]: So... Would I know what that is?
+[SPEAKER_02]: Roll a history or an arcana check, your choice.
+[SPEAKER_02]: 15. that's a geyser it's a monster surprise surprise it's it's like a baby beholder
+[SPEAKER_00]: Do I know how much danger I am in with one looking at me?
+[SPEAKER_02]: With a gazer looking at you, no.
+[SPEAKER_02]: They're mostly used as, like, lookout spies.
+[SPEAKER_00]: Okay, so I am not in imminent danger.
+[SPEAKER_02]: Well...
+[SPEAKER_02]: Probably not.
+[SPEAKER_02]: Hmm.
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: Seems like you're on the right track I'm a little scared Yeah Oh
+[SPEAKER_02]: Roll initiative.
+[SPEAKER_02]: So if you go to the combat encounter on the... Hit your little die there.
+[SPEAKER_02]: Load up your numbers.
+[SPEAKER_00]: Wow.
+[SPEAKER_02]: I will roll for Renair.
+Oh!
+[SPEAKER_02]: Is it good or bad when the DMs roll in 20 and it's from your ally?
+[SPEAKER_05]: Depends if they keep going.
+[SPEAKER_05]: I say get all your luck out now.
+[SPEAKER_02]: That's what's going to happen.
+[SPEAKER_02]: Here we go.
+[SPEAKER_02]: So, opening up...
+[SPEAKER_02]: Rene recognizes the gazer immediately for what it is and charges forward.
+[SPEAKER_02]: That puts him in range of the gazer hiding out right there and attempts to move.
+[SPEAKER_02]: I didn't think I planned on having Venaire coming along with you.
+[SPEAKER_02]: I do believe he is able to... No fight attack.
+[SPEAKER_02]: He's dead.
+[SPEAKER_02]: What's a graveyard?
+[SPEAKER_02]: Uh... Free attack!
+[SPEAKER_02]: That is a graveyard.
+[SPEAKER_02]: There it is!
+[SPEAKER_03]: Yeah!
+[SPEAKER_02]: Swish, swish with the rapier, trying to stab the floating grapefruit.
+[SPEAKER_02]: It doesn't really work, but all he's doing is corralling him in close to his left hand, where he reaches out with that dagger and gives him a bit of a poke.
+[SPEAKER_02]: And you're going to roll damage on that dagger.
+[SPEAKER_02]: Maybe.
+[SPEAKER_02]: Maybe.
+[SPEAKER_00]: Damage.
+[SPEAKER_00]: for eight points.
+[SPEAKER_02]: So he's just about spitted that gazer on the end of his dagger, but it pulls itself off with a squelch.
+[SPEAKER_02]: And that is Rene'er's turn.
+[SPEAKER_02]: next turn is what i really really really really really want and i'm going to bring this up to foundry is i don't want to have to jump back to the actors page every time i want to pull up their character sheet i can't pull it up from the account and that's i guess
+[SPEAKER_02]: The gazer is going to fire off its eye rays, which if I remember right, is random.
+[SPEAKER_02]: Roll two d4s.
+[SPEAKER_02]: uh i need a wisdom savings bro as the one eye stubby stumpy eyestalk points around down the line and ejects this kind of weird almost like a like a gray purple bean
+[SPEAKER_02]: You're muted, Tom.
+[SPEAKER_00]: Yeah, I was at 17.
+[SPEAKER_02]: 17.
+[SPEAKER_02]: Okay, so you feel that beam kind of wash over you, and the panic starts to rise, and then settle down.
+[SPEAKER_00]: And it was purple, you say?
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: Yeah, kind of.
+[SPEAKER_02]: Kind of like a dusty, dark, sickly color.
+[SPEAKER_02]: Not a bright, vivid, fun color the way Zavlov would enjoy.
+[SPEAKER_00]: Clearly, Zavlov has sent a minion to steal my eyes.
+[SPEAKER_02]: The other eyestalk pokes around.
+[SPEAKER_02]: He sends an eye to steal an eye?
+[SPEAKER_02]: An eye for an eye?
+[SPEAKER_02]: Naturally.
+[SPEAKER_02]: And this bright yellow ray fires out at Jonathan.
+[SPEAKER_02]: I need you to make a Strength saving throw.
+[SPEAKER_00]: Strength saving.
+[SPEAKER_02]: What's the total?
+[SPEAKER_02]: Uh, 12.
+[SPEAKER_02]: Woo!
+[SPEAKER_02]: Beats it, beats it.
+[SPEAKER_02]: That beam hits you, and you feel an intense force try to shove you back down the tunnel into the people behind you.
+[SPEAKER_02]: But you dig in your heels.
+[SPEAKER_00]: The strength of justice fuels me.
+[SPEAKER_02]: You withstand it as that beam peels off of you.
+[SPEAKER_02]: And that is the Gazer's tip.
+[SPEAKER_02]: Man, two rays and nothing fun.
+[SPEAKER_02]: Fine.
+[SPEAKER_02]: Counter.
+[SPEAKER_02]: I believe Aladin is up next.
+[SPEAKER_01]: All right.
+[SPEAKER_02]: I'm going to cast Vicious Mockery.
+[SPEAKER_02]: What do you say to it?
+[SPEAKER_02]: I'd call you an eyesore, but you're too small to even be a sore.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: It's a save, right?
+[SPEAKER_02]: Yeah, it's a wisdom save by the Gazer.
+[SPEAKER_02]: Wisdom save.
+[SPEAKER_02]: What's your DC?
+[SPEAKER_02]: I don't think it is, actually.
+[SPEAKER_02]: Mine's a 12.
+[SPEAKER_02]: Yeah, he rolled a solid five.
+[SPEAKER_02]: You see those ice ducks, right?
+[SPEAKER_02]: And a big old tear well up in the center of his one big eye.
+[SPEAKER_02]: Roll your damage.
+[SPEAKER_01]: Two.
+[SPEAKER_02]: Two?
+[SPEAKER_02]: uh so having been just about shish kebab he's now brokenhearted uh do you want to take a bonus action or move uh yeah bonus action i'm gonna dab into my dagger you can't your bonus action is part of your if you want to do an offhand attack you have to do a main hand attack ah okay you you
+[SPEAKER_01]: OK.
+[SPEAKER_02]: But you can close in with them if you want to.
+[SPEAKER_01]: Where is he?
+[SPEAKER_01]: I don't see the.
+[SPEAKER_02]: You don't see him?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Oh, is it because your light source is not strong enough?
+[SPEAKER_02]: Aren't other people's light sources there?
+[SPEAKER_02]: I was going to say, it should be.
+[SPEAKER_02]: I see.
+[SPEAKER_02]: Oh, you know why it is?
+[SPEAKER_02]: I don't have the torch on Randy.
+[SPEAKER_02]: You should be able to save anyone's life.
+[SPEAKER_02]: Oh, because right here is not holding distinctly.
+[SPEAKER_02]: Hmm, I probably should have moved that with disadvantage.
+[SPEAKER_02]: That's my bad.
+[SPEAKER_02]: Well, we'll put a light on anyway.
+[SPEAKER_02]: Yeah, I'll move up here to behind.
+[SPEAKER_02]: Right here?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: OK. All right, does it turn?
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Elio, you're up.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: I have line of sight, right?
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: Oh, sorry.
+[SPEAKER_01]: I want to drop the candle and put two daggers.
+[SPEAKER_02]: Okay.
+[SPEAKER_05]: Is he half cover right now because there's people in front of me?
+[SPEAKER_02]: No, they're your allies.
+[SPEAKER_02]: We're going to assume that you can coordinate well enough to fire around them or move.
+[SPEAKER_02]: Okay, it definitely hits.
+[SPEAKER_04]: Nice.
+[SPEAKER_02]: What did we decide your sorceress burst looks like?
+[SPEAKER_05]: Just a golden ball of energy.
+[SPEAKER_02]: Golden ball of energy.
+[SPEAKER_05]: With, like, glyphs coming off of it.
+[SPEAKER_02]: Yeah, like shedding magic glyphs as it flies through the air.
+[SPEAKER_05]: Mm-hmm.
+[SPEAKER_02]: Comes screaming out of the darkness of the tunnel and smashes into the gazer at full strength.
+[SPEAKER_02]: And...
+[SPEAKER_02]: close the little eyeball apart yeah kind of like a like a rotten tomato kind of splashed against the back wall right there told you it wasn't just look it only took three encounters to get there okay all right i sit for my flagging
+[SPEAKER_02]: Renair looks at the mess left behind and wipes off his dagger.
+[SPEAKER_02]: Says, I think we're going in the right direction.
+[SPEAKER_02]: We continue on same marching order.
+[SPEAKER_05]: I'm good with it.
+[SPEAKER_05]: Should we take a look at the body?
+[SPEAKER_02]: There isn't one.
+[SPEAKER_05]: Oh, no.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: After Elior is done with him.
+[SPEAKER_02]: Oh, and this is the thing we saw floating in the... Yeah, he just burst into magical energy.
+[SPEAKER_02]: Yeah, there's nothing else floating.
+[SPEAKER_05]: Yeah, the floating thing was the gazer.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: on the same marching order, the yellow signs are more obvious now.
+[SPEAKER_02]: And they're closer together.
+[SPEAKER_02]: It seems like you're getting into the part of the sewers where they feel more at home.
+[SPEAKER_02]: Wait.
+[SPEAKER_02]: Can we pop up this ladder?
+[SPEAKER_02]: I'm assuming that goes to a manhole cover.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Well, it's some sort of entrance anyway.
+[SPEAKER_02]: Can we just pop up there and peek?
+[SPEAKER_02]: around see where we are in the city yeah you can yeah let's do that real quick hey what use would a poop map have been uh you come to the top ladder you kind of pop the cover um and it's not a street uh
+[SPEAKER_02]: when you when you pop this cover it appears to be some sort of drain uh and you are in some sort of cellar there are barrels and kegs large like the large serving kegs um you are in the cellar of a kitchen or an inn or a tavern or something hey ellie are you need to top up yeah i want a flagging
+[SPEAKER_02]: Yeah, you're flagging that.
+[SPEAKER_04]: Nice, in my glowing mug.
+[SPEAKER_02]: In your bright glowing mug, yes.
+[SPEAKER_04]: With a cozy.
+[SPEAKER_02]: Is the cozy glowing or is the mug glowing?
+[SPEAKER_05]: The mug.
+[SPEAKER_02]: Nice.
+[SPEAKER_02]: You've got almost like your own hood and lantern type situation.
+[SPEAKER_04]: Yeah, I can just move the – I'm going to be like, look, Davey, and I'm going to move the cozy up and down.
+[SPEAKER_02]: So with that, do you wish to investigate the cellar any further?
+[SPEAKER_02]: No.
+[SPEAKER_02]: I'm just curious to see if we were in a different part of the city by now.
+[SPEAKER_02]: And if so, what part of the city?
+[SPEAKER_02]: The part of the city that has bars.
+[SPEAKER_02]: So every part of the city.
+[SPEAKER_02]: Or taverns, or inns.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Or kitchens.
+[SPEAKER_04]: Stay drinking.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Let me get this marching order lined back up.
+[SPEAKER_02]: It was Rhaenar followed by ..
+[SPEAKER_02]: Followed by .. Is that right?
+[SPEAKER_02]: And then Justice, Felior, and Davy in the back.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: It's only five-ish more minutes, like it's not very far now, before you reach a set of the tunnels that kind of
+[SPEAKER_02]: branches a little bit.
+[SPEAKER_02]: It's gone from being like guild sign to like guild billboard at this point.
+[SPEAKER_02]: Anybody cross the tracks into East LA before?
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: It's that feeling.
+[SPEAKER_02]: And it looks like...
+[SPEAKER_02]: So I'm going to pull you in here.
+[SPEAKER_02]: Looks a bit like this.
+[SPEAKER_02]: Why don't you all get into the CV, because I turned off your light sources because that was the wrong CV.
+[SPEAKER_02]: Shit, sorry about that.
+[SPEAKER_02]: What the fuck?
+[SPEAKER_02]: I know.
+[SPEAKER_02]: I'm still getting used to this thing.
+[SPEAKER_02]: Some of you have night vision, so I don't have to do shit.
+[SPEAKER_02]: Davey, your source was 20 and 20, right?
+[SPEAKER_01]: It was 30 and 20.
+[SPEAKER_01]: Or 30-30, yeah.
+[SPEAKER_02]: 30-30 it is.
+[SPEAKER_02]: It's usually both.
+[SPEAKER_03]: 30-30.
+[SPEAKER_03]: Yeah.
+[SPEAKER_02]: So what it kind of looks like...
+[SPEAKER_02]: is the main sewer tunnel kind of expands into this circular hub with this pair of arrow slits carved into the outer wall, like across from each other.
+[SPEAKER_02]: It appears like the hub splits off into two other passages, one to the south and one to the east.
+[SPEAKER_02]: And I believe... Yeah.
+[SPEAKER_02]: So you can either kind of keep going forward or you can split off kind of to the left.
+[SPEAKER_02]: What do y'all want to do?
+[SPEAKER_02]: You're looking at a...
+[SPEAKER_02]: kind of central roundabout with aerosols overlooking it.
+[SPEAKER_02]: Two passages.
+[SPEAKER_01]: Are there yellow markings on either side?
+[SPEAKER_01]: All over the place.
+[SPEAKER_05]: You know what would've been really nice?
+[SPEAKER_05]: It's a map.
+[SPEAKER_04]: Where is your yellow marking now?
+[SPEAKER_02]: And everyone knows that feces converge on secret hideouts.
+[SPEAKER_02]: It's just a fact.
+[SPEAKER_04]: Yeah, eventually.
+[SPEAKER_05]: All groups lead to hideouts.
+[SPEAKER_02]: Renaer quietly steps forward, kind of underneath the edge of the arrow slits.
+[SPEAKER_02]: I think it might show off more of the map, too, if he does.
+[SPEAKER_02]: So the arrow slits are like here and here.
+[SPEAKER_02]: He's like quietly stepping around the wall, holding the torch low.
+[SPEAKER_02]: So you can see that there's one branch and there's the other branch.
+[SPEAKER_01]: What a follow in his exact footsteps.
+[SPEAKER_02]: There's some sort of door kind of off of this ledge right here.
+[SPEAKER_02]: Yeah, I'm just going to follow and carefully look at where he's stepping and ducking and doing the same thing to follow him.
+[SPEAKER_02]: Give me a stealth check.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Can you put your foot exactly where his feet were?
+[SPEAKER_02]: like his little shadow, and follow him along that wall.
+[SPEAKER_02]: What's the rest of you doing?
+[SPEAKER_01]: I would like to also stealthily move forward, but I don't know if I can get around my buddies.
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: There's not enough room to, like, march shoulder to shoulder, but you can, like, move up and down the column and get past them.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: That's our problem.
+[SPEAKER_02]: I mean, unless they were actively trying to stop you.
+[SPEAKER_04]: How big are the arrow slits?
+[SPEAKER_02]: They're, let's see.
+[SPEAKER_02]: I mean, they're like a couple inches wide, pretty tall, but they're like arrow slits in castles, right?
+[SPEAKER_02]: They're designed to basically be able to shoot down into that.
+[SPEAKER_02]: kind of roundabout and it looks like they have good coverage at both angles like between the two of them they have 100 coverage of that circle if there was a man with a like a crossbow behind him uh i missed it uh 19. oh nice yeah yeah no problem you're
+[SPEAKER_02]: stealthily moving along the wall.
+[SPEAKER_02]: Which way are you going?
+[SPEAKER_01]: I will go the opposite way.
+[SPEAKER_02]: Okay.
+[SPEAKER_00]: Going to slip forward as well.
+[SPEAKER_02]: Are you masking your steps or are you just marching through?
+[SPEAKER_02]: everybody else is like sneaking quietly yeah i'll try to sneak i think i will probably do the same i mean yeah anybody sneaking give me a sneak role self-check yep elior is not sneaking rise justice is pretty sneaky i mean does elliott have to roll with disadvantage
+[SPEAKER_02]: Does Elior have to roll with disadvantage?
+[SPEAKER_02]: How drunk is he?
+[SPEAKER_02]: I want to see a crit fail.
+[SPEAKER_02]: There, he can take the lower of the two.
+[SPEAKER_02]: so so as you guys are like sneaking around the edge uh elior which way are you going are you going to the to the right or the left around the central column i'll follow davey david seems to be pretty sneaky okay um so everyone is quietly stepping like avoiding all the slick spots and making sure their feet don't scuff against the stone and elior is doing the same which is uh he's making a reasonable caricature
+[SPEAKER_02]: of your motions but his feet keep like scuffing and he'll bump his toe and accidentally like chip out loud whenever he jams his toe and it's just a little bit louder and each time everyone gets real quiet but you don't hear anything and as elior kind of comes around the corner to to follow davey uh he kind of steps on the cuff of his own pants
+[SPEAKER_02]: and falls over hard with a shout and a splash.
+[SPEAKER_02]: You hear sounds of what sounds like somebody waking up coming from those arrow slits above.
+[SPEAKER_02]: And let's see.
+[SPEAKER_02]: They have line of sight on.
+[SPEAKER_02]: Rainier, Davy, Elior is down here like this.
+[SPEAKER_02]: Well, everybody rolled real good on their stealth, except for Elior.
+[SPEAKER_02]: So...
+[SPEAKER_02]: I'm gonna need... Oh, yeah, there it is.
+[SPEAKER_02]: I need to know if...
+[SPEAKER_02]: Does 16 hit you?
+[SPEAKER_04]: Yes.
+[SPEAKER_02]: All right.
+[SPEAKER_04]: Come on, short mode.
+[SPEAKER_02]: So an arrow comes out of one of those arrow shafts and lodges into you for five points of damage.
+[SPEAKER_05]: I'm still up.
+[SPEAKER_02]: And you hear, uh, does anybody here speak goblins?
+[SPEAKER_02]: just hear weird almost like gargling sounds of what you probably recognize as goblin shouting back and forth to each other from the arrow slits and you can kind of see little goblinoid figures a little bit backlit but not very well up there in the arrow slits you see about this much of them
+[SPEAKER_02]: one in each corner.
+[SPEAKER_02]: So, we're about to have an encounter.
+[SPEAKER_02]: But, I think we should stop and take a bathroom break right now.
+[SPEAKER_02]: It's 7 o'clock.
+[SPEAKER_03]: Alright.
+[SPEAKER_02]: When we come back, we'll roll initiative.
+[SPEAKER_03]: Wee!
+[SPEAKER_03]: You read my monster doc that I put up?
+[SPEAKER_03]: No.
+[SPEAKER_03]: I've been trying to not do any.
+[SPEAKER_05]: I worked all day yesterday, so I, like, ignored everything today.
+[SPEAKER_00]: Oh, I mean, I put it on Friday.
+[SPEAKER_05]: Oh.
+[SPEAKER_05]: Whoops.
+[SPEAKER_05]: My bad.
+[SPEAKER_03]: God, dude.
+[SPEAKER_03]: Someone fat-fingered my number and ignored it.
+[SPEAKER_03]: It's making me fucking crazy.
+[SPEAKER_03]: No, I put in linear a doc that has a lot of ideas.
+[SPEAKER_00]: Nice.
+[SPEAKER_00]: Yeah, they're cool too.
+[SPEAKER_00]: From the point of view of stickiness, which is one of Dane's favorite words, I think they're a cool next step.
+[SPEAKER_00]: The prioritization of that over sending out mailers is something you guys can sort out.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah, no, I, I, it all feels pretty doable.
+[SPEAKER_00]: Like it feels like we basically already have the basic primitives for everything work.
+[SPEAKER_03]: Um, it's just mostly UI work.
+[SPEAKER_03]: Then the touch of system design for some bits.
+[SPEAKER_00]: Yeah, some of it, a lot of it feels like the kind of thing that I don't know why it never occurred to me to do this until, like, I just, it feels like now that I've spoken it aloud, it's glaringly obvious.
+[SPEAKER_03]: But it just, this stuff never fucking occurred to me.
+[SPEAKER_03]: OK, how's the unpacking going?
+[SPEAKER_03]: It's stalled out a bit.
+[SPEAKER_02]: It's good enough for you.
+[SPEAKER_02]: Yeah, we're definitely to the good enough point.
+[SPEAKER_02]: Jen is still working on organizing her clothes.
+[SPEAKER_02]: I don't know where all her clothes came from.
+[SPEAKER_02]: We were in a place that was so much smaller, and she had so much less space, but yet she has the closets and drawers are half filled, but she's still got an entire bedroom's worth of bags and stuff and clothes spread out.
+[SPEAKER_02]: I'm just like, where did all this come from?
+[SPEAKER_05]: Oh, it'll get worse.
+[SPEAKER_05]: It'll get worse, and then it'll get better, probably.
+[SPEAKER_00]: So when Stephanie moved in with me, she had 56 pairs of shoes.
+[SPEAKER_00]: I was like, why do you have so many shoes?
+[SPEAKER_00]: And she was like, because my mom and I like to go shoe shopping.
+[SPEAKER_00]: Most of them she had never worn.
+[SPEAKER_02]: I was just like, what did she wear the other half of the year?
+[SPEAKER_04]: Women, am I right?
+[SPEAKER_00]: No, I mean, she basically wore like two pairs of shoes.
+[SPEAKER_00]: Nowadays, she's like, ah, she like sold them all a long time ago.
+[SPEAKER_00]: She's just like, I wear Asics or something like that.
+[SPEAKER_02]: I have worn the same work boots for 15 years.
+[SPEAKER_05]: I have like 12 shoes.
+[SPEAKER_05]: I love shoes.
+[SPEAKER_00]: I recently resold my Keen boots.
+[SPEAKER_00]: Shoes are one of the things that with my size, I was blessed to be just within the realm of... And so those...
+[SPEAKER_00]: I have always... How big a shoe do you wear?
+[SPEAKER_00]: I wear 13.
+[SPEAKER_05]: When I was in Dallas...
+[SPEAKER_04]: I found handmade Italian leather Chelsea boots in 10 and a half, which is such a random size, which it happens to be my size.
+[SPEAKER_05]: That's my size too.
+[SPEAKER_05]: At like an upscale thrift shop, like straight from Italy, looked at the manufacturer and it was like 180 bucks or something.
+[SPEAKER_04]: I was like, fuck yeah, dude.
+[SPEAKER_04]: I bought those without even thinking.
+[SPEAKER_04]: I'll wear them 16 times throughout my life, but I was stoked on it.
+[SPEAKER_02]: The lab paid for safety shoes.
+[SPEAKER_02]: So I bought a pair of Red Wing King Toe composite boots.
+[SPEAKER_02]: So steel toe but ceramic so I could get through the metal detector every morning.
+[SPEAKER_02]: And I bought those to replace the exact same ones that the reactor I worked at before paid for.
+[SPEAKER_02]: And I had that
+[SPEAKER_02]: had those boots.
+[SPEAKER_02]: Yeah, no, I've had two pairs of red wings and I have had them both for over ten years now.
+[SPEAKER_05]: I've got my red wings, but they ain't shoes.
+[SPEAKER_02]: I see what you did there.
+[SPEAKER_02]: And we're recording.
+[SPEAKER_05]: Let the world know.
+[SPEAKER_02]: On that note, everybody, let's
+[SPEAKER_03]: Roll initiative, bitches!
+[SPEAKER_04]: Aww, I forgot.
+[SPEAKER_00]: The dice are flying.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: When this combat starts, it appears, Valorant's already in first.
+[SPEAKER_00]: Did you actually drop the music, like, with the scope?
+[SPEAKER_02]: Yeah, yeah.
+[SPEAKER_02]: I can't hear anything that's on my side because I'm piping it through my browser.
+[SPEAKER_00]: Totally.
+[SPEAKER_00]: No, I think this is...
+[SPEAKER_00]: I think this is about good now.
+[SPEAKER_00]: It was just, like, I...
+[SPEAKER_00]: It was as loud as you.
+[SPEAKER_00]: Agreed.
+[SPEAKER_05]: That is one thing that's nice about the playlist feature in Foundry is everyone has their own controls.
+[SPEAKER_02]: I need to get that set up.
+[SPEAKER_00]: Yeah, it would be nice to blast this and still be able to hear everyone.
+[SPEAKER_02]: So everyone who rolled stealth and is pretty sure they are still hidden are still pretty well hidden.
+[SPEAKER_02]: So right now this whole combat looks like two goblins trying to snipe at Elior.
+[SPEAKER_02]: One which doesn't have an angle on him.
+[SPEAKER_05]: Two goblins, one sorcerer.
+[SPEAKER_02]: That first one, really all he can do on his turn is look and try and see.
+[SPEAKER_00]: Sorry, are any of these goblins visible to anyone?
+[SPEAKER_02]: Yeah, you guys can see them through the arrow slits, just you can't see a lot of them.
+[SPEAKER_02]: You can see a probably four inch wide stripe.
+[SPEAKER_00]: Should I be able to see them on my map?
+[SPEAKER_02]: Can you not?
+[SPEAKER_00]: No.
+[SPEAKER_00]: I don't know if it's just because of where I'm positioned or if it's...
+[SPEAKER_02]: If it's where you're positioned, you can't see through the arrow slits.
+[SPEAKER_03]: Okay.
+[SPEAKER_02]: But, I mean, the arrow slits are here.
+[SPEAKER_02]: and here, roughly, and that's where the arrows and the goblin speech is coming from.
+[SPEAKER_00]: Understood.
+[SPEAKER_02]: Okay, let's see, the first one.
+[SPEAKER_02]: What is this perception?
+[SPEAKER_02]: Can't be great.
+[SPEAKER_01]: It's not.
+[SPEAKER_02]: Yeah, so I don't think that he spots anybody.
+[SPEAKER_02]: No, so the one goblin, you can see him, like, peering out.
+[SPEAKER_02]: That's the one that doesn't have an angle on...
+[SPEAKER_02]: Elior, so this guy.
+[SPEAKER_02]: You can see him, like, peering out through the arrow slit, trying to see what's going on out there.
+[SPEAKER_02]: And he's shouting in goblin back and forth to his buddy.
+[SPEAKER_02]: But that's pretty much his turn.
+[SPEAKER_02]: The next goblin is, like, shouting and pointing down to where Elior is.
+[SPEAKER_02]: And he's going to fire a shot.
+[SPEAKER_03]: Oh!
+[SPEAKER_02]: Oh, that was close.
+[SPEAKER_02]: That's a 20 to hit.
+[SPEAKER_04]: Yeah, it hits.
+[SPEAKER_01]: All right.
+[SPEAKER_02]: Full damage.
+[SPEAKER_02]: That's eight points of damage as another arrow follows it in.
+[SPEAKER_04]: Down.
+[SPEAKER_02]: Down.
+[SPEAKER_02]: And so with that, Elior collapses into the muck.
+[SPEAKER_02]: And that is it.
+[SPEAKER_02]: You can hear like a bit of a cheer.
+[SPEAKER_02]: And the other goblin is still trying to figure out what's going on.
+[SPEAKER_02]: Which leads us to Renair, who does not have a ranged weapon.
+[SPEAKER_02]: Let's see what he can see.
+Can I?
+[SPEAKER_02]: He is going to come over here and try and stealthily try the only door in sight.
+[SPEAKER_02]: But it makes it a bit more rapid when he starts messing with this door here, which is a long time.
+[SPEAKER_02]: So you hear him still trying to be quiet.
+[SPEAKER_02]: Do you like the loud stage whisper?
+[SPEAKER_02]: Like, there's a corridor.
+[SPEAKER_02]: Probably should have picked up a ranger.
+[SPEAKER_02]: That's Rhaenyra's turn.
+[SPEAKER_02]: Elio, I need you to make that saving throw.
+[SPEAKER_04]: There's a little on the character sheet.
+[SPEAKER_02]: On the character sheet, OK. OK, that's one success.
+[SPEAKER_02]: Next is Broth Duel.
+[SPEAKER_02]: Still pretty sure you're hit.
+[SPEAKER_02]: You have an angle on the one, you can maybe kind of see the one that shot Elior, you can't see the other.
+[SPEAKER_05]: Yeah, I'll take a shot back at the one that shot Elior, if I can.
+[SPEAKER_02]: Okay, you are firing against three-quarters coverage.
+[SPEAKER_05]: Could you say it again, please?
+[SPEAKER_02]: You are firing against three-quarters coverage to try and get through that arrow slit.
+[SPEAKER_00]: Oh, sure.
+[SPEAKER_00]: Better be good rules.
+[SPEAKER_02]: You set up coverage on a token.
+[SPEAKER_00]: Yeah, probably not.
+[SPEAKER_05]: I don't know what 3 quarters.
+[SPEAKER_05]: Plus 4.
+[SPEAKER_02]: I think it's plus four.
+[SPEAKER_02]: I think it's plus two for half and plus four for three quarters.
+[SPEAKER_02]: What was the total?
+[SPEAKER_05]: Plus five, actually.
+[SPEAKER_02]: Plus five, okay.
+[SPEAKER_02]: So yeah, that's definitely missed.
+[SPEAKER_02]: So, try and fire a shot up into that arrow slit and it's kind of clattering off the overlapping edges.
+[SPEAKER_02]: Oh, you got a bonus action to remove?
+[SPEAKER_00]: I couldn't understand what Renair was saying, but I think, no, I think I'm going to keep here if I have a shot at this guy.
+[SPEAKER_02]: Renair was saying that he found a side passage.
+[SPEAKER_00]: Yeah, okay.
+[SPEAKER_00]: We kind of have to take care of him.
+[SPEAKER_00]: We've got a problem.
+[SPEAKER_00]: All right, I'm going to stay here.
+[SPEAKER_02]: He's trying to find a way to get in the melee range.
+[SPEAKER_02]: He's trying to find a way up to the aerial slits.
+[SPEAKER_00]: fair.
+[SPEAKER_00]: We can keep him engaged.
+[SPEAKER_02]: Okay, you're good there.
+[SPEAKER_02]: Davy, you're up.
+[SPEAKER_01]: Um... Elior is still down.
+[SPEAKER_02]: Elior is down.
+[SPEAKER_01]: Am I remembering correctly that there's a, like, stabilize action...
+[SPEAKER_02]: Yes, you can take your action to basically make a medicine check that won't bring him back up, but... Or am I thinking a pathfinder now?
+[SPEAKER_00]: If you... Well, we can just use our action to bring someone up that's downed, right?
+[SPEAKER_02]: That was a Baldur's Gate thing.
+[SPEAKER_02]: Oh.
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: It wasn't...
+[SPEAKER_02]: It wasn't stabilized.
+[SPEAKER_02]: I'm pretty sure that's a Pathfinder thing, is it?
+[SPEAKER_00]: Is it... No, that's... Stabilized...
+[SPEAKER_02]: medicine check to stabilize somebody who's dying so it's a dc10 medicine check and if you succeed he does not have to keep making death saving throws but he's not conscious okay also
+[SPEAKER_02]: If he takes damage again, he goes right back into... Gotcha, okay.
+[SPEAKER_02]: Well, he's unconscious, he loses a death save, and then he has to stop doing that again.
+[SPEAKER_03]: Hmm.
+[SPEAKER_01]: Alright, well, I mean, I know we have healers in the party.
+[SPEAKER_01]: I'm hoping they have some spell slots.
+[SPEAKER_01]: I just shot him.
+[SPEAKER_02]: I don't think that Rinnair saw Elior go down, but he was carrying three healing potions he got from the captain.
+[SPEAKER_00]: That is true.
+[SPEAKER_01]: I will go after Rinnair.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: Stealthily?
+[SPEAKER_02]: Yes.
+[SPEAKER_03]: Stealthily.
+[SPEAKER_03]: Should I roll a new stealth?
+[SPEAKER_03]: Okay.
+[SPEAKER_02]: Yeah, so you have to kind of like break cover.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: If you cut across there, both of these guys are going to see you.
+[SPEAKER_03]: Uh-oh.
+[SPEAKER_03]: All right.
+[SPEAKER_02]: But you also have to go around the corner out of their firing range.
+[SPEAKER_01]: Yeah, okay.
+[SPEAKER_01]: So I'm just going to go over there.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Let's see, this is 27 feet.
+[SPEAKER_01]: I don't think I can move anymore and I can't see him.
+[SPEAKER_02]: Uh, I'll let you take the corner.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Oh, there we go, yeah.
+[SPEAKER_01]: Alright, and I'm gonna ask him for a potion of healing.
+[SPEAKER_02]: Yeah, so we'll say that the kind of rest of your action is the handoff and all that.
+[SPEAKER_02]: Okay, cool.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: He hands you two of them.
+Cool.
+[SPEAKER_02]: So go ahead and you can add that to your inventory or just remember for now it's up to you.
+[SPEAKER_02]: Okay, that is Davey's turn.
+[SPEAKER_02]: Arladeen, you're up.
+[SPEAKER_02]: Also still pretty sure you're hidden.
+[SPEAKER_02]: There's an arrow slipped directly above you, and you can hear the goblin kind of making noises and trying to talk to his weapon.
+[SPEAKER_04]: Wait.
+[SPEAKER_01]: Did everyone disappear on that map?
+[SPEAKER_02]: Your light source has all disappeared.
+[SPEAKER_00]: Oh.
+[SPEAKER_02]: Oh, no.
+[SPEAKER_02]: Sorry.
+[SPEAKER_02]: Elior.
+[SPEAKER_02]: Well, no.
+[SPEAKER_02]: Elior's unconscious.
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: I think it's the concentration.
+[SPEAKER_02]: Yes, your light source has all disappeared on the map.
+[SPEAKER_02]: You can pull your candle out.
+[SPEAKER_02]: Wait.
+[SPEAKER_02]: Question, though.
+[SPEAKER_02]: If I can't see, then the goblins can't see me either, no?
+[SPEAKER_02]: You don't know if goblins have dark vision?
+[SPEAKER_02]: Do you want to know if goblins have dark vision?
+[SPEAKER_02]: Yeah, they do, don't they?
+[SPEAKER_02]: Roll a history or an arcana.
+[SPEAKER_02]: I don't know, maybe.
+[SPEAKER_01]: You probably do.
+[SPEAKER_01]: I'm going to guess we're both.
+[SPEAKER_02]: Shit.
+[SPEAKER_02]: Yeah, I'm gonna... Can I do a bonus action before?
+[SPEAKER_01]: Or is that only end of turn?
+[SPEAKER_02]: Yeah, you can take your actions in any order.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, let's pull the candle.
+[SPEAKER_01]: Or wait, hold on.
+[SPEAKER_01]: I can't pull the candle and use the ranged weapon.
+[SPEAKER_01]: Um...
+[SPEAKER_02]: Your ranged weapon is a bow, right?
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: To be fair, you can try and do a shot in the dark, and it's not as bad as you think.
+[SPEAKER_02]: It's with a disadvantage, but you're shooting at someone with 3 quarters cover, so that someone has plus 5 AC and you're at disadvantage.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Uh...
+[SPEAKER_02]: But you know what doesn't take any hands?
+[SPEAKER_02]: What?
+[SPEAKER_02]: Or require cover.
+[SPEAKER_03]: It's ducking?
+[SPEAKER_02]: You can walk him to death through the arrow slits.
+[SPEAKER_04]: What do you want to do?
+[SPEAKER_01]: Hold on.
+[SPEAKER_01]: Do I have... Oh, it's a cantrip, so I could have unlimited... Yeah.
+[SPEAKER_03]: Yeah, yeah, yeah.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, vicious mockery it is.
+[SPEAKER_02]: You gonna pull your candle?
+[SPEAKER_01]: Uh... Yeah, I will pull the candle.
+[SPEAKER_01]: And... Or...
+[SPEAKER_02]: The one you can see is you can see up kind of above you, and you can see him through the arrow slit.
+[SPEAKER_02]: As soon as you pull that candle, he can now see you.
+[SPEAKER_02]: So that is the one you can viciously mock.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I'm going to viciously mock that goblin.
+[SPEAKER_02]: Wisdom save, right?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I'm going to yell out.
+[SPEAKER_02]: I wish I could see you better, but on the other hand, I'm glad I probably can't because your face is so ugly.
+[SPEAKER_02]: What's your spell DC again?
+[SPEAKER_02]: Uh... Dude, I'm pretty sure you were on point with the insults tonight.
+[SPEAKER_02]: You rolled a 9, and I'm pretty sure your DC was in double digits.
+[SPEAKER_02]: Mine's a 13?
+[SPEAKER_02]: DC's 13 was in save and roll, yeah.
+[SPEAKER_02]: Yeah, so he rolled a 9.
+[SPEAKER_02]: So...
+[SPEAKER_02]: Finally, in the darkness, he can finally see who he's after.
+[SPEAKER_02]: And just what you said cut him to the quick.
+[SPEAKER_02]: And you see, you can't tell if it's sadness or anger on his face when his face is all scrunched up.
+[SPEAKER_02]: And go ahead and roll damage.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: i forgot all right two points of damage uh is that your turn do you want to move anywhere um
+[SPEAKER_01]: Yeah, I want to try to go around this corner.
+[SPEAKER_00]: Is there a door here?
+[SPEAKER_01]: Is there a reason I can't move past that door?
+[SPEAKER_01]: Oh, there we go.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Okay, last turn?
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Justice, you're up.
+[SPEAKER_00]: You can see in the dark.
+[SPEAKER_00]: I can see in the dark, but I don't have any ranged weapons.
+[SPEAKER_02]: No, but you do have a homie in the dirt.
+[SPEAKER_00]: Okay, I can't do anything for Elior.
+[SPEAKER_02]: You don't have any, like, lay on hands left or anything?
+[SPEAKER_00]: I got no...
+[SPEAKER_00]: I only have two spell slots and I used them the last encounter.
+[SPEAKER_02]: Lay on...
+[SPEAKER_02]: Do you not have channel divinity?
+[SPEAKER_02]: Oh, that's at level two or greater, isn't it?
+[SPEAKER_00]: Probably.
+[SPEAKER_00]: OK. Yeah, the only cantrip I have is light.
+[SPEAKER_00]: I don't have any potions.
+[SPEAKER_00]: Alright, fuck it.
+[SPEAKER_00]: I'm going to do a little 1, 10, 15, 20, 25.
+[SPEAKER_00]: Can I squeeze through here?
+[SPEAKER_02]: You can if there's somewhere for you to go.
+[SPEAKER_02]: You can pass them, but you can't occupy their space.
+[SPEAKER_00]: I have how much movement?
+[SPEAKER_00]: 35?
+[SPEAKER_02]: 30 total.
+[SPEAKER_02]: Unless you've got a plus 5 or something.
+[SPEAKER_00]: I think that might be all I can realistically do.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Please get out of sight.
+[SPEAKER_02]: Is the end of your turn?
+[SPEAKER_00]: Yeah, I guess so.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Next up is the goblin.
+[SPEAKER_02]: who appears at the barrow in this hallway and fires down a... Rainier!
+[SPEAKER_02]: And misses.
+[SPEAKER_02]: So the arrow kind of clatters off the very edge of the arrow slit, kind of rolls down the hallway a little bit, and Rainier ducks his head back, not expecting someone to show up at that little window.
+[SPEAKER_02]: That's his turn.
+[SPEAKER_02]: Next up is the other guy.
+[SPEAKER_02]: Can't actually see anyone anymore, because Elior is down, and Barhul is a step back.
+[SPEAKER_02]: So all he can do is...
+[SPEAKER_02]: They've changed roles now.
+[SPEAKER_02]: One goblin was, like, shooting and hollering to his other buddy where they were.
+[SPEAKER_02]: And now this guy...
+[SPEAKER_02]: The gargling goblin noises sound interrogative.
+[SPEAKER_02]: And the other one is now shouting back emphatically.
+[SPEAKER_02]: And they've just kind of reversed roles.
+[SPEAKER_02]: I think that's scary.
+[SPEAKER_02]: Next up is...
+[SPEAKER_02]: After having handed off the two potions to you, he is going to try and toss the third to Aladin.
+[SPEAKER_02]: So, you get like a heads up, and a vial of healing is coming your way.
+[SPEAKER_02]: I need you to make just a dex check.
+[SPEAKER_02]: That would have been great.
+[SPEAKER_02]: But no, street performer that you are, young acrobat, you snatch it out of the air.
+[SPEAKER_02]: And Renea ducks off that door.
+[SPEAKER_02]: That was his bonus to toss the potion to you.
+[SPEAKER_02]: So he is going to take one rapier attack against the goblin that he can now see.
+[SPEAKER_00]: Shit, where is his card?
+Okay.
+[SPEAKER_02]: So he lashes out with that rapier and tries to carve out the heartbroken goblin.
+[SPEAKER_02]: For...
+[SPEAKER_02]: Not tries, but he absolutely comes around the corner and skewers that goblin with the first thrust of his rapier.
+[SPEAKER_02]: And that boy is down.
+[SPEAKER_01]: That is...
+[SPEAKER_02]: Elio, make another death saving.
+[SPEAKER_02]: Yes, sir.
+[SPEAKER_03]: That's one fail.
+[SPEAKER_05]: Fail.
+[SPEAKER_05]: One success, one fail.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: You're up.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: With nothing better to do, I think if I can, if I can still see the other goblin up in his arrow slit, I'll take a shot at him again.
+[SPEAKER_02]: Yeah, that's the only one you've been able to see.
+[SPEAKER_05]: Okay.
+[SPEAKER_02]: No dice.
+[SPEAKER_02]: You can't seem to get the bolt through the slit to hit this guy.
+[SPEAKER_02]: Pretty well shielded up there.
+[SPEAKER_00]: Alright.
+[SPEAKER_00]: Fine.
+[SPEAKER_00]: Still looking at us.
+[SPEAKER_00]: That's fine.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Absolutely still looking at you.
+[SPEAKER_05]: Alright.
+[SPEAKER_05]: That'll be it then.
+[SPEAKER_02]: That's it.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Davy, you're up.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: I am going to head back to my buddy.
+[SPEAKER_01]: Let's see.
+[SPEAKER_02]: I gotta...
+[SPEAKER_00]: Okay, thanks.
+[SPEAKER_00]: You can also just use WASD to move around.
+[SPEAKER_02]: It won't let you occupy the spot, so you can't do, like, a step.
+[SPEAKER_02]: Yeah, and I also couldn't cut diagonally where there wasn't floor, so it was impossible for me to move.
+[SPEAKER_01]: Yep.
+[SPEAKER_02]: I got you.
+[SPEAKER_01]: Thank you.
+[SPEAKER_01]: Alright, I will pour a potion down Elior's gullet.
+[SPEAKER_02]: 2d4 plus 2.
+[SPEAKER_02]: roll it okay nine yeah nine hit points to you bug that's like your whole health bar and that's him so you you come back to consciousness in absolute filth in a graffiti filled sewer you were having such a pleasant dream too
+[SPEAKER_01]: I'm gonna say not today, front, and that's my turn.
+[SPEAKER_05]: I dreamt of the big pub crawl in the sky.
+[SPEAKER_02]: Aladin, you're up.
+[SPEAKER_02]: You've got no angle on anyone right now.
+[SPEAKER_02]: You can see through that slit a goblin
+[SPEAKER_02]: kind of hanging off the end of a rapier.
+[SPEAKER_02]: This slit here at the end of the hallway.
+[SPEAKER_02]: This guy's definitely done.
+[SPEAKER_01]: I'm just... Do I have to be able to see?
+[SPEAKER_02]: To mock?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: I mean, we can double check, but I'm pretty sure it spells out like...
+[SPEAKER_02]: 60 foot visible range.
+[SPEAKER_01]: A see or hear within range.
+[SPEAKER_01]: See or hear.
+[SPEAKER_02]: Yeah, so actually you could reasonably mock him from there if he can hear you.
+[SPEAKER_02]: You can hear him, so go for it.
+[SPEAKER_02]: I'm out here fighting like a man, you dirty goblin.
+[SPEAKER_02]: I'm out here fighting like a man, you dirty goblin.
+[SPEAKER_02]: You don't know if he understands common or not.
+[SPEAKER_02]: But somehow your point gets across.
+[SPEAKER_02]: And you can hear the enraged goblinoid shrieking being yelled back at you.
+[SPEAKER_02]: And one or two words that you are almost certain is a slur.
+[SPEAKER_02]: Three points of damage.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And they roll disadvantage.
+[SPEAKER_02]: And they roll with disadvantage, having been mocked.
+[SPEAKER_02]: That's only on attacks, right?
+[SPEAKER_02]: And it's just the next roll before the end of his turn.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Would you like to move?
+[SPEAKER_01]: I don't know where to go.
+[SPEAKER_02]: Neither does anyone else.
+[SPEAKER_01]: Oh.
+[SPEAKER_02]: Alright, I'm gonna come back out here.
+[SPEAKER_02]: Is Elior back up?
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: You can see him dusting himself off.
+[SPEAKER_02]: Not up, but awake.
+[SPEAKER_03]: Okay.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Can I move?
+[SPEAKER_01]: No, that's too much.
+[SPEAKER_01]: Or no.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: You can move.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: That's your move?
+[SPEAKER_02]: That's your turn?
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Jonathan, what would you like to do?
+[SPEAKER_00]: So I can't see.
+[SPEAKER_00]: Is this goblin up top dead?
+[SPEAKER_02]: He is dead.
+[SPEAKER_02]: Well, if you peek around the corner, you can see from that arrow slit that there is a corpse now, having been stabbed to death by a rapier from just off screen.
+[SPEAKER_00]: Beautiful.
+[SPEAKER_00]: And... We've seen...
+[SPEAKER_02]: actually real quick before we continue return i need aladdin davy and jonathan all to roll a perception check uh oops i rolled with advantage uh just scrap that roll yeah i would have loved that 17.
+[SPEAKER_03]: Right down the middle.
+[SPEAKER_02]: Elior doesn't get to see yet.
+[SPEAKER_02]: Davey.
+[SPEAKER_02]: Davey, you noticed something about the east wall a little way south of your position?
+[SPEAKER_02]: Like, twice now, out of the corner of your eye, something along this wall hasn't been right.
+[SPEAKER_00]: Here it should be.
+[SPEAKER_01]: Interesting.
+[SPEAKER_01]: Can I like, free action... Can I free action say something to Jonathan?
+[SPEAKER_02]: Of course.
+[SPEAKER_01]: Alright, um, check out that wall in front of you.
+[SPEAKER_01]: East, eastern.
+[SPEAKER_02]: You can kinda like, point to where you saw it.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: This one.
+[SPEAKER_02]: Jonathan, you can spend your turn doing an investigation check.
+[SPEAKER_00]: Can I hit it?
+[SPEAKER_00]: Or you can just hit it.
+[SPEAKER_00]: I want to hit it.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Yeah, hit the wall.
+[SPEAKER_02]: I mean, you're going to roll an attack.
+[SPEAKER_02]: Not to see if you can hit it.
+[SPEAKER_02]: Obviously, you can hit a wall, but we're going to see if you can damage it.
+[SPEAKER_02]: I mean, it's like hitting a brick wall.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: Can I do any sort of investigation?
+[SPEAKER_02]: No, you didn't attack me that turn.
+[SPEAKER_00]: Cool.
+[SPEAKER_02]: But next turn you can.
+[SPEAKER_00]: Looks fine to me.
+[SPEAKER_02]: It's a good wall.
+[SPEAKER_02]: Solid wall.
+[SPEAKER_00]: Yeah, that's it.
+[SPEAKER_02]: top of the round with a dead goblin and a live goblin who I believe can now take a hot shot at we're going to high load this it's going to be Davey or anyone it's going to be Davey golly golly
+[SPEAKER_02]: That's a total of 16 to hit.
+[SPEAKER_02]: That's next.
+[SPEAKER_02]: Four points of damage as an arrow from kind of behind you as you're helping out Elior, this arrow comes out of the darkness and sinks into your shoulder blade.
+[SPEAKER_02]: That is going to be his turn.
+[SPEAKER_02]: Next up is Rhaenar, who, again, doesn't have a ranged attack, can only really run back this way.
+[SPEAKER_02]: Get to about here.
+[SPEAKER_02]: Elior, it's your turn.
+[SPEAKER_02]: You're back in the land of the living.
+[SPEAKER_02]: Welcome to this combat.
+[SPEAKER_01]: I'm gonna... No potshots about plan A or plan B?
+[SPEAKER_05]: Where's the remaining goblin?
+[SPEAKER_05]: I'm assuming I know.
+[SPEAKER_02]: Yeah, you should be able to see him through this arrow slip right here.
+[SPEAKER_02]: And if you can't, that's where the arrows have been coming from.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: I'm going to do one of these guys.
+[SPEAKER_02]: Sorceress burst.
+[SPEAKER_02]: Ice Knight.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: That's an actual attack, isn't it?
+[SPEAKER_05]: With a slit.
+[SPEAKER_04]: Yeah, but it still does stuff on a miss.
+[SPEAKER_02]: you miss uh a 23 to hit uh that ice knife just slips right through the gap and drills that goblin go ahead and roll the full damage nice uh and isn't there a secondary damage set too
+[SPEAKER_05]: Let's see, let's see.
+[SPEAKER_05]: The target, okay.
+[SPEAKER_05]: Hit or miss the shard, then it explodes.
+[SPEAKER_05]: The target and each creature within five feet of it must succeed on a deck saving throw or take 2d6 cold damage.
+[SPEAKER_02]: I'm going to tell you right now, he cannot pass a deck saving throw.
+[SPEAKER_02]: I just want to see how much damage it does on top of.
+[SPEAKER_05]: I'll roll 2d6.
+[SPEAKER_02]: Yeah, do it.
+[SPEAKER_02]: Nice.
+[SPEAKER_05]: Snake eyes.
+[SPEAKER_02]: Total points of damage.
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: So Elior, being taken down in the first round of combat, kind of gets up, brushes himself off, and casts an ice knife up through that narrow slit.
+[SPEAKER_02]: You guys, I can see, kind of through the hole, see the goblet looking down at this ice, like, stylized, rune-covered icicle in his chest.
+[SPEAKER_02]: And he opens his mouth to start saying something, and that icicle detonates.
+[SPEAKER_02]: And parts of a goblin come out with a little arrow slit right there, and the rest of him seems to have stayed up in the room.
+[SPEAKER_02]: That, ladies and gentlemen, is how you make a mess.
+[SPEAKER_05]: That's one of Vern's favorite words.
+[SPEAKER_05]: He just goes, mess.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: So with that, no more goblin noises.
+[SPEAKER_02]: No more noises that you can tell.
+[SPEAKER_02]: Davey, you noticed the wall looked funny.
+[SPEAKER_01]: Yes, I would love to go and investigate
+[SPEAKER_02]: I mean, your roll was high enough that it's very obviously a secret door.
+[SPEAKER_02]: It's a panel of some sort.
+[SPEAKER_02]: Like, how do I... Well, I guess I can just throw it the fuck open.
+[SPEAKER_02]: Like, how do I mark something visible?
+[SPEAKER_02]: But yes, secret door that kind of opens up.
+[SPEAKER_02]: You can see another arrow slit in the wall.
+[SPEAKER_02]: And you can see that door right there.
+[SPEAKER_03]: Come on, guys.
+[SPEAKER_00]: And then let's all look at it.
+[SPEAKER_02]: Come look at the door with me.
+[SPEAKER_03]: I would like to investigate the inside of that door.
+[SPEAKER_02]: Yeah.
+[SPEAKER_03]: Yeah.
+[SPEAKER_02]: Is this like a check for traps moment?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: So you can go ahead and roll an investigation, but I'll tell you right now what you see is you see that arrow slip that goes into the room where there are most of a goblin and ice shards decorating the inside, some broken furniture.
+[SPEAKER_02]: You suspect that's where this door heads.
+[SPEAKER_02]: and then the stairs down in the middle of that otherwise empty room there is a stone pillar carved with a small symbol a perfect circle with 10 equidistant spokes radiating outward from its circumference in the middle of that circle is a smaller circle it's like an indentation
+[SPEAKER_02]: makes the whole thing kind of look like a lipless eye.
+[SPEAKER_03]: Spooky.
+[SPEAKER_02]: So what do we do?
+[SPEAKER_02]: Did you roll an investigation?
+[SPEAKER_03]: Yes, I rolled an 18.
+[SPEAKER_02]: You do not find any traps on the doors or the obvious doors, not necessarily having opened any.
+[SPEAKER_03]: Nice.
+[SPEAKER_02]: Is everyone else following?
+[SPEAKER_02]: We don't gotta move our tokens around, this stuff goes up when we need to.
+[SPEAKER_02]: Is there any inherent difference between these doors?
+[SPEAKER_02]: Too much doors.
+[SPEAKER_04]: I guess the four that I'm in the room with.
+[SPEAKER_02]: Oh, no, they all look to be about the same door, kind of iron-banded, solid wood.
+[SPEAKER_02]: It's funny, the secret door on the outside has stone.
+[SPEAKER_02]: It's just a stone facade with a little bit of a chip in it now that somebody's taken a big whack at it.
+[SPEAKER_02]: But the inside, it's just a stone facade over a wooden door.
+[SPEAKER_02]: And so from the inside of the secret door, it looks like just another door lock.
+[SPEAKER_02]: Are they locked?
+[SPEAKER_02]: Do you want to open one to find out?
+[SPEAKER_02]: Get the rest of the party up in here first.
+[SPEAKER_02]: Yeah, let's very stealthily open
+[SPEAKER_01]: This door.
+[SPEAKER_02]: I think you can click on the little door and it will open.
+[SPEAKER_02]: Can you?
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: It appears to be sleeping quarters.
+[SPEAKER_02]: Straw pallets on the floor.
+[SPEAKER_02]: Oddly enough, rusty manacles bolted into the walls.
+[SPEAKER_01]: Oh.
+[SPEAKER_02]: It looks like Jonathan did the same.
+[SPEAKER_02]: Did you just pop open a door there?
+[SPEAKER_02]: Oh yeah, you popped open this other door.
+[SPEAKER_02]: Yeah, straw pallets.
+[SPEAKER_02]: Looks the same as the other one.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: Ah, shit.
+[SPEAKER_02]: When you open up that door...
+[SPEAKER_02]: Hang on, guys.
+[SPEAKER_02]: Back out for a second.
+[SPEAKER_00]: Oh, fuck this.
+[SPEAKER_00]: God damn it.
+[SPEAKER_00]: I never went in there.
+[SPEAKER_00]: I didn't see shit.
+[SPEAKER_02]: You hop open that door.
+[SPEAKER_02]: Threadbare curtains hang on the east wall of a long hall, in the middle of which a muscular half-orc in dingy, shitty robes stands with his foot on the chest of a male human with wavy red blonde hair.
+[SPEAKER_02]: The orc's fist is clenched, and a halo of fire burns around it.
+[SPEAKER_00]: This is fine.
+[SPEAKER_02]: And his victim is still very much alive, but crying and squirming underneath his foot.
+[SPEAKER_02]: Seated on a raised platform to the south is a figure only seen in nightmares wearing black robes, large white eyes, and rubbery purple skin.
+[SPEAKER_02]: four tentacles circling its mouth.
+[SPEAKER_02]: It cradles and gently caresses what looks like a disembodied brain with feet.
+[SPEAKER_00]: When we are finished here, I am murderings of love.
+[SPEAKER_02]: Uh-huh.
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: So you have a split second to take in this scene.
+[SPEAKER_02]: What do you do?
+[SPEAKER_03]: Where's Renaer?
+[SPEAKER_02]: Renaer was following everybody into the room.
+[SPEAKER_02]: I lost his token.
+[SPEAKER_02]: He's kind of here in the stairs.
+[SPEAKER_02]: Let me get you in there.
+[SPEAKER_03]: This is just no good.
+[SPEAKER_05]: Do I know what this is?
+[SPEAKER_02]: History of Oracana.
+[SPEAKER_02]: But almost certainly you do.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: This is a mind flayer.
+[SPEAKER_04]: Hi, Ron.
+[SPEAKER_02]: All right, before anything starts, Elior bolts.
+[SPEAKER_02]: Anyone else doing anything in the instant they open up the door and see inside?
+[SPEAKER_04]: I'm definitely going to back away.
+[SPEAKER_02]: OK.
+[SPEAKER_02]: Anybody else doing anything?
+[SPEAKER_02]: He, uh... Is that our boy Floon?
+[SPEAKER_02]: Well, you've never met him, but it's a good guess.
+[SPEAKER_05]: Seems highly likely, yeah.
+[SPEAKER_04]: Wait, Floon is on Mind Flayer?
+[SPEAKER_00]: No, Floon is on the ground.
+[SPEAKER_04]: Oh.
+[SPEAKER_02]: He's on the ground with a half-orc with fire in his hand, standing over the top of him.
+[SPEAKER_02]: Sitting on a chair, petting a pet brain is a mind game.
+[SPEAKER_00]: All right, all right.
+[SPEAKER_00]: I'm going to take one step into the door.
+[SPEAKER_00]: I'm going to regret this.
+[SPEAKER_00]: I'm going to say... Oh, no.
+[SPEAKER_00]: Sorry to intrude.
+[SPEAKER_00]: Uh, what seems to be going on here?
+[SPEAKER_02]: We will get to their response after everyone else has finished their action.
+[SPEAKER_02]: Davey, what are you doing?
+[SPEAKER_00]: Oh, okay.
+[SPEAKER_00]: This is, yeah.
+[SPEAKER_01]: Um, I would like to, like, wave over Renaer and, and go,
+[SPEAKER_01]: to him and point at the door.
+[SPEAKER_01]: And then if I can try and hide just around the corner, I would love to do that.
+[SPEAKER_02]: Sorry, I couldn't make out what you were... Oh, I was saying, Floon!
+[SPEAKER_01]: Floon!
+[SPEAKER_01]: Under my breath, yeah.
+[SPEAKER_01]: I want him to know, because he seems stronger than us.
+[SPEAKER_02]: On this corner, too.
+[SPEAKER_02]: And actually, he's been involved in making it...
+[SPEAKER_02]: He's going to tuck down right there next to you.
+[SPEAKER_02]: You both are going to make stealth checks, yeah?
+[SPEAKER_03]: Cool, yeah.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Dirty 20, okay.
+[SPEAKER_02]: Upon hearing, that's everybody, right?
+[SPEAKER_02]: Everyone's kind of made their moves.
+[SPEAKER_02]: Rathul, did you do anything?
+[SPEAKER_00]: Yeah, I was going to ask, I'm going to ping this thing.
+[SPEAKER_00]: Or I'm not, because I guess I can't.
+[SPEAKER_00]: Oh, there it is.
+[SPEAKER_02]: What is that?
+[SPEAKER_02]: It's a pedestal with the eye, the circle with spokes symbol kind of etched into the top of it.
+[SPEAKER_02]: And it has this bowled out indentation in the middle of the circle, making it look like an eye.
+[SPEAKER_00]: Beyond that, you don't know.
+[SPEAKER_00]: Would it be cover?
+[SPEAKER_02]: Uh, yeah.
+[SPEAKER_02]: You could duck behind it.
+[SPEAKER_02]: and for sure get at least half covered okay um i think i might move there then and get my crossbow ready yeah do it all right all right uh so upon hearing jonathan speak the orc without taking his boot off of what is now pretty obviously flume or extinguishing the fire in his fist
+[SPEAKER_02]: turns and looks at you.
+[SPEAKER_02]: How did you get in here?
+[SPEAKER_02]: And at the same time... Uh-oh, lost my token controls.
+[SPEAKER_02]: The mind flayer rises to his feet, sets his pet brain on the ground, and kind of
+[SPEAKER_02]: glides over this way to stand next to him.
+[SPEAKER_02]: Says, ignores you and says to the half-orc, you know what to do.
+[SPEAKER_02]: And with that, boys and girls, I do love that you found the secret entrance first.
+[SPEAKER_02]: Because now I believe we all need to roll initiative.
+[SPEAKER_03]: Oh, you know what?
+[SPEAKER_02]: I'll also go over here.
+[SPEAKER_00]: Not like this.
+[SPEAKER_00]: All right.
+[SPEAKER_02]: Is everybody in?
+[SPEAKER_02]: Or are we missing somebody?
+[SPEAKER_00]: I'm not in.
+[SPEAKER_00]: I'm in.
+[SPEAKER_02]: You're not in?
+[SPEAKER_00]: Oh, let me add you.
+[SPEAKER_02]: There we go.
+[SPEAKER_02]: Going last, but you are also standing next to the source of and topic of most nightmares.
+[SPEAKER_02]: I want to just peek around the corner.
+[SPEAKER_01]: From here I can see... Oh cool, okay.
+[SPEAKER_01]: I just can't visually see on the map who's there.
+[SPEAKER_02]: If you booked it, you can make it to about the stairs here.
+[SPEAKER_03]: So around the corner, I can see the orc, the mind flayer.
+[SPEAKER_03]: Can I see the little brain?
+[SPEAKER_02]: Actually, from where you are, you can see the brain.
+[SPEAKER_02]: He set him down kind of up on the dais at the end.
+[SPEAKER_02]: So you can see the mind flayer, the orc, and the flume lying on the ground.
+[SPEAKER_01]: Alright, I will shoot at the orc.
+[SPEAKER_02]: From your tower?
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: Um, let's see.
+[SPEAKER_03]: Would that be advantage, because I'm counting on your recital later thing?
+[SPEAKER_02]: I think that's advantage.
+[SPEAKER_02]: I don't know, actually.
+[SPEAKER_00]: It would be a sneak attack.
+[SPEAKER_02]: It would be a sneak attack, for sure, but I don't think it's advantage.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah, not to the mind player, maybe, because Jonathan is flanking and you're hidden.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_01]: I should have shot at the orc.
+[SPEAKER_01]: Or the Mind Flayer, I mean.
+[SPEAKER_02]: Well, still, I mean, it was a, what, 13 to hit?
+[SPEAKER_01]: 13, yeah.
+[SPEAKER_02]: Yeah, you definitely hit the orc.
+[SPEAKER_02]: So go ahead and roll damage with your sneak attack.
+[SPEAKER_01]: Let's see, damage.
+[SPEAKER_01]: Sneak attack, is that a d6?
+[SPEAKER_02]: Yeah, so I think you're 2d6 plus 2 on this.
+[SPEAKER_02]: Okay.
+[SPEAKER_01]: an eight yeah i don't know that was just what they gave me okay all right so d6 11.
+[SPEAKER_02]: 11 total uh i think he might have just
+[SPEAKER_02]: It's all about timing.
+[SPEAKER_02]: So close.
+[SPEAKER_02]: Damn.
+[SPEAKER_02]: But he clearly didn't expect a crossbow bolt from around the corner.
+[SPEAKER_02]: And he turned to look at Jonathan and your bolt just right between the ribs dug in deep.
+[SPEAKER_02]: He doubles over in pain.
+[SPEAKER_02]: Anger on his face.
+[SPEAKER_02]: You are most likely no longer hidden.
+[SPEAKER_02]: Totally.
+[SPEAKER_01]: Alright, I'm just gonna stay in my little corner.
+[SPEAKER_02]: Stay in your little corner it is.
+[SPEAKER_02]: Okay, next up is Aladin.
+[SPEAKER_01]: Goodbye.
+[SPEAKER_02]: I saw a line of sight from here.
+[SPEAKER_02]: On who?
+[SPEAKER_01]: Either of them.
+[SPEAKER_02]: From there, yeah, you can see through the open doorway through either.
+[SPEAKER_02]: I mean, it's just the Jonathan's door is open.
+[SPEAKER_02]: So you can, wait, what'd you move to?
+[SPEAKER_01]: The top of the stairs.
+[SPEAKER_02]: Yeah, I think you should be able to see from there.
+[SPEAKER_02]: It's lit inside the chamber, so that's not a problem.
+[SPEAKER_02]: So from there... No, I don't want that.
+[SPEAKER_00]: Tools sometimes...
+[SPEAKER_00]: There's just a circle template.
+[SPEAKER_02]: Yeah, from there, you can kind of see the intellect devourer around the corner.
+[SPEAKER_02]: Or the...
+[SPEAKER_02]: Sorry.
+[SPEAKER_02]: The mind player around the corner, and you can definitely see the orc who is now doubled over in pain.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: I'm going to use some vicious mockery on that orc.
+[SPEAKER_02]: Actually... Huh?
+[SPEAKER_02]: What do you say to him?
+[SPEAKER_02]: Right.
+[SPEAKER_02]: Who's higher in the initiative order?
+[SPEAKER_02]: Do I know?
+[SPEAKER_01]: I don't really know that.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: We'll go with the orc.
+[SPEAKER_01]: No?
+[SPEAKER_02]: Fuck.
+[SPEAKER_02]: Pick one, man.
+[SPEAKER_01]: Pick one and do it.
+[SPEAKER_01]: We're blind player.
+[SPEAKER_01]: I'm just going to be like, huh?
+[SPEAKER_02]: What do you say to a mind flayer?
+[SPEAKER_02]: When I got in the sewers, I thought it was the shit that was smelling, but clearly it was your breath.
+[SPEAKER_02]: Classic, classic.
+[SPEAKER_00]: I was going to go like, if you're actually a smart mind flayer, what are you doing with that half-orc?
+[SPEAKER_02]: Rolled a 22 on his wisdom save.
+[SPEAKER_02]: And he turns and the tentacles around his mouth kind of wave.
+[SPEAKER_02]: And he says, cute.
+[SPEAKER_02]: That was your move.
+[SPEAKER_02]: That was your action.
+[SPEAKER_02]: Do you have a?
+[SPEAKER_02]: Can I finish moving and just go over here behind the corner?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Next up is the Intellect Devourer, which I think is a fast little thing.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Wrong control keys.
+[SPEAKER_02]: Does a little skitter.
+[SPEAKER_02]: So this little brain on tentacled legs runs up to you, Jonathan.
+[SPEAKER_00]: Oh, boy.
+[SPEAKER_03]: Put an absolute ball over there.
+[SPEAKER_02]: Does a 12 hit you?
+[SPEAKER_00]: Needs to meet or exceed?
+[SPEAKER_00]: Yep.
+[SPEAKER_02]: Does not hit?
+[SPEAKER_00]: Does not hit.
+[SPEAKER_02]: Great.
+[SPEAKER_02]: In which case, I need you to make an intelligence saving throw.
+[SPEAKER_03]: 13.
+[SPEAKER_02]: Well rolled, sir.
+[SPEAKER_02]: After it kind of swipes at you with these claws that just kind of break down your armor, not dealing any damage, you feel a wave of pressure
+[SPEAKER_02]: inside your brain uh but as quickly as it comes on it passes resolving itself to just a faint headache behind your eyes the might of justice prevented him from playing my mind uh that is his turn hi buddy
+[SPEAKER_02]: Next up is a Mind Flayer.
+[SPEAKER_00]: Who is just going to sit there and do nothing.
+[SPEAKER_02]: Steps in here, who is now in combat range with everybody but Rothul.
+[SPEAKER_02]: waves of dread coming off this monster as he steps between you looking back and forth
+[SPEAKER_02]: It doesn't link in Boundary.
+[SPEAKER_02]: I'm going to need everyone around me to make a save, but I have to look it up.
+[SPEAKER_02]: ProFool, I think you are out of range.
+[SPEAKER_03]: Where is the little guy that attacked me, by the way?
+[SPEAKER_03]: I can't see him.
+[SPEAKER_02]: You can't see who?
+[SPEAKER_02]: The little brain.
+[SPEAKER_02]: It's right in front of you.
+[SPEAKER_02]: Tiny right in front of you.
+[SPEAKER_02]: Oh, it's really small.
+[SPEAKER_02]: It just looked like part of...
+[SPEAKER_02]: He's like brain-sized.
+[SPEAKER_02]: No, totally.
+[SPEAKER_02]: It just looked like part of the environment.
+[SPEAKER_02]: I just couldn't make out the shape.
+[SPEAKER_02]: Gotcha.
+[SPEAKER_02]: There it is.
+[SPEAKER_02]: I need everyone to roll a wisdom save.
+[SPEAKER_02]: That's what I thought it was.
+[SPEAKER_02]: Me too.
+[SPEAKER_02]: So, not everybody, everybody, just Jonathan, Damien, and I'll roll for the ringer.
+[SPEAKER_02]: Brokul, you are out of range of this ringer.
+[SPEAKER_00]: Davey rolled an 18.
+[SPEAKER_02]: Everybody hears a voice in their head, and it's weird.
+[SPEAKER_02]: You can't make out the words, but it feels like a command.
+[SPEAKER_02]: Jonathan, you can't move.
+[SPEAKER_02]: Rainier appears also to be frozen in place.
+[SPEAKER_02]: Davey, you shake it off.
+[SPEAKER_02]: Your body is telling you, hold still, stay here, don't move, don't look, don't think, don't act, don't breathe.
+[SPEAKER_02]: But you manage to kind of push through it, and your faculties are your own.
+[SPEAKER_02]: with a chuckle, he steps past you and pulls a sphere out of his robes and places it in the center of the eye on that dais.
+[SPEAKER_02]: There's a large, swirling mass of energy starts to build around that pedestal.
+[SPEAKER_04]: Oh, that's a pedestal, not a column.
+[SPEAKER_02]: Right.
+[SPEAKER_02]: It's only like half height.
+[SPEAKER_02]: And the thing was etched into the top of it.
+[SPEAKER_02]: And he's now taken this orb and placed it in the center there.
+[SPEAKER_02]: And as the energy gathers, this tall portal kind of opens up.
+[SPEAKER_02]: And the Mind Flayer steps through it.
+[SPEAKER_02]: And as he disappears into the portal, a hand...
+[SPEAKER_02]: reaches out, plucks the stone off, and is gone.
+[SPEAKER_02]: And that's history.
+[SPEAKER_02]: OK. Could have been worse.
+[SPEAKER_02]: That portal is still open, by the way.
+[SPEAKER_00]: Oh.
+[SPEAKER_02]: Next up is Raynair, who, Jonathan, once the mind player has stepped through the portal, you feel control return to your body.
+[SPEAKER_02]: Your body and brain are in sync once again, and you seem to have control over yourself.
+[SPEAKER_02]: Raynair is white as a ghost, and is...
+[SPEAKER_02]: Just kind of standing there.
+[SPEAKER_02]: And does not get to take an action this round.
+[SPEAKER_02]: Let's see.
+[SPEAKER_02]: And actually, I am curious.
+[SPEAKER_02]: I forgot to check.
+[SPEAKER_02]: How long that portal stays open?
+[SPEAKER_02]: You know, should you want to chase him down?
+[SPEAKER_02]: You know.
+[SPEAKER_02]: You know you want to chase him down.
+[SPEAKER_02]: Yeah, the portal is definitely still open.
+[SPEAKER_02]: Uh, okay.
+[SPEAKER_02]: Renair doesn't have to go.
+[SPEAKER_02]: Room shut, or having been shot by a bolt.
+[SPEAKER_02]: Painful, so barely standing on the spot.
+[SPEAKER_03]: I'm thinking...
+[SPEAKER_02]: Dave, there's something on the corner again.
+[SPEAKER_02]: Is that right?
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: And I'm going to need a cone template.
+[SPEAKER_00]: There it is.
+[SPEAKER_02]: I knew it was coming.
+[SPEAKER_02]: Thank you.
+[SPEAKER_02]: Does someone remember off the top of their hands what the distance on burning hands is?
+[SPEAKER_02]: I think it's 15 feet?
+[SPEAKER_02]: 15-foot cone?
+[SPEAKER_05]: Yes.
+[SPEAKER_02]: So, I need Davy, Renair, and Brothul to make a dex save.
+[SPEAKER_02]: All right, did anybody roll under a 15?
+[SPEAKER_02]: Oh, good deck sage, you guys.
+[SPEAKER_02]: So, I think you all are willing to take half damage on this.
+[SPEAKER_02]: Everybody, all three in that cone, take seven points of fire damage as he steps around the corner and lays out with a burning hand the flames fan out, kind of trapping you in that corner.
+[SPEAKER_01]: I'm down.
+[SPEAKER_02]: Once you're down.
+[SPEAKER_02]: He kind of, over the roar of the flames, you hear him say, fair's fair.
+[SPEAKER_00]: I swear it up to my wife.
+[SPEAKER_00]: I'm fucking nuke his ass from orbit.
+[SPEAKER_02]: Well, you are standing right next to him.
+[SPEAKER_00]: My attack is going to go into orbit and back down landing directly.
+[SPEAKER_02]: How are you doing?
+[SPEAKER_00]: Still up.
+[SPEAKER_02]: Still up.
+[SPEAKER_02]: Okay.
+[SPEAKER_00]: Fucking singed my hair, that bitch.
+[SPEAKER_00]: You know how much this Dapper Dan costs?
+[SPEAKER_02]: Uh-huh, uh-huh, uh-huh.
+[SPEAKER_02]: Floon is now...
+[SPEAKER_02]: He's not up, but now that the orc has taken his foot off his chest, he's gasping for air and trying to get to his feet.
+[SPEAKER_02]: So he'll take half his movement to stand, and the other half to essentially cower against this battle.
+[SPEAKER_00]: uh which i believe brings us to bro um i think i'll just shoot the half fork to shoot him i mean i think he's in melee range to you isn't he he is for me well i could take a no i gotta take a step forward but yeah i'll shoot him yeah they'll just drop the crossbow because he's clearly coming sure drop uh
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: Roll your attack.
+[SPEAKER_00]: 11, Graham.
+[SPEAKER_00]: 14.
+[SPEAKER_00]: 14.
+[SPEAKER_02]: I'm pretty sure it hits this guy.
+[SPEAKER_02]: Right.
+[SPEAKER_02]: I have to go back to the... Yeah, yeah, yeah.
+[SPEAKER_02]: That's definitely a hit.
+[SPEAKER_01]: Roll that damage.
+[SPEAKER_02]: gotta remind myself damage normal right there in the chat card there you go 10. so the flames are starting to flicker down and a bolt comes through like completely invisible to him on the other side and sticks him in his chest and you see the flames go from dying down to just cut off
+[SPEAKER_02]: Like you turned off the water to a hose.
+[SPEAKER_02]: The flame pressure dies down.
+[SPEAKER_02]: And his eyes dim.
+[SPEAKER_02]: And he starts to buckle over.
+[SPEAKER_02]: And you see the muscles in his body ripple.
+[SPEAKER_02]: And the light flare back into his eyes.
+[SPEAKER_02]: He buckles but doesn't go down.
+[SPEAKER_02]: And is now standing there.
+[SPEAKER_02]: with a look of pure fury across his face.
+[SPEAKER_02]: Anybody knows what Hathor's racial trait is.
+[SPEAKER_03]: Cool.
+[SPEAKER_02]: Wait, sorry.
+[SPEAKER_02]: Anybody want to roll an arcana or history shirt to make a guess?
+[SPEAKER_03]: Yeah, you got that.
+[SPEAKER_02]: Yeah, you guys have dealt with orcs before.
+[SPEAKER_02]: You've seen this.
+[SPEAKER_02]: When they go down, they don't go down.
+[SPEAKER_02]: When they're supposed to die, they just get angry.
+[SPEAKER_02]: Racial trait for a half-orc is when they are reduced to zero.
+[SPEAKER_02]: Instead of going down, they stay upright with just one.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Rotul, you got a move or anything left in you?
+[SPEAKER_00]: Yeah, so Davey's down, right?
+[SPEAKER_02]: Davey's down.
+[SPEAKER_05]: Jonathan is up.
+[SPEAKER_02]: Jonathan's up.
+[SPEAKER_05]: Elior ran.
+[SPEAKER_02]: Elior booked it.
+[SPEAKER_02]: He's at the top of the stairs.
+[SPEAKER_05]: Aladin is up.
+[SPEAKER_02]: I actually have a quick question.
+[SPEAKER_02]: There's an open portal right next to your elbow.
+[SPEAKER_02]: Sorry, Jonathan, go ahead.
+[SPEAKER_00]: When he came by me, would that not have prompted an attack of opportunity?
+[SPEAKER_00]: No.
+[SPEAKER_02]: You were completely paralyzed.
+[SPEAKER_00]: Wait, I thought you said that by the time after the Mind Flayer went into the portal, you said I could have my feeling back again.
+[SPEAKER_02]: Oh, so he's in your combat range.
+[SPEAKER_02]: If he leaves your combat range, it's an attack of opportunity.
+[SPEAKER_02]: Understood.
+[SPEAKER_02]: And so the Mind Flayer came into and out of your combat range, but he froze you on the way by.
+[SPEAKER_00]: Yeah, no, I know about the Mind Flayer.
+[SPEAKER_00]: I was just talking about this guy.
+[SPEAKER_02]: Yeah, yeah.
+[SPEAKER_02]: Yes, should he try and flee from this position?
+[SPEAKER_00]: Understood, understood.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Yep, so the portal is like right next to you, Brokul.
+[SPEAKER_05]: Yeah, no, I moved.
+[SPEAKER_05]: So I'm going to move kind of down the stairs.
+[SPEAKER_05]: We'll see what he does next.
+[SPEAKER_02]: Okay, that's your turn?
+[SPEAKER_05]: Yep.
+[SPEAKER_02]: What happened to my music?
+[SPEAKER_02]: Why did it die on me?
+[SPEAKER_00]: You got a copyright takedown, Nevis.
+[SPEAKER_00]: Gotta play the pain scene from Naruto.
+[SPEAKER_02]: I've had a few of those.
+[SPEAKER_02]: I believe next up is Elior at the top of the stairs.
+[SPEAKER_02]: What would you like to do?
+[SPEAKER_00]: Your audio's not coming through, dude.
+[SPEAKER_05]: Oh, yeah, sorry.
+[SPEAKER_05]: I'm thinking.
+[SPEAKER_05]: I'm going to give this guy the old classic, dude.
+[SPEAKER_05]: The old sorceress burst, baby.
+[SPEAKER_02]: On the brain?
+[SPEAKER_02]: Get it done.
+[SPEAKER_02]: Unfortunately, justice is in your way.
+[SPEAKER_02]: You don't manage to hit him, but you don't manage to hit the brain either.
+[SPEAKER_02]: Trying to thread the needle.
+[SPEAKER_02]: He's kind of a big guy.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: Well, that's that.
+[SPEAKER_02]: That's that.
+[SPEAKER_02]: And following up in the end here, we have justice.
+[SPEAKER_02]: There's a brain in front of you and an orc on the side of you.
+[SPEAKER_02]: One attacked your friends.
+[SPEAKER_02]: One attacked you.
+[SPEAKER_00]: Keep staying on.
+[SPEAKER_02]: I'm gonna whack you more and more.
+[SPEAKER_03]: Woo!
+[SPEAKER_02]: Yeah, baby!
+[SPEAKER_03]: Yeah, baby!
+[SPEAKER_05]: All right, roll it.
+[SPEAKER_05]: Um... Is it your first time hitting something thus far?
+[SPEAKER_05]: I'm just kidding.
+[SPEAKER_00]: Yeah, it is.
+[SPEAKER_00]: You know, go fuck yourself.
+[SPEAKER_02]: Look, he's feast or famine, all right?
+[SPEAKER_02]: When it lands, it fucking lands.
+[SPEAKER_03]: Where... How do I...
+[SPEAKER_00]: Specifically, fuck yourself with justice.
+[SPEAKER_02]: It's on the what?
+[SPEAKER_02]: It's on the card in the chat above your roll result.
+[SPEAKER_02]: It says attack and damage.
+[SPEAKER_02]: Hit damage, pop that open, and roll with the critical hit button.
+[SPEAKER_00]: Oh, there we go.
+[SPEAKER_00]: Sorry, I was looking at the chat.
+[SPEAKER_00]: Yeah, yeah, yeah.
+[SPEAKER_00]: It might be.
+[SPEAKER_00]: He's fucking dead now, right?
+[SPEAKER_02]: Oh, yeah.
+[SPEAKER_02]: Actually...
+[SPEAKER_02]: With apologies to Matt Mercer, how do you want to do this?
+[SPEAKER_02]: What does this look like?
+[SPEAKER_00]: I want to explode his head.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Sure.
+[SPEAKER_02]: So that... After he takes that crossbow bolt and comes back up, the fury etched on his face, you spin around with that Morningstar and bring it down like Gallagher on a watermelon.
+[SPEAKER_02]: And that spiked ball comes down and just kind of replaces the orc's head.
+[SPEAKER_02]: And amidst the spray, there is just a spiked ball atop these stacked shoulders and shitty-looking sorcerer's robes before the whole assembly crumples to the ground.
+[SPEAKER_00]: And then I want to look back at everyone, and I want to say, justice has been served.
+[SPEAKER_05]: Just imagine the Law & Order sound.
+[SPEAKER_04]: Ding, ding!
+[SPEAKER_02]: You need a bit of macro for that.
+[SPEAKER_00]: I think that's only SVU, though.
+[SPEAKER_00]: So I don't know how that plays out here.
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: Good turn.
+[SPEAKER_02]: Good turn.
+[SPEAKER_02]: Do you want to move?
+[SPEAKER_02]: You're still in combat range with that little brain.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: I mean, if I move, he'll attack me.
+[SPEAKER_00]: So I'm just going to sit here.
+[SPEAKER_03]: Yeah, yeah.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Let me mark this work as no more.
+[SPEAKER_00]: Hooray, I did something.
+[SPEAKER_02]: Brings us to day B. I need a death save.
+[SPEAKER_04]: Holy shit, SPU is still going?
+[SPEAKER_05]: Yeah, there's, like, season 24.
+[SPEAKER_05]: 586 episodes.
+[SPEAKER_00]: Yeah, what is it?
+[SPEAKER_00]: I can't remember.
+[SPEAKER_00]: Is it Ice Cube that's in SVU?
+[SPEAKER_02]: Ice T. Ice T. Ice T, yeah.
+[SPEAKER_00]: Yeah, he, I think, is the longest.
+[SPEAKER_02]: Ice Cube in a show with cops.
+[SPEAKER_02]: Come on, now.
+[SPEAKER_00]: Yeah, no, I forgot which Ice it was.
+[SPEAKER_00]: I think I saw recently that he is the longest running, like, television, like,
+[SPEAKER_00]: television show actor of all time.
+[SPEAKER_00]: Like, I don't think that anyone has been on a single show for as long as he has been on it.
+[SPEAKER_00]: Well, he and Marista Hargitay have been on SVU for the same amount of time.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_01]: And yeah, what about some of these soap operas, though?
+[SPEAKER_00]: I don't think...
+[SPEAKER_00]: I mean, ER was pretty long, but I don't think that was the same cast the whole time.
+[SPEAKER_04]: He gets $250,000 an episode.
+[SPEAKER_05]: That's fucking wild.
+[SPEAKER_02]: There's a mind flayer beating up your boy.
+[SPEAKER_02]: Your other boy is down in the dirt.
+[SPEAKER_02]: Renair looks like he's just coming back to his senses.
+[SPEAKER_02]: And there's a big old portal where that pistol was.
+[SPEAKER_02]: Kind of like bisecting it almost.
+[SPEAKER_02]: Any plans?
+[SPEAKER_02]: Aladin?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I mean, I'm going to cast Healing Ward on Davy.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: That's your bonus.
+[SPEAKER_02]: How many spell slots do you have left?
+[SPEAKER_02]: That was my last one for Healing Ward.
+[SPEAKER_02]: I've been using... Oh, that's right.
+[SPEAKER_02]: Cantrips.
+[SPEAKER_02]: And this is a d4 or 2d4?
+[SPEAKER_02]: 2d4.
+[SPEAKER_02]: 2d4.
+[SPEAKER_02]: They made a healing word a lot stronger.
+[SPEAKER_03]: Thank you!
+[SPEAKER_02]: Okay, Davey, back up with six.
+[SPEAKER_02]: You still have a move and an action left.
+[SPEAKER_01]: Um...
+[SPEAKER_02]: And that action can be a cantrip still.
+[SPEAKER_02]: Just no love at spells.
+[SPEAKER_01]: Well, you're out of slots anyway.
+[SPEAKER_04]: Oh, yeah.
+[SPEAKER_04]: So I will do vicious mockery on that brain.
+[SPEAKER_02]: What do you say to a brain with feet to hurt its feelings?
+[SPEAKER_02]: Stick it around while your master's dead.
+[SPEAKER_02]: You don't seem so smart for a brain.
+[SPEAKER_02]: All right, let's see.
+[SPEAKER_02]: What does a brain roll for a wisdom save?
+[SPEAKER_02]: I don't think it's that good.
+[SPEAKER_02]: I don't think they're very wise.
+[SPEAKER_02]: People have not been able to save against your insults tonight.
+[SPEAKER_02]: He rolled a solid five.
+[SPEAKER_04]: Nice.
+[SPEAKER_02]: So go ahead and roll that damage.
+[SPEAKER_03]: Ho-ho!
+[SPEAKER_02]: Perfect.
+[SPEAKER_02]: Oh, cool.
+[SPEAKER_02]: I can make it jump.
+[SPEAKER_02]: Sorry, I just had to use controls.
+[SPEAKER_02]: Knocked six off of that.
+[SPEAKER_02]: Nope.
+[SPEAKER_02]: That wasn't six.
+[SPEAKER_02]: That was six.
+[SPEAKER_02]: There we go.
+[SPEAKER_02]: It's funny.
+[SPEAKER_02]: They can't emote.
+[SPEAKER_02]: They don't
+[SPEAKER_02]: really have a face as such but you see a particular slump to its frontal lobe as your cutting words seem to ring true uh this is psychic damage yes yep uh just want to make sure that he does not have resistance i don't think he does does he all right uh do you want to make a move
+[SPEAKER_02]: Or are you good where you're at?
+[SPEAKER_01]: Not good.
+[SPEAKER_02]: OK.
+[SPEAKER_02]: So his next attack roll is with a disadvantage, correct?
+[SPEAKER_01]: Yep.
+[SPEAKER_02]: Because you insulted him?
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: Target the right guy.
+[SPEAKER_02]: He cuts through the ennui to rear up an attack with his claws again at disadvantage.
+[SPEAKER_02]: Ooh, I would have hit you with advantage.
+[SPEAKER_02]: 14.
+[SPEAKER_02]: Jonathan, 14 to hit?
+[SPEAKER_00]: 14 to hit, no.
+[SPEAKER_02]: Does not hit, but I do need another save.
+[SPEAKER_02]: Which one?
+[SPEAKER_02]: Intelligence save.
+[SPEAKER_02]: intelligence you feel that pressure in your brain again
+[SPEAKER_02]: And you take... No damage.
+[SPEAKER_02]: 12 points of psychic damage.
+[SPEAKER_02]: Oh, come down.
+[SPEAKER_02]: The pressure in your brain starts pushing on the back of your eyes.
+[SPEAKER_02]: You're pretty sure every orifice in your face is bleeding.
+[SPEAKER_02]: And what is your total intelligence?
+[SPEAKER_00]: Nine.
+[SPEAKER_02]: Score, nine.
+[SPEAKER_02]: eight actually okay okay you're good no brains to suck might that might be the problem uh the he's pulling on that straw it's clamped down um okay that let's see you're down uh
+[SPEAKER_02]: He is willing to move, and...
+[SPEAKER_02]: Stand in front of Elliot.
+[SPEAKER_02]: Just kind of clampers over your body.
+[SPEAKER_03]: And that's his turn.
+[SPEAKER_02]: Next up is...
+[SPEAKER_02]: The Gone Mind player, followed by Rene, who finally, like, shakes off his stupor.
+[SPEAKER_02]: Davies up, uh...
+[SPEAKER_02]: Davy has one health potion left that Rhaenyra gave, and Aladine has the other, so Rhaenyra does not have health potions.
+[SPEAKER_02]: But he will step forward and take a full three attacks at this guy.
+[SPEAKER_02]: So that is two with the rapier, one with the deck.
+[SPEAKER_02]: One rapier attack and one dagger attack lands!
+[SPEAKER_02]: Goes to skewer the brain with the first shot, but the brain kind of dodges out of the way, but not so fast on the second poke, or the third.
+[SPEAKER_02]: For a total of... For a grand total of 19 points.
+[SPEAKER_02]: of damage to this brain.
+[SPEAKER_03]: Ooh.
+[SPEAKER_02]: Which was just enough.
+[SPEAKER_02]: So the brain having clambered over your body and wandered up to Elior like it was his next lunch, Rhaenyra lashes out three times and makes sweetmeats out of that little piece of brain.
+[SPEAKER_02]: And with that, I do believe we are out of combat.
+[SPEAKER_01]: I'll pour my final health potion into Jonathan.
+[SPEAKER_02]: Go ahead and roll it for me.
+[SPEAKER_02]: What was the...
+[SPEAKER_02]: It's 2d4 plus 2.
+[SPEAKER_03]: How you doing?
+[SPEAKER_03]: Oof.
+[SPEAKER_03]: You should have done it.
+[SPEAKER_03]: Five.
+[SPEAKER_02]: Oof.
+[SPEAKER_02]: I usually make whoever's administering it do it, but...
+[SPEAKER_00]: Better that than that.
+[SPEAKER_00]: So, uh...
+[SPEAKER_00]: We found flume.
+[SPEAKER_02]: This portal is still up, by the way.
+[SPEAKER_02]: But you can see the edges starting to get quicker.
+[SPEAKER_00]: So it sounds to me like we need to grab flume and run the fuck out.
+[SPEAKER_02]: We're here, Borg.
+[SPEAKER_01]: Huh?
+[SPEAKER_02]: Over the next 20 seconds or so,
+[SPEAKER_02]: That portal's edges soften and dim, and then it's gone.
+[SPEAKER_02]: And the pedestal is back to just a weird relief of an eye going into it.
+[SPEAKER_02]: Floon is barely conscious, on one knee leaning against the far wall.
+[SPEAKER_02]: Where?
+[SPEAKER_02]: He looks bad.
+[SPEAKER_02]: He's been through the rain.
+[SPEAKER_00]: Where is he?
+[SPEAKER_00]: I can't see him.
+[SPEAKER_02]: Uh, oh, do I not talk with him?
+[SPEAKER_02]: Yeah, he's right here.
+[SPEAKER_02]: There's a dead orc and a disembodied brain kebab on the floor.
+[SPEAKER_00]: Have we any more healing potions?
+[SPEAKER_00]: Is he in need of one?
+[SPEAKER_01]: Aladin has one.
+[SPEAKER_02]: Judging from the blood running down his face, probably?
+[SPEAKER_00]: Will he make it without it?
+[SPEAKER_02]: I see no reason not to use it.
+[SPEAKER_05]: That's our money, man.
+[SPEAKER_05]: Give him the potion.
+[SPEAKER_05]: Yeah, seriously.
+[SPEAKER_05]: That's fair.
+[SPEAKER_02]: I would love for you guys to get all through this, only to have him drop dead on the trip home from blood loss.
+[SPEAKER_02]: Yeah, if you want to cure him up, Aladin, roll 2d4 and add 2.
+[SPEAKER_02]: five plus four so nine so you you basically have to like pour it down his throat he's in in bad shape but as the the potion kind of takes hold and he starts to recover and come to his eyes blinking looking around him taking in his dead tormentor on the ground faces that are vaguely familiar and his friend reneir
+[SPEAKER_02]: he springs to his feet and wraps aladdin in like almost like a bear hug like if he could get one leg up to cling on to you he will uh he's he's overjoyed at his rescue being convinced that this was the end for him between like laughing and crying oh my god it was so scary
+[SPEAKER_02]: He takes turns hugging anyone who is close enough to him.
+[SPEAKER_02]: Renaer pats him on the shoulder.
+[SPEAKER_02]: Says, come now.
+[SPEAKER_02]: We wouldn't leave you here.
+[SPEAKER_00]: To the Yawning Portal.
+[SPEAKER_02]: Floon is nodding vigorously.
+[SPEAKER_02]: I could use a drink.
+[SPEAKER_02]: I am forever in your debt.
+[SPEAKER_02]: The drinks are on me.
+[SPEAKER_05]: Bob crawls back on, boys.
+[SPEAKER_02]: In this room, there is a corridor.
+[SPEAKER_02]: There are stairs leading out.
+[SPEAKER_02]: There are doors off to the side.
+[SPEAKER_02]: There is the dais at the end, and of course the doors you came in.
+[SPEAKER_05]: Is that a treasure chest?
+[SPEAKER_02]: Do a search?
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Investigate the room.
+[SPEAKER_02]: That is a chest behind the throne right there.
+[SPEAKER_02]: Also, there's not much on the brain unless anybody fancies a meal.
+[SPEAKER_02]: However, the orc has a satchel
+[SPEAKER_02]: around his body that he was carrying when he went down.
+[SPEAKER_02]: There are no arcane spellcasters in here, are there?
+[SPEAKER_02]: Y'all are sorcerers.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Well, there is definitely an eldritch-looking book inside that satchel, but nobody here can read it.
+[SPEAKER_05]: I'm taking it anyways.
+[SPEAKER_02]: Not a great check.
+[SPEAKER_02]: Even worse.
+[SPEAKER_02]: Did we get anybody on those Arcana checks?
+[SPEAKER_02]: Did we get anybody in double digits even?
+[SPEAKER_04]: Nope.
+[SPEAKER_04]: Nope.
+[SPEAKER_02]: It's probably a spell book.
+[SPEAKER_05]: I want to investigate that treasure chest.
+[SPEAKER_02]: Just going to throw it open?
+[SPEAKER_05]: Yep.
+[SPEAKER_02]: Mimic.
+[SPEAKER_02]: I want to mimic so bad right now.
+[SPEAKER_02]: Doesn't even check for traps.
+[SPEAKER_02]: It's not trapped.
+[SPEAKER_02]: It's not locked, either.
+[SPEAKER_02]: However, inside the chest, you find two potions of healing.
+[SPEAKER_02]: The ones you've been using, the 2d4 plus 2.
+[SPEAKER_02]: Also, you find some loose change.
+[SPEAKER_02]: I'll send you the totals in chat, and you can, you know, divvy up or not.
+[SPEAKER_02]: It's up to you, Elfie.
+[SPEAKER_02]: Hey, guys.
+[SPEAKER_02]: I found some healing potions and some money.
+[SPEAKER_02]: The rest of the room is in pretty drab shape.
+[SPEAKER_02]: There's not much else of interest.
+[SPEAKER_04]: I'm going to give one of the potions to Elir as he constantly goes down.
+[SPEAKER_02]: Yeah, I don't know what his luck is.
+[SPEAKER_02]: He seems to get... RNG just likes him.
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: I'm going to vaguely hold up the satchel of money and be like, second round's on me.
+[SPEAKER_03]: No, wait.
+[SPEAKER_02]: What?
+[SPEAKER_02]: I know.
+[SPEAKER_02]: He said... Second round's on me.
+[SPEAKER_02]: i will buy you drinks for the rest of your life as long as i can justice does not like liars my friend you can tell he's a bit melodramatic but the boy is serious like he is convinced that you are his saviors and he does not get more than about two steps from probably jonathan
+[SPEAKER_02]: the entire time like he is like clinging to you uh clearly a lover not a fighter well uh should we should we go back to the only portal uh these are just like they're just like the other sleeping rooms you found on the on the other side there um a straw pallet
+[SPEAKER_02]: Chains on the walls probably use the cells.
+[SPEAKER_02]: Do you want to explore any more here, or do you want to head straight back?
+[SPEAKER_01]: I would love to roll an investigation to see if there are any secret doors in this room.
+[SPEAKER_02]: Oh, this room here?
+[SPEAKER_01]: Oh, just...
+[SPEAKER_01]: I was thinking, in general, big room.
+[SPEAKER_01]: But yes, top area where you are.
+[SPEAKER_01]: Yes, totally.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah, give me an investigation.
+[SPEAKER_02]: Or perception.
+[SPEAKER_02]: Whichever one you choose.
+[SPEAKER_02]: Nine.
+[SPEAKER_02]: I mean, you take a good look, but it's pretty much like...
+[SPEAKER_02]: This looks to be some sort of storage annex.
+[SPEAKER_02]: Nothing special in it.
+[SPEAKER_02]: These rooms also don't appear to have any sort of hidden trap doors or anything like that.
+[SPEAKER_02]: The dais itself doesn't seem to move and have a hidden staircase underneath it.
+[SPEAKER_02]: Everything in the room looks pretty above board.
+[SPEAKER_02]: These are stairs down.
+[SPEAKER_02]: You came down a few steps to get in here and these head further down.
+[SPEAKER_02]: You have to assume that these go under the tunnels, the sewer tunnels themselves.
+[SPEAKER_02]: Yeah, that's about all for this room.
+[SPEAKER_02]: We go down the stairs?
+[SPEAKER_02]: How did they bring you in here?
+[SPEAKER_02]: I had a bag over my head the entire time.
+[SPEAKER_02]: It smelled like onions.
+[SPEAKER_01]: Do you go upstairs or downstairs?
+I don't know.
+[SPEAKER_03]: We can just come back the way we came.
+[SPEAKER_02]: Yeah, I'm asking if you guys want to keep exploring this or head back out.
+[SPEAKER_04]: I want to go down upstairs and take a peek.
+[SPEAKER_02]: Go for it.
+[SPEAKER_04]: Dang, if only we had a map.
+[SPEAKER_04]: There's no shit flowing through here, by the way.
+[SPEAKER_00]: There's a corridor that's crowded through these corridors.
+[SPEAKER_02]: Yeah, it's a corridor that goes down and then right back up.
+[SPEAKER_02]: It's clearly some sort of underpass, and there's a door at the end of the hall.
+[SPEAKER_01]: Oh, shit.
+[SPEAKER_02]: Did you open it?
+[SPEAKER_02]: You did open it.
+[SPEAKER_01]: Yep.
+[SPEAKER_02]: So as you approach the door, you can hear voices on the other side.
+[SPEAKER_02]: They seem to be arguing about something.
+[SPEAKER_01]: Hey, y'all, there's someone down here.
+[SPEAKER_02]: We need to go.
+[SPEAKER_02]: You want to go in and investigate?
+[SPEAKER_01]: I open the door.
+[SPEAKER_01]: There's someone there.
+[SPEAKER_02]: You open the door, and you see a vaguely familiar face.
+[SPEAKER_02]: It's the guy that was in a bar fight earlier this evening.
+[SPEAKER_02]: The one who got pounded to the dirt by Yagra Stonefist.
+[SPEAKER_02]: If you remember, his name was Krentz.
+[SPEAKER_02]: And he is busy yelling at a deep gnome standing up by another doorway to your right going, no, no, no!
+[SPEAKER_02]: You gotta put something under the door!
+[SPEAKER_02]: That's not gonna stop it!
+[SPEAKER_02]: And the gnome is barricading
+[SPEAKER_02]: this other door, like, trying to block it off as best we can.
+[SPEAKER_01]: Yeah, nope.
+[SPEAKER_01]: I'm gonna shut that door right away and fuck it.
+[SPEAKER_01]: We'll get back up there.
+Okay.
+[SPEAKER_02]: Uh, I am going to see if they notice.
+[SPEAKER_02]: Oh, you lucky fucker.
+[SPEAKER_02]: Uh, yeah, so you quietly, like, shut the door and go back out and go back down the hallway.
+[SPEAKER_02]: Yeah, we should get out of here.
+[SPEAKER_02]: There's some trouble to burn downstairs.
+[SPEAKER_00]: Yeah, I would say we leave back to the Yawning Portal the way we came, unless we need to move our guys away.
+[SPEAKER_02]: Are we going to come out of the portal?
+[SPEAKER_02]: If the sewers connect to Undermountain, there are some way bigger problems going on.
+[SPEAKER_02]: Okay, if you guys are heading out, I want you to give me one quick survival check.
+[SPEAKER_02]: Whoever... You can do it as a group.
+[SPEAKER_02]: Do it as whoever's your highest.
+[SPEAKER_02]: Definitely not me.
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: Easy peasy.
+[SPEAKER_02]: Between the guilt sign and you having just made your way down, it's not too hard to find your way back out.
+[SPEAKER_02]: You come up
+[SPEAKER_02]: out of the manhole you entered uh renair looking exhausted loon looking terrified still clinging to jonathan like uh like that classic maiden trope right just saved from the dragon he's like almost like hanging on to your arm i believe you've made a friend for life
+[SPEAKER_02]: uh so yeah you you make it back out to the streets with no further issues and everybody makes their way back up to the yawning portal uh reneir is not going to join you inside he says uh truly my friends you were spectacular tonight
+[SPEAKER_02]: I think I have many people who will be looking for me.
+[SPEAKER_02]: I need to go put some minds at ease.
+[SPEAKER_02]: I hope our paths cross again.
+[SPEAKER_02]: Please look me up anytime.
+[SPEAKER_02]: And he gives a wave and bounces off into the night.
+[SPEAKER_01]: Wait.
+[SPEAKER_01]: We haven't found Plune yet.
+What?
+[SPEAKER_01]: Wait.
+[SPEAKER_02]: Plune is hanging off of Jonathan's arm.
+[SPEAKER_01]: Oh.
+[SPEAKER_02]: You healed him.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_02]: Sorry.
+[SPEAKER_02]: I thought that was...
+[SPEAKER_01]: Wait.
+[SPEAKER_02]: So... Who was... Renair's the guy you found in the warehouse earlier tonight.
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: He joined you on the trip down.
+[SPEAKER_02]: You found Floon underneath the heel of the orc sorcerer.
+[SPEAKER_01]: Oh, okay.
+[SPEAKER_01]: I'm getting names confused.
+[SPEAKER_01]: I thought the guy we found was the guy that we were... that paid us.
+[SPEAKER_01]: You guys have said that's our money.
+[SPEAKER_01]: That's because we found a thing.
+[SPEAKER_01]: We haven't collected our money yet.
+[SPEAKER_02]: No, no, you're headed back to the portal to do that.
+[SPEAKER_02]: Bolo is waiting.
+[SPEAKER_02]: Bolo is the guy.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Sorry, I got Bolo and Floon confused.
+[SPEAKER_02]: Bolo is the guy.
+[SPEAKER_02]: Okay, good.
+[SPEAKER_02]: We good now?
+[SPEAKER_01]: Yeah.
+[SPEAKER_02]: Great.
+[SPEAKER_02]: So, returning to the awning portal with a hail and...
+[SPEAKER_02]: If not hardy, at least a live flune in tow.
+[SPEAKER_02]: Volvo is trying to play it cool, but extremely antsy, sitting at his usual table in front of the heart as you enter the yawning portal.
+[SPEAKER_02]: Let's see if I have better ways of doing this, huh?
+[SPEAKER_03]: Maybe I do better.
+Maybe not.
+[SPEAKER_02]: So you enter back into the portal, and it is gone from late at night to early in the morning, but there are still patrons there.
+[SPEAKER_02]: Durnan is still behind the bar.
+[SPEAKER_02]: Bonnie is still working her boots off, and Three Strings is attempting to entertain the crowd, and that is going poorly.
+[SPEAKER_02]: Lolo hops up when he sees Floon, runs over, gives the man a big hug, and says, I was certain you were done for, Lolo.
+[SPEAKER_02]: uh and turns to the group says my friends you have delivered and far sooner than i thought possible you've returned my dear flune to me and then he looks a little embarrassed says i confess that i am
+[SPEAKER_02]: A bit short on cash at the moment, but few coins to spare, but never let it be said that Volo reneges on a promise.
+[SPEAKER_02]: Allow me to offer you something much more valuable.
+[SPEAKER_04]: Better be six something.
+[SPEAKER_02]: With a flourish, he holds out a scroll tool.
+[SPEAKER_02]: This is the deed to a remarkable property here in Watertown.
+[SPEAKER_02]: We'll need a magistrate to witness the transfer of ownership, but I can arrange for a meeting after you've inspected the estate and deemed it satisfactory.
+[SPEAKER_02]: I bought the deed to this manor in the North Ward as part of research for my upcoming book.
+[SPEAKER_02]: However, it did not turn out to be what I needed.
+[SPEAKER_02]: Please, accept this in the name of the one I owe you.
+[SPEAKER_00]: No, thank you.
+[SPEAKER_00]: I'm not staying in the city.
+[SPEAKER_04]: How many gold dragons is it worth?
+[SPEAKER_04]: Are you kidding?
+[SPEAKER_04]: A party house?
+[SPEAKER_02]: A base of operations...
+[SPEAKER_02]: He's holding it out.
+[SPEAKER_02]: Does anyone take it?
+[SPEAKER_02]: I take it.
+[SPEAKER_02]: So you guys all, like, grab it out of his hands, and you unfold the scroll and look at it.
+[SPEAKER_02]: And it describes one Trollskull Manor, an historic building in the North Ward.
+[SPEAKER_02]: Which I can pull you all... Everybody head to...
+[SPEAKER_01]: How big a deal is being a property owner in Waterdeep?
+[SPEAKER_01]: It's not a small thing.
+[SPEAKER_01]: Here we go.
+[SPEAKER_02]: Here we go.
+[SPEAKER_00]: We have a Manor.
+[SPEAKER_02]: That is the location of Troll School Manor.
+[SPEAKER_02]: And I think we should definitely check that place out first thing next week.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: party house party house all right good job tonight guys you'll face a mind player at level one i mean i tried to run i was so hoping somebody got in between him and the portal because then things got like way cooler yeah okay
+[SPEAKER_00]: Unfortunately, I don't think we really had a chance, unless I had stepped in front of it, yeah.
+[SPEAKER_02]: Yeah, yeah, yeah.
+[SPEAKER_02]: You're like, oh, can I duck behind that?
+[SPEAKER_05]: I was like, yes.
+[SPEAKER_05]: Should have been like, no, you have to step in front of it.
+[SPEAKER_02]: You have to do a circuit around it.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: With that, I will stop our recording.
