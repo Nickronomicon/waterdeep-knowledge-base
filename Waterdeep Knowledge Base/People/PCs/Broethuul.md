@@ -12,6 +12,7 @@ source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
   - ../raw/notes/character-sheets/Broethuul-expanded.md
+  - ../raw/notes/handouts/s0-what-broethuul-remembers.md
 tags:
   - waterdeep
   - pc
@@ -73,18 +74,26 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - He has lived in Waterdeep for about five years, scraping by through charm, performance, troublemaking, and occasional crime.
 - Threestrings of the Yawning Portal is a favorite humanoid contact because she reminds him of Fae court revelry.
 
+## Background and Arc Notes
+
+Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
+
+On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sensed a distortion like the one tied to his arrival: not fey and not natural, but binding and contractual. He ignored it at the time, but later rumors of infernal dealings, fallen houses, and hidden treasure make the sensation newly relevant.
+
 ## Open Threads
 
-- What faction or court attacked the Starfern keep?
+- Track [[Threads/Broethuul and the Autumn Court|Broethuul's lost Starfern court]] and the unknown faction or court that attacked the keep.
 - Can Broethuul find or reopen the portal near Umberlee's Cache?
 - Does any Waterdeep faction know his value to the Starfern clan or its enemies?
 - How does the Order of the Faeslayer function in play, and what does it imply about Broethuul's enemies?
+- Why did Broethuul sense contractual distortion around the Crommor Incident, and does that connect to the Cassalanters?
 
 ## Sources
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Broethuul-level-3.pdf`
 - `../raw/notes/character-sheets/Broethuul-expanded.md`
+- `../raw/notes/handouts/s0-what-broethuul-remembers.md`
 
 ## Uncertainties
 

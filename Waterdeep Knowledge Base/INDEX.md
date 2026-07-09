@@ -84,7 +84,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 
 ## Campaign Pages
 
-Initial PC pages have been generated from level-3 character-sheet sources. Most narrative backstory handouts and character arc notes still need a later ingest pass.
+Initial PC pages have been generated from level-3 character-sheet sources and updated with session-0 background and character arc notes.
 
 As pages are created, maintain these sections:
 
@@ -112,6 +112,17 @@ Pages under `People/PCs/`:
 - [[People/PCs/Davy]]
 - [[People/PCs/Elior Thalosmere]]
 - [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]]
+
+### Open Threads
+
+- [[Dashboard/Open Threads]]
+- [[Threads/Crommor Incident]]
+- [[Threads/Davy Is Anastasia Crommor]]
+- [[Threads/Cassalanter Warning in the Bugle]]
+- [[Threads/Aladeen and the Crommor Collapse]]
+- [[Threads/Jonathan and House Crommor]]
+- [[Threads/House Thalosmere Divine Correction]]
+- [[Threads/Broethuul and the Autumn Court]]
 
 ### NPCs
 
@@ -180,15 +191,12 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 
 1. Complete the setup checklist in `../TODO.md`.
 2. Ingest `../raw/roster.md`, `../raw/stats.md`, and `../raw/notes/technical-notes.md` into campaign operations/current-state pages.
-3. Ingest character arc notes into PC pages.
-4. Ingest session-0/backstory handouts and create personal arc/open-thread pages.
-5. Reconstruct missing session 1 from `../raw/notes/discord-synopsis-channel.md`, `../raw/notes/dm-planning/session-1/opening-scene.md`, session 2 recap, and user memory.
-6. Ingest sessions 2 through 11 in chronological order, pairing transcripts with DM planning notes where available.
-7. Build [[Dashboard/Current Campaign State]] after at least the latest session is processed.
-8. Build [[Dashboard/Open Threads]] from session summaries.
-9. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
-10. Create a weekly prep workflow page once the next real session date is known.
-11. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
+3. Reconstruct missing session 1 from `../raw/notes/discord-synopsis-channel.md`, `../raw/notes/dm-planning/session-1/opening-scene.md`, session 2 recap, and user memory.
+4. Ingest sessions 2 through 11 in chronological order, pairing transcripts with DM planning notes where available.
+5. Build [[Dashboard/Current Campaign State]] after at least the latest session is processed.
+6. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
+7. Create a weekly prep workflow page once the next real session date is known.
+8. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
 
 ## Maintenance Notes
 

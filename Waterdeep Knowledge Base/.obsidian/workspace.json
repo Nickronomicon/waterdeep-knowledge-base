@@ -6,6 +6,28 @@
       {
         "id": "26783f167ef0088a",
         "type": "tabs",
+        "dimension": 68.54838709677419,
+        "children": [
+          {
+            "id": "977290ec03b6aff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threads/Aladeen and the Crommor Collapse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aladeen and the Crommor Collapse"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5495cbb0eafc0cfc",
+        "type": "tabs",
+        "dimension": 31.451612903225808,
         "children": [
           {
             "id": "0c2a7dfce8de2e62",
@@ -15,22 +37,6 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fbad2b4c9dc25307",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "977290ec03b6aff1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -195,20 +201,30 @@
   },
   "active": "977290ec03b6aff1",
   "lastOpenFiles": [
-    "People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield.md",
+    "Dashboard/Open Threads.md",
+    "INDEX.md",
+    "Threads/Broethuul and the Autumn Court.md",
+    "Threads/House Thalosmere Divine Correction.md",
+    "Threads/Jonathan and House Crommor.md",
+    "Threads/Aladeen and the Crommor Collapse.md",
+    "Threads/Cassalanter Warning in the Bugle.md",
+    "Threads/Davy Is Anastasia Crommor.md",
+    "Threads/Crommor Incident.md",
+    "CHANGELOG.md",
+    "AGENTS.md",
     "People/PCs/Elior Thalosmere.md",
     "People/PCs/Davy.md",
     "People/PCs/Broethuul.md",
     "People/PCs/Aladeen.md",
+    "Meta/Raw Source Inventory.md",
+    "Dashboard",
+    "Threads",
+    "People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield.md",
     "People/PCs",
     "People",
-    "Meta/Raw Source Inventory.md",
     "Meta",
     "Sessions/Session 04 - 2026-03-22.md",
     "Sessions",
-    "CHANGELOG.md",
-    "INDEX.md",
-    "AGENTS.md",
     "create a link.md",
     "Welcome.md"
   ]

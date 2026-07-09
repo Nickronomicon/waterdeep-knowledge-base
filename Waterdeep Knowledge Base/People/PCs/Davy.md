@@ -11,6 +11,9 @@ updated: 2026-07-09
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
+  - ../raw/notes/handouts/s0-davy-backstory.md
+  - ../raw/notes/handouts/s0-the-crommor-incident.md
+  - ../raw/notes/character-arcs/davy-dm-notes.md
 tags:
   - waterdeep
   - pc
@@ -71,18 +74,35 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Pale skin, green eyes, black hair.
 - The exported sheet does not include alignment, personality traits, ideals, bonds, flaws, or backstory text.
 
+## Background and Arc Notes
+
+Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
+
+Anastasia left home after a bitter conflict with Davin Crommor and survived on Waterdeep's streets under the name Davy. She learned theft by necessity, met Bonnie at the Yawning Portal, and eventually found shelter and apprenticeship with Dorgar, a Myrkulite undertaker who shepherds the dead toward Kelemvor's judgment.
+
+Davy now carries multiple identities at once: noble daughter, street survivor, thief, apprentice to a death-priest, and party member. Aladeen does not appear to recognize Davy as the girl whose humiliation helped make him famous. Jonathan may not know Davy is the Anastasia Crommor once considered as a possible noble match. Elior's scar reacts to Davy as something persistently misfiled.
+
+The DM arc notes establish a deeper secret: the ceremonial bugle may have contained a warning meant for Laeral Silverhand about infernal contracts and House Cassalanter. The current working truth appears to be that Cassalanter was not simply innocent, but the moment was not simple either.
+
 ## Open Threads
 
-- Ingest Davy's backstory and DM arc notes before treating this page as narratively complete.
-- Clarify Davy's noble family, title/status, and how his Phantom rogue features manifest in-world.
+- Track [[Threads/Davy Is Anastasia Crommor|Davy's hidden identity as Anastasia Crommor]].
+- Track [[Threads/Crommor Incident|the Crommor Incident]] and the truth of the broken bugle.
+- Track [[Threads/Cassalanter Warning in the Bugle|the warning meant for Laeral]] and whether Davy can help recover or prove it.
+- Clarify Davy's current relationship to Dorgar, Myrkul, Kelemvor, Bonnie, and Threestrings.
 - Connect Davy's tools and forgery/thievery profile to actual table behavior.
+- Decide when and how Aladeen, Jonathan, or Laeral might learn who Davy really is.
 
 ## Sources
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Davy-level-3.pdf`
+- `../raw/notes/handouts/s0-davy-backstory.md`
+- `../raw/notes/handouts/s0-the-crommor-incident.md`
+- `../raw/notes/character-arcs/davy-dm-notes.md`
 
 ## Uncertainties
 
-- This page intentionally excludes Davy's separate handout and DM character-arc note until the background/arc ingest step.
+- Anastasia/Davy's secret identity should be treated as DM-facing information unless the table reveals it.
+- The exact truth of Victoro Cassalanter's action during the ceremony is intentionally unresolved.
 - No current Foundry deltas have been ingested; this page reflects the exported level-3 sheet only.

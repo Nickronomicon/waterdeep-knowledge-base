@@ -11,6 +11,8 @@ updated: 2026-07-09
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
+  - ../raw/notes/handouts/s0-aladeen-backstory.md
+  - ../raw/notes/handouts/s0-the-crommor-incident.md
 tags:
   - waterdeep
   - pc
@@ -96,16 +98,27 @@ Cantrips:
 - Bond: would do anything for the old troupe.
 - Flaw: once satirized a noble who still wants his head, and he is likely to repeat that mistake.
 
+## Background and Arc Notes
+
+Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
+
+Days later, when a tavern show was turning sour, Aladeen instinctively turned the moment into a bit: a theatrical fall and a shouted accusation. The routine became known as the Crommor Collapse and spread through Waterdeep. Aladeen tells himself he was making a dangerous public humiliation smaller and survivable, but he also knows the joke helped bury a young woman under applause.
+
+House Crommor never answered publicly, but Aladeen later received enough quiet warning to understand that nobles remember. This should color any future scene involving Crommor survivors, Cassalanters, noble audiences, or public satire.
+
 ## Open Threads
 
 - Identify the old troupe and any living members.
-- Identify the offended noble and whether that grudge is active in Waterdeep.
+- Track [[Threads/Aladeen and the Crommor Collapse|Aladeen's responsibility for the Crommor Collapse]] and whether he chooses to help the city hear a different version of the story.
 - Connect Aladeen's Waterdeep street upbringing to known neighborhoods, contacts, or rivals.
+- Determine whether House Crommor or its enemies still consider Aladeen useful, culpable, or dangerous.
 
 ## Sources
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Aladeen-level-3.pdf`
+- `../raw/notes/handouts/s0-aladeen-backstory.md`
+- `../raw/notes/handouts/s0-the-crommor-incident.md`
 
 ## Uncertainties
 

@@ -56,7 +56,7 @@ Inventory of `../raw/` after commit `5fdbc1b` (`Begins addressing items in TODO.
 
 | Path | Purpose | Ingest Use |
 |---|---|---|
-| `../raw/notes/character-arcs/davy-dm-notes.md` | DM-facing Davy material centered on Anastasia Crommor, including hooks and rumor vectors. | Use for Davy PC page, Crommor-related NPC/place/thread pages, and open personal arc hooks. |
+| `../raw/notes/character-arcs/davy-dm-notes.md` | DM-facing Davy material centered on Anastasia Crommor, including hooks and rumor vectors. | Ingested into [[People/PCs/Davy]], [[Threads/Davy Is Anastasia Crommor]], [[Threads/Crommor Incident]], [[Threads/Cassalanter Warning in the Bugle]], and related thread pages. |
 
 ## DM Planning Notes
 
@@ -82,13 +82,13 @@ These are record copies of player-facing or player-targeted handouts. The vault 
 
 | Path | Apparent Subject | Ingest Use |
 |---|---|---|
-| `../raw/notes/handouts/s0-aladeen-backstory.md` | Aladeen session-0 backstory, including Crommor-related material. | Aladeen PC page, Crommor thread. |
-| `../raw/notes/handouts/s0-davy-backstory.md` | Davy session-0 backstory. | Davy PC page, personal arc threads. |
-| `../raw/notes/handouts/s0-elior-backstory.md` | Elior session-0 backstory. | Elior PC page, House Thalosmere threads. |
-| `../raw/notes/handouts/s0-jonathan-backstory.md` | Jonathan/JUSTICE session-0 backstory. | Jonathan PC page, House Crommor thread. |
-| `../raw/notes/handouts/s0-private-archive-house-thalosmere.md` | Private archive material for House Thalosmere. | Elior/Thalosmere reference and open mysteries. |
-| `../raw/notes/handouts/s0-the-crommor-incident.md` | The Crommor Incident. | Shared PC backstory thread and campaign mystery. |
-| `../raw/notes/handouts/s0-what-broethuul-remembers.md` | Broethuul memory handout about the Crommor Incident. | Broethuul PC page and Crommor thread. |
+| `../raw/notes/handouts/s0-aladeen-backstory.md` | Aladeen session-0 backstory, including Crommor-related material. | Ingested into [[People/PCs/Aladeen]], [[Threads/Aladeen and the Crommor Collapse]], and [[Threads/Crommor Incident]]. |
+| `../raw/notes/handouts/s0-davy-backstory.md` | Davy session-0 backstory. | Ingested into [[People/PCs/Davy]], [[Threads/Davy Is Anastasia Crommor]], and [[Threads/Crommor Incident]]. |
+| `../raw/notes/handouts/s0-elior-backstory.md` | Elior session-0 backstory. | Ingested into [[People/PCs/Elior Thalosmere]] and [[Threads/House Thalosmere Divine Correction]]. |
+| `../raw/notes/handouts/s0-jonathan-backstory.md` | Jonathan/JUSTICE session-0 backstory. | Ingested into [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]] and [[Threads/Jonathan and House Crommor]]. |
+| `../raw/notes/handouts/s0-private-archive-house-thalosmere.md` | Private archive material for House Thalosmere. | Ingested into [[People/PCs/Elior Thalosmere]], [[Threads/House Thalosmere Divine Correction]], [[Threads/Crommor Incident]], and [[Threads/Cassalanter Warning in the Bugle]]. |
+| `../raw/notes/handouts/s0-the-crommor-incident.md` | The Crommor Incident. | Ingested into the affected PC pages and [[Threads/Crommor Incident]]. |
+| `../raw/notes/handouts/s0-what-broethuul-remembers.md` | Broethuul memory handout about the Crommor Incident. | Ingested into [[People/PCs/Broethuul]], [[Threads/Broethuul and the Autumn Court]], and [[Threads/Crommor Incident]]. |
 | `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md` | Businesses of Trollskull Alley. | Places pages for Trollskull Alley businesses. |
 | `../raw/notes/handouts/s6-cargo-chit.md` | Dockside transfer receipt. | Object/clue page; connect to session 6 if actually revealed. |
 | `../raw/notes/handouts/s6-note-fragment.md` | Note fragment. | Object/clue page; connect to session 6 if actually revealed. |
@@ -143,9 +143,7 @@ Original adventure markdown files:
 ## Recommended Ingest Order
 
 1. `../raw/roster.md`, `../raw/stats.md`, and `../raw/notes/technical-notes.md`.
-2. Character narrative and arc sources not already covered by sheet ingest.
-3. Session 0/backstory handouts and the Crommor/Thalosmere materials.
-4. `../raw/notes/discord-synopsis-channel.md` and `../raw/notes/dm-planning/session-1/opening-scene.md` to reconstruct session 1.
-5. Session transcripts 2-11, each paired with same-session prep notes when available.
-6. Active handouts/clue objects as they arise during session ingest.
-7. Remix structures and original adventure reference pages once current campaign state is established.
+2. `../raw/notes/discord-synopsis-channel.md` and `../raw/notes/dm-planning/session-1/opening-scene.md` to reconstruct session 1.
+3. Session transcripts 2-11, each paired with same-session prep notes when available.
+4. Active handouts/clue objects as they arise during session ingest.
+5. Remix structures and original adventure reference pages once current campaign state is established.

@@ -13,6 +13,8 @@ updated: 2026-07-09
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
+  - ../raw/notes/handouts/s0-jonathan-backstory.md
+  - ../raw/notes/handouts/s0-the-crommor-incident.md
 tags:
   - waterdeep
   - pc
@@ -91,18 +93,29 @@ Cantrips:
 - Size: Medium.
 - The exported sheet does not include age, height, weight, physical description, personality traits, ideals, bonds, flaws, or backstory text.
 
+## Background and Arc Notes
+
+Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
+
+When Jonathan was nineteen, House Eagleshield explored a possible alliance with House Crommor. Jonathan was introduced to Anastasia Crommor at private dinners and respected her directness. She once asked him whether justice always required punishment, and he did not have an answer ready.
+
+After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapid fall, the proposed alliance was ended without public explanation. Jonathan was told the Crommors had proven unworthy and not to involve himself, but the speed of the collapse felt arranged rather than just.
+
 ## Open Threads
 
-- Ingest Jonathan's session-0 backstory handout before treating this page as narratively complete.
+- Track [[Threads/Jonathan and House Crommor|Jonathan's unfinished tie to House Crommor]].
 - Clarify noble house ties and what duties or reputation attach to the Eagleshield name.
 - Track how Jonathan defines justice in play, especially when Waterdeep law and moral duty diverge.
+- Decide when Jonathan learns that Davy is Anastasia Crommor, and how that tests his view of punishment, truth, and obligation.
 
 ## Sources
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Jonathan-level-3.pdf`
+- `../raw/notes/handouts/s0-jonathan-backstory.md`
+- `../raw/notes/handouts/s0-the-crommor-incident.md`
 
 ## Uncertainties
 
-- This page intentionally excludes Jonathan's separate handout until the background/arc ingest step.
+- The exact status of the Eagleshield-Crommor alliance was informal or private; no betrothal was declared.
 - No current Foundry deltas have been ingested; this page reflects the exported level-3 sheet only.

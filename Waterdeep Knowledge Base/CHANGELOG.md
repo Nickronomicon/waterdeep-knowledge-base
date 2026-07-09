@@ -15,6 +15,20 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-09] ingest | Background and character arc notes
+
+- Ingested session-0/background handouts and Davy's DM-facing character arc note into the existing PC pages.
+- Created [[Dashboard/Open Threads]] as the current DM-facing thread index.
+- Created thread pages for [[Threads/Crommor Incident]], [[Threads/Davy Is Anastasia Crommor]], [[Threads/Cassalanter Warning in the Bugle]], [[Threads/Aladeen and the Crommor Collapse]], [[Threads/Jonathan and House Crommor]], [[Threads/House Thalosmere Divine Correction]], and [[Threads/Broethuul and the Autumn Court]].
+- Updated [[Meta/Raw Source Inventory]] to mark the character arc and session-0 handout sources as ingested.
+- Updated `INDEX.md` to list the new thread pages and adjust the immediate backlog.
+- Marked the background/character arc ingest task complete in `../TODO.md`.
+
+Follow-up:
+
+- During session ingest, mark which thread facts were actually revealed to the whole table.
+- Create NPC and faction/place pages for Crommor, Cassalanter, Dorgar, Bonnie, Threestrings, Laeral, and related noble houses as they appear in actual play.
+
 ## [2026-07-09] ingest | Add PC player names
 
 - Used `../raw/roster.md` to fill the `player` field on the five generated PC pages.
