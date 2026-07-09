@@ -26,6 +26,8 @@ When sources conflict, use this priority order:
 
 If a conflict matters, record it in the relevant page under `Uncertainties`, `Retcons`, or `DM Decision Needed`.
 
+> N.B. DM's session prep will often contradict the transcripts, as the prep notes are purely aspirational. Players may deviate entirely from the planned session, or prepped material from one session may spill over into another. Some items may or may not have been revealed to the characters, and as the story progresses, anything captured in prep that was not presented to the players is treated as fungible and may change or be dropped entirely.
+
 ## Canonical Files
 
 Read these first at the start of any substantial work:

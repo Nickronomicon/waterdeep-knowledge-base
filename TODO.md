@@ -4,7 +4,7 @@ Setup checklist for turning this repo into a working Waterdeep campaign wiki.
 
 ## Add Source Material
 
-- [ ] Add current character sheets for every player character.
+- [x] Add current character sheets for every player character.
   - Suggested location: `raw/notes/character-sheets/`
   - Include exported PDFs, markdown, text, screenshots, or whatever format is easiest to preserve.
 - [ ] Add PC background notes and character arc notes.
@@ -14,24 +14,24 @@ Setup checklist for turning this repo into a working Waterdeep campaign wiki.
   - Suggested location: `raw/notes/session-notes/`
   - Include notes for session 1, since there is no transcript.
   - Include prep notes, post-session notes, private rulings, and any ad hoc recap documents.
-- [ ] Add any campaign planning notes that explain your version of the Remix.
+- [x] Add any campaign planning notes that explain your version of the Remix.
   - Suggested location: `raw/notes/dm-planning/`
   - Include villain choices, faction changes, altered timelines, changed NPC motives, custom hooks, and table-specific canon.
-- [ ] Add any handouts, images, maps, tavern/business notes, or legal/financial documents created during play.
+- [x] Add any handouts, images, maps, tavern/business notes, or legal/financial documents created during play.
   - Suggested location: `raw/notes/handouts/`
 
 Agents may read these files after you add them, but should never edit anything under `raw/`.
 
 ## Clarify Campaign Facts
 
-- [ ] Confirm the player character roster and exact spellings.
-- [ ] Map player names to character names, if useful for transcript interpretation.
-- [ ] Identify the speaker labels in the transcripts where possible.
-- [ ] Confirm current party level, current in-world date, and current real-world session cadence.
-- [ ] Confirm the party name, if any.
-- [ ] Confirm the tavern name, if the group has chosen one.
+- [x] Confirm the player character roster and exact spellings.
+- [x] Map player names to character names, if useful for transcript interpretation.
+- [x] Identify the speaker labels in the transcripts where possible. -- *UPDATE: Not really possible, transcript speaker labels are wildly innacurate*
+- [x] Confirm current party level, current in-world date, and current real-world session cadence.
+- [x] Confirm the party name, if any. -- *UPDATE: None yet*
+- [x] Confirm the tavern name, if the group has chosen one. -- *UPDATE: Still Trollskull Manor for now*
 - [ ] Record any known retcons or table rulings that should override transcript wording.
-- [ ] Decide whether the vault is entirely DM-facing or whether it will also contain player-safe handouts.
+- [x] Decide whether the vault is entirely DM-facing or whether it will also contain player-safe handouts.  -- *UPDATE: This vault will contain player-facing handouts for record keeping, and will mark in yaml frontmatter if/when/to whom it was revealed, but this vault will be for DM consumption only*
 
 ## Initial Wiki Build
 
