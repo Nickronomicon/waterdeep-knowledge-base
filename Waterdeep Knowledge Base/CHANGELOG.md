@@ -15,6 +15,20 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-09] setup | Inventory raw source files
+
+- Created [[Meta/Raw Source Inventory]] to classify the current `../raw/` tree after commit `5fdbc1b`.
+- Confirmed `../raw/` currently contains 205 files: 48 markdown, 6 PDFs, 10 text transcripts, 10 JSON transcripts, 101 PNGs, and 30 JPGs.
+- Added the new campaign-owned raw sources to `INDEX.md`: roster, stats, technical notes, Discord synopsis, character sheets, character arcs, DM planning notes, and handouts.
+- Updated the confirmed PC roster in `INDEX.md`.
+- Refined the immediate backlog around the recommended ingest order from the inventory.
+- Marked the raw inventory task complete in `../TODO.md`.
+
+Follow-up:
+
+- Ingest roster, stats, and technical notes into current-state and operations pages.
+- Create PC pages from character sheets and backstory/arc sources.
+
 ## [2026-07-09] setup | Add project setup checklist
 
 - Added `../TODO.md` as the top-level setup checklist for collecting character sheets, character arc notes, DM notes, existing session notes, and handouts before full ingest.

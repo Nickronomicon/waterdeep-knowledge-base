@@ -16,6 +16,7 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 - [[AGENTS]] - operating rules, source hierarchy, page conventions, and workflows.
 - [[INDEX]] - this file.
 - [[CHANGELOG]] - append-only history of knowledge-base maintenance.
+- [[Meta/Raw Source Inventory]] - classified inventory of files under `../raw/`.
 
 ## Planned Dashboards
 
@@ -71,7 +72,15 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 
 ### Non-Campaign or Unclassified Sources
 
-- `../raw/notes/` - reserved for user-provided source notes such as character sheets, character arcs, DM notes, session notes, handouts, and campaign planning. It currently contains a placeholder file.
+- `../raw/roster.md` - player-to-character roster.
+- `../raw/stats.md` - current party/campaign status.
+- `../raw/notes/technical-notes.md` - remote play, Foundry/D&D Beyond, transcript caveats, Discord setup, and DM note-taking caveats.
+- `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2.
+- `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
+- `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
+- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, and 11.
+- `../raw/notes/handouts/` - record copies of session-0 backstory handouts, in-game clue handouts, and other player-facing documents.
+- See [[Meta/Raw Source Inventory]] for the detailed classified source map.
 
 ## Campaign Pages
 
@@ -96,13 +105,13 @@ As pages are created, maintain these sections:
 
 ### Player Characters
 
-Create pages under `People/PCs/` during transcript ingest. Known names from sampled transcripts include:
+Create pages under `People/PCs/` during character-source ingest. Confirmed roster:
 
-- [[People/PCs/Davey]]
-- [[People/PCs/Elior]]
-- [[People/PCs/Jonathan]]
-
-These names are transcript-derived and need verification during full ingest.
+- [[People/PCs/Aladeen]]
+- [[People/PCs/Broethuul]]
+- [[People/PCs/Davy]]
+- [[People/PCs/Elior Thalosmere]]
+- [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]]
 
 ### NPCs
 
@@ -170,18 +179,16 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Complete the setup checklist in `../TODO.md`.
-2. Add character sheets, background notes, character arc notes, existing DM notes, and session notes to `../raw/notes/`.
-3. Inventory newly added raw notes without editing them.
-4. Ingest character sheets and character arc notes into PC pages.
-5. Ingest existing DM notes before transcript ingest, so table canon and private prep are available.
-6. Reconstruct missing session 1 from notes, session 2 recap, and user memory.
-7. Ingest sessions 2 through 11 in chronological order.
-8. Build [[Dashboard/Current Campaign State]] after at least the latest session is processed.
-9. Build [[Dashboard/Open Threads]] from session summaries.
-10. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
-11. Create a weekly prep workflow page once the next real session date is known.
-12. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
-13. Decide with the user whether any player-facing notes or handouts should exist in this vault.
+2. Ingest `../raw/roster.md`, `../raw/stats.md`, and `../raw/notes/technical-notes.md` into campaign operations/current-state pages.
+3. Ingest character sheets and character arc notes into PC pages.
+4. Ingest session-0/backstory handouts and create personal arc/open-thread pages.
+5. Reconstruct missing session 1 from `../raw/notes/discord-synopsis-channel.md`, `../raw/notes/dm-planning/session-1/opening-scene.md`, session 2 recap, and user memory.
+6. Ingest sessions 2 through 11 in chronological order, pairing transcripts with DM planning notes where available.
+7. Build [[Dashboard/Current Campaign State]] after at least the latest session is processed.
+8. Build [[Dashboard/Open Threads]] from session summaries.
+9. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
+10. Create a weekly prep workflow page once the next real session date is known.
+11. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
 
 ## Maintenance Notes
 

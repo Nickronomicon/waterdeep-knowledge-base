@@ -35,7 +35,7 @@ Agents may read these files after you add them, but should never edit anything u
 
 ## Initial Wiki Build
 
-- [ ] Ask Codex to inventory newly added `raw/notes/` files without editing them.
+- [x] Ask Codex to inventory newly added `raw/notes/` files without editing them.
 - [ ] Ingest character sheets into `Waterdeep Knowledge Base/People/PCs/`.
 - [ ] Ingest background and character arc notes into PC pages and open-thread pages.
 - [ ] Ingest existing DM session notes before transcript ingest, so table canon and private prep are available.
