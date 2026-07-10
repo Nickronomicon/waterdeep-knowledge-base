@@ -18,6 +18,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
 tags:
   - waterdeep
   - pc
@@ -125,6 +126,16 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Was happy with the pointed felt hat and huge feather [[People/NPCs/Threestrings]] brought for the opera.
 - Recognized the script in [[Objects/Borrowed Monster Books|Rishaal's older monster book]] as Draconic, though he could not read it.
 
+## Session 7 Table-Facing Notes
+
+- Wore the enormous feathered hat to the opera and used the feather to distract or tickle Elior during social mingling.
+- Noticed the watcher during the opera and correctly read that he was watching Box C and the party rather than the performance.
+- Asked [[People/NPCs/Mirt]] whether the [[Factions/Harpers]] operate beyond Waterdeep, whether Harpers protect members attacked on other business, and how Mirt views the Unseelie and necessary evils.
+- Accepted the final Harper pin after Mirt drew a hard line against evil means for good outcomes.
+- Fought the Castle Ward ambush without armor and took heavy damage from mace and crossbow hits.
+- Killed [[People/NPCs/Mr Jones]] with his rapier and used Fallen Puppet to make Jones's corpse strike the original watcher.
+- Chased the final fleeing survivor until the man escaped into an open sewer manhole, then found his way back to the party.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -150,6 +161,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 
 ## Uncertainties
 

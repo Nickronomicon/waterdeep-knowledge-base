@@ -20,6 +20,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
 tags:
   - waterdeep
   - pc
@@ -144,6 +145,16 @@ Cantrips:
 - Accepted a huge theatrical Helm-fist pendant from [[People/NPCs/Threestrings]] for the opera, but did not obviously wear it.
 - Described his opera outfit as fine but understated noble attire over chainmail, with house emblem and no helmet.
 
+## Session 7 Table-Facing Notes
+
+- Attended the opera in full kit, including armor and morningstar, which remained socially acceptable as noble/paladin presentation.
+- Recognized the [[Factions/Cassalanters]] as an old noble banking family and was recognized or at least noted by [[People/NPCs/Victoro Cassalanter]].
+- Accepted a [[Factions/Harpers]] pin after Mirt explained the faction's goals and methods.
+- Spotted the Box C watcher still watching during intermission.
+- Used Searing Smite in the Castle Ward ambush and killed at least one attacker with his morningstar.
+- Healed Broethuul with Cure Wounds after Broethuul took heavy damage.
+- Was dropped by a critical crossbow hit, then rolled a 20 on his first death save and stood back up at 1 hp.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -170,6 +181,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 
 ## Uncertainties
 

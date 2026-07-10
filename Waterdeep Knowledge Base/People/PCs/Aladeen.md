@@ -18,6 +18,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
 tags:
   - waterdeep
   - pc
@@ -146,6 +147,16 @@ Cantrips:
 - Sent the urchins to buy bread and butter for the household meal.
 - Received dark blue crushed-velvet slippers from [[People/NPCs/Threestrings]] for the opera.
 
+## Session 7 Table-Facing Notes
+
+- Carried the opera tickets and changed into the blue velvet slippers at [[Places/Lightsinger Theater]].
+- Asked the usher about [[People/NPCs/Mirt]] and later spotted the watcher leaving after the Box C meeting.
+- Accepted a [[Factions/Harpers]] pin from Mirt with a performance flourish.
+- Used Bardic Inspiration to help Elior land a long-range Sorcerous Burst during the chase.
+- Cast Sleep on the fleeing watcher and [[People/NPCs/Mr Jones]], dropping the watcher at the start of the ambush.
+- Used Bane against three ambushers and later lost concentration after taking a scimitar hit.
+- Searched Mr. Jones after the fight and found [[Objects/Scrap of Note]].
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -172,6 +183,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 
 ## Uncertainties
 

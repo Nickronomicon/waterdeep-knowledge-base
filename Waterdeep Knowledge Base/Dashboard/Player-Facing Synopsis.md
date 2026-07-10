@@ -11,12 +11,14 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
   - Sessions/Session 04 - 2026-03-22.md
   - Sessions/Session 05 - 2026-04-01.md
   - Sessions/Session 06 - 2026-04-09.md
+  - Sessions/Session 07 - 2026-04-16.md
 tags:
   - waterdeep
   - synopsis
@@ -178,3 +180,37 @@ Then Threestrings arrived with gifts, and "formalwear" became a generous term. D
 As the party finally set out, Fala took one look at Davy and decided the alley had suffered enough. With a little tailoring and a little magic, the outfit was transformed from a public incident into plausible rich-merchant or minor-noble attire. Davy offered payment. Fala refused, explaining in effect that this was for the good of everyone.
 
 And so our heroes ended the session not in an opera box, not yet before Mirt, and not yet tangled in whatever fresh problem Waterdeep had reserved for intermission, but dressed, paid, slightly more famous in the alley, and finally on their way to the Lightsinger Theater. The grell was dead. The gazer had a likely patron. Trollskull had a past. The children had a song. Nobody should let them write the official version.
+
+## Session 7
+
+The party set out for the Lightsinger Theater, and Elior caught up with them on the way. Davy quietly warned the group that they were absolutely being watched, though from where was another matter. This was, naturally, very reassuring on the way to a formal opera full of nobles, money, and probably several kinds of etiquette-based trap.
+
+The Lightsinger did not disappoint. White stone, midnight-blue banners, gas lamps, polished brass, jeweled guests, masked socialites, liveried staff, and the delicate background noise of Waterdeep's elite pretending not to inspect one another. Aladeen produced the tickets, changed into his blue velvet slippers, and the party was shown inside with only mild doorman concern over the general state of their fashion choices.
+
+The foyer was full of familiar and dangerous faces. Vajra Safahr was present and nodded from across the room. Renaer Neverember was there with Floon, who was delighted to see his rescuers and immediately began telling nearby people exactly that. Floon bought gin-and-tonics for the group, which turned out to be magical drinks that made hair and clothing flutter dramatically. This is not a necessary property of alcohol, but it is an appreciated one.
+
+The party also got a good look at several of the evening's more expensive problems. Victoro and Ammalia Cassalanter approached after hearing that these were Renaer's rescuers and the new owners of Trollskull Manor. Victoro praised the manor's potential and offered to discuss a loan at Cassalanter Villa. The Gralhunds were present. Margo Verida, the Siren of the Dales, attended with a gloriously flamboyant Luskan captain named Zardoz Zord, who spoke of the Sea Maidens Faire and the coming festival season. Remallia Haventree was out in public for the first time in years. Then Laeral Silverhand herself arrived, and the room split between people eager to get the Open Lord's attention and people suddenly very interested in the walls.
+
+The opera was *The Fall of Tiamat*, sung in Giant. None of the party spoke Giant. This did not stop the audience from pretending to appreciate it deeply, nor the performers from bellowing with conviction in lacquered masks. Broethuul, familiar enough with the old stories to know better, concluded that the production was either very wrong or possibly a joke played on everyone in the room.
+
+During the first act, a man several rows away caught the party's attention. He was not watching the opera. He was watching Box C and, occasionally, the party. At intermission, an usher appeared and told the group they were expected in Private Box C. The watcher kept watching.
+
+Box C smelled of brandy and old money. Inside waited Mirt: broad, old, richly dressed, heavily ringed, and so relaxed that it had clearly become a weapon. He called the party "Renaer's good bets," invited them to sit, and laid out the Harper pitch. The Harpers, he explained, are not a second Watch, not a public crusade, and not a moral lecture in costume. They work quietly against people who gather too much power and bury others beneath it. They value judgment, discretion, questions, whispers, and knowing which thread to pull without dropping the whole tapestry on your own head.
+
+One by one, the party accepted. Elior took a silver harp-and-moon pin immediately. Aladeen made his vanish with a flourish. Davy tried to take his quietly; Mirt saw the whole thing and seemed amused. Jonathan accepted after hearing more of the Harpers' purpose. Broethuul asked pointed questions about Harper reach, protection, the Unseelie, and whether evil means could serve good ends. Mirt's answers were careful enough, and Broethuul took the final pin.
+
+Then came the first job. A Harper contact named Maxeene had overheard something useful from Zhentarim operatives. Mirt wanted the party to find her, convince her they spoke for the Harpers, and learn what she knew. More importantly, he wanted to see if they could ask the right questions of the right witness.
+
+As the party left Box C, Aladeen spotted the watcher setting down his glass and slipping toward a backstage passage. The chase was on. Through green rooms, prop storage, wardrobe racks, side doors, and a maze of Castle Ward back streets, the watcher ran. He threw obstacles behind him, snatched a cloak from wardrobe, covered a street lamp to plunge a stretch of road into darkness, and still the party kept coming. Elior blasted him with golden magic. Aladeen put him to sleep just as he reached a raised plaza and met another man.
+
+The other man smiled and asked whether the opera-goers had enjoyed the tragedy. Apparently, the answer was going to be "not yet."
+
+Ambushers came out of doors, side buildings, and shadows. The fight was chaotic, ugly, and occasionally deeply embarrassing for anyone holding a scimitar. Aladeen threw insults, Bane, Sleep, inspiration, and eventually a dagger. Broethuul, unarmored but very much armed, carved through the apparent leader, then made the man's corpse rise just long enough to club the original watcher. Davy disappeared behind crates and bodies and sent crossbow bolts from places people kept forgetting he occupied. Elior slammed the street with thunder and painted enemies with burning divine glyphs. Jonathan brought armor, a morningstar, Searing Smite, and the confidence of a man who absolutely wore combat gear to the opera.
+
+That confidence was tested when a crossbow bolt dropped Jonathan to the stones. Fortunately, death did not seem ready to finish the paperwork. Jonathan rolled back into consciousness with one hit point and immediately tried to keep fighting, because of course he did.
+
+By the end, Mr. Jones, the apparent employer, was dead. Several hired blades were dead. One attacker surrendered, claiming he had only been hired to jump "a bunch of dandies" and had not even been paid yet. Another survivor fled through the back streets and escaped into an open sewer manhole, with Broethuul chasing far enough to see where he went before returning.
+
+Searching Mr. Jones turned up a little coin, a heavy crossbow, poor leather armor, and a scrap of note: the Stone was secure, X and Z each had one eye too many, the third eye no longer rested with Lady B, and someone wondered whether to contact R. This was, as clues go, extremely generous in the number of questions it created.
+
+So our heroes ended the night not with Maxeene, not with the second half of the opera, and not with a quiet Harper errand, but in a Castle Ward back street with bodies, a prisoner, a strange note, a sewer escape route, and several new factions suddenly much closer to the surface. The Harpers wanted to know whether the party could pull a thread without bringing the tapestry down. Early results are pending.

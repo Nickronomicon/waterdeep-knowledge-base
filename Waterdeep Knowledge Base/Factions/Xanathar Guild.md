@@ -8,6 +8,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
 tags:
@@ -31,6 +32,7 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - Vajra says Xanathar likes to release monsters to spread panic and pull the Watch thin.
 - Session 5's Dock Ward grell incident fits that pattern and produced a receipt marked with one staring eye inside a ring.
 - In session 6, [[People/NPCs/Vincent Trench]] said that a gazer sent to look at the party "always leads back to Xanathar," though this is Vincent's professional judgment rather than direct proof.
+- The [[Objects/Scrap of Note]] includes "X" in a context the party speculated might mean Xanathar, but that is not confirmed.
 
 ## Known Clues
 
@@ -49,6 +51,7 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - Where are the other ironbound crates, and were they all monster-release assets?
 - Who redacted the [[Places/Fish Street Warehouse]] ownership chain?
 - Which Xanathar operative, if any, sent the gazer to watch Trollskull Manor?
+- Does "X" in the Scrap of Note mean Xanathar?
 
 ## Sources
 
@@ -57,5 +60,6 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/notes/handouts/s6-cargo-chit.md`
 - `../raw/notes/handouts/s6-note-fragment.md`

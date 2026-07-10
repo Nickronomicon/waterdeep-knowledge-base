@@ -69,7 +69,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 4 | `../raw/notes/dm-planning/session-4/prep_sheet.md`; `../raw/notes/dm-planning/session-4/session_4_notes.md`; `../raw/notes/dm-planning/session-4/traversing_blackstaff_tower.md`; `../raw/notes/dm-planning/session-4/vajra_recruitment.md` | Ingested into [[Sessions/Session 04 - 2026-03-22]] and [[Meta/DM Prep Source Map]]. Cross-check against actual transcript. |
 | Session 5 | `../raw/notes/dm-planning/session-5/outline.md`; `../raw/notes/dm-planning/session-5/prep_sheet.md` | Ingested into [[Sessions/Session 05 - 2026-04-01]] and [[Meta/DM Prep Source Map]]. Actual play reached Blackstaff, Gray Hands, the Dock Ward grell, and crate clues; Rassal's Chandlery and opera slid forward. |
 | Session 6 | `../raw/notes/dm-planning/session-6/lightsinger_theater.md`; `../raw/notes/dm-planning/session-6/run_sheet.md` | Ingested into [[Sessions/Session 06 - 2026-04-09]] and [[Meta/DM Prep Source Map]]. Actual play covered Trollskull follow-up, neighbors, Vajra report/payment, gazer research, and formalwear; theater/Mirt prep slid forward. |
-| Session 7 | `../raw/notes/dm-planning/session-7/outline.md` | Ingested into [[Sessions/Session 07 - 2026-04-16]] and [[Meta/DM Prep Source Map]]. |
+| Session 7 | `../raw/notes/dm-planning/session-7/outline.md` | Ingested into [[Sessions/Session 07 - 2026-04-16]] and [[Meta/DM Prep Source Map]]. Actual play assigned the Maxeene mission but did not reach Thomril & Sons Cartage or the prepped Zhent response team. |
 | Session 8 | `../raw/notes/dm-planning/session-8/outline.md` | Ingested into [[Sessions/Session 08 - 2026-04-30]] and [[Meta/DM Prep Source Map]]. |
 | Session 10 | `../raw/notes/dm-planning/session-10/outline.md` | Ingested into [[Sessions/Session 10 - 2026-06-11]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
 | Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Ingested into [[Sessions/Session 11 - 2026-06-25]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
@@ -92,7 +92,7 @@ These are record copies of player-facing or player-targeted handouts. The vault 
 | `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md` | Businesses of Trollskull Alley. | Ingested into [[Places/Trollskull Alley]], [[Places/Corellon's Crown]], [[Places/Frewn's Brews]], and [[Sessions/Session 04 - 2026-03-22]]. |
 | `../raw/notes/handouts/s6-cargo-chit.md` | Dockside transfer receipt. | Revealed during session 5 despite filename; ingested into [[Objects/Dockside Transfer Receipt]], [[Objects/Ironbound Grell Crate]], and [[Sessions/Session 05 - 2026-04-01]]. |
 | `../raw/notes/handouts/s6-note-fragment.md` | Note fragment. | Revealed during session 5 despite filename; ingested into [[Objects/Loose It Then Leave Note Fragment]] and [[Sessions/Session 05 - 2026-04-01]]. |
-| `../raw/notes/handouts/s7-scrap-of-note.md` | Scrap of note. | Object/clue page; connect to session 7 if actually revealed. |
+| `../raw/notes/handouts/s7-scrap-of-note.md` | Scrap of note. | Revealed in session 7; ingested into [[Objects/Scrap of Note]]. |
 | `../raw/notes/handouts/s9-Maxeene-info.md` | Maxeene information. | NPC/page update for Maxeene and clue tracking. |
 | `../raw/notes/handouts/s9-thalosmere-archive-report.md` | Thalosmere archive report on Lady Remallia Haventree. | Remallia, Harpers, and Elior/Thalosmere pages. |
 | `../raw/notes/handouts/the-amberleaf-dispatch.md` | Amberleaf Dispatch. | Object/handout page; track encoded or partial state. |
@@ -110,7 +110,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 | 4 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Ingested into [[Sessions/Session 04 - 2026-03-22]] |
 | 5 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Ingested into [[Sessions/Session 05 - 2026-04-01]] |
 | 6 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Ingested into [[Sessions/Session 06 - 2026-04-09]] |
-| 7 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Not ingested |
+| 7 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Ingested into [[Sessions/Session 07 - 2026-04-16]] |
 | 8 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Not ingested |
 | 9 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Not ingested |
 | 10 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Not ingested |
@@ -143,7 +143,7 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Session transcripts 7-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
+1. Session transcripts 8-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
 2. Active handouts/clue objects as they arise during session ingest.
 3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
 4. Remix structures and original adventure reference pages once current campaign state is established.

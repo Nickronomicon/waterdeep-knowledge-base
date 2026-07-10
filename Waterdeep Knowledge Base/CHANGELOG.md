@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 7
+
+- Ingested [[Sessions/Session 07 - 2026-04-16]] from `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`, covering the Lightsinger opera, foyer social scene, Cassalanter loan offer, Mirt's Harper recruitment, Maxeene mission assignment, Box C watcher, backstage/street chase, Castle Ward ambush, prisoner, escaped survivor, and revealed [[Objects/Scrap of Note]].
+- Created pages for [[Factions/Harpers]], [[Factions/Cassalanters]], [[Places/Cassalanter Villa]], [[People/NPCs/Victoro Cassalanter]], [[People/NPCs/Ammalia Cassalanter]], [[People/NPCs/Laeral Silverhand]], [[People/NPCs/Remallia Haventree]], [[People/NPCs/Margo Verida]], [[People/NPCs/Zardoz Zord]], [[Places/Sea Maidens Fair]], [[People/NPCs/Orond Gralhund]], [[People/NPCs/Yalah Gralhund]], [[People/NPCs/Mr Jones]], [[Objects/Scrap of Note]], [[People/NPCs/Maxeene]], [[Places/Thomril & Sons Cartage]], and [[People/NPCs/Whelan Thomril]].
+- Updated PC pages, [[People/NPCs/Mirt]], [[Places/Lightsinger Theater]], [[People/NPCs/Renaer Neverember]], [[People/NPCs/Floon Blagmaar]], [[Factions/Zhentarim]], [[Factions/Xanathar Guild]], [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[Sessions/Session 08 - 2026-04-30]], [[INDEX]], and `../TODO.md`.
+- Marked `s7-scrap-of-note` as revealed in session 7 and noted that the party has not yet reached Maxeene.
+
+Follow-up:
+
+- Begin session 8 from the Castle Ward ambush aftermath: prisoner, dead attackers, escaped survivor in the sewers, and the note clue in hand.
+- Confirm whether the party returns to the opera, reports to Mirt, contacts Vajra, handles Watch attention, or goes straight to Maxeene.
+- Confirm whether `Sea Maidens Fair` should be respelled or split once the ships enter play.
+
 ## [2026-07-10] ingest | Session 6
 
 - Ingested [[Sessions/Session 06 - 2026-04-09]] from `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`, covering the return to Trollskull Alley, Fala and Tally's manor history, Vajra's Sending follow-up, 30 gp Blackstaff payment, missing-and-returned evidence, gazer research with Vincent, monster-book loans from Rishaal, Threestrings' formalwear delivery, and departure for the opera.

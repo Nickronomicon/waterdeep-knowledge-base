@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 6 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 7 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 6 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 7 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
@@ -69,7 +69,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 4 | 2026-03-22 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Ingested |
 | Session 5 | 2026-04-01 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Ingested |
 | Session 6 | 2026-04-09 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Ingested |
-| Session 7 | 2026-04-16 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Prep scaffolded; transcript not ingested |
+| Session 7 | 2026-04-16 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Ingested |
 | Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Prep scaffolded; transcript not ingested |
 | Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Prep scaffolded; transcript not ingested |
 | Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Prep scaffolded; transcript not ingested |
@@ -159,13 +159,22 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Tally Fellbranch]]
 - [[People/NPCs/Mirt]]
 - [[People/NPCs/Vajra Safahr]]
+- [[People/NPCs/Laeral Silverhand]]
+- [[People/NPCs/Remallia Haventree]]
+- [[People/NPCs/Victoro Cassalanter]]
+- [[People/NPCs/Ammalia Cassalanter]]
+- [[People/NPCs/Margo Verida]]
+- [[People/NPCs/Zardoz Zord]]
+- [[People/NPCs/Orond Gralhund]]
+- [[People/NPCs/Yalah Gralhund]]
+- [[People/NPCs/Mr Jones]]
+- [[People/NPCs/Maxeene]]
+- [[People/NPCs/Whelan Thomril]]
 - [[People/NPCs/Ma Sella]]
 - [[People/NPCs/Armet]]
 - [[People/NPCs/Andrew]]
 - [[People/NPCs/Vincent Trench]]
 - [[People/NPCs/Rishaal the Page-Turner]]
-- [[People/NPCs/Victoro Cassalanter]]
-- [[People/NPCs/Ammalia Cassalanter]]
 - [[People/NPCs/Dorger]]
 
 Verify spelling and table-specific details against transcripts before treating any page as stable.
@@ -183,8 +192,8 @@ Create pages under `Factions/`. Expected major pages:
 - [[Factions/Bregan D'aerthe]]
 - [[Factions/Lords' Alliance]]
 - [[Factions/Gray Hands]]
-- [[Factions/Order of the Gauntlet]]
 - [[Factions/Harpers]]
+- [[Factions/Order of the Gauntlet]]
 - [[Factions/Emerald Enclave]]
 
 ### Places
@@ -210,6 +219,8 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/Blackstaff Tower]]
 - [[Places/Fish Street Warehouse]]
 - [[Places/Cassalanter Villa]]
+- [[Places/Sea Maidens Fair]]
+- [[Places/Thomril & Sons Cartage]]
 
 ### Objects, Clues, and Obligations
 
@@ -231,6 +242,7 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Ironbound Grell Crate]]
 - [[Objects/Blackstaff Payment Pouch]]
 - [[Objects/Borrowed Monster Books]]
+- [[Objects/Scrap of Note]]
 
 ### Timeline
 
@@ -249,7 +261,7 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Complete the setup checklist in `../TODO.md`.
-2. Ingest sessions 7 through 11 in chronological order, pairing transcripts with [[Meta/DM Prep Source Map]].
+2. Ingest sessions 8 through 11 in chronological order, pairing transcripts with [[Meta/DM Prep Source Map]].
 3. Continue expanding people, factions, places, objects, and timeline pages as each session is processed.
 4. Finalize [[Dashboard/Current Campaign State]] after session 11 is processed.
 5. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.

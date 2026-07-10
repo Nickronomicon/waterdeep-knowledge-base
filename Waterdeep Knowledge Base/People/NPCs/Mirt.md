@@ -6,6 +6,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
 tags:
   - waterdeep
   - npc
@@ -18,20 +19,30 @@ Mirt is the likely opera contact named in the paper-bird invitation delivered by
 
 ## Current Status
 
-- Has not yet appeared directly in ingested transcript truth as of session 6.
-- Invited the party to meet at intermission in private box C at [[Places/Lightsinger Theater]].
+- Appeared directly in [[Sessions/Session 07 - 2026-04-16]].
+- Met the party at intermission in private box C at [[Places/Lightsinger Theater]].
 - Connection appears to run through [[People/NPCs/Renaer Neverember]] and Threestrings.
 - Vajra confirmed Mirt likely wants his own separate word with the party and did not treat the opera invitation as her doing.
-- Session 6 ended with the party heading toward the opera rather than reaching Mirt.
+- Recruited all five PCs into association with the [[Factions/Harpers]].
+- Assigned the party to find [[People/NPCs/Maxeene]] and learn what she overheard from Zhentarim operatives.
+
+## Session 7
+
+- Entered the opera with [[People/NPCs/Laeral Silverhand]] before the first act.
+- Received the party in Box C with brandy, food, and little patience for solemnity.
+- Explained the Harpers as quiet meddlers who value judgment and discretion rather than obedience.
+- Produced five silver harp-and-moon pins and let the PCs choose whether to take them.
+- Told the party to wear the pins only when useful.
+- Framed the Maxeene job as a test of asking the right questions of the right witness.
 
 ## Open Questions
 
-- Is this a Harper recruitment contact?
-- What does Mirt want from the party?
 - Did Renaer buy the tickets himself, or arrange them through Mirt/Threestrings?
+- What will Mirt do when he learns the party was attacked immediately after leaving Box C?
 
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`

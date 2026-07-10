@@ -7,6 +7,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
 tags:
   - waterdeep
   - npc
@@ -24,6 +25,8 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - Recovered [[Objects/Renaer's Locket]] after Elior repaired it with Mending, but the hidden compartment inside it was empty.
 - Parted from the party outside the [[Places/Yawning Portal]], saying he needed to put minds at ease and inviting them to look him up.
 - Spoke well of the party to Threestrings after the rescue and appears to have arranged or funded their opera invitation to meet [[People/NPCs/Mirt]].
+- Reappeared at [[Places/Lightsinger Theater]] with [[People/NPCs/Floon Blagmaar]] in session 7.
+- Recommended the party to Mirt as "good bets," enabling their Harper invitation.
 
 ## What Renaer Knows
 
@@ -43,12 +46,15 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - Locally liked despite his father's reputation.
 - Estranged from Dagult for nearly a decade.
 - Effective in a fight: killed a gazer, a goblin, and the intellect devourer during the sewer rescue.
+- At the opera, was deep in conversation with nobles or old acquaintances from before Dagult's disgrace.
+- Was confused by the party describing Nat, Jenks, and Squiddly as "our children."
 
 ## Open Questions
 
 - What was hidden in the locket's compartment?
 - How much does Renaer know about Dagult's missing cache?
 - Will Renaer become an ongoing ally, Harper contact, or social bridge for the party?
+- Does the "Contact R?" in [[Objects/Scrap of Note]] refer to Renaer, or is that table speculation a false lead?
 
 ## Sources
 
@@ -56,3 +62,4 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`

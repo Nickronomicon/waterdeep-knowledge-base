@@ -19,6 +19,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
 tags:
   - waterdeep
   - pc
@@ -148,7 +149,16 @@ Other listed magic:
 
 - Was absent from the main table action; the fiction placed him away from the group speaking with his father after the Blackstaff Tower visit.
 - [[People/NPCs/Threestrings]] left Elior a very nice chartreuse silk cravat for the opera.
-- Exact timing of Elior's return to the group remains to be confirmed in session 7 transcript truth.
+- Caught up with the party on the way to [[Places/Lightsinger Theater]] in session 7.
+
+## Session 7 Table-Facing Notes
+
+- Ordered a very expensive strong drink at the opera and treated the event as familiar noble terrain.
+- Recognized several notable attendees, including [[People/NPCs/Remallia Haventree]], [[People/NPCs/Margo Verida]], and the Gralhunds.
+- Spoke with Margo and [[People/NPCs/Zardoz Zord]], learning Zardoz was from Luskan and associated with [[Places/Sea Maidens Fair]].
+- Accepted a [[Factions/Harpers]] pin quickly after [[People/NPCs/Mirt]] framed the work as making things correct.
+- Hit the fleeing watcher with Sorcerous Burst during the chase, then used Thunderwave, Poison Spray, and more Sorcerous Burst during the ambush.
+- Killed one ambusher with Thunderwave and dropped divine glyph-flavored magic all over the fight.
 
 ## Background and Arc Notes
 
@@ -178,6 +188,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 
 ## Uncertainties
 
@@ -185,3 +196,4 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - The character-sheet equipment list appears duplicated for Grum'shar's spellbook and fresh mackerel.
 - The correction entity/function has unstable names in family records and may not be a conventional deity.
 - No current Foundry deltas have been ingested; this page reflects the exported level-3 sheet only.
+- Whether Elior wore Threestrings' chartreuse cravat is not explicitly captured.
