@@ -1,7 +1,7 @@
 ---
 type: meta
 status: active
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -40,7 +40,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 |---|---|---|---|
 | 1 | `../raw/notes/dm-planning/session-1/opening-scene.md`; `../raw/notes/discord-synopsis-channel.md`; session 2 recap | Yawning Portal opener, Yagra/Krentz brawl, troll and stirges, Volo's Floon job. | Reconstructed in [[Sessions/Session 01 - 2026-02-15]]. |
 | 2 | `../raw/notes/discord-synopsis-channel.md`; transcript sources | Dock Ward route, Zhentarim/Xanathar street violence, Skewered Dragon, Xoblob, warehouse, Renaer/Floon confusion. | Ingested into [[Sessions/Session 02 - 2026-02-22]]. |
-| 3 | `../raw/notes/dm-planning/session-3/prep-notes.md` | Trollskull arrival, urchins, Lif, Frewn, guild repair estimate, Threestrings/Harper pitch, Vajra sending. | Determine which Trollskull neighbors, faction contacts, costs, and repair facts actually entered play. |
+| 3 | `../raw/notes/dm-planning/session-3/prep-notes.md` | Trollskull arrival, urchins, Lif, Frewn, guild repair estimate, Threestrings/Harper pitch, Vajra sending. | Ingested into [[Sessions/Session 03 - 2026-03-01]]. Actual play resolved Floon's rescue and ended with Volo offering Trollskull Manor; most prepared Trollskull/faction beats slid forward. |
 | 4 | `../raw/notes/dm-planning/session-4/prep_sheet.md`; `session_4_notes.md`; `traversing_blackstaff_tower.md`; `vajra_recruitment.md` | Blackstaff Tower, Gray Hands framing, Dock Ward monster disturbance, grell/warehouse setup, return complication, opera setup. | Verify timing: same night vs next morning, what Vajra offered, what evidence was recovered, and which faction links were revealed. |
 | 5 | `../raw/notes/dm-planning/session-5/outline.md`; `prep_sheet.md` | Post-grell Trollskull reset, cargo chit follow-up, Rassal's Chandlery, surviving handler, opera prep, Mirt transition. | Track whether the cargo trail, handler, and opera setup occurred in this session or slid later. |
 | 6 | `../raw/notes/dm-planning/session-6/run_sheet.md`; `lightsinger_theater.md` | Lightsinger Theater, Mirt, Harper pitch, notable attendees, Cassalanters, spy, chase/ambush, Stone-related note. | Verify attendee list, whether Cassalanter loan hook appeared, whether the spy/note were caught, and who learned what. |

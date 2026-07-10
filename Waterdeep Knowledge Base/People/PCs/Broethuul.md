@@ -7,13 +7,14 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
   - ../raw/notes/character-sheets/Broethuul-expanded.md
   - ../raw/notes/handouts/s0-what-broethuul-remembers.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
 tags:
   - waterdeep
   - pc
@@ -83,6 +84,15 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - At [[Places/Old Xoblob Shop]], [[People/NPCs/Xoblob]] offered to buy one or both of Broethuul's purple eyes.
 - Sniped a kenku through the fence during the [[Places/Candle Lane Zhentarim Warehouse]] fight.
 
+## Session 3 Table-Facing Notes
+
+- Followed the party into the sewers during the rescue of Floon.
+- Resisted a gazer's fear ray.
+- Tried to shoot goblins through arrow slits during the sewer ambush.
+- Was caught in Grum'shar's Burning Hands but stayed up.
+- Shot [[People/NPCs/Grum'shar]] down to what should have been death, triggering the half-orc's last surge before Jonathan finished him.
+- Moved away from the open portal rather than testing whether level-one heroics included interdimensional pursuit.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -104,6 +114,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/notes/character-sheets/Broethuul-expanded.md`
 - `../raw/notes/handouts/s0-what-broethuul-remembers.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
+- `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 
 ## Uncertainties
 

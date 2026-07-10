@@ -7,7 +7,7 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
@@ -16,6 +16,7 @@ source_paths:
   - ../raw/notes/handouts/the-crommor-warning.md
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
 tags:
   - waterdeep
   - pc
@@ -87,6 +88,17 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Found the storage room under the stairs where [[People/NPCs/Renaer Neverember]] was hiding.
 - When Renaer asked whether Davy was short for Davin, Davy answered that it was just Davy.
 
+## Session 3 Table-Facing Notes
+
+- Hid in the fish closet while the [[Factions/City Watch]] arrived at [[Places/Candle Lane Zhentarim Warehouse]].
+- Found the nearby sewer entrance marked with yellow paint.
+- Followed the party into the sewers with a hooded lantern.
+- Noticed the hidden wall panel leading into [[Places/Xanathar Sewer Hideout]].
+- Shot [[People/NPCs/Grum'shar]] from hiding.
+- Resisted [[People/NPCs/Nihiloor|Nihiloor's]] psychic command.
+- Was dropped by Grum'shar's Burning Hands and revived by Aladeen.
+- Briefly saw [[People/NPCs/Krentz]] and a deep gnome deeper in the hideout, then quietly closed the door and urged the party to leave.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -115,6 +127,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/notes/handouts/the-crommor-warning.md`
 - `../raw/notes/character-arcs/davy-dm-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
+- `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 
 ## Uncertainties
 

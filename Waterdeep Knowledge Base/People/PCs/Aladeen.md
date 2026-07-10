@@ -7,13 +7,14 @@ class: Bard
 subclass: College of Eloquence
 species: Human
 background: Entertainer
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
   - ../raw/notes/handouts/s0-aladeen-backstory.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
 tags:
   - waterdeep
   - pc
@@ -106,6 +107,14 @@ Cantrips:
 - Used Healing Word to revive Jonathan during the [[Places/Candle Lane Zhentarim Warehouse]] fight.
 - Created a Minor Illusion of a Xanathar-looking thug during the same fight.
 
+## Session 3 Table-Facing Notes
+
+- Descended into the sewers near the front of the marching order, behind Renaer.
+- Used Vicious Mockery repeatedly and effectively against a gazer, goblin sentries, and the intellect devourer.
+- Tried to mock [[People/NPCs/Nihiloor]], but the mind flayer shrugged it off.
+- Revived Davy with Healing Word after Grum'shar's Burning Hands.
+- Used a healing potion on Floon after the fight, letting the party return him alive to Volo.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -128,6 +137,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/notes/handouts/s0-aladeen-backstory.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
+- `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 
 ## Uncertainties
 

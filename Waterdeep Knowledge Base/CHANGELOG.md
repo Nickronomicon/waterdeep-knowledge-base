@@ -15,6 +15,17 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 3
+
+- Ingested [[Sessions/Session 03 - 2026-03-01]] from `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`, resolving the Candle Lane Watch arrival, sewer descent, Xanathar hideout fight, Floon rescue, Nihiloor escape, and Volo's Trollskull Manor offer.
+- Created pages for [[People/NPCs/Hustus Staget]], [[People/NPCs/Nihiloor]], [[People/NPCs/Grum'shar]], [[Places/Xanathar Sewer Hideout]], [[Places/Trollskull Manor]], [[Objects/Trollskull Manor Deed]], [[Objects/Grum'shar's Spellbook]], and [[Reference/Waterdeep Code Legal]].
+- Updated PC pages, NPC/faction/place/thread pages, [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[Sessions/Session 04 - 2026-03-22]], and [[INDEX]].
+
+Follow-up:
+
+- Begin session 4 ingest from the Trollskull Manor/deed-transfer hook and verify whether the delayed session 3 prep beats entered play.
+- Track the unresolved lower hideout door with Krentz and the deep gnome, Nihiloor's portal, the recovered spellbook, two healing potions, and the uncertain coin total from the hideout chest.
+
 ## [2026-07-10] setup | Player-facing synopsis workflow
 
 - Created [[Dashboard/Player-Facing Synopsis]] as a spoiler-safe, Discord-postable campaign synopsis seeded from `../raw/notes/discord-synopsis-channel.md` and the ingested session 1-2 pages.

@@ -1,9 +1,10 @@
 ---
 type: thread
 status: active
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
 tags:
   - waterdeep
   - thread
@@ -22,6 +23,8 @@ The session 2 rescue of [[People/NPCs/Renaer Neverember]] revealed that the gang
 - The locket from Renaer's mother had a hidden compartment that Renaer did not know about.
 - Whatever was in the compartment was gone by the time the party found the locket.
 - A magical-looking sheet of parchment was found nearby.
+- In session 3, the party rescued Floon from [[Places/Xanathar Sewer Hideout]], but did not recover the locket's missing contents.
+- [[People/NPCs/Nihiloor]] escaped through a portal before the party could question him.
 
 ## Open Questions
 
@@ -30,7 +33,9 @@ The session 2 rescue of [[People/NPCs/Renaer Neverember]] revealed that the gang
 - Did the Zhentarim find it, or did the Xanathar raid remove it?
 - What is [[Objects/Magical Paper from Candle Lane Warehouse]]?
 - How directly does this point toward the larger Dragon Heist?
+- Did Nihiloor or someone else in the Xanathar chain receive the missing locket contents?
 
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
+- `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`

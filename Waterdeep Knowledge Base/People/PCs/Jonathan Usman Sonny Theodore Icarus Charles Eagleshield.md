@@ -9,13 +9,14 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
   - ../raw/notes/handouts/s0-jonathan-backstory.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
 tags:
   - waterdeep
   - pc
@@ -103,6 +104,16 @@ Cantrips:
 - Was revived by Aladeen's Healing Word, then used Cure Wounds to revive Elior.
 - Tried to prevent a fleeing kenku from escaping with a thrown morningstar and Compelled Duel.
 
+## Session 3 Table-Facing Notes
+
+- Was recognized by [[People/NPCs/Hustus Staget]] as Lord Eagleshield.
+- Called Davy out of hiding after the Watch interview.
+- Entered [[People/NPCs/Nihiloor|Nihiloor's]] chamber and attempted to talk before violence broke out.
+- Was frozen by Nihiloor's psychic command as the mind flayer escaped through a portal.
+- Was attacked by an intellect devourer and later dropped by psychic damage.
+- Killed [[People/NPCs/Grum'shar]] with a critical morningstar strike and declared that justice had been served.
+- Floon clung to Jonathan after the rescue, treating him like the heroic arm one grabs after surviving a very bad evening.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -125,6 +136,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/notes/handouts/s0-jonathan-backstory.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
+- `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 
 ## Uncertainties
 

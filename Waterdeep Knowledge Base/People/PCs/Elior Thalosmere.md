@@ -7,7 +7,7 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Elior-level-3.pdf
@@ -15,6 +15,7 @@ source_paths:
   - ../raw/notes/handouts/s0-private-archive-house-thalosmere.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
 tags:
   - waterdeep
   - pc
@@ -110,6 +111,17 @@ Other listed magic:
 - Dropped during the [[Places/Candle Lane Zhentarim Warehouse]] fight, then was revived by Jonathan's Cure Wounds.
 - Used Mending to repair [[Objects/Renaer's Locket]] and returned it to Renaer.
 
+## Session 3 Table-Facing Notes
+
+- Introduced himself to the Watch as Elior Thalosmere and cooperated with [[People/NPCs/Hustus Staget]].
+- Suggested increasingly elaborate sewer plans, including a notorious map-by-excrement proposal.
+- Cast Light on his purple tankard cozy/flagon setup during the sewer descent.
+- Destroyed the gazer lookout with a golden, glyph-shedding Sorcerous Burst.
+- Failed stealth at the arrow-slit hub by tripping into the sewer muck and was dropped by goblin arrows.
+- Was revived by Davy using a healing potion, then killed the remaining goblin with Ice Knife through an arrow slit.
+- Fled backward when he recognized [[People/NPCs/Nihiloor]] as a mind flayer.
+- Took [[Objects/Grum'shar's Spellbook]] after the fight, though no one could read it at the time.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -134,6 +146,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/notes/handouts/s0-private-archive-house-thalosmere.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
+- `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 
 ## Uncertainties
 

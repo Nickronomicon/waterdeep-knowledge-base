@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threads/Aladeen and the Crommor Collapse.md",
+                "file": "Dashboard/Player-Facing Synopsis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aladeen and the Crommor Collapse"
+              "title": "Player-Facing Synopsis"
             }
           }
         ]
@@ -201,6 +201,17 @@
   },
   "active": "977290ec03b6aff1",
   "lastOpenFiles": [
+    "Threads/Aladeen and the Crommor Collapse.md",
+    "Reference/Waterdeep Code Legal.md",
+    "Reference",
+    "Objects/Grum'shar's Spellbook.md",
+    "Objects/Trollskull Manor Deed.md",
+    "Places/Trollskull Manor.md",
+    "Places/Xanathar Sewer Hideout.md",
+    "People/NPCs/Grum'shar.md",
+    "People/NPCs/Nihiloor.md",
+    "People/NPCs/Hustus Staget.md",
+    "Sessions/Session 03 - 2026-03-01.md",
     "Dashboard/Player-Facing Synopsis.md",
     "Threads/Neverember Cache and Renaer's Locket.md",
     "Threads/Zhentarim-Xanathar Street War.md",
@@ -217,16 +228,6 @@
     "Places/Yawning Portal.md",
     "Factions/City Watch.md",
     "Factions/Xanathar Guild.md",
-    "Factions/Zhentarim.md",
-    "People/NPCs/Threestrings.md",
-    "People/NPCs/Bonnie.md",
-    "People/NPCs/Xoblob.md",
-    "People/NPCs/Krentz.md",
-    "People/NPCs/Yagra Stonefist.md",
-    "People/NPCs/Durnan.md",
-    "People/NPCs/Renaer Neverember.md",
-    "People/NPCs/Floon Blagmaar.md",
-    "People/NPCs/Volo.md",
     "Timeline",
     "Factions",
     "Places",
@@ -235,7 +236,6 @@
     "Dashboard",
     "Threads",
     "People/PCs",
-    "People",
-    "Meta"
+    "People"
   ]
 }

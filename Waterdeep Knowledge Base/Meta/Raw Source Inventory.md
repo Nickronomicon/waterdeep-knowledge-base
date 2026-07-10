@@ -1,7 +1,7 @@
 ---
 type: meta
 status: current
-updated: 2026-07-09
+updated: 2026-07-10
 source_commit: 99dcfb8
 tags:
   - waterdeep
@@ -106,7 +106,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 | Session | Text Path | JSON Path | Ingest Status |
 |---|---|---|---|
 | 2 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Ingested into [[Sessions/Session 02 - 2026-02-22]]; JSON source is empty |
-| 3 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Not ingested |
+| 3 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Ingested into [[Sessions/Session 03 - 2026-03-01]] |
 | 4 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Not ingested |
 | 5 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Not ingested |
 | 6 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Not ingested |
@@ -143,7 +143,7 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Session transcripts 3-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
+1. Session transcripts 4-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
 2. Active handouts/clue objects as they arise during session ingest.
 3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
 4. Remix structures and original adventure reference pages once current campaign state is established.

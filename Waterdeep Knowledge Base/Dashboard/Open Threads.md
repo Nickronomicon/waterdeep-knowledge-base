@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -13,6 +13,7 @@ source_paths:
   - ../raw/notes/handouts/s0-what-broethuul-remembers.md
   - ../raw/notes/handouts/the-crommor-warning.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
 tags:
   - waterdeep
   - dashboard
@@ -39,9 +40,11 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 
 | Thread | PCs | Status | Prep Use |
 |---|---|---|---|
-| [[Threads/Floon Rescue]] | Whole party | Active, immediate | Next session starts with Floon still missing and boots approaching the warehouse. |
-| [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, faction clues. |
+| [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
+| [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] | Whole party | Offered, not yet transferred in ingested truth | Inspect manor, magistrate transfer, ownership obligations. |
+| [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
 
 ## Immediate Follow-Up
 
@@ -49,4 +52,4 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, Dorgar, Victoro Cassalanter, Laeral Silverhand, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue session 3 from the hobnailed boots approaching [[Places/Candle Lane Zhentarim Warehouse]].
+- Continue session 4 from Volo's offer of [[Objects/Trollskull Manor Deed]] and likely inspection of [[Places/Trollskull Manor]].

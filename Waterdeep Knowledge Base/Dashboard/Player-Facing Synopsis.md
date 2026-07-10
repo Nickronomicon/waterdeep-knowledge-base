@@ -7,8 +7,10 @@ source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
+  - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
+  - Sessions/Session 03 - 2026-03-01.md
 tags:
   - waterdeep
   - synopsis
@@ -56,3 +58,27 @@ Renaer was exhausted, filthy, and extremely relieved to see people who were not 
 Upstairs, the party found a chair with rope bonds, Renaer's smashed locket, and a strange sheet of parchment that gave off magical vibes without being polite enough to explain itself. Elior mended the locket and returned it to Renaer, though whatever had been hidden inside its secret compartment was gone.
 
 And so our heroes ended the night in a warehouse full of bodies, with Renaer Neverember at their side, Floon still missing, a lead pointing toward yellow signs in the sewers, and the sound of hobnailed boots approaching from outside. A perfect time, in other words, to consider whether Volo's promised payment was perhaps a little light.
+
+## Session 3
+
+The hobnailed boots belonged, as boots so often do in Waterdeep, to the Watch. Renaer stepped outside to smooth things over with Captain Hustus Staget, a very composed Dock Ward Watch captain who seemed less shocked by a warehouse full of dead gangsters than by the possibility that anyone might expect him to go drinking.
+
+Elior introduced himself properly. Jonathan was recognized as Lord Eagleshield. Davy, meanwhile, wisely chose the ancient legal strategy of hiding in the fish closet. Staget took statements, accepted that the warehouse was mostly a Zhent-on-Xanathar disaster with the party standing somewhere in the smoking middle, and handed out copies of the Code Legal as a reminder that even nobles have to mind where they leave bodies. He was not willing to send Watchmen into the sewers while the streets were close to open gang war, but his advice had a useful shape: keep the blood off the streets.
+
+The trail picked up just north of the warehouse, where Davy found yellow paint on a sewer cover. The party then briefly considered several plans of varying dignity, including hiring a sewer-guild guide, impersonating Xanathar operatives, and an ambitious waste-based mapping proposal that history will judge on its own time. Renaer, perhaps remembering that Floon was still missing, suggested the classic approach: climb down the horrible hole and follow the signs.
+
+So down they went. The sewers were narrow, foul, and marked with yellow circle-and-spoke symbols that grew more obvious the farther the party traveled. After about an hour, they found a floating grapefruit-sized eyeball with eyestalks and teeth. Renaer stabbed it, Aladeen hurt its feelings, and Elior finished it with a golden blast of magic that converted the creature into sewer decoration. Encouraging? No. Directionally useful? Yes.
+
+The route led to a defended hub watched through arrow slits. Everyone tried to creep around with care until Elior, in a heroic act of foreshadowing, fell into the muck and woke the guards. Goblins opened fire. Elior went down, Renaer found a side passage, Davy fetched a healing potion, Aladeen began prosecuting the war by insult, and Elior returned to consciousness just in time to launch an ice knife through an arrow slit and redecorate the guard room in a very specific style.
+
+Davy then spotted a hidden panel, and the party slipped into the hideout proper: cells, pallets, manacles, more yellow eye-signs, and one very bad room. Inside stood a half-orc spellcaster with a burning hand pressed over a battered red-blond man who was almost certainly Floon. Nearby, in black robes, sat a mind flayer petting a little walking brain. This was the kind of tableau that makes a person reconsider whether Volo's 100 gold was hazard pay or just an insult with arithmetic.
+
+Jonathan stepped in and asked what was going on, because justice sometimes begins with customer service. The mind flayer was unimpressed. It ordered the half-orc to handle things, froze Jonathan and Renaer with a psychic command, placed a sphere into an eye-marked pedestal, opened a portal, and left. This was rude, alarming, and probably not a good sign for the city's plumbing.
+
+The fight that followed was ugly and close. Davy shot the half-orc. Grum'shar, as the half-orc would later be known, answered with fire and dropped Davy. Broethuul shot him hard enough that he should have fallen, but half-orcs are famously poor at accepting conclusions. Jonathan then brought the morningstar down and delivered justice in the most literal possible way. Meanwhile, the walking brain tried to turn Jonathan's actual brain into a rental property, dropped him, and was finally carved apart by Renaer.
+
+Floon was alive, barely. Aladeen poured a healing potion down his throat, and Floon came back to himself in a rush of terror, gratitude, and hugs. He clung to his rescuers, especially Jonathan, and declared himself forever in their debt. The party searched the room, found a sinister-looking spellbook, a couple of healing potions, and some coin, and also discovered that the hideout went deeper. Davy briefly opened a door and saw Krentz arguing with a deep gnome about barricading something. Davy then closed the door with admirable speed, because some mysteries can wait until everyone is less flammable.
+
+The party returned through the sewers with Floon and Renaer. Renaer split off to reassure the people who would be looking for him, asking the group to look him up anytime. Back at the Yawning Portal, Volo greeted Floon with enormous relief and then made a confession: he was a bit short on cash. Instead of the promised reward, he offered something "much more valuable": the deed to a historic North Ward property called Trollskull Manor.
+
+And so, after one missing friend, one warehouse, one sewer crawl, one mind flayer, one portal, and several legal advisories, our heroes ended the night as prospective property owners. Next stop: inspecting the manor. Nothing about that name sounds haunted, so this should be fine.
