@@ -5,7 +5,8 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Full campaign ingest has not started yet.
+- Full transcript ingest has not started yet.
+- DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
 - Waterdeep session transcripts are available for sessions 2 through 11.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
@@ -17,12 +18,14 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 - [[INDEX]] - this file.
 - [[CHANGELOG]] - append-only history of knowledge-base maintenance.
 - [[Meta/Raw Source Inventory]] - classified inventory of files under `../raw/`.
+- [[Meta/Campaign Operations]] - transcript ingest guardrails, campaign logistics, and source authority notes.
+- [[Meta/DM Prep Source Map]] - session-by-session map of DM prep sources, likely handouts, and transcript ingest focus.
 
 ## Planned Dashboards
 
-These pages should be created during the first campaign ingest or first prep pass:
+These pages should be created or finalized during the first campaign ingest or first prep pass:
 
-- [[Dashboard/Current Campaign State]] - where the party is, what they know, what is active, and what is urgent.
+- [[Dashboard/Current Campaign State]] - pre-transcript current-state scaffold from stats and latest DM prep.
 - [[Dashboard/Next Session]] - current weekly prep landing page or pointer to the active prep note.
 - [[Dashboard/Open Threads]] - unresolved hooks, promises, mysteries, obligations, and dangling consequences.
 - [[Dashboard/Faction Clocks]] - live faction agendas and escalation timers.
@@ -58,27 +61,27 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 
 | Session | Real Date | Text Source | JSON Source | Status |
 |---|---:|---|---|---|
-| Session 1 | Unknown | Not available | Not available | Missing |
-| Session 2 | 2026-02-22 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Not ingested |
-| Session 3 | 2026-03-01 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Not ingested |
-| Session 4 | 2026-03-22 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Not ingested |
-| Session 5 | 2026-04-01 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Not ingested |
-| Session 6 | 2026-04-09 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Not ingested |
-| Session 7 | 2026-04-16 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Not ingested |
-| Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Not ingested |
-| Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Not ingested |
-| Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Not ingested |
-| Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Not ingested |
+| Session 1 | Unknown | Not available | Not available | Reconstructed draft |
+| Session 2 | 2026-02-22 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Prep scaffolded; transcript not ingested |
+| Session 3 | 2026-03-01 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Prep scaffolded; transcript not ingested |
+| Session 4 | 2026-03-22 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Prep scaffolded; transcript not ingested |
+| Session 5 | 2026-04-01 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Prep scaffolded; transcript not ingested |
+| Session 6 | 2026-04-09 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Prep scaffolded; transcript not ingested |
+| Session 7 | 2026-04-16 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Prep scaffolded; transcript not ingested |
+| Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Prep scaffolded; transcript not ingested |
+| Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Prep scaffolded; transcript not ingested |
+| Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Prep scaffolded; transcript not ingested |
+| Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Prep scaffolded; transcript not ingested |
 
 ### Non-Campaign or Unclassified Sources
 
 - `../raw/roster.md` - player-to-character roster.
 - `../raw/stats.md` - current party/campaign status.
-- `../raw/notes/technical-notes.md` - remote play, Foundry/D&D Beyond, transcript caveats, Discord setup, and DM note-taking caveats.
-- `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2.
+- `../raw/notes/technical-notes.md` - remote play, Foundry/D&D Beyond, transcript caveats, Discord setup, and DM note-taking caveats; ingested into [[Meta/Campaign Operations]].
+- `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - Unknown]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]].
 - `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
 - `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
-- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, and 11.
+- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, and 11; scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - `../raw/notes/handouts/` - record copies of session-0 backstory handouts, in-game clue handouts, and other player-facing documents.
 - See [[Meta/Raw Source Inventory]] for the detailed classified source map.
 
@@ -90,8 +93,9 @@ As pages are created, maintain these sections:
 
 ### Sessions
 
-- Session pages should live in `Sessions/`.
-- First target pages:
+- Session pages live in `Sessions/`.
+- Current scaffold pages:
+  - [[Sessions/Session 01 - Unknown]]
   - [[Sessions/Session 02 - 2026-02-22]]
   - [[Sessions/Session 03 - 2026-03-01]]
   - [[Sessions/Session 04 - 2026-03-22]]
@@ -176,6 +180,7 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Trollskull Manor Deed]]
 - [[Objects/Cassalanter Loan]]
 - [[Objects/Seance Candle]]
+- [[Objects/The Crommor Warning]]
 
 ### Reference
 
@@ -190,13 +195,12 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Complete the setup checklist in `../TODO.md`.
-2. Ingest `../raw/roster.md`, `../raw/stats.md`, and `../raw/notes/technical-notes.md` into campaign operations/current-state pages.
-3. Reconstruct missing session 1 from `../raw/notes/discord-synopsis-channel.md`, `../raw/notes/dm-planning/session-1/opening-scene.md`, session 2 recap, and user memory.
-4. Ingest sessions 2 through 11 in chronological order, pairing transcripts with DM planning notes where available.
-5. Build [[Dashboard/Current Campaign State]] after at least the latest session is processed.
-6. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
-7. Create a weekly prep workflow page once the next real session date is known.
-8. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
+2. Ingest sessions 2 through 11 in chronological order, pairing transcripts with [[Meta/DM Prep Source Map]].
+3. Revisit [[Sessions/Session 01 - Unknown]] after session 2 ingest and any user memory.
+4. Finalize [[Dashboard/Current Campaign State]] after session 11 is processed.
+5. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
+6. Create a weekly prep workflow page once the next real session date is known.
+7. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
 
 ## Maintenance Notes
 

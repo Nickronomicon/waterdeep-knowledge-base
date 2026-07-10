@@ -15,6 +15,21 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-09] ingest | DM notes prep scaffold
+
+- Ingested DM planning notes, campaign stats, technical notes, and the Discord synopsis into a transcript-ready scaffold.
+- Created [[Meta/Campaign Operations]] for transcript guardrails, source authority, Foundry/D&D Beyond caveats, Discord process, and homebrew notes.
+- Created [[Meta/DM Prep Source Map]] to pair each session transcript with prep sources, likely handouts, and ingest focus.
+- Created [[Dashboard/Current Campaign State]] as a pre-transcript current-state scaffold from `../raw/stats.md` and latest DM prep.
+- Created or updated session scaffold pages for [[Sessions/Session 01 - Unknown]] through [[Sessions/Session 11 - 2026-06-25]].
+- Updated [[Meta/Raw Source Inventory]], [[INDEX]], and `../TODO.md`.
+
+Follow-up:
+
+- Ingest transcripts 2-11 in chronological order, using the session scaffold pages to separate prep-only material from table truth.
+- Revisit [[Sessions/Session 01 - Unknown]] after session 2 ingest and any user memory.
+- Finalize [[Dashboard/Current Campaign State]] after session 11 is ingested.
+
 ## [2026-07-09] ingest | Background and character arc notes
 
 - Ingested session-0/background handouts and Davy's DM-facing character arc note into the existing PC pages.

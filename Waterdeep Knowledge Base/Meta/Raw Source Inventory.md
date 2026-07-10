@@ -2,7 +2,7 @@
 type: meta
 status: current
 updated: 2026-07-09
-source_commit: 5fdbc
+source_commit: 99dcfb8
 tags:
   - waterdeep
   - inventory
@@ -10,15 +10,15 @@ tags:
 
 # Raw Source Inventory
 
-Inventory of `../raw/` after commit `5fdbc1b` (`Begins addressing items in TODO.md.`). Raw sources were read and classified only; no files under `../raw/` were edited.
+Inventory of `../raw/` after commit `99dcfb8` (`Ingests the-crommor-warning-handout.md.`). Raw sources were read and classified only; no files under `../raw/` were edited.
 
 ## Summary
 
-`../raw/` currently contains 205 files:
+`../raw/` currently contains 206 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 48 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 49 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
 | `.txt` | 10 | Text transcripts for Waterdeep sessions 2-11 |
 | `.json` | 10 | JSON transcripts for Waterdeep sessions 2-11 |
@@ -30,14 +30,14 @@ Inventory of `../raw/` after commit `5fdbc1b` (`Begins addressing items in TODO.
 | Path | Purpose | Ingest Use |
 |---|---|---|
 | `../raw/roster.md` | Player-to-character roster. Confirms Aladeen/Ankur, Broethuul/Tom, Davy/Hannah, Elior Thalosmere/Dane, Jonathan Usman Sonny Theodore Icarus Charles Eagleshield/Jake, and Nick as DM. | Use before transcript ingest and PC page creation. |
-| `../raw/stats.md` | Current campaign status. Party name TBD, tavern still Trollskull Manor, party level 3, in-world date 5 Ches 1492 DR, next session 12 on 2026-07-09, aspirational weekly Thursday cadence. | Seed `Dashboard/Current Campaign State` and session prep. |
+| `../raw/stats.md` | Current campaign status. Party name TBD, tavern still Trollskull Manor, party level 3, in-world date 5 Ches 1492 DR, next session 12 on 2026-07-09, aspirational weekly Thursday cadence. | Ingested into [[Dashboard/Current Campaign State]], [[Meta/Campaign Operations]], and [[Meta/DM Prep Source Map]]. |
 
 ## Technical and Process Notes
 
 | Path | Purpose | Ingest Use |
 |---|---|---|
-| `../raw/notes/technical-notes.md` | How the remote campaign runs, Foundry/D&D Beyond source notes, transcript caveats, homebrew, Discord channel structure, document sharing, and DM note-taking caveats. | Update AGENTS assumptions and/or create `Meta/Campaign Operations` later. Important warning: transcript diarization is unreliable. |
-| `../raw/notes/discord-synopsis-channel.md` | Existing synopsis channel notes for sessions 1 and 2. Session 1 is especially important because there is no transcript. | Primary source for reconstructing `Sessions/Session 01`; supporting source for session 2 ingest. |
+| `../raw/notes/technical-notes.md` | How the remote campaign runs, Foundry/D&D Beyond source notes, transcript caveats, homebrew, Discord channel structure, document sharing, and DM note-taking caveats. | Ingested into [[Meta/Campaign Operations]] and used by [[Meta/DM Prep Source Map]]. Important warning: transcript diarization is unreliable. |
+| `../raw/notes/discord-synopsis-channel.md` | Existing synopsis channel notes for sessions 1 and 2. Session 1 is especially important because there is no transcript. | Ingested into [[Sessions/Session 01 - Unknown]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]]. |
 
 ## Character Sources
 
@@ -64,15 +64,15 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 
 | Session | Paths | Ingest Use |
 |---|---|---|
-| Session 1 | `../raw/notes/dm-planning/session-1/opening-scene.md` | Reconstruct missing session 1 alongside the Discord synopsis and session 2 recap. |
-| Session 3 | `../raw/notes/dm-planning/session-3/prep-notes.md` | Prep context for session 3; very large source. Use after transcript pass to distinguish planned from actual. |
-| Session 4 | `../raw/notes/dm-planning/session-4/prep_sheet.md`; `../raw/notes/dm-planning/session-4/session_4_notes.md`; `../raw/notes/dm-planning/session-4/traversing_blackstaff_tower.md`; `../raw/notes/dm-planning/session-4/vajra_recruitment.md` | Major prep bundle for Blackstaff/Vajra material, session-4 events, and possible faction recruitment. Cross-check against actual transcript. |
-| Session 5 | `../raw/notes/dm-planning/session-5/outline.md`; `../raw/notes/dm-planning/session-5/prep_sheet.md` | Session 5 prep and outline. Use during session 5 ingest after transcript. |
-| Session 6 | `../raw/notes/dm-planning/session-6/lightsinger_theater.md`; `../raw/notes/dm-planning/session-6/run_sheet.md` | Lightsinger Theater, Mirt/Harper material, opera/intermission scenes, spy/chase/ambush material. Cross-check actual reveal status. |
-| Session 7 | `../raw/notes/dm-planning/session-7/outline.md` | Thomril & Sons Cartage, Maxeene, and a Zhent response-team setup. |
-| Session 8 | `../raw/notes/dm-planning/session-8/outline.md` | Remallia Haventree introduction and Underbough hiring/sabotage setup. |
-| Session 10 | `../raw/notes/dm-planning/session-10/outline.md` | Short outline source for session 10. |
-| Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Dinner party menu, rat interruption, Underbough hiring decision, and next-day Cassalanter loan signing setup. |
+| Session 1 | `../raw/notes/dm-planning/session-1/opening-scene.md` | Ingested into [[Sessions/Session 01 - Unknown]] and [[Meta/DM Prep Source Map]]. |
+| Session 3 | `../raw/notes/dm-planning/session-3/prep-notes.md` | Ingested into [[Sessions/Session 03 - 2026-03-01]] and [[Meta/DM Prep Source Map]] as prep context to distinguish planned from actual. |
+| Session 4 | `../raw/notes/dm-planning/session-4/prep_sheet.md`; `../raw/notes/dm-planning/session-4/session_4_notes.md`; `../raw/notes/dm-planning/session-4/traversing_blackstaff_tower.md`; `../raw/notes/dm-planning/session-4/vajra_recruitment.md` | Ingested into [[Sessions/Session 04 - 2026-03-22]] and [[Meta/DM Prep Source Map]]. Cross-check against actual transcript. |
+| Session 5 | `../raw/notes/dm-planning/session-5/outline.md`; `../raw/notes/dm-planning/session-5/prep_sheet.md` | Ingested into [[Sessions/Session 05 - 2026-04-01]] and [[Meta/DM Prep Source Map]]. |
+| Session 6 | `../raw/notes/dm-planning/session-6/lightsinger_theater.md`; `../raw/notes/dm-planning/session-6/run_sheet.md` | Ingested into [[Sessions/Session 06 - 2026-04-09]] and [[Meta/DM Prep Source Map]]. Cross-check actual reveal status. |
+| Session 7 | `../raw/notes/dm-planning/session-7/outline.md` | Ingested into [[Sessions/Session 07 - 2026-04-16]] and [[Meta/DM Prep Source Map]]. |
+| Session 8 | `../raw/notes/dm-planning/session-8/outline.md` | Ingested into [[Sessions/Session 08 - 2026-04-30]] and [[Meta/DM Prep Source Map]]. |
+| Session 10 | `../raw/notes/dm-planning/session-10/outline.md` | Ingested into [[Sessions/Session 10 - 2026-06-11]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
+| Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Ingested into [[Sessions/Session 11 - 2026-06-25]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 
@@ -97,6 +97,7 @@ These are record copies of player-facing or player-targeted handouts. The vault 
 | `../raw/notes/handouts/s9-thalosmere-archive-report.md` | Thalosmere archive report on Lady Remallia Haventree. | Remallia, Harpers, and Elior/Thalosmere pages. |
 | `../raw/notes/handouts/the-amberleaf-dispatch.md` | Amberleaf Dispatch. | Object/handout page; track encoded or partial state. |
 | `../raw/notes/handouts/the-amberleaf-dispatch-revealed.md` | Revealed Amberleaf Dispatch. | Object/handout page; track decoded/revealed state and recipients. |
+| `../raw/notes/handouts/the-crommor-warning.md` | Unrevealed Davy handout containing the recovered warning hidden inside the Crommor bugle for Laeral Silverhand. | Ingested into [[Objects/The Crommor Warning]], [[People/PCs/Davy]], [[Threads/Cassalanter Warning in the Bugle]], and [[Threads/Crommor Incident]]. |
 
 ## Session Transcripts
 
@@ -142,8 +143,7 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. `../raw/roster.md`, `../raw/stats.md`, and `../raw/notes/technical-notes.md`.
-2. `../raw/notes/discord-synopsis-channel.md` and `../raw/notes/dm-planning/session-1/opening-scene.md` to reconstruct session 1.
-3. Session transcripts 2-11, each paired with same-session prep notes when available.
-4. Active handouts/clue objects as they arise during session ingest.
-5. Remix structures and original adventure reference pages once current campaign state is established.
+1. Session transcripts 2-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
+2. Active handouts/clue objects as they arise during session ingest.
+3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
+4. Remix structures and original adventure reference pages once current campaign state is established.
