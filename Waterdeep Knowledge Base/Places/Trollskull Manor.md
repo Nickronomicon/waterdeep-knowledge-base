@@ -7,6 +7,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - place
@@ -26,6 +27,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - [[People/NPCs/Nat]], [[People/NPCs/Jenks]], and [[People/NPCs/Squiddly]] now have a room in the manor.
 - The haunting is strongly confirmed; the likely ghost is [[People/NPCs/Lif]].
 - The building is safe enough to sleep in but not legal or safe enough to serve customers.
+- A floating eye creature and possible intruder probed the manor while the party was at Blackstaff Tower in session 5.
 
 ## Known Facts
 
@@ -54,12 +56,21 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Jonathan claimed the den/turret area.
 - Davy, Elior, and Broethuul's exact room claims are a little muddied by transcript speaker labels, though Davy and Broethuul are both associated with attic spaces in table chatter.
 
+## Session 5 Developments
+
+- The urchins reported a floating eye-like creature near the manor and someone trying an upstairs window or latch.
+- Broethuul checked the building's basic doors and windows, but the manor remains easy to breach if someone is determined.
+- Broethuul addressed the unseen presence, asking the manor's denizens to help restore the tavern.
+- Old tankards set themselves upright, brandy poured itself, and the party toasted with the haunting.
+- Vajra advised the party to make use of the energy already inside the tavern when Aladeen asked about magical cleaning help.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
 - What does Lif want?
 - How will the party raise repair funds?
 - What final name will the tavern use?
+- Who sent the floating eye or tried the upstairs window?
 
 ## Sources
 
@@ -67,3 +78,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`

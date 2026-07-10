@@ -16,6 +16,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - pc
@@ -125,6 +126,16 @@ Cantrips:
 - Visited [[Places/Corellon's Crown]] for aromatics and received sage and a lavender bundle from [[People/NPCs/Fala Lefaliir]].
 - Took a second-floor bedroom and gave the adjacent spare room to the urchins, based on transcript context.
 
+## Session 5 Table-Facing Notes
+
+- Vanished effectively when the party tried to scatter from their watchers in the Market.
+- Folded a paper airplane from [[People/NPCs/Vajra Safahr|Vajra's]] desk paper while she briefed the party.
+- Accepted the [[Factions/Gray Hands]] offer and asked whether Vajra could send magically useful apprentices to clean [[Places/Trollskull Manor]].
+- Cast Sleep on the grell in [[Places/Fish Street Warehouse]], buying time to shut the door and rescue [[People/NPCs/Armet]].
+- Re-chained the warehouse door after Broethuul stabbed a handler's foot out of the way.
+- Tried Bane on the grell when it broke out, but the creature resisted.
+- Searched the dead handlers and found the torn [[Objects/Dockside Transfer Receipt]].
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -149,6 +160,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 
 ## Uncertainties
 

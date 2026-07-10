@@ -1,10 +1,11 @@
 ---
 type: thread
 status: active
-updated: 2026-07-09
+updated: 2026-07-10
 source_paths:
   - ../raw/notes/handouts/s0-jonathan-backstory.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - thread
@@ -22,6 +23,8 @@ Jonathan was raised to embody justice and noble duty. Anastasia once asked him w
 
 He does not yet appear to know that [[People/PCs/Davy]] is Anastasia.
 
+In [[Sessions/Session 05 - 2026-04-01]], [[People/NPCs/Vajra Safahr]] offered Jonathan condolences for the canceled Crommor engagement. Later that night the party discussed the rumor: no formal engagement had been announced, but there had been an understanding between House Eagleshield and House Crommor before Anastasia disappeared.
+
 ## Prep Hooks
 
 - Jonathan recognizes a detail in Davy's speech, posture, legal knowledge, or memory.
@@ -33,3 +36,4 @@ He does not yet appear to know that [[People/PCs/Davy]] is Anastasia.
 
 - `../raw/notes/handouts/s0-jonathan-backstory.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`

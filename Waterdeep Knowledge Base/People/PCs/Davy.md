@@ -18,6 +18,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - pc
@@ -108,6 +109,16 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - [[People/NPCs/Threestrings]] offered to bring Davy something suitable to wear in the morning.
 - Room-selection chatter associates Davy with the attic bedroom, but transcript speaker labels make exact room assignment worth confirming.
 
+## Session 5 Table-Facing Notes
+
+- Vajra said she did not think she recognized Davy, a notable table-facing beat given Davy's hidden identity.
+- Deflected questions about noble houses by saying street survival left little time to think about them.
+- Expected Threestrings to bring formalwear in the morning, but the party left early for the Dock Ward before that scene occurred in transcript truth.
+- Examined the damaged sewer grate near [[Places/Fish Street Warehouse]] and noticed scrape marks suggesting something may have forced its way through.
+- Picked the warehouse side-door lock while Aladeen and Broethuul screened him from view.
+- Helped get [[People/NPCs/Armet]] out and held the door against a thug from inside.
+- Fired at the grell, though the important crossbow shots missed this session.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -138,6 +149,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 
 ## Uncertainties
 

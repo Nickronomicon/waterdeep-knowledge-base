@@ -1,10 +1,11 @@
 ---
 type: faction
-status: queued
+status: active
 updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-4/vajra_recruitment.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - faction
@@ -13,18 +14,29 @@ tags:
 
 # Gray Hands
 
-The Gray Hands are the Blackstaff's irregular arm in the session 4 prep notes. The faction has not yet been introduced directly in ingested transcript truth, but [[People/NPCs/Vajra Safahr]] has summoned the party to [[Places/Blackstaff Tower]].
+The Gray Hands are [[People/NPCs/Vajra Safahr|Vajra Safahr's]] irregular agents, intended as the beginning of a restored Force Grey tradition. The party accepted probationary Gray Hands work in [[Sessions/Session 05 - 2026-04-01]].
 
 ## Current Status
 
-- Not yet offered to the party in transcript truth.
-- Likely queued for the next session after Vajra's Sending.
+- Offered directly by Vajra in [[Places/Blackstaff Tower]].
+- Party is best treated as probationary members pending Vajra's judgment of the Dock Ward assignment.
+- First assignment: investigate the Dock Ward monster disturbance, identify what happened, and end it cleanly if possible.
 
-## Prep Context
+## Terms As Explained
 
-The prep frames the Gray Hands as the current organization under Vajra's authority, with Force Grey as the legacy or standard she is trying to restore. Treat this as planned framing until confirmed by the table.
+- Not guards, constables, salaried soldiers, or errand runners for petty officials.
+- Act under the Blackstaff's authority when Waterdeep needs skill, discretion, and speed.
+- Paid for work done, but service is framed as civic duty rather than a transactional job.
+- Can invoke the Blackstaff's name when acting on her business, but should not advertise membership.
+- Expected to show competence, restraint, loyalty to Waterdeep, and solutions rather than spectacles.
+- May belong to other factions or pursue other obligations.
+
+## Force Grey Context
+
+Jonathan recognized Force Grey as an old heroic tradition. Vajra framed the Gray Hands as the path by which Force Grey might become meaningful again.
 
 ## Sources
 
 - `../raw/notes/dm-planning/session-4/vajra_recruitment.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`

@@ -18,6 +18,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - pc
@@ -124,6 +125,16 @@ Cantrips:
 - Pushed to answer the summons that evening rather than waiting until morning.
 - Found Broethuul outside and brought him into the Blackstaff Tower plan.
 
+## Session 5 Table-Facing Notes
+
+- Noticed some of the coordinated watchers on the way to [[Places/Blackstaff Tower]].
+- Was addressed by Vajra as young Lord Eagleshield and received condolences for the canceled Crommor engagement.
+- Recognized Force Grey from childhood heroic stories and accepted the [[Factions/Gray Hands]] offer immediately.
+- Received a Sending from Vajra on Ches 3 naming [[People/NPCs/Ma Sella]] as the Dock Ward witness, then earnestly misunderstood "fishwife."
+- Went with Elior to the [[Factions/Guild of Scriveners, Scribes, and Clerks]] and helped identify the target warehouse record as redacted.
+- Healed [[People/NPCs/Armet]] after the grell nearly killed him.
+- Missed the grell with his morningstar when it broke through the warehouse door, then took splash damage from Elior's Ice Knife.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -148,6 +159,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 
 ## Uncertainties
 

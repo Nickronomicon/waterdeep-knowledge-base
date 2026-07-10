@@ -9,10 +9,12 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
   - Sessions/Session 04 - 2026-03-22.md
+  - Sessions/Session 05 - 2026-04-01.md
 tags:
   - waterdeep
   - synopsis
@@ -108,3 +110,41 @@ Near evening, Threestrings arrived with brandy and a paper bird. Renaer, it turn
 Then, as the household settled toward its first night in the manor, Jonathan received a Sending from Vajra Safahr, the Blackstaff herself. She wanted him to come to Blackstaff Tower and bring his friends. When he asked why, the answer was simple enough: Waterdeep had noticed them.
 
 So our heroes ended the day not with sleep, but with another invitation from someone powerful, a half-repaired haunted tavern full of children behind them, an opera tomorrow, a repair bill they could not yet pay, and the Blackstaff waiting across the city. Homeownership is going great.
+
+## Session 5
+
+At sundown, the party left Trollskull Manor and crossed Waterdeep toward Blackstaff Tower. They were not alone. A few familiar faces appeared too often in the Market. A raven watched with a little too much personhood. A child announced to someone unseen that the party was almost there. Broethuul, never one to let surveillance remain pleasantly anonymous, walked up to one of the watchers and introduced himself. This did not make the watchers friendlier, but it did make them less confident.
+
+Blackstaff Tower was, by any reasonable standard, extremely rude to architecture. A blank wall became a door. The inside was bigger than the outside. Stairs went up while feeling like down. Windows looked out on places and weather that were not Waterdeep. A floating lantern led the way through changing halls, past repeating apprentices, and finally to Vajra Safahr herself.
+
+Vajra knew rather a lot. She greeted Broethuul as a lord of the Autumn Court, offered Jonathan condolences for the canceled Crommor engagement, recognized Aladeen as the jester famous for mocking the Crommors, and had a mysterious message for Elior's uncle about something borrowed. Davy, she claimed not to recognize. Aladeen, meanwhile, began folding a paper airplane from her desk paper, because even the Blackstaff's office is apparently a valid performance space.
+
+Then came the offer. Vajra explained that Waterdeep has laws, guilds, magistrates, Watch officers, guards, noble houses, and more committees than any decent problem should have to survive. Most days, that is enough. Some days, it is not. For the problems too strange, too quick, or too delicate for the usual machinery, she is restoring an old tradition: Force Grey, beginning with the Gray Hands.
+
+Jonathan accepted with the speed of a man being handed his childhood heroic fantasy and a chair at the same time. The rest of the party came around with varying degrees of caution, curiosity, and professional skepticism. Vajra made the terms clear: no salary, no public badge, no license to make spectacles. Access, resources, authority when needed, and the expectation that when Waterdeep calls, they answer with competence and restraint. Naturally, the party immediately began discussing badges.
+
+For their first test, Vajra pointed them back to the Dock Ward. Xanathar's people, she said, like to release monsters to spread panic and pull the Watch thin. There had been a disturbance near the docks, and she suspected the pattern was not finished. Her advice was to investigate at first light. Witnesses speak more clearly in daylight, and Dock Ward lies get a little easier to sort after the taverns empty.
+
+On the way home, the party found Nat, Jenks, and Squiddly huddled on Trollskull Manor's front steps. While the adults were away, a floating eye-thing had come by, a man had asked whether the party was home, and someone had tried an upstairs window. The children were brave, eager, and frightened in exactly the order that makes adults start checking locks.
+
+Inside, the night turned more personal. Broethuul explained that yes, the "lord" part is real, and yes, he came to Waterdeep by swimming out of the Feywild and into the harbor, which everyone accepted with the proper amount of confusion. Jonathan's Crommor almost-engagement came up. Davy gave the practical street-level answer to noble politics: hard to resent houses you do not have time to think about when you are trying to eat.
+
+Before bed, Broethuul addressed the manor itself. The party meant to restore the tavern, he said, and if the house had denizens already, perhaps they could help. In answer, old tankards righted themselves on the bar. Dust blew out. Brandy poured itself. A bottle tipped as if someone unseen had joined the toast. Trollskull Manor may be drafty, expensive, and alarming, but it does seem to understand hospitality.
+
+The next morning, Ches 3, Jonathan received another Sending from Vajra: in the Dock Ward, speak to Ma Sella the fishwife. Jonathan spent a heroic amount of magical correspondence trying to understand which fish she was married to. Vajra, to her credit or exhaustion, clarified that Ma Sella sells fish and is not married.
+
+Ma Sella turned out to be blunt, busy, and extremely useful. She had seen the creature drop from a warehouse roof: a floating thing with tentacles and a beak, very much not natural, which snatched someone up while two rough men shouted at it as if it were supposed to obey. She pointed the party toward a closed warehouse near Fish Street. Broethuul bought a whole mackerel from her for six silver, because every investigation needs tools.
+
+At the warehouse, the party found a damaged sewer grate nearby and a building that should have been working but was not. Elior and Jonathan went to the Guild of Scriveners to pull the property record, while Aladeen, Davy, and Broethuul stayed behind. The guild clerk found records for the surrounding properties, but the target warehouse had been neatly redacted. Closed Lord business, Xanathar influence, Zhent influence, or some lovely combination of the three. In Waterdeep, even paperwork can look over its shoulder.
+
+Back at the warehouse, Davy picked the side-door lock. Inside was a wounded dock worker on the floor and a floating brain with a beak and tentacles above him. The creature was later identified as a grell. Davy and Aladeen briefly decided that outside was a fine place to be. Broethuul, following a different doctrine, walked in and shot it.
+
+What followed was less a battle plan than a door-based moral crisis. Aladeen put the grell to sleep. The party shut the door. The injured dock worker woke screaming underneath it. The party opened the door to let him out. A thug inside tried to force the door open too, so Broethuul stabbed his foot. The door shut again. The grell woke up. The two men still inside discovered, with some urgency, that their monster-control plan had not survived contact with the monster.
+
+Jonathan and Elior returned just in time to find the others holding up a blood-soaked dock worker named Armet and listening to extremely bad sounds from inside. Jonathan healed Armet, who immediately became the party's most grateful non-witness. The grell broke through the door. The party unleashed readied attacks. Aladeen's curse bounced off. Jonathan's morningstar hit the doorframe. Broethuul put a bolt into brain-flesh. Davy's shot went wide. Then Elior's ice knife burst across the doorway, clipped Jonathan, and finished the grell.
+
+Inside, the party found the remains of the handlers and the real clues: a torn transfer receipt for three ironbound crates, a cracked-open crate large enough for the grell, and a burned note fragment that read, "Loose it, then leave." This was not a random monster. Someone shipped it, released it, and expected panic to do the rest.
+
+With the Watch only minutes away, the party made the obvious Gray Hands choice: leave before anyone could ask why the newly important adventurers were standing in a warehouse full of bodies, broken doors, and exotic brain meat. Armet agreed, tearfully and sincerely, that he had never seen them in his life.
+
+So our heroes ended the morning with one dead grell, one saved dock worker, two dead handlers, three mysterious crates, a redacted warehouse record, a still-pending report to the Blackstaff, and an opera appointment with Mirt later that evening. Waterdeep has noticed them. Waterdeep may already regret this.

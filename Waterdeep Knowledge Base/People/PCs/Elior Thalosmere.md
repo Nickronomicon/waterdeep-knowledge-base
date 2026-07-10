@@ -17,6 +17,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - pc
@@ -132,6 +133,16 @@ Other listed magic:
 - Pushed the idea of a haunted-house themed tavern.
 - Discussed legal nuance around "justified" killing after Frewn's visit.
 
+## Session 5 Table-Facing Notes
+
+- Vajra addressed Elior as Lord Thalosmere and asked him to tell his uncle that she would return what she borrowed before another fortnight passed.
+- Pressed Vajra on what the party would receive for joining the [[Factions/Gray Hands]]; accepted after Vajra said she and House Thalosmere were not working at opposite goals.
+- Questioned Broethuul, Jonathan, and Davy during the overnight personal-history conversation at [[Places/Trollskull Manor]].
+- Went with Jonathan to the [[Factions/Guild of Scriveners, Scribes, and Clerks]] to find the owner of [[Places/Fish Street Warehouse]].
+- Learned that the warehouse ownership chain had been redacted and understood that the record likely still exists beyond clerk-level access.
+- Recognized the floating brain-creature as a grell after hearing Broethuul's description.
+- Killed the grell with Ice Knife's explosive splash damage, also catching Jonathan in the blast.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -158,6 +169,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 
 ## Uncertainties
 

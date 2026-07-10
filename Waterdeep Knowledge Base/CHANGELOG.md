@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 5
+
+- Ingested [[Sessions/Session 05 - 2026-04-01]] from `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`, covering the Blackstaff Tower visit, Gray Hands offer, Trollskull surveillance warning, Ches 3 Dock Ward investigation, grell fight, Armet rescue, and crate clues.
+- Created pages for [[People/NPCs/Ma Sella]], [[People/NPCs/Armet]], [[People/NPCs/Andrew]], [[Factions/Guild of Scriveners, Scribes, and Clerks]], [[Places/Fish Street Warehouse]], [[Objects/Dockside Transfer Receipt]], [[Objects/Loose It Then Leave Note Fragment]], and [[Objects/Ironbound Grell Crate]].
+- Updated PC pages, [[People/NPCs/Vajra Safahr]], [[Factions/Gray Hands]], [[Places/Blackstaff Tower]], [[Places/Dock Ward]], [[Factions/Xanathar Guild]], [[Places/Trollskull Manor]], the urchin pages, [[People/NPCs/Lif]], [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[Sessions/Session 06 - 2026-04-09]], [[INDEX]], and `../TODO.md`.
+- Marked the `s6-cargo-chit` and `s6-note-fragment` handouts as revealed during session 5 despite their filenames.
+
+Follow-up:
+
+- Begin session 6 from the post-grell state: party fled [[Places/Fish Street Warehouse]], owes [[People/NPCs/Vajra Safahr]] a report, and still has the opera/Mirt appointment on Ches 3.
+- Track the redacted warehouse ownership chain, "Jonas and Co," remaining ironbound crates, Trollskull floating-eye probe, and the party's probationary Gray Hands status.
+- Verify whether Rassal's Chandlery, cargo follow-up, theater/Mirt, and any Harper pitch happen in session 6 or slide later.
+
 ## [2026-07-10] ingest | Session 4
 
 - Confirmed the in-world date correction that sessions 1-3 occurred on Ches 1, 1492 DR, ending in the early morning of Ches 2, then ingested [[Sessions/Session 04 - 2026-03-22]] as Ches 2, 1492 DR.

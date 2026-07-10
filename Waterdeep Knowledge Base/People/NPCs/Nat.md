@@ -5,6 +5,7 @@ updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - npc
@@ -34,7 +35,14 @@ Nat is one of the three Trollskull Alley urchins who were already using [[Places
 - Was embarrassed when Squiddly mentioned she sometimes sleeps under the outside stairs.
 - Described [[People/NPCs/Emmet Frewn]] as a man who counts other people's coins before his own.
 
+## Session 5
+
+- Waited on the front steps with Jenks and Squiddly after the party returned from [[Places/Blackstaff Tower]].
+- Reported, through signing and interpretation, that a floating eye-like creature had come by and someone tried an upstairs window or latch.
+- Helped describe the eye creature as having four small tentacle-like protrusions.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`

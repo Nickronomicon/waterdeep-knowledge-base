@@ -5,6 +5,7 @@ updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - npc
@@ -28,7 +29,14 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 - Was eager for any proposed job, adventure, or sword lesson.
 - Moved in quickly with one pillow, a broken-horned tiefling figurine, and blunt wooden arrows.
 
+## Session 5
+
+- Blurted out that there had been a weird floating eye thing when the party returned from [[Places/Blackstaff Tower]].
+- Reported that a man asked if the party was home and that someone tried an upstairs window.
+- Eagerly asked whether the urchins should fight the intruders next time.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`

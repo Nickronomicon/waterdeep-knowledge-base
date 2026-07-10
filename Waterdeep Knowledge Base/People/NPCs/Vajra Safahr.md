@@ -5,6 +5,7 @@ updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-4/vajra_recruitment.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - npc
@@ -13,19 +14,34 @@ tags:
 
 # Vajra Safahr
 
-Vajra Safahr is the Blackstaff of Waterdeep. She contacted Jonathan by Sending at the end of [[Sessions/Session 04 - 2026-03-22]] and summoned him to [[Places/Blackstaff Tower]] with his friends.
+Vajra Safahr is the Blackstaff of Waterdeep. She summoned the party to [[Places/Blackstaff Tower]] after their rescue of Renaer and Floon drew citywide attention, then offered them probationary [[Factions/Gray Hands]] work in [[Sessions/Session 05 - 2026-04-01]].
 
 ## Current Status
 
-- Has not yet appeared directly in ingested transcript truth.
-- Summoned the party after their actions drew attention.
-- When Jonathan asked why, the answer was essentially: Waterdeep has noticed you.
+- Appeared directly in session 5.
+- Denied that the people tailing the party on the way to Blackstaff Tower were hers.
+- Collected Broethuul's descriptions of the tails and sent a paper bird with the information.
+- Offered the party a chance to join the Gray Hands and help restore the Force Grey tradition.
+- Gave the party a Dock Ward assignment involving Xanathar-linked monster releases.
+- Sent Jonathan a follow-up Sending on Ches 3 directing the party to [[People/NPCs/Ma Sella]].
 
-## Prep Context
+## Party-Specific Knowledge Displayed
 
-Session 4 prep frames Vajra as a potential [[Factions/Gray Hands]] patron and as the city's irregular-response authority for problems too strange or sensitive for ordinary Watch or Guard response. Treat that as prep until confirmed in play.
+- Addressed Broethuul as Lord Broethuul and recognized an Autumn Court connection.
+- Offered Jonathan condolences for the canceled Crommor engagement.
+- Did not recognize Davy, or at least said she did not.
+- Knew Aladeen as the jester known for mocking the Crommors.
+- Told Elior to tell his uncle she would return something borrowed before another fortnight passed.
+- Knew of the party's aid to Renaer and Floon, and warned that Waterdeep's eyes were now on them.
+
+## Open Questions
+
+- What did Vajra borrow from Elior's uncle?
+- Who were the watchers following the party to Blackstaff Tower?
+- How will Vajra assess the grell response, given the dead monster but public panic and Watch attention?
 
 ## Sources
 
 - `../raw/notes/dm-planning/session-4/vajra_recruitment.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`

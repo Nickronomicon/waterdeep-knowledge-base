@@ -15,6 +15,9 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/notes/handouts/s6-cargo-chit.md
+  - ../raw/notes/handouts/s6-note-fragment.md
 tags:
   - waterdeep
   - dashboard
@@ -49,7 +52,9 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[People/NPCs/Lif]] and the haunting | Whole party | Active, newly confirmed | Learn the ghost's name, disposition, and tavern expectations. |
 | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Local competition, guild tension, possible sabotage. |
 | [[Objects/Opera Invitation from Mirt]] | Whole party | Active invitation | Meet [[People/NPCs/Mirt]] at [[Places/Lightsinger Theater]] on Ches 3. |
-| [[People/NPCs/Vajra Safahr]] / [[Places/Blackstaff Tower]] | Whole party | Immediate next hook | Resolve the Blackstaff summons and any Gray Hands offer. |
+| [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | Report the grell result and learn whether probationary Gray Hands status sticks. |
+| [[Places/Fish Street Warehouse]] / [[Objects/Dockside Transfer Receipt]] / [[Objects/Loose It Then Leave Note Fragment]] | Whole party | Active clue trail | Trace three ironbound crates, redacted ownership, and Xanathar-style monster release tactics. |
+| Trollskull surveillance/intrusion | Whole party | Active pressure | Determine who sent the floating eye and tried the upstairs window while the party was at Blackstaff Tower. |
 
 ## Immediate Follow-Up
 
@@ -57,4 +62,4 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, Dorgar, Victoro Cassalanter, Laeral Silverhand, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue session 5 from the party leaving [[Places/Trollskull Manor]] for [[Places/Blackstaff Tower]] on the evening of Ches 2.
+- Continue session 6 from the post-grell state: the party has fled the [[Places/Fish Street Warehouse]], owes [[People/NPCs/Vajra Safahr]] a report, and still has the opera with [[People/NPCs/Mirt]] upcoming on Ches 3.

@@ -16,6 +16,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
 tags:
   - waterdeep
   - pc
@@ -103,6 +104,17 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Considered roof access and possible future sabotage of Frewn's roof.
 - Was associated with an attic storage-room claim during room-selection chatter.
 
+## Session 5 Table-Facing Notes
+
+- Noticed coordinated surveillance on the way to [[Places/Blackstaff Tower]] and directly approached one of the tails.
+- Was addressed by Vajra as "Lord Broethuul," confirming to the table that his noble title is not simply posturing.
+- Accepted the [[Factions/Gray Hands]] offer after clarifying that irregular service would not bind him permanently to Waterdeep.
+- Explained pieces of his Autumn Court background to Elior: seven houses, betrayal, an attack on his keep, and emerging into Waterdeep by swimming through the harbor.
+- Addressed the unseen presence in [[Places/Trollskull Manor]], asking the manor's denizens to help restore the tavern; the brandy toast followed.
+- Asked [[People/NPCs/Ma Sella]] which fish was her husband and then bought a whole fresh mackerel for six silver.
+- Shot the grell with crossbow bolts and stabbed a handler's foot out of the warehouse door.
+- Persuaded [[People/NPCs/Armet]] that he had never seen the party.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -126,6 +138,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 
 ## Uncertainties
 

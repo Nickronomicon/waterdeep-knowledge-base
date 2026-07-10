@@ -6,6 +6,9 @@ source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/notes/handouts/s6-cargo-chit.md
+  - ../raw/notes/handouts/s6-note-fragment.md
 tags:
   - waterdeep
   - faction
@@ -24,21 +27,30 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - Took [[People/NPCs/Floon Blagmaar]] from the Zhentarim warehouse and moved him to [[Places/Xanathar Sewer Hideout]].
 - Uses yellow circle-and-spoke markings as sewer-route signs.
 - Session 3 confirmed goblin sentries, a gazer lookout, [[People/NPCs/Grum'shar]], [[People/NPCs/Nihiloor]], and an intellect devourer in one sewer hideout.
+- Vajra says Xanathar likes to release monsters to spread panic and pull the Watch thin.
+- Session 5's Dock Ward grell incident fits that pattern and produced a receipt marked with one staring eye inside a ring.
 
 ## Known Clues
 
 - "Follow the yellow signs in the sewers."
 - Xanathar operatives may operate above ground at night and below ground during the day.
 - A portal pedestal marked with an eye-like symbol can be activated with a removable sphere, at least by Nihiloor.
+- [[Objects/Dockside Transfer Receipt]] for three ironbound crates.
+- [[Objects/Loose It Then Leave Note Fragment]] found by the cracked-open [[Objects/Ironbound Grell Crate]].
 
 ## Open Questions
 
 - Where did Nihiloor's portal lead?
 - What does the guild know about Renaer, Dagult, and the missing dragons?
 - What are Krentz and the deep gnome trying to barricade below the hideout?
+- Where are the other ironbound crates, and were they all monster-release assets?
+- Who redacted the [[Places/Fish Street Warehouse]] ownership chain?
 
 ## Sources
 
 - `../raw/notes/discord-synopsis-channel.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/notes/handouts/s6-cargo-chit.md`
+- `../raw/notes/handouts/s6-note-fragment.md`
