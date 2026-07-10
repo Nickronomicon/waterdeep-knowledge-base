@@ -7,6 +7,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - npc
@@ -43,9 +44,16 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 - Was part of the group that received one of Davy's daggers for emergency defense if the floating eye returned; exact custody of the dagger is not clear from the transcript.
 - Was sent with the other urchins to buy bread and butter for the household meal.
 
+## Session 8
+
+- Cheered while Jenks practiced with the mace in the urchins' room.
+- Went with Nat and Jenks to buy breakfast bread using three copper, ate some of it, and returned late.
+- Helped attempt to start a hearth fire at Trollskull Manor; his tiefling fire spark worked, but the blocked/stuck flue filled the room with smoke.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`

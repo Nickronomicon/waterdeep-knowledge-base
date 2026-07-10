@@ -7,6 +7,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - npc
@@ -49,9 +50,16 @@ Nat is one of the three Trollskull Alley urchins who were already using [[Places
 - Was part of the huddle around the dagger Davy gave the urchins for emergency defense if the floating eye returned.
 - Was sent with the other urchins to buy bread and butter for a fish dinner.
 
+## Session 8
+
+- Cheered while Jenks swung the mace left in the urchins' room at a ruined bed frame.
+- Was sent with Jenks and Squiddly to buy breakfast bread using three copper; returned late, apologizing by sign after the children ate some of the loaf.
+- Helped attempt to make a hearth fire at Trollskull Manor, but the blocked/stuck flue filled the room with smoke.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`

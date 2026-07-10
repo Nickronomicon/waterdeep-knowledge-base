@@ -12,6 +12,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -19,6 +20,7 @@ source_paths:
   - Sessions/Session 05 - 2026-04-01.md
   - Sessions/Session 06 - 2026-04-09.md
   - Sessions/Session 07 - 2026-04-16.md
+  - Sessions/Session 08 - 2026-04-30.md
 tags:
   - waterdeep
   - synopsis
@@ -214,3 +216,43 @@ By the end, Mr. Jones, the apparent employer, was dead. Several hired blades wer
 Searching Mr. Jones turned up a little coin, a heavy crossbow, poor leather armor, and a scrap of note: the Stone was secure, X and Z each had one eye too many, the third eye no longer rested with Lady B, and someone wondered whether to contact R. This was, as clues go, extremely generous in the number of questions it created.
 
 So our heroes ended the night not with Maxeene, not with the second half of the opera, and not with a quiet Harper errand, but in a Castle Ward back street with bodies, a prisoner, a strange note, a sewer escape route, and several new factions suddenly much closer to the surface. The Harpers wanted to know whether the party could pull a thread without bringing the tapestry down. Early results are pending.
+
+## Session 8
+
+The party did not return to the opera. This is perhaps understandable. There are social obligations, and then there is standing in a Castle Ward back street at night with several bodies, one surrendered thug, one escaped attacker, and a note that seemed determined to create more questions than it answered.
+
+The surrendered thug, whose real name was lost somewhere beneath the table's immediate and permanent decision to call him Thugby, claimed he had only been hired to rough up some fancily dressed strangers. The party attempted to convert him from "paid nuisance" into "future warning system," with Jonathan making the point in the direct and shining manner that Jonathan tends to make points. Thugby seemed to understand.
+
+Nobody was in any shape to keep adventuring. Elior wanted to find Maxeene immediately, because once Elior has a thread in his teeth he is reluctant to let the universe continue unattended. The rest of the party pointed out that Jonathan was barely standing, everyone was tired, and there is a difference between heroic urgency and walking into the next problem pre-chewed. So the group returned to Trollskull Manor, where the children were asleep and the building, at least for the moment, was not on fire.
+
+Morning corrected that trajectory only slightly. The urchins woke everyone with a crash from their room, where Jenks had discovered the mace left among the party's growing collection of emergency child-defense equipment and was enthusiastically testing it against a ruined bed frame while Nat and Squiddly cheered. The party elected not to confiscate the weapon so much as suggest proper training, which is either responsible mentorship or the beginning of a future Watch report.
+
+Breakfast was delegated to the children with three copper. They returned late with most of a loaf of bread, having eaten some of the evidence on the way back. Nat apologized. Jenks was still chewing.
+
+Elsewhere in Trollskull, Davy began the delicate work of turning his violently bright opera outfit into something darker, sootier, and less likely to announce him from across a noble ballroom. Elior practiced questions for Maxeene with the intensity of a man preparing to interview a magistrate. Jonathan sat on his bed in armor and stared into readiness. Nat and Squiddly tried to start a hearth fire, discovered that the chimney did not feel like cooperating, and filled the room with smoke. Jonathan solved the immediate crisis with a bucket of water. The chimney remains unconvinced.
+
+The morning also brought Broxley Fairkettle of the Fellowship of Innkeepers, a halfling representative who had heard Trollskull Manor might reopen. He arrived hopeful and then looked at the interior. Hope took damage. Still, Broxley explained guild dues, rules, hours, and the practical reality that Waterdeep businesses prefer not to be surprised by unlicensed competition. He also confirmed that Frewn's Brews is in the guild, though behind on dues, and suggested the Cassalanters as the sort of people one might approach for large sums of money. For a party staring down roof bills and guild dues, this was practical information.
+
+Then it was time for Maxeene.
+
+Thomril & Sons Cartage sat outside the city proper, where the smells and logistics of drays, sledges, stables, shoeing, and large working animals could be someone else's zoning problem. The stablemaster was confused by the party asking for Maxeene until he introduced them to a massive draft horse. Once no ordinary listener could hear, Maxeene spoke.
+
+Mirt's contact was, in fact, a horse.
+
+This turned out to be less ridiculous than it sounds. People say all sorts of things around animals they assume cannot understand them. Maxeene had overheard exactly the sort of thing the Harpers cared about: a sun elf and a half-orc bodyguard, recognized by context as Davil Starsong and Yagra Stonefist, talking about hiring spies to find Xanathar Guild hideouts in Waterdeep. They did not sound like Watch officers or civic-minded investigators. They sounded like rival operators.
+
+Maxeene had also overheard something stranger. A rock gnome had hired her more than once and talked about a stone. Once, he had followed a lord's carriage. Another time, he had followed a well-dressed red-haired man on foot, trying to make the dray slow down. Maxeene did not know his name, and she did not recognize the strange "third eye" language from the scrap of note, but it was enough to make the Stone feel less like a word on paper and more like a thing moving through the city.
+
+Unfortunately, the interview was interrupted by the traditional Waterdeep follow-up question: "What if someone burns the building down?"
+
+Davy and Aladeen heard people at the back of the stable asking whether the spy worked there and making it clear the building was going up either way. Aladeen attempted a bold piece of counterintelligence involving Mirt's spy being a giant rat. This became, over the next few frantic moments, the legend of the spy rat, the burning spy rat, and the escaped real spy rat. As battlefield misinformation goes, it had charm.
+
+The fight was ugly, smoky, and very nearly fatal. Elior climbed into the hayloft and dropped a Thunderwave onto attackers below, only to be shot unconscious by crossbow fire. Davy took a mace blow to get to him, stabilized him, and dragged him down before the burning loft became a much worse idea. Jonathan fought through the center of the stable with divine fire, radiant smiting, and the newly remembered fact that paladins can heal people by laying on hands. Aladeen kept people alive with Healing Word, including Maxeene herself. Broethuul pulled Maxeene clear, recognized Thugby among the attackers, and confirmed that Thugby had made the fascinating life choice of immediately becoming the party's problem again.
+
+Thugby, to his limited credit, recognized the party too. Then he froze. Then, when the fight turned against the attackers, he ran. One of his own allies shot at him and missed, which suggests workplace morale among arson crews is poor.
+
+The stablemaster was not so lucky. He was shot, then struck down while trying to defend his property. The gnome pyromancer gleefully spread flame through the stable until Jonathan ended him with radiant light, which seemed to offend the gnome on philosophical grounds because it did not burn. Another attacker tried to kill Maxeene with poisoned weapons and discovered that a draft horse can express disagreement with extreme force. Maxeene killed him herself.
+
+By the end, the attackers were dead or fleeing, Elior was back on his feet by the slimmest margin, Maxeene was alive, and Thomril & Sons was burning badly. The party recovered coin, weapons, poisoned crossbow bolts, and a fire agate focus from the fallen attackers. More importantly, they had the information Mirt wanted: Davil and Yagra are connected to a Zhentarim effort to locate Xanathar hideouts. They also had a new Stone clue, a dead stablemaster, a surviving Harper horse, a second Thugby escape, and absolutely no clean explanation for any authority who might come asking why yet another building was full of bodies around them.
+
+So our heroes ended the morning with Maxeene's report in hand, the Harpers still awaiting word, a stable burning behind them, and Waterdeep's underworld looking a little less like a distant gang war and a little more like a net being pulled tight around their lives. The spy rat, at least, got away.

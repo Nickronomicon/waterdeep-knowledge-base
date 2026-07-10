@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - place
@@ -30,6 +31,8 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The building is safe enough to sleep in but not legal or safe enough to serve customers.
 - A floating eye creature and possible intruder probed the manor while the party was at Blackstaff Tower in session 5.
 - The party learned in session 6 that a half-elf tavernkeeper named Lif died in the manor about forty years ago and is a likely identity for the haunting.
+- [[People/NPCs/Broxley Fairkettle]] of the [[Factions/Fellowship of Innkeepers]] has now visited, starting the tavern guild-membership track.
+- The hearth/chimney has a blocked or stuck flue and filled the room with smoke when the urchins tried to make a fire.
 
 ## Known Facts
 
@@ -75,6 +78,17 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - [[Objects/Blackstaff Payment Pouch|30 dragons from Vajra]] were placed toward the tavern fund/roof.
 - The party prepared for the opera here, including Threestrings' formalwear delivery and Fala's rescue tailoring for Davy.
 
+## Session 8 Developments
+
+- The party returned late after the Castle Ward ambush, slept, and used the manor as the starting point for the Maxeene mission.
+- The simple mace from the Castle Ward ambush was left in the urchins' room; by morning Jenks was swinging it at the ruined bed frame while Nat and Squiddly cheered.
+- The urchins were sent with three copper to buy breakfast bread and returned late after eating part of the loaf.
+- Davy began darkening and muting the garish opera outfit into something less conspicuous.
+- Nat and Squiddly attempted to light the hearth; Squiddly could spark the fire, but the blocked/stuck chimney filled the room with smoke.
+- Jonathan doused the hearth with water, ending the smoke but not fixing the chimney.
+- [[People/NPCs/Broxley Fairkettle]] visited on behalf of the [[Factions/Fellowship of Innkeepers]], discussed guild dues and rules, and warned that operating outside the guild could create trouble.
+- Broxley also identified the [[Factions/Cassalanters]] as major moneylenders when the party discussed financing.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
@@ -83,6 +97,8 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - What final name will the tavern use?
 - Who sent the floating eye or tried the upstairs window?
 - Is the haunting only Lif, or are the Mirthkettle/orphanage rumors also spiritually relevant?
+- Has the party formally joined the Fellowship of Innkeepers, and what bylaws will apply?
+- What will it cost or take to repair/clear the chimney and make the hearth usable?
 
 ## Sources
 
@@ -92,3 +108,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`

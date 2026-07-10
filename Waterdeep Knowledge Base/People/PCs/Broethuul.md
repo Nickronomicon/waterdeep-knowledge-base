@@ -19,6 +19,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - pc
@@ -136,6 +137,14 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Killed [[People/NPCs/Mr Jones]] with his rapier and used Fallen Puppet to make Jones's corpse strike the original watcher.
 - Chased the final fleeing survivor until the man escaped into an open sewer manhole, then found his way back to the party.
 
+## Session 8 Table-Facing Notes
+
+- Helped persuade Elior not to pursue Maxeene immediately while the party was exhausted and badly hurt.
+- Helped convince [[People/NPCs/Maxeene]] that the party came on Harper business.
+- Got Maxeene out of the stall when the arson attack began and warned the stablemaster that the barn was on fire.
+- Recognized [[People/NPCs/Thugby]] among the attackers at [[Places/Thomril & Sons Cartage]].
+- Took shots at Thugby and other attackers during the burning-stable fight, including one memorable empty crossbow twang before remembering to load.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -162,6 +171,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 
 ## Uncertainties
 

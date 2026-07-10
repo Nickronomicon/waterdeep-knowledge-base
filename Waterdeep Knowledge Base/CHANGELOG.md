@@ -15,6 +15,24 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] lint | Player-facing Session 8 synopsis comments
+
+- Revised [[Dashboard/Player-Facing Synopsis]] for session 8 to avoid implying that Elior or the party knew Maxeene was a horse before arriving at Thomril & Sons.
+- Removed overly ominous Cassalanter foreshadowing from the Broxley Fairkettle paragraph so the player-facing recap reflects the party's current public-facing read of Victoro Cassalanter as a promising patron/lender.
+
+## [2026-07-10] ingest | Session 8
+
+- Ingested [[Sessions/Session 08 - 2026-04-30]] from `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`, covering the Castle Ward prisoner aftermath, Thugby, Trollskull morning, Broxley Fairkettle's innkeeper-guild visit, Maxeene interview, Davil/Yagra Zhentarim lead, rock-gnome Stone lead, Thomril & Sons arson attack, Elior's near-death, Maxeene's survival, and the stablemaster's death.
+- Created pages for [[People/NPCs/Broxley Fairkettle]], [[Factions/Fellowship of Innkeepers]], [[People/NPCs/Davil Starsong]], and [[People/NPCs/Thugby]].
+- Updated PC pages, [[People/NPCs/Maxeene]], [[Places/Thomril & Sons Cartage]], [[People/NPCs/Whelan Thomril]], [[Factions/Harpers]], [[Factions/Zhentarim]], [[Factions/Xanathar Guild]], [[Threads/Zhentarim-Xanathar Street War]], [[Objects/Scrap of Note]], Trollskull and urchin pages, [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Sessions/Session 09 - 2026-05-07]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[INDEX]], and `../TODO.md`.
+- Marked session 8 prep-only Remallia/Underbough material as not reached and carried the actual session 9 starting point forward from the burned-stable aftermath.
+
+Follow-up:
+
+- Begin session 9 from [[Places/Thomril & Sons Cartage]] aftermath: Maxeene information in hand, stablemaster likely dead, stable burning or burned, Thugby escaped, and report-back still pending.
+- Track whether the party reports to [[People/NPCs/Mirt]], [[People/NPCs/Remallia Haventree]], [[People/NPCs/Vajra Safahr]], or the Watch.
+- Resolve whether [[People/NPCs/Whelan Thomril]] is definitively the killed stablemaster if later transcript names him differently.
+
 ## [2026-07-10] ingest | Session 7
 
 - Ingested [[Sessions/Session 07 - 2026-04-16]] from `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`, covering the Lightsinger opera, foyer social scene, Cassalanter loan offer, Mirt's Harper recruitment, Maxeene mission assignment, Box C watcher, backstage/street chase, Castle Ward ambush, prisoner, escaped survivor, and revealed [[Objects/Scrap of Note]].

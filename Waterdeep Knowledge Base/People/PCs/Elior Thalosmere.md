@@ -20,6 +20,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - pc
@@ -160,6 +161,15 @@ Other listed magic:
 - Hit the fleeing watcher with Sorcerous Burst during the chase, then used Thunderwave, Poison Spray, and more Sorcerous Burst during the ambush.
 - Killed one ambusher with Thunderwave and dropped divine glyph-flavored magic all over the fight.
 
+## Session 8 Table-Facing Notes
+
+- Wanted to pursue [[People/NPCs/Maxeene]] immediately after the Castle Ward ambush but was persuaded to rest because the party was badly depleted.
+- Prepared careful interview questions for Maxeene in the morning with intense, rehearsed focus.
+- Climbed to the hayloft at [[Places/Thomril & Sons Cartage]] and dropped Thunderwave onto attackers below.
+- Was shot unconscious in the burning stable and came within one death-save failure of dying.
+- Was stabilized by [[People/PCs/Davy]] and then revived by Jonathan's Lay on Hands.
+- Escaped the burning building after Davy dragged him down from the loft.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -189,6 +199,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 
 ## Uncertainties
 

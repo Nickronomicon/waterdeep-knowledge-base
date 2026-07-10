@@ -21,6 +21,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - pc
@@ -155,6 +156,16 @@ Cantrips:
 - Healed Broethuul with Cure Wounds after Broethuul took heavy damage.
 - Was dropped by a critical crossbow hit, then rolled a 20 on his first death save and stood back up at 1 hp.
 
+## Session 8 Table-Facing Notes
+
+- Received or took custody of the heavy crossbow looted from [[People/NPCs/Mr Jones]].
+- Intimidated [[People/NPCs/Thugby]], the surrendered Castle Ward ambusher, strongly enough that Thugby later froze when he recognized the party at Thomril & Sons.
+- Sat in quiet armored readiness at Trollskull in the morning before the Maxeene mission.
+- Doused the smoky Trollskull hearth after the blocked/stuck flue filled the room with smoke.
+- Fought heavily in the [[Places/Thomril & Sons Cartage]] arson attack, using Divine Favor, Searing Smite, Divine Smite, and radiant damage.
+- Learned or remembered in play that Lay on Hands was available, then used it to bring [[People/PCs/Elior Thalosmere|Elior]] back after Davy stabilized him.
+- Killed the gnome pyromancer with radiant damage after the stable was already burning badly.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -182,6 +193,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 
 ## Uncertainties
 

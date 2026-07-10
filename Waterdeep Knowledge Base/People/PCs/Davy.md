@@ -21,6 +21,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - pc
@@ -138,6 +139,15 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Repeatedly hid behind crates and corpses, at one point hiding so well even the party risked forgetting where he was.
 - Killed at least one ambusher with a hidden crossbow shot and helped keep pressure on the attackers.
 
+## Session 8 Table-Facing Notes
+
+- Worked on darkening the garish opera outfit with soot, charcoal, lantern oil, and tool work, muting it into a much less conspicuous dark gray.
+- Heard movement at the back of [[Places/Thomril & Sons Cartage]] before the arson attack fully began.
+- Found and filled a bucket, then hid in [[People/NPCs/Maxeene|Maxeene's]] stall during the fire.
+- Realized [[People/PCs/Elior Thalosmere|Elior]] had likely gone down in the hayloft, risked an opportunity attack to reach him, and stabilized him with a Medicine check.
+- Dragged Elior down from the burning loft area before the fire cut off the ladder.
+- Took the four poisoned crossbow bolts from the poison-weapon attacker Maxeene killed.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -171,6 +181,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 
 ## Uncertainties
 

@@ -5,6 +5,7 @@ updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-6/lightsinger_theater.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - faction
@@ -20,7 +21,8 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - [[People/NPCs/Renaer Neverember]] recommended the party to Mirt.
 - Mirt offered association at [[Places/Lightsinger Theater]], in Private Box C at intermission.
 - All five PCs accepted silver harp-and-moon pins.
-- The first Harper mission is to find [[People/NPCs/Maxeene]], convince her the party speaks for the Harpers, and learn what she overheard from Zhentarim operatives.
+- The party completed the information-gathering portion of the first Harper mission by interviewing [[People/NPCs/Maxeene]] in session 8.
+- The party has not yet reported Maxeene's information back to Mirt or another Harper handler in ingested transcript truth.
 
 ## Terms As Explained
 
@@ -44,8 +46,11 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - What ongoing support will Mirt provide?
 - How will Harper work interact with the party's probationary [[Factions/Gray Hands]] status?
 - Does the watcher at Box C know the party accepted Harper pins?
+- Who should receive the Maxeene report: Mirt, [[People/NPCs/Remallia Haventree]], or another Harper contact?
+- Did the attackers at [[Places/Thomril & Sons Cartage]] know Maxeene specifically was the Harper spy?
 
 ## Sources
 
 - `../raw/notes/dm-planning/session-6/lightsinger_theater.md`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`

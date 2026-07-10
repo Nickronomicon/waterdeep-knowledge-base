@@ -19,6 +19,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - pc
@@ -157,6 +158,16 @@ Cantrips:
 - Used Bane against three ambushers and later lost concentration after taking a scimitar hit.
 - Searched Mr. Jones after the fight and found [[Objects/Scrap of Note]].
 
+## Session 8 Table-Facing Notes
+
+- Helped frame [[People/NPCs/Thugby]] as a potential future informant after the Castle Ward ambush, though Thugby later reappeared with the arson crew.
+- Heard the attackers at [[Places/Thomril & Sons Cartage]] talking about whether the spy worked there and that they planned to burn the place down.
+- Tried to misdirect the attackers with a fake "spy rat" story and later created a Minor Illusion of a burning rat.
+- Used Bardic Inspiration on Jonathan under the banner of justice for the spy rat.
+- Used Healing Word on Jonathan during the fight.
+- Healed [[People/NPCs/Maxeene]] after she was shot, likely keeping her alive long enough to kill her attacker.
+- Looted the poison-weapon attacker and gnome pyromancer, including coin, poisoned bolts, weapons, and a fire agate crystal focus.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -184,6 +195,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 
 ## Uncertainties
 

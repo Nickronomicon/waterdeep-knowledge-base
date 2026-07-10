@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 7 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 8 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 7 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 8 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
@@ -70,7 +70,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 5 | 2026-04-01 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Ingested |
 | Session 6 | 2026-04-09 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Ingested |
 | Session 7 | 2026-04-16 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Ingested |
-| Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Prep scaffolded; transcript not ingested |
+| Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Ingested |
 | Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Prep scaffolded; transcript not ingested |
 | Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Prep scaffolded; transcript not ingested |
 | Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Prep scaffolded; transcript not ingested |
@@ -170,6 +170,9 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Mr Jones]]
 - [[People/NPCs/Maxeene]]
 - [[People/NPCs/Whelan Thomril]]
+- [[People/NPCs/Broxley Fairkettle]]
+- [[People/NPCs/Davil Starsong]]
+- [[People/NPCs/Thugby]]
 - [[People/NPCs/Ma Sella]]
 - [[People/NPCs/Armet]]
 - [[People/NPCs/Andrew]]
@@ -193,6 +196,7 @@ Create pages under `Factions/`. Expected major pages:
 - [[Factions/Lords' Alliance]]
 - [[Factions/Gray Hands]]
 - [[Factions/Harpers]]
+- [[Factions/Fellowship of Innkeepers]]
 - [[Factions/Order of the Gauntlet]]
 - [[Factions/Emerald Enclave]]
 

@@ -111,7 +111,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 | 5 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Ingested into [[Sessions/Session 05 - 2026-04-01]] |
 | 6 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Ingested into [[Sessions/Session 06 - 2026-04-09]] |
 | 7 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Ingested into [[Sessions/Session 07 - 2026-04-16]] |
-| 8 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Not ingested |
+| 8 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Ingested into [[Sessions/Session 08 - 2026-04-30]] |
 | 9 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Not ingested |
 | 10 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Not ingested |
 | 11 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Not ingested |
@@ -143,7 +143,7 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Session transcripts 8-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
+1. Session transcripts 9-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
 2. Active handouts/clue objects as they arise during session ingest.
 3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
 4. Remix structures and original adventure reference pages once current campaign state is established.

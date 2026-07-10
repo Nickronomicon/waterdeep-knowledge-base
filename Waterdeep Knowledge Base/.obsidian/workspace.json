@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Campaign Timeline.md",
+                "file": "Dashboard/Player-Facing Synopsis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Timeline"
+              "title": "Player-Facing Synopsis"
             }
           }
         ]
@@ -201,6 +201,12 @@
   },
   "active": "977290ec03b6aff1",
   "lastOpenFiles": [
+    "Timeline/Campaign Timeline.md",
+    "People/NPCs/Thugby.md",
+    "People/NPCs/Davil Starsong.md",
+    "Factions/Fellowship of Innkeepers.md",
+    "People/NPCs/Broxley Fairkettle.md",
+    "Sessions/Session 08 - 2026-04-30.md",
     "Dashboard/Current Campaign State.md",
     "Dashboard/Open Threads.md",
     "Dashboard/Player-Facing Synopsis.md",
@@ -221,12 +227,6 @@
     "Places/Cassalanter Villa.md",
     "Factions/Cassalanters.md",
     "Factions/Harpers.md",
-    "Sessions/Session 07 - 2026-04-16.md",
-    "Objects/Borrowed Monster Books.md",
-    "Objects/Blackstaff Payment Pouch.md",
-    "Places/Book Wyrm's Treasure.md",
-    "People/NPCs/Rishaal the Page-Turner.md",
-    "Places/Tiger's Eye.md",
     "Reference",
     "Timeline",
     "Factions",

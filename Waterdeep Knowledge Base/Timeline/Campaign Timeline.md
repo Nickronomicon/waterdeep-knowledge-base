@@ -10,6 +10,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
 tags:
   - waterdeep
   - timeline
@@ -30,15 +31,17 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 | [[Sessions/Session 05 - 2026-04-01]] | 2026-04-01 | Ches 2-3, 1492 DR | Party visits Blackstaff Tower, accepts probationary Gray Hands work, returns to a Trollskull surveillance warning, investigates the Dock Ward grell release, rescues Armet, recovers crate clues, and leaves before the Watch arrives. |
 | [[Sessions/Session 06 - 2026-04-09]] | 2026-04-09 | Ches 3, 1492 DR | Party returns to Trollskull, hears manor history from Fala and Tally, reports the grell incident to Vajra, receives 30 gp, investigates the gazer lead with Vincent and Rishaal, prepares formalwear, and ends heading to the opera. |
 | [[Sessions/Session 07 - 2026-04-16]] | 2026-04-16 | Ches 3, 1492 DR | Party attends the Lightsinger opera, meets Renaer/Floon and city elites, receives Cassalanter loan offer, accepts Harper pins from Mirt, gets the Maxeene mission, chases a Box C watcher, survives a Castle Ward ambush, and recovers the Scrap of Note. |
+| [[Sessions/Session 08 - 2026-04-30]] | 2026-04-30 | Ches 3-4, 1492 DR | Party resolves the Castle Ward prisoner as Thugby, rests at Trollskull, meets Broxley Fairkettle, interviews Maxeene at Thomril & Sons, learns Davil/Yagra are hiring spies against Xanathar hideouts, hears a rock-gnome Stone lead, survives the arson attack, loses the stablemaster, and watches Thugby flee again. |
 
 ## Open Chronology Questions
 
 - Whether the Trollskull deed transfer was legally witnessed offscreen before session 4.
 - Exact timing of the Watch response after the Fish Street warehouse grell fight.
 - Whether the receipt address lead was named in campaign chat after session 6.
-- How the party resolves the surrendered ambusher and dead bodies after session 7.
-- Whether the Watch responds to the Castle Ward ambush.
 - Whether the escaped survivor reaches a faction contact through the sewers.
+- Whether the Watch responds to the Castle Ward ambush or the Thomril & Sons arson.
+- Exact final damage to Thomril & Sons after the burning-stable fight.
+- Whether Thugby reports to anyone after fleeing the second time.
 
 ## Sources
 
@@ -49,3 +52,4 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
