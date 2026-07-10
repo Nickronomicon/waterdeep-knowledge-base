@@ -15,6 +15,7 @@ source_paths:
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
   - ../raw/notes/handouts/s0-jonathan-backstory.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
+  - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
 tags:
   - waterdeep
   - pc
@@ -93,6 +94,15 @@ Cantrips:
 - Size: Medium.
 - The exported sheet does not include age, height, weight, physical description, personality traits, ideals, bonds, flaws, or backstory text.
 
+## Session 2 Table-Facing Notes
+
+- Introduced as a handsome aasimar noble paladin with fairer skin, longer hair, starry eyes, light-colored clothing, chain mail, and a reputation as House Eagleshield's proof of celestial favor.
+- Personality in early play is boisterously justice-oriented, sincere, and not especially clever.
+- Helped stop a Skewered Dragon bar fight by persuading the charging dockworkers to stand down.
+- Kicked open the Candle Lane warehouse doors and was immediately dropped by four kenku arrows.
+- Was revived by Aladeen's Healing Word, then used Cure Wounds to revive Elior.
+- Tried to prevent a fleeing kenku from escaping with a thrown morningstar and Compelled Duel.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -114,6 +124,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/notes/character-sheets/Jonathan-level-3.pdf`
 - `../raw/notes/handouts/s0-jonathan-backstory.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
+- `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 
 ## Uncertainties
 

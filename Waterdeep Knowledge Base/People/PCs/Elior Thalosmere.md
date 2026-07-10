@@ -14,6 +14,7 @@ source_paths:
   - ../raw/notes/handouts/s0-elior-backstory.md
   - ../raw/notes/handouts/s0-private-archive-house-thalosmere.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
+  - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
 tags:
   - waterdeep
   - pc
@@ -99,6 +100,16 @@ Other listed magic:
 - The scar warms when something is wrong: divine magic misfires, fate contradicts itself, or a soul lingers where it should not.
 - Elior does not view himself as chosen. He views himself as an unresolved exception and a function that has become active again.
 
+## Session 2 Table-Facing Notes
+
+- Presented as a young, quiet, boyish noble-adjacent man in ornate but not elite clothing.
+- Attempted to bribe a [[Factions/City Watch]] officer with 1 gp while investigating whether the Dock Ward bodies included Floon.
+- Bought a jug of rum in [[Places/Skewered Dragon]], shared it with dockworkers, and later bought a purple tankard cozy from [[People/NPCs/Xoblob]].
+- Identified [[People/NPCs/Renaer Neverember]] as a likely match for the second noble who left with Floon.
+- Used Gust to prevent a tavern brawl from fully erupting.
+- Dropped during the [[Places/Candle Lane Zhentarim Warehouse]] fight, then was revived by Jonathan's Cure Wounds.
+- Used Mending to repair [[Objects/Renaer's Locket]] and returned it to Renaer.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -122,6 +133,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/notes/handouts/s0-elior-backstory.md`
 - `../raw/notes/handouts/s0-private-archive-house-thalosmere.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
+- `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 
 ## Uncertainties
 

@@ -13,6 +13,7 @@ source_paths:
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
   - ../raw/notes/handouts/s0-aladeen-backstory.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
+  - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
 tags:
   - waterdeep
   - pc
@@ -98,6 +99,13 @@ Cantrips:
 - Bond: would do anything for the old troupe.
 - Flaw: once satirized a noble who still wants his head, and he is likely to repeat that mistake.
 
+## Session 2 Table-Facing Notes
+
+- Introduced himself as a Waterdeep street-raised performer who plays pan flute, carries a dagger and bow, and is not opposed to jokes even when no one laughs.
+- The table established that people may remember his five minutes of fame from inventing the Crommor Collapse.
+- Used Healing Word to revive Jonathan during the [[Places/Candle Lane Zhentarim Warehouse]] fight.
+- Created a Minor Illusion of a Xanathar-looking thug during the same fight.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -119,6 +127,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/notes/character-sheets/Aladeen-level-3.pdf`
 - `../raw/notes/handouts/s0-aladeen-backstory.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
+- `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 
 ## Uncertainties
 

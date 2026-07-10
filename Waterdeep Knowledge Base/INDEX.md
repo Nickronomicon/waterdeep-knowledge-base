@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Full transcript ingest has not started yet.
+- Transcript ingest has started; sessions 1 and 2 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 11.
+- Waterdeep session transcripts are available for sessions 2 through 11; session 2 is ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
@@ -61,8 +61,8 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 
 | Session | Real Date | Text Source | JSON Source | Status |
 |---|---:|---|---|---|
-| Session 1 | Unknown | Not available | Not available | Reconstructed draft |
-| Session 2 | 2026-02-22 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Prep scaffolded; transcript not ingested |
+| Session 1 | 2026-02-15 | Not available | Not available | Reconstructed |
+| Session 2 | 2026-02-22 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Ingested; JSON source empty |
 | Session 3 | 2026-03-01 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Prep scaffolded; transcript not ingested |
 | Session 4 | 2026-03-22 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Prep scaffolded; transcript not ingested |
 | Session 5 | 2026-04-01 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Prep scaffolded; transcript not ingested |
@@ -78,7 +78,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 - `../raw/roster.md` - player-to-character roster.
 - `../raw/stats.md` - current party/campaign status.
 - `../raw/notes/technical-notes.md` - remote play, Foundry/D&D Beyond, transcript caveats, Discord setup, and DM note-taking caveats; ingested into [[Meta/Campaign Operations]].
-- `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - Unknown]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]].
+- `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]].
 - `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
 - `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
 - `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, and 11; scaffolded into session pages and [[Meta/DM Prep Source Map]].
@@ -95,7 +95,7 @@ As pages are created, maintain these sections:
 
 - Session pages live in `Sessions/`.
 - Current scaffold pages:
-  - [[Sessions/Session 01 - Unknown]]
+  - [[Sessions/Session 01 - 2026-02-15]]
   - [[Sessions/Session 02 - 2026-02-22]]
   - [[Sessions/Session 03 - 2026-03-01]]
   - [[Sessions/Session 04 - 2026-03-22]]
@@ -136,6 +136,11 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Floon Blagmaar]]
 - [[People/NPCs/Renaer Neverember]]
 - [[People/NPCs/Durnan]]
+- [[People/NPCs/Yagra Stonefist]]
+- [[People/NPCs/Krentz]]
+- [[People/NPCs/Xoblob]]
+- [[People/NPCs/Bonnie]]
+- [[People/NPCs/Threestrings]]
 - [[People/NPCs/Lif]]
 - [[People/NPCs/Fala Lefaliir]]
 - [[People/NPCs/Victoro Cassalanter]]
@@ -150,9 +155,9 @@ Create pages under `Factions/`. Expected major pages:
 
 - [[Factions/Xanathar Guild]]
 - [[Factions/Zhentarim]]
+- [[Factions/City Watch]]
 - [[Factions/Cassalanters]]
 - [[Factions/Bregan D'aerthe]]
-- [[Factions/City Watch]]
 - [[Factions/Lords' Alliance]]
 - [[Factions/Gray Hands]]
 - [[Factions/Order of the Gauntlet]]
@@ -167,6 +172,9 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/Yawning Portal]]
 - [[Places/Dock Ward]]
 - [[Places/Skewered Dragon]]
+- [[Places/Old Xoblob Shop]]
+- [[Places/Candle Lane]]
+- [[Places/Candle Lane Zhentarim Warehouse]]
 - [[Places/Trollskull Manor]]
 - [[Places/Trollskull Alley]]
 - [[Places/Cassalanter Villa]]
@@ -181,6 +189,13 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Cassalanter Loan]]
 - [[Objects/Seance Candle]]
 - [[Objects/The Crommor Warning]]
+- [[Objects/Floon's Unicorn Necklace]]
+- [[Objects/Renaer's Locket]]
+- [[Objects/Magical Paper from Candle Lane Warehouse]]
+
+### Timeline
+
+- [[Timeline/Campaign Timeline]]
 
 ### Reference
 
@@ -195,8 +210,8 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Complete the setup checklist in `../TODO.md`.
-2. Ingest sessions 2 through 11 in chronological order, pairing transcripts with [[Meta/DM Prep Source Map]].
-3. Revisit [[Sessions/Session 01 - Unknown]] after session 2 ingest and any user memory.
+2. Ingest sessions 3 through 11 in chronological order, pairing transcripts with [[Meta/DM Prep Source Map]].
+3. Continue expanding people, factions, places, objects, and timeline pages as each session is processed.
 4. Finalize [[Dashboard/Current Campaign State]] after session 11 is processed.
 5. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
 6. Create a weekly prep workflow page once the next real session date is known.

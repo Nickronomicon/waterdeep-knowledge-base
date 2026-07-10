@@ -37,7 +37,7 @@ Inventory of `../raw/` after commit `99dcfb8` (`Ingests the-crommor-warning-hand
 | Path | Purpose | Ingest Use |
 |---|---|---|
 | `../raw/notes/technical-notes.md` | How the remote campaign runs, Foundry/D&D Beyond source notes, transcript caveats, homebrew, Discord channel structure, document sharing, and DM note-taking caveats. | Ingested into [[Meta/Campaign Operations]] and used by [[Meta/DM Prep Source Map]]. Important warning: transcript diarization is unreliable. |
-| `../raw/notes/discord-synopsis-channel.md` | Existing synopsis channel notes for sessions 1 and 2. Session 1 is especially important because there is no transcript. | Ingested into [[Sessions/Session 01 - Unknown]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]]. |
+| `../raw/notes/discord-synopsis-channel.md` | Existing synopsis channel notes for sessions 1 and 2. Session 1 is especially important because there is no transcript. | Ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]]. |
 
 ## Character Sources
 
@@ -64,7 +64,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 
 | Session | Paths | Ingest Use |
 |---|---|---|
-| Session 1 | `../raw/notes/dm-planning/session-1/opening-scene.md` | Ingested into [[Sessions/Session 01 - Unknown]] and [[Meta/DM Prep Source Map]]. |
+| Session 1 | `../raw/notes/dm-planning/session-1/opening-scene.md` | Ingested into [[Sessions/Session 01 - 2026-02-15]] and [[Meta/DM Prep Source Map]]. |
 | Session 3 | `../raw/notes/dm-planning/session-3/prep-notes.md` | Ingested into [[Sessions/Session 03 - 2026-03-01]] and [[Meta/DM Prep Source Map]] as prep context to distinguish planned from actual. |
 | Session 4 | `../raw/notes/dm-planning/session-4/prep_sheet.md`; `../raw/notes/dm-planning/session-4/session_4_notes.md`; `../raw/notes/dm-planning/session-4/traversing_blackstaff_tower.md`; `../raw/notes/dm-planning/session-4/vajra_recruitment.md` | Ingested into [[Sessions/Session 04 - 2026-03-22]] and [[Meta/DM Prep Source Map]]. Cross-check against actual transcript. |
 | Session 5 | `../raw/notes/dm-planning/session-5/outline.md`; `../raw/notes/dm-planning/session-5/prep_sheet.md` | Ingested into [[Sessions/Session 05 - 2026-04-01]] and [[Meta/DM Prep Source Map]]. |
@@ -105,7 +105,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 
 | Session | Text Path | JSON Path | Ingest Status |
 |---|---|---|---|
-| 2 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Not ingested |
+| 2 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Ingested into [[Sessions/Session 02 - 2026-02-22]]; JSON source is empty |
 | 3 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Not ingested |
 | 4 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Not ingested |
 | 5 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Not ingested |
@@ -143,7 +143,7 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Session transcripts 2-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
+1. Session transcripts 3-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
 2. Active handouts/clue objects as they arise during session ingest.
 3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
 4. Remix structures and original adventure reference pages once current campaign state is established.

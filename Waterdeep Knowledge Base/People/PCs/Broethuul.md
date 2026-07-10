@@ -13,6 +13,7 @@ source_paths:
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
   - ../raw/notes/character-sheets/Broethuul-expanded.md
   - ../raw/notes/handouts/s0-what-broethuul-remembers.md
+  - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
 tags:
   - waterdeep
   - pc
@@ -74,6 +75,14 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - He has lived in Waterdeep for about five years, scraping by through charm, performance, troublemaking, and occasional crime.
 - Threestrings of the Yawning Portal is a favorite humanoid contact because she reminds him of Fae court revelry.
 
+## Session 2 Table-Facing Notes
+
+- Introduced as a strange bugbear with noble behavior, threadbare and salt-stained finery, purple eyes instead of red ones, and clothing from no recognizable Waterdhavian fashion.
+- Motivations in early play are framed as jokes, making trouble, and flirtation.
+- Tried to start a bar fight in [[Places/Skewered Dragon]] by stealing coins and blaming another patron.
+- At [[Places/Old Xoblob Shop]], [[People/NPCs/Xoblob]] offered to buy one or both of Broethuul's purple eyes.
+- Sniped a kenku through the fence during the [[Places/Candle Lane Zhentarim Warehouse]] fight.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -94,6 +103,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/notes/character-sheets/Broethuul-level-3.pdf`
 - `../raw/notes/character-sheets/Broethuul-expanded.md`
 - `../raw/notes/handouts/s0-what-broethuul-remembers.md`
+- `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 
 ## Uncertainties
 

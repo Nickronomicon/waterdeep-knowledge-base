@@ -12,6 +12,7 @@ source_paths:
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/notes/handouts/s0-what-broethuul-remembers.md
   - ../raw/notes/handouts/the-crommor-warning.md
+  - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
 tags:
   - waterdeep
   - dashboard
@@ -20,7 +21,7 @@ tags:
 
 # Open Threads
 
-Current DM-facing thread index built from character backgrounds and arc notes. These are not all known to the whole party.
+Current DM-facing thread index built from character backgrounds, arc notes, and ingested sessions. These are not all known to the whole party.
 
 ## Character Arc Threads
 
@@ -34,9 +35,18 @@ Current DM-facing thread index built from character backgrounds and arc notes. T
 | [[Threads/House Thalosmere Divine Correction]] | [[People/PCs/Elior Thalosmere]] | Active observation | Divine anomaly logic, scar triggers, ledger clues. |
 | [[Threads/Broethuul and the Autumn Court]] | [[People/PCs/Broethuul]] | Active but distant | Fey portal, lost court, non-infernal anomaly contrast. |
 
+## Campaign Threads
+
+| Thread | PCs | Status | Prep Use |
+|---|---|---|---|
+| [[Threads/Floon Rescue]] | Whole party | Active, immediate | Next session starts with Floon still missing and boots approaching the warehouse. |
+| [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, faction clues. |
+| [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
+
 ## Immediate Follow-Up
 
 - During session ingest, mark which thread facts have actually been revealed at the table.
-- Create NPC pages for Anastasia Crommor, Davin Crommor, Dorgar, Bonnie, Threestrings, Victoro Cassalanter, Laeral Silverhand, and relevant noble houses once they appear in session summaries.
+- Create NPC pages for Anastasia Crommor, Davin Crommor, Dorgar, Victoro Cassalanter, Laeral Silverhand, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
+- Continue session 3 from the hobnailed boots approaching [[Places/Candle Lane Zhentarim Warehouse]].

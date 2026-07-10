@@ -15,6 +15,7 @@ source_paths:
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/notes/handouts/the-crommor-warning.md
   - ../raw/notes/character-arcs/davy-dm-notes.md
+  - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
 tags:
   - waterdeep
   - pc
@@ -75,6 +76,17 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Pale skin, green eyes, black hair.
 - The exported sheet does not include alignment, personality traits, ideals, bonds, flaws, or backstory text.
 
+## Session 2 Table-Facing Notes
+
+- Introduced as a willowy, emaciated-looking teen boy with shaggy self-cut dark hair, sunken eyes, simple black linen clothing, clean hygiene, and persistent street grime.
+- Keeps private, tries to fade into the background, and avoids unnecessary heat.
+- Eavesdropped in [[Places/Skewered Dragon]] and heard that [[Places/Candle Lane]] warehouses had become more dangerous.
+- Helped spot [[Objects/Floon's Unicorn Necklace]] in the gutter outside [[Places/Old Xoblob Shop]].
+- Scouted the Candle Lane warehouse yard and identified the dead winged snake.
+- Shot and killed kenku during the warehouse fight.
+- Found the storage room under the stairs where [[People/NPCs/Renaer Neverember]] was hiding.
+- When Renaer asked whether Davy was short for Davin, Davy answered that it was just Davy.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -102,6 +114,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
 - `../raw/notes/handouts/the-crommor-warning.md`
 - `../raw/notes/character-arcs/davy-dm-notes.md`
+- `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 
 ## Uncertainties
 
