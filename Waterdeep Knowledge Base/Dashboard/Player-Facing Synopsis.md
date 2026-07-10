@@ -10,11 +10,13 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
   - Sessions/Session 04 - 2026-03-22.md
   - Sessions/Session 05 - 2026-04-01.md
+  - Sessions/Session 06 - 2026-04-09.md
 tags:
   - waterdeep
   - synopsis
@@ -148,3 +150,31 @@ Inside, the party found the remains of the handlers and the real clues: a torn t
 With the Watch only minutes away, the party made the obvious Gray Hands choice: leave before anyone could ask why the newly important adventurers were standing in a warehouse full of bodies, broken doors, and exotic brain meat. Armet agreed, tearfully and sincerely, that he had never seen them in his life.
 
 So our heroes ended the morning with one dead grell, one saved dock worker, two dead handlers, three mysterious crates, a redacted warehouse record, a still-pending report to the Blackstaff, and an opera appointment with Mirt later that evening. Waterdeep has noticed them. Waterdeep may already regret this.
+
+## Session 6
+
+Having left the Fish Street warehouse before the Watch could ask the traditional Waterdhavian questions of "who are you," "why is there a dead brain monster," and "why is everything sticky," the party returned to Trollskull Alley. Unfortunately, Trollskull Alley is not the sort of place where one can walk home covered in grell residue and expect nobody to notice. Curtains moved. Doors cracked open. Neighbors saw things.
+
+Fala Lefaliir was the first to check on them, politely but firmly identifying the residue as aberrant and making note of Elior's absence. Tally Fellbranch from the Bent Nail followed soon after, less concerned with etiquette than with whether anything dangerous had followed them back and might soon develop an interest in his shutters. He brought whiskey. This helped.
+
+Then the children arrived with the local version of events, which had already improved significantly. Depending on which small witness one believed, the party had fought dragons, giants, mercenary captains, mind flayers, and possibly several creatures not yet invented by natural philosophy. Aladeen, seeing an audience and a need, turned the grell fight into a song. The urchins immediately carried it outside and began the important historical process of making the story worse and louder.
+
+Inside Trollskull Manor, the ghost had not repaired the building, which was disappointing from a project-management perspective, but it had tidied. Old mugs had been cleaned. Broken glass had been swept. The bar was neater than anyone had left it. A rag flipped itself over an imaginary shoulder with the air of someone who knew exactly how much work still needed doing.
+
+Fala and Tally also shared more of the manor's history. Trollskull was apparently the first establishment in the alley, old enough to have given the street its name. It had been a tavern, an orphanage, a ruin, a tavern again, a failed reopening, and eventually a residence before Volo acquired it. Somewhere in that history were stories of a sinister orphanage keeper named Mirthkettle, rumors of children lost or worse, and the much more recent death of Lif, a half-elf tavernkeeper crushed beneath collapsing ale casks about forty years ago. Whether the haunting is Lif, older ghosts, a house with a memory, or some inconvenient combination remains unclear. But the manor definitely has opinions about hospitality.
+
+The floating eye returned to the conversation as well. Fala had seen it peering between Corellon's Crown and Trollskull Manor, up near the second story, scanning windows before moving on. The party recognized the description as matching the gazer they had encountered in the sewers. Aladeen later visited Vincent Trench at Tiger's Eye to ask about the matter. Vincent's professional opinion was simple and unpleasant: when someone sends a gazer to look at you, that road leads back to Xanathar.
+
+Meanwhile, Vajra Safahr checked in by Sending. Jonathan's first attempt at reporting the Dock Ward incident achieved the rare magical feat of making a twenty-five-word limit feel too generous, so Vajra moved on to Broethuul and requested a concise report, plus one slap for Jonathan. Broethuul delivered the report and attempted the slap. The report was more successful than the slap, which bounced harmlessly off Jonathan's armor in the name of justice.
+
+The Blackstaff was not displeased enough to withhold payment. A cloth pouch embroidered with the mark of Blackstaff Tower appeared on the bar containing thirty gold dragons. Vajra also made it clear that the party should preserve the grell evidence and not simply hand it to the Watch. For a brief and unsettling stretch, the cargo receipt and burned note fragment vanished from the party's belongings while Vajra investigated the lead, then reappeared. Magic is convenient. Magic is also rude.
+
+Aladeen continued his neighborhood tour at Book Wyrm's Treasure, where Rishaal the Page-Turner loaned him several monster books, including the always-questionable but occasionally useful Volo's Guide to Monsters and an older volume in a script Broethuul later recognized as Draconic. The books confirmed at least one practical thing: the eye-creature was very much in the same family as the gazer the party had already killed underground.
+
+The rest of the afternoon became, in theory, opera preparation. Davy cleaned up and waited for Threestrings. Broethuul lectured the unseen upstairs occupants of Trollskull Manor about the unacceptable state of the roof and furniture. Davy armed the children, within reason, by giving them a dagger and instructions for what to do if the floating eye returned. Everyone discussed what weapons could be worn to the opera without transforming formalwear into a declaration of war.
+
+Then Threestrings arrived with gifts, and "formalwear" became a generous term. Davy received an aggressively bright, ruffled outfit and a good hat. Jonathan received a huge Helm-fist pendant suitable for signaling justice from the back row. Broethuul received a pointed hat with an enormous feather and accepted his fate with joy. Elior, still away speaking with his father, was left a very fine chartreuse silk cravat. Aladeen received dark blue crushed-velvet slippers with pointed toes, because apparently the opera has standards but not limits.
+
+As the party finally set out, Fala took one look at Davy and decided the alley had suffered enough. With a little tailoring and a little magic, the outfit was transformed from a public incident into plausible rich-merchant or minor-noble attire. Davy offered payment. Fala refused, explaining in effect that this was for the good of everyone.
+
+And so our heroes ended the session not in an opera box, not yet before Mirt, and not yet tangled in whatever fresh problem Waterdeep had reserved for intermission, but dressed, paid, slightly more famous in the alley, and finally on their way to the Lightsinger Theater. The grell was dead. The gazer had a likely patron. Trollskull had a past. The children had a song. Nobody should let them write the official version.

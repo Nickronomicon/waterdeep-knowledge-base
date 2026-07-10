@@ -16,6 +16,7 @@ source_paths:
   - ../raw/notes/handouts/s6-note-fragment.md
   - ../raw/notes/dm-planning/session-6/lightsinger_theater.md
   - ../raw/notes/dm-planning/session-6/run_sheet.md
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/notes/dm-planning/session-7/outline.md
   - ../raw/notes/dm-planning/session-8/outline.md
   - ../raw/notes/dm-planning/session-10/outline.md
@@ -45,8 +46,8 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 3 | `../raw/notes/dm-planning/session-3/prep-notes.md` | Trollskull arrival, urchins, Lif, Frewn, guild repair estimate, Threestrings/Harper pitch, Vajra sending. | Ingested into [[Sessions/Session 03 - 2026-03-01]]. Actual play resolved Floon's rescue and ended with Volo offering Trollskull Manor; most prepared Trollskull/faction beats slid forward. |
 | 4 | `../raw/notes/dm-planning/session-4/prep_sheet.md`; `session_4_notes.md`; `traversing_blackstaff_tower.md`; `vajra_recruitment.md` | Blackstaff Tower, Gray Hands framing, Dock Ward monster disturbance, grell/warehouse setup, return complication, opera setup. | Ingested into [[Sessions/Session 04 - 2026-03-22]]. Actual play focused on Trollskull inspection, neighbors, repair estimate, Mirt invite, and Vajra's Sending; Blackstaff visit and Dock Ward assignment slid forward. |
 | 5 | `../raw/notes/dm-planning/session-5/outline.md`; `prep_sheet.md`; `../raw/notes/handouts/s6-cargo-chit.md`; `../raw/notes/handouts/s6-note-fragment.md` | Blackstaff/Gray Hands visit, Dock Ward monster hunt, grell warehouse, crate clues, opera still pending. | Ingested into [[Sessions/Session 05 - 2026-04-01]]. Actual play reached Blackstaff Tower, Gray Hands offer, Trollskull probe, Ma Sella, Fish Street warehouse, grell fight, and the cargo/note clues; Rassal's Chandlery and opera material slid forward. |
-| 6 | `../raw/notes/dm-planning/session-6/run_sheet.md`; `lightsinger_theater.md` | Lightsinger Theater, Mirt, Harper pitch, notable attendees, Cassalanters, spy, chase/ambush, Stone-related note. | Start from session 5's actual ending: party has fled the grell warehouse, must report to Vajra, and still has the opera/Mirt appointment on Ches 3. Verify whether the cargo follow-up, Rassal's Chandlery, or theater material happens here. |
-| 7 | `../raw/notes/dm-planning/session-7/outline.md` | Thomril & Sons Cartage, Maxeene, Davil/Yagra clue, Zhent response team with pyromancer. | Verify Maxeene facts, attack details, and any faction attribution. |
+| 6 | `../raw/notes/dm-planning/session-6/run_sheet.md`; `lightsinger_theater.md` | Lightsinger Theater, Mirt, Harper pitch, notable attendees, Cassalanters, spy, chase/ambush, Stone-related note. | Ingested into [[Sessions/Session 06 - 2026-04-09]]. Actual play stayed in Trollskull Alley: neighbors, Trollskull history, Vajra report/payment, gazer follow-up, Rishaal books, Threestrings formalwear, and departure for the opera. Theater/Mirt material slid forward. |
+| 7 | `../raw/notes/dm-planning/session-7/outline.md` | Thomril & Sons Cartage, Maxeene, Davil/Yagra clue, Zhent response team with pyromancer. | Start from session 6's actual ending at the approach to [[Places/Lightsinger Theater]]; verify whether opera/Mirt/Harper material happens before or alongside the Maxeene thread. |
 | 8 | `../raw/notes/dm-planning/session-8/outline.md` | Remallia Haventree at Ulbrinter Villa, Harper follow-up, paper bird, Fala credit note, Corvin and Miri Underbough job approach. | Track Remallia's exact role and whether Underbough infiltration began. |
 | 9 | No DM-planning folder; handouts exist. | Likely Maxeene and Thalosmere archive handout material. | Use transcript plus `s9-*` handouts to place reveals and recipients. |
 | 10 | `../raw/notes/dm-planning/session-10/outline.md` | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Verify which items occurred and what remains upcoming. |
@@ -71,7 +72,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 |---|---|---|
 | 4 | `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md` | Trollskull Alley business/place pages. |
 | 5 | `../raw/notes/handouts/s6-cargo-chit.md`; `../raw/notes/handouts/s6-note-fragment.md` | Dock Ward grell/crate clue objects revealed early in session 5 despite filenames. |
-| 7 | `../raw/notes/handouts/s7-scrap-of-note.md` | Spy/Grand Game clue object, if revealed. |
+| 7 | `../raw/notes/handouts/s7-scrap-of-note.md` | Spy/Grand Game clue object, if revealed; theater material likely still pending because session 6 did not reach the opera. |
 | 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md` | Maxeene, Remallia, Harpers, and House Thalosmere reveal tracking. |
 
 ## Transcript Pass Checklist

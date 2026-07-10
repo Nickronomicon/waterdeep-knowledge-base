@@ -5,6 +5,7 @@ updated: 2026-07-10
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - object
@@ -26,10 +27,11 @@ The opera invitation from Mirt was delivered by [[People/NPCs/Threestrings]] as 
 ## Current Status
 
 - Revealed to the party in [[Sessions/Session 04 - 2026-03-22]].
-- Still pending at the end of [[Sessions/Session 05 - 2026-04-01]].
-- The party also owes a report back to [[People/NPCs/Vajra Safahr]], creating a timing choice before the opera.
+- Still pending at the end of [[Sessions/Session 06 - 2026-04-09]].
+- The party reported to [[People/NPCs/Vajra Safahr]] by Sending, received payment, prepared formalwear, and ended session 6 heading toward [[Places/Lightsinger Theater]].
 
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

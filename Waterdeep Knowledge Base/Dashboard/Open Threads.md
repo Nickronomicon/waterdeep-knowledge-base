@@ -16,6 +16,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
 tags:
@@ -49,12 +50,13 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
 | [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] | Whole party | Occupied, legal transfer unclear | Confirm magistrate status, fund repairs, manage haunting and tavern plan. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
-| [[People/NPCs/Lif]] and the haunting | Whole party | Active, newly confirmed | Learn the ghost's name, disposition, and tavern expectations. |
+| [[People/NPCs/Lif]] and the haunting | Whole party | Active, likely identity learned | Use Lif history, Mirthkettle rumors, and tavern expectations to shape haunting. |
 | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Local competition, guild tension, possible sabotage. |
-| [[Objects/Opera Invitation from Mirt]] | Whole party | Active invitation | Meet [[People/NPCs/Mirt]] at [[Places/Lightsinger Theater]] on Ches 3. |
-| [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | Report the grell result and learn whether probationary Gray Hands status sticks. |
-| [[Places/Fish Street Warehouse]] / [[Objects/Dockside Transfer Receipt]] / [[Objects/Loose It Then Leave Note Fragment]] | Whole party | Active clue trail | Trace three ironbound crates, redacted ownership, and Xanathar-style monster release tactics. |
-| Trollskull surveillance/intrusion | Whole party | Active pressure | Determine who sent the floating eye and tried the upstairs window while the party was at Blackstaff Tower. |
+| [[Objects/Opera Invitation from Mirt]] | Whole party | Active invitation | Party is dressed and heading to [[Places/Lightsinger Theater]]; meet [[People/NPCs/Mirt]] at intermission in private box C. |
+| [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | First report delivered; party was paid 30 gp and told to preserve evidence, but Vajra's next ask is still pending. |
+| [[Places/Fish Street Warehouse]] / [[Objects/Dockside Transfer Receipt]] / [[Objects/Loose It Then Leave Note Fragment]] | Whole party | Active clue trail | Trace three ironbound crates, redacted ownership, and the receipt address; exact address/name not captured in session 6 transcript. |
+| Trollskull surveillance/intrusion | Whole party | Active pressure | [[People/NPCs/Vincent Trench]] thinks the gazer lead points back to Xanathar; determine which operator sent it and whether the upstairs intrusion was related. |
+| [[Places/Book Wyrm's Treasure]] / [[Objects/Borrowed Monster Books]] | Whole party | Active research aid | Return Rishaal's books; translate the older Draconic volume if useful. |
 
 ## Immediate Follow-Up
 
@@ -62,4 +64,5 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, Dorgar, Victoro Cassalanter, Laeral Silverhand, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue session 6 from the post-grell state: the party has fled the [[Places/Fish Street Warehouse]], owes [[People/NPCs/Vajra Safahr]] a report, and still has the opera with [[People/NPCs/Mirt]] upcoming on Ches 3.
+- Continue session 7 from the party heading to [[Places/Lightsinger Theater]] on Ches 3; session 6 did not reach the opera despite prep.
+- Confirm Elior's return and whether he wears the chartreuse cravat [[People/NPCs/Threestrings]] left for him.

@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - npc
@@ -35,8 +36,16 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 - Reported that a man asked if the party was home and that someone tried an upstairs window.
 - Eagerly asked whether the urchins should fight the intruders next time.
 
+## Session 6
+
+- Joined Nat and Jenks in bursting into Trollskull Manor with excited, very inaccurate rumors about what had happened in the Dock Ward.
+- Repeated Aladeen's grell song and helped turn the story into play-fighting outside.
+- Was part of the group that received one of Davy's daggers for emergency defense if the floating eye returned; exact custody of the dagger is not clear from the transcript.
+- Was sent with the other urchins to buy bread and butter for the household meal.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

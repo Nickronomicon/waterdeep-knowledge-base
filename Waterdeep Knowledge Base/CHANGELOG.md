@@ -15,6 +15,20 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 6
+
+- Ingested [[Sessions/Session 06 - 2026-04-09]] from `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`, covering the return to Trollskull Alley, Fala and Tally's manor history, Vajra's Sending follow-up, 30 gp Blackstaff payment, missing-and-returned evidence, gazer research with Vincent, monster-book loans from Rishaal, Threestrings' formalwear delivery, and departure for the opera.
+- Created pages for [[People/NPCs/Tally Fellbranch]], [[Places/The Bent Nail]], [[People/NPCs/Vincent Trench]], [[Places/Tiger's Eye]], [[People/NPCs/Rishaal the Page-Turner]], [[Places/Book Wyrm's Treasure]], [[Objects/Blackstaff Payment Pouch]], and [[Objects/Borrowed Monster Books]].
+- Updated PC pages, [[People/NPCs/Fala Lefaliir]], [[People/NPCs/Lif]], [[People/NPCs/Threestrings]], [[People/NPCs/Vajra Safahr]], the urchin pages, [[Factions/Gray Hands]], [[Factions/Xanathar Guild]], clue objects, [[Places/Trollskull Manor]], [[Places/Trollskull Alley]], [[Objects/Opera Invitation from Mirt]], [[Places/Lightsinger Theater]], [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[Sessions/Session 07 - 2026-04-16]], [[INDEX]], and `../TODO.md`.
+- Corrected session 5 clue custody based on session 6 table memory: Jonathan had the cargo receipt, Aladeen had the burned note fragment, and Davy was most associated with the crate clue.
+
+Follow-up:
+
+- Begin session 7 with the party approaching or arriving at [[Places/Lightsinger Theater]] on Ches 3, 1492 DR.
+- Confirm Elior's return point and whether he wears the chartreuse cravat.
+- Verify the exact receipt-address lead from campaign chat or later transcript context; session 6 transcript does not capture the name cleanly.
+- Track the opera/Mirt/Harper material as still pending because session 6 did not reach it.
+
 ## [2026-07-10] ingest | Session 5
 
 - Ingested [[Sessions/Session 05 - 2026-04-01]] from `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`, covering the Blackstaff Tower visit, Gray Hands offer, Trollskull surveillance warning, Ches 3 Dock Ward investigation, grell fight, Armet rescue, and crate clues.

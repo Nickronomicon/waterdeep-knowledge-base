@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - npc
@@ -15,7 +16,7 @@ tags:
 
 # Lif
 
-Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. The party has not yet learned the name Lif in ingested table truth; they know the presence as the "troll skull ghost."
+Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NPCs/Fala Lefaliir]] and [[People/NPCs/Tally Fellbranch]] told the party that a half-elf named Lif once ran Trollskull as a tavern and died there roughly forty years ago.
 
 ## Current Status
 
@@ -23,6 +24,7 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. Th
 - Disposition appears reactive and possibly tavern-focused rather than immediately hostile.
 - The ghost seems to approve of reopening the tavern, or at least responds positively to the idea.
 - In session 5, after Broethuul formally addressed the manor and asked its denizens to help restore the tavern, old tankards set themselves upright, dust blew out of them, and brandy poured itself for the party.
+- In session 6, the party learned that many neighbors believe Lif is the ghost, though other rumors blame the old hag/orphanage stories.
 
 ## Session 4 Signs
 
@@ -36,7 +38,14 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. Th
 
 - The brandy toast strongly suggests the unseen presence can act intentionally and socially.
 - The bottle tipped as if the ghost took part in the toast, though no liquid seemed to be consumed.
-- The party still does not know the name Lif in table truth.
+- The party still did not know the name Lif until session 6's neighbor-history conversation.
+
+## Session 6 Signs and History
+
+- The taproom had been cleaned and kept in order, though not repaired.
+- The bar rag flipped over an imaginary shoulder as if acknowledging praise for the barkeep.
+- Fala and Tally said Lif was a half-elf who reopened the manor as a tavern and died under collapsed ale casks about forty years ago.
+- Broethuul later scolded the upstairs denizens for failing to repair the building; no obvious response followed.
 
 ## Open Questions
 
@@ -49,3 +58,4 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. Th
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

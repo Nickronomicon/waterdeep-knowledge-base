@@ -17,6 +17,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - pc
@@ -134,7 +135,16 @@ Cantrips:
 - Cast Sleep on the grell in [[Places/Fish Street Warehouse]], buying time to shut the door and rescue [[People/NPCs/Armet]].
 - Re-chained the warehouse door after Broethuul stabbed a handler's foot out of the way.
 - Tried Bane on the grell when it broke out, but the creature resisted.
-- Searched the dead handlers and found the torn [[Objects/Dockside Transfer Receipt]].
+- Helped search the dead handlers and warehouse clues. Session 6 table memory later clarified that Aladeen was associated with the [[Objects/Loose It Then Leave Note Fragment]], while Jonathan had the [[Objects/Dockside Transfer Receipt]].
+
+## Session 6 Table-Facing Notes
+
+- Returned to [[Places/Trollskull Manor]] after the Dock Ward grell fight and turned the incident into a song that the urchins immediately adopted.
+- Helped review the missing-and-returned grell clues after Vajra's follow-up Sending.
+- Visited [[Places/Tiger's Eye]] and asked [[People/NPCs/Vincent Trench]] about the gazer watching Trollskull Alley; Vincent judged that such a gazer points back to Xanathar.
+- Visited [[Places/Book Wyrm's Treasure]], met [[People/NPCs/Rishaal the Page-Turner]], and borrowed [[Objects/Borrowed Monster Books|monster books]] about gazers, aberrations, and related creatures.
+- Sent the urchins to buy bread and butter for the household meal.
+- Received dark blue crushed-velvet slippers from [[People/NPCs/Threestrings]] for the opera.
 
 ## Background and Arc Notes
 
@@ -161,6 +171,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 
 ## Uncertainties
 

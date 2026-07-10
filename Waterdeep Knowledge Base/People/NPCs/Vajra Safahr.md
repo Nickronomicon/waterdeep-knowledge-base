@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-4/vajra_recruitment.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - npc
@@ -24,6 +25,11 @@ Vajra Safahr is the Blackstaff of Waterdeep. She summoned the party to [[Places/
 - Offered the party a chance to join the Gray Hands and help restore the Force Grey tradition.
 - Gave the party a Dock Ward assignment involving Xanathar-linked monster releases.
 - Sent Jonathan a follow-up Sending on Ches 3 directing the party to [[People/NPCs/Ma Sella]].
+- Followed up after the Dock Ward grell fight, asking whether the Fish Street mess was the party's doing and demanding a report.
+- Asked Broethuul for a concise report and instructed him to slap Jonathan when Jonathan proved evasive or unhelpful over Sending.
+- Told the party to preserve the grell evidence and not hand it to the Watch yet.
+- Sent a Blackstaff-embroidered pouch containing 30 gold dragons to [[Places/Trollskull Manor]] as payment or reimbursement.
+- Contacted Davy with follow-up about the receipt address; the exact address/name is not captured in the transcript.
 
 ## Party-Specific Knowledge Displayed
 
@@ -39,9 +45,11 @@ Vajra Safahr is the Blackstaff of Waterdeep. She summoned the party to [[Places/
 - What did Vajra borrow from Elior's uncle?
 - Who were the watchers following the party to Blackstaff Tower?
 - How will Vajra assess the grell response, given the dead monster but public panic and Watch attention?
+- What did Vajra learn from briefly inspecting or magically tracing the receipt and note fragment?
 
 ## Sources
 
 - `../raw/notes/dm-planning/session-4/vajra_recruitment.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

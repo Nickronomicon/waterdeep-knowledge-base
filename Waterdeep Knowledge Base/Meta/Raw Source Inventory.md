@@ -68,7 +68,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 3 | `../raw/notes/dm-planning/session-3/prep-notes.md` | Ingested into [[Sessions/Session 03 - 2026-03-01]] and [[Meta/DM Prep Source Map]] as prep context to distinguish planned from actual. |
 | Session 4 | `../raw/notes/dm-planning/session-4/prep_sheet.md`; `../raw/notes/dm-planning/session-4/session_4_notes.md`; `../raw/notes/dm-planning/session-4/traversing_blackstaff_tower.md`; `../raw/notes/dm-planning/session-4/vajra_recruitment.md` | Ingested into [[Sessions/Session 04 - 2026-03-22]] and [[Meta/DM Prep Source Map]]. Cross-check against actual transcript. |
 | Session 5 | `../raw/notes/dm-planning/session-5/outline.md`; `../raw/notes/dm-planning/session-5/prep_sheet.md` | Ingested into [[Sessions/Session 05 - 2026-04-01]] and [[Meta/DM Prep Source Map]]. Actual play reached Blackstaff, Gray Hands, the Dock Ward grell, and crate clues; Rassal's Chandlery and opera slid forward. |
-| Session 6 | `../raw/notes/dm-planning/session-6/lightsinger_theater.md`; `../raw/notes/dm-planning/session-6/run_sheet.md` | Ingested into [[Sessions/Session 06 - 2026-04-09]] and [[Meta/DM Prep Source Map]]. Cross-check actual reveal status from post-grell starting point. |
+| Session 6 | `../raw/notes/dm-planning/session-6/lightsinger_theater.md`; `../raw/notes/dm-planning/session-6/run_sheet.md` | Ingested into [[Sessions/Session 06 - 2026-04-09]] and [[Meta/DM Prep Source Map]]. Actual play covered Trollskull follow-up, neighbors, Vajra report/payment, gazer research, and formalwear; theater/Mirt prep slid forward. |
 | Session 7 | `../raw/notes/dm-planning/session-7/outline.md` | Ingested into [[Sessions/Session 07 - 2026-04-16]] and [[Meta/DM Prep Source Map]]. |
 | Session 8 | `../raw/notes/dm-planning/session-8/outline.md` | Ingested into [[Sessions/Session 08 - 2026-04-30]] and [[Meta/DM Prep Source Map]]. |
 | Session 10 | `../raw/notes/dm-planning/session-10/outline.md` | Ingested into [[Sessions/Session 10 - 2026-06-11]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
@@ -109,7 +109,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 | 3 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Ingested into [[Sessions/Session 03 - 2026-03-01]] |
 | 4 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Ingested into [[Sessions/Session 04 - 2026-03-22]] |
 | 5 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Ingested into [[Sessions/Session 05 - 2026-04-01]] |
-| 6 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Not ingested |
+| 6 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Ingested into [[Sessions/Session 06 - 2026-04-09]] |
 | 7 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Not ingested |
 | 8 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Not ingested |
 | 9 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Not ingested |
@@ -143,7 +143,7 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Session transcripts 5-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
+1. Session transcripts 7-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
 2. Active handouts/clue objects as they arise during session ingest.
 3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
 4. Remix structures and original adventure reference pages once current campaign state is established.

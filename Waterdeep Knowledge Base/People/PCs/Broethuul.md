@@ -17,6 +17,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - pc
@@ -115,6 +116,15 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Shot the grell with crossbow bolts and stabbed a handler's foot out of the warehouse door.
 - Persuaded [[People/NPCs/Armet]] that he had never seen the party.
 
+## Session 6 Table-Facing Notes
+
+- Gave [[People/NPCs/Vajra Safahr]] the useful concise Sending report after Jonathan's report faltered.
+- Was instructed by Vajra to slap Jonathan; announced "prepare for justice" and missed/bounced off Jonathan's armor rather than doing meaningful harm.
+- Accepted the [[Objects/Blackstaff Payment Pouch]] containing 30 dragons for the party after the report.
+- Scolded Trollskull Manor's unseen upstairs denizens for not repairing the roof, windows, or furniture; an Arcana read suggested the message probably got through.
+- Was happy with the pointed felt hat and huge feather [[People/NPCs/Threestrings]] brought for the opera.
+- Recognized the script in [[Objects/Borrowed Monster Books|Rishaal's older monster book]] as Draconic, though he could not read it.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -139,6 +149,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 
 ## Uncertainties
 

@@ -18,6 +18,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - pc
@@ -143,6 +144,12 @@ Other listed magic:
 - Recognized the floating brain-creature as a grell after hearing Broethuul's description.
 - Killed the grell with Ice Knife's explosive splash damage, also catching Jonathan in the blast.
 
+## Session 6 Table-Facing Notes
+
+- Was absent from the main table action; the fiction placed him away from the group speaking with his father after the Blackstaff Tower visit.
+- [[People/NPCs/Threestrings]] left Elior a very nice chartreuse silk cravat for the opera.
+- Exact timing of Elior's return to the group remains to be confirmed in session 7 transcript truth.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -170,6 +177,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 
 ## Uncertainties
 

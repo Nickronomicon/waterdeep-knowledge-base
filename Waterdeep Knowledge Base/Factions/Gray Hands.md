@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-4/vajra_recruitment.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - faction
@@ -21,6 +22,9 @@ The Gray Hands are [[People/NPCs/Vajra Safahr|Vajra Safahr's]] irregular agents,
 - Offered directly by Vajra in [[Places/Blackstaff Tower]].
 - Party is best treated as probationary members pending Vajra's judgment of the Dock Ward assignment.
 - First assignment: investigate the Dock Ward monster disturbance, identify what happened, and end it cleanly if possible.
+- The party killed the Fish Street grell, rescued Armet, recovered cargo evidence, and fled before the Watch arrived.
+- Vajra accepted Broethuul's concise report, told the party to preserve evidence rather than surrender it to the Watch, and sent 30 gp to Trollskull Manor.
+- Their probationary status appears active, but Vajra's "less peace than you think" warning implies the test is not over.
 
 ## Terms As Explained
 
@@ -40,3 +44,4 @@ Jonathan recognized Force Grey as an old heroic tradition. Vajra framed the Gray
 - `../raw/notes/dm-planning/session-4/vajra_recruitment.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

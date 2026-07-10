@@ -19,6 +19,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - pc
@@ -135,6 +136,14 @@ Cantrips:
 - Healed [[People/NPCs/Armet]] after the grell nearly killed him.
 - Missed the grell with his morningstar when it broke through the warehouse door, then took splash damage from Elior's Ice Knife.
 
+## Session 6 Table-Facing Notes
+
+- Received [[People/NPCs/Vajra Safahr|Vajra's]] Sending asking whether the Fish Street warehouse mess was the party's doing, but his report was evasive enough that Vajra switched to Broethuul.
+- Session 6 table memory clarified that Jonathan had or found the [[Objects/Dockside Transfer Receipt]] from the Fish Street warehouse clues.
+- Was the intended target of Vajra's instruction that Broethuul slap him; Broethuul's attempt bounced harmlessly off his armor.
+- Accepted a huge theatrical Helm-fist pendant from [[People/NPCs/Threestrings]] for the opera, but did not obviously wear it.
+- Described his opera outfit as fine but understated noble attire over chainmail, with house emblem and no helmet.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -160,6 +169,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 
 ## Uncertainties
 

@@ -8,6 +8,7 @@ source_paths:
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - place
@@ -28,6 +29,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The haunting is strongly confirmed; the likely ghost is [[People/NPCs/Lif]].
 - The building is safe enough to sleep in but not legal or safe enough to serve customers.
 - A floating eye creature and possible intruder probed the manor while the party was at Blackstaff Tower in session 5.
+- The party learned in session 6 that a half-elf tavernkeeper named Lif died in the manor about forty years ago and is a likely identity for the haunting.
 
 ## Known Facts
 
@@ -64,6 +66,15 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Old tankards set themselves upright, brandy poured itself, and the party toasted with the haunting.
 - Vajra advised the party to make use of the energy already inside the tavern when Aladeen asked about magical cleaning help.
 
+## Session 6 Developments
+
+- The party returned from the Dock Ward covered in grell remains, and the alley quickly reacted.
+- The ghost had cleaned and maintained the taproom's order but had not repaired structural damage.
+- Fala and Tally shared manor history: first establishment in the alley, possible Ulkoria/Olkoria Stonemarrow origin, Mirthkettle orphanage/hag rumors, Lif's tavernkeeping and death, later failed owners, and Volo outbidding Frewn.
+- The bar rag gestured like a barkeep, witnessed by Fala and Tally.
+- [[Objects/Blackstaff Payment Pouch|30 dragons from Vajra]] were placed toward the tavern fund/roof.
+- The party prepared for the opera here, including Threestrings' formalwear delivery and Fala's rescue tailoring for Davy.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
@@ -71,6 +82,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - How will the party raise repair funds?
 - What final name will the tavern use?
 - Who sent the floating eye or tried the upstairs window?
+- Is the haunting only Lif, or are the Mirthkettle/orphanage rumors also spiritually relevant?
 
 ## Sources
 
@@ -79,3 +91,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

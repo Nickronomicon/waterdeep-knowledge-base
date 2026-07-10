@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
+  - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
 tags:
   - waterdeep
   - npc
@@ -36,8 +37,16 @@ Jenks is one of the three Trollskull Alley urchins who were already exploring an
 - Helped interpret Nat's description of the floating eye creature and possible upstairs intrusion.
 - Woke early on Ches 3 and practiced fighting downstairs with the other urchins before the adults were necessarily ready to be awake.
 
+## Session 6
+
+- Joined Nat and Squiddly in turning the party's Dock Ward return into a dramatic set of rumors involving dragons, giants, mercenary captains, and other upgrades to the truth.
+- Repeated Aladeen's grell song with the other children while play-fighting outside Trollskull Manor.
+- Was part of the group that received one of Davy's daggers for emergency defense if the floating eye returned.
+- Was sent with the other urchins to buy bread and butter for the household meal.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
+- `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
