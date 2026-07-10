@@ -37,7 +37,7 @@ Inventory of `../raw/` after commit `99dcfb8` (`Ingests the-crommor-warning-hand
 | Path | Purpose | Ingest Use |
 |---|---|---|
 | `../raw/notes/technical-notes.md` | How the remote campaign runs, Foundry/D&D Beyond source notes, transcript caveats, homebrew, Discord channel structure, document sharing, and DM note-taking caveats. | Ingested into [[Meta/Campaign Operations]] and used by [[Meta/DM Prep Source Map]]. Important warning: transcript diarization is unreliable. |
-| `../raw/notes/discord-synopsis-channel.md` | Existing synopsis channel notes for sessions 1 and 2. Session 1 is especially important because there is no transcript. | Ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]]. |
+| `../raw/notes/discord-synopsis-channel.md` | Existing synopsis channel notes for sessions 1 and 2. Session 1 is especially important because there is no transcript. | Ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], [[Dashboard/Player-Facing Synopsis]], and [[Meta/DM Prep Source Map]]. |
 
 ## Character Sources
 

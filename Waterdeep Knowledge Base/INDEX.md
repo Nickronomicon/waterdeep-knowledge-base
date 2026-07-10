@@ -20,6 +20,7 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 - [[Meta/Raw Source Inventory]] - classified inventory of files under `../raw/`.
 - [[Meta/Campaign Operations]] - transcript ingest guardrails, campaign logistics, and source authority notes.
 - [[Meta/DM Prep Source Map]] - session-by-session map of DM prep sources, likely handouts, and transcript ingest focus.
+- [[Dashboard/Player-Facing Synopsis]] - spoiler-safe campaign recap prose suitable for posting between sessions.
 
 ## Planned Dashboards
 
@@ -28,6 +29,7 @@ These pages should be created or finalized during the first campaign ingest or f
 - [[Dashboard/Current Campaign State]] - pre-transcript current-state scaffold from stats and latest DM prep.
 - [[Dashboard/Next Session]] - current weekly prep landing page or pointer to the active prep note.
 - [[Dashboard/Open Threads]] - unresolved hooks, promises, mysteries, obligations, and dangling consequences.
+- [[Dashboard/Player-Facing Synopsis]] - Discord-postable player recap, updated after each session ingest.
 - [[Dashboard/Faction Clocks]] - live faction agendas and escalation timers.
 - [[Timeline/Campaign Timeline]] - chronological campaign record.
 
@@ -78,7 +80,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 - `../raw/roster.md` - player-to-character roster.
 - `../raw/stats.md` - current party/campaign status.
 - `../raw/notes/technical-notes.md` - remote play, Foundry/D&D Beyond, transcript caveats, Discord setup, and DM note-taking caveats; ingested into [[Meta/Campaign Operations]].
-- `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], and [[Meta/DM Prep Source Map]].
+- `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], [[Dashboard/Player-Facing Synopsis]], and [[Meta/DM Prep Source Map]].
 - `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
 - `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
 - `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, and 11; scaffolded into session pages and [[Meta/DM Prep Source Map]].

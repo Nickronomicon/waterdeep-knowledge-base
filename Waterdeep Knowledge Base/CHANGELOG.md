@@ -15,6 +15,16 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] setup | Player-facing synopsis workflow
+
+- Created [[Dashboard/Player-Facing Synopsis]] as a spoiler-safe, Discord-postable campaign synopsis seeded from `../raw/notes/discord-synopsis-channel.md` and the ingested session 1-2 pages.
+- Updated [[AGENTS]] so every future session transcript ingest also updates the player-facing synopsis.
+- Updated [[INDEX]] to list the synopsis dashboard and its source relationship.
+
+Follow-up:
+
+- After each future session ingest, add a new player-facing recap entry in the same narrative style.
+
 ## [2026-07-09] ingest | Sessions 1 and 2
 
 - Reconstructed [[Sessions/Session 01 - 2026-02-15]] from the Discord synopsis, DM opening-scene prep, user-provided real date, and the session 2 recap.

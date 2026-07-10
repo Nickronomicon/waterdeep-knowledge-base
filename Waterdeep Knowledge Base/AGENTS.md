@@ -114,10 +114,21 @@ For a session transcript ingest:
    - unresolved questions;
    - likely next-session hooks.
 5. Update all affected pages, not just the session page.
-6. Update `INDEX.md` processing status.
-7. Append a changelog entry.
+6. Update `Dashboard/Player-Facing Synopsis.md` with a spoiler-safe, Discord-postable recap in the style of `../raw/notes/discord-synopsis-channel.md`.
+7. Update `INDEX.md` processing status.
+8. Append a changelog entry.
 
 Do not overfit speaker labels. `SPEAKER_04` may be the DM in one transcript, but always infer roles from context and note uncertainty if identity matters.
+
+## Player-Facing Synopsis Workflow
+
+After each session ingest, update `Dashboard/Player-Facing Synopsis.md`.
+
+- Treat `../raw/notes/discord-synopsis-channel.md` as the style guide: narrative prose, lightly wry, specific to what happened at the table, and suitable for posting in Discord.
+- Keep it player-facing. Include only events the party experienced or could reasonably remember.
+- Do not include DM-only secrets, hidden motives, future prep, private unrevealed handout content, or behind-the-screen reasoning.
+- Prefer plain names over Obsidian wikilinks in the synopsis body so it can be copied directly into Discord.
+- End each session entry with the current cliffhanger, next lead, or practical reminder for the players.
 
 ## Adventure Reference Workflow
 
