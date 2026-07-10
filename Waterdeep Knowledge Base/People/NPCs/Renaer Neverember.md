@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - npc
@@ -22,6 +23,7 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - Helped the party rescue Floon from [[Places/Xanathar Sewer Hideout]].
 - Recovered [[Objects/Renaer's Locket]] after Elior repaired it with Mending, but the hidden compartment inside it was empty.
 - Parted from the party outside the [[Places/Yawning Portal]], saying he needed to put minds at ease and inviting them to look him up.
+- Spoke well of the party to Threestrings after the rescue and appears to have arranged or funded their opera invitation to meet [[People/NPCs/Mirt]].
 
 ## What Renaer Knows
 
@@ -53,3 +55,4 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - `../raw/notes/discord-synopsis-channel.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`

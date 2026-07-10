@@ -17,6 +17,7 @@ source_paths:
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - pc
@@ -114,6 +115,15 @@ Cantrips:
 - Killed [[People/NPCs/Grum'shar]] with a critical morningstar strike and declared that justice had been served.
 - Floon clung to Jonathan after the rescue, treating him like the heroic arm one grabs after surviving a very bad evening.
 
+## Session 4 Table-Facing Notes
+
+- Helped inspect and claim [[Places/Trollskull Manor]] as a party base.
+- Claimed the den/turret area during room-selection chatter.
+- Contemplated justice in his room before receiving a Sending from [[People/NPCs/Vajra Safahr]].
+- Reported Vajra's summons to the group: the Blackstaff wanted Jonathan to come to [[Places/Blackstaff Tower]] and bring his friends.
+- Pushed to answer the summons that evening rather than waiting until morning.
+- Found Broethuul outside and brought him into the Blackstaff Tower plan.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -137,6 +147,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 
 ## Uncertainties
 

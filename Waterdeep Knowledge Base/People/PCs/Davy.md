@@ -17,6 +17,7 @@ source_paths:
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - pc
@@ -99,6 +100,14 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Was dropped by Grum'shar's Burning Hands and revived by Aladeen.
 - Briefly saw [[People/NPCs/Krentz]] and a deep gnome deeper in the hideout, then quietly closed the door and urged the party to leave.
 
+## Session 4 Table-Facing Notes
+
+- Recognized that [[People/NPCs/Nat|Nat's]] signing was not standard Common Sign Language, though it borrowed from it.
+- Participated in the first inspection and cleanup of [[Places/Trollskull Manor]].
+- Was identified as the party member most in need of formal clothing for the opera.
+- [[People/NPCs/Threestrings]] offered to bring Davy something suitable to wear in the morning.
+- Room-selection chatter associates Davy with the attic bedroom, but transcript speaker labels make exact room assignment worth confirming.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -128,6 +137,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/notes/character-arcs/davy-dm-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 
 ## Uncertainties
 

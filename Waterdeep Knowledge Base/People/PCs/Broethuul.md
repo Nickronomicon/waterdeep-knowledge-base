@@ -15,6 +15,7 @@ source_paths:
   - ../raw/notes/handouts/s0-what-broethuul-remembers.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - pc
@@ -93,6 +94,15 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Shot [[People/NPCs/Grum'shar]] down to what should have been death, triggering the half-orc's last surge before Jonathan finished him.
 - Moved away from the open portal rather than testing whether level-one heroics included interdimensional pursuit.
 
+## Session 4 Table-Facing Notes
+
+- Took to [[Places/Trollskull Manor]] quickly and encouraged reopening the tavern.
+- Asked the urchins about the ghost and offered Nat and Squiddly the possibility of sword practice.
+- Stayed at the manor with the children during some errands.
+- Dismissed the haunting shortly before a bed shifted, which did not help his case.
+- Considered roof access and possible future sabotage of Frewn's roof.
+- Was associated with an attic storage-room claim during room-selection chatter.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -115,6 +125,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/notes/handouts/s0-what-broethuul-remembers.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 
 ## Uncertainties
 

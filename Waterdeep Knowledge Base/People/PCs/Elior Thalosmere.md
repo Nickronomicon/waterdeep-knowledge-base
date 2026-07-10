@@ -16,6 +16,7 @@ source_paths:
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - pc
@@ -122,6 +123,15 @@ Other listed magic:
 - Fled backward when he recognized [[People/NPCs/Nihiloor]] as a mind flayer.
 - Took [[Objects/Grum'shar's Spellbook]] after the fight, though no one could read it at the time.
 
+## Session 4 Table-Facing Notes
+
+- Tried to remediate Trollskull Manor's cellar with fire magic, creating a burnt toxic smell and shaking plaster loose.
+- Used Mending to repair salvageable furniture during cleanup.
+- Went to the [[Factions/Carpenters', Roofers', and Plaisterers' Guild]] to request a repair estimate.
+- Reviewed guild codes and noticed errors in the Watch's Code Legal copy.
+- Pushed the idea of a haunted-house themed tavern.
+- Discussed legal nuance around "justified" killing after Frewn's visit.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -147,6 +157,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 
 ## Uncertainties
 

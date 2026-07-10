@@ -89,7 +89,7 @@ These are record copies of player-facing or player-targeted handouts. The vault 
 | `../raw/notes/handouts/s0-private-archive-house-thalosmere.md` | Private archive material for House Thalosmere. | Ingested into [[People/PCs/Elior Thalosmere]], [[Threads/House Thalosmere Divine Correction]], [[Threads/Crommor Incident]], and [[Threads/Cassalanter Warning in the Bugle]]. |
 | `../raw/notes/handouts/s0-the-crommor-incident.md` | The Crommor Incident. | Ingested into the affected PC pages and [[Threads/Crommor Incident]]. |
 | `../raw/notes/handouts/s0-what-broethuul-remembers.md` | Broethuul memory handout about the Crommor Incident. | Ingested into [[People/PCs/Broethuul]], [[Threads/Broethuul and the Autumn Court]], and [[Threads/Crommor Incident]]. |
-| `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md` | Businesses of Trollskull Alley. | Places pages for Trollskull Alley businesses. |
+| `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md` | Businesses of Trollskull Alley. | Ingested into [[Places/Trollskull Alley]], [[Places/Corellon's Crown]], [[Places/Frewn's Brews]], and [[Sessions/Session 04 - 2026-03-22]]. |
 | `../raw/notes/handouts/s6-cargo-chit.md` | Dockside transfer receipt. | Object/clue page; connect to session 6 if actually revealed. |
 | `../raw/notes/handouts/s6-note-fragment.md` | Note fragment. | Object/clue page; connect to session 6 if actually revealed. |
 | `../raw/notes/handouts/s7-scrap-of-note.md` | Scrap of note. | Object/clue page; connect to session 7 if actually revealed. |
@@ -107,7 +107,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 |---|---|---|---|
 | 2 | `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt` | `../raw/json_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.json` | Ingested into [[Sessions/Session 02 - 2026-02-22]]; JSON source is empty |
 | 3 | `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt` | `../raw/json_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.json` | Ingested into [[Sessions/Session 03 - 2026-03-01]] |
-| 4 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Not ingested |
+| 4 | `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt` | `../raw/json_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.json` | Ingested into [[Sessions/Session 04 - 2026-03-22]] |
 | 5 | `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt` | `../raw/json_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.json` | Not ingested |
 | 6 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Not ingested |
 | 7 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Not ingested |
@@ -143,7 +143,7 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Session transcripts 4-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
+1. Session transcripts 5-11, each paired with same-session prep notes from [[Meta/DM Prep Source Map]].
 2. Active handouts/clue objects as they arise during session ingest.
 3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
 4. Remix structures and original adventure reference pages once current campaign state is established.

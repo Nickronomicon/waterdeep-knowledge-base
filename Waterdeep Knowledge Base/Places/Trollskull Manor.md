@@ -1,10 +1,12 @@
 ---
 type: place
-status: offered
+status: occupied
 updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - place
@@ -13,26 +15,55 @@ tags:
 
 # Trollskull Manor
 
-Trollskull Manor is a historic building in the North Ward. [[People/NPCs/Volo]] offered the [[Objects/Trollskull Manor Deed]] to the party as payment for rescuing [[People/NPCs/Floon Blagmaar]] after admitting he was short on cash.
+Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the North Ward. [[People/NPCs/Volo]] offered the [[Objects/Trollskull Manor Deed]] to the party as payment for rescuing [[People/NPCs/Floon Blagmaar]] after admitting he was short on cash. The party first inspected and began occupying it on Ches 2, 1492 DR.
 
 ## Current Status
 
 - Offered to the party at the end of [[Sessions/Session 03 - 2026-03-01]].
-- Not yet inspected in ingested transcript truth.
-- Ownership transfer still needs a magistrate witness.
-- Later raw status notes indicate the manor becomes the party's tavern base, but those details should be verified as later sessions are ingested.
+- Inspected and occupied in [[Sessions/Session 04 - 2026-03-22]].
+- The deed is in the party's hands and the manor is treated as their home, but the transcript does not show the magistrate transfer scene; exact legal status should be confirmed.
+- Intended use: party home base and future tavern, possibly with a haunted-house theme.
+- [[People/NPCs/Nat]], [[People/NPCs/Jenks]], and [[People/NPCs/Squiddly]] now have a room in the manor.
+- The haunting is strongly confirmed; the likely ghost is [[People/NPCs/Lif]].
+- The building is safe enough to sleep in but not legal or safe enough to serve customers.
 
 ## Known Facts
 
 - Located in the North Ward.
 - Described by Volo as a remarkable historic property.
 - Volo says he acquired the deed while researching an upcoming book, but the property did not suit his needs.
+- Oldest building in Trollskull Alley.
+- Four stories, narrow balconies, jutting turret, five crooked chimneys, uneven shutters, cracked upper window, and a creaking sign.
+- Common room/taproom is damaged but has a good bar and strong potential.
+- Cellar is a serious health hazard after years of rot and a session 4 fire-magic incident.
+- Upper floors are messy but structurally sound enough for occupation.
+- Library contents are mostly ruined fiction, with at least two older Volo titles.
 
-## Prep-Only Notes
+## Repair Estimate
 
-The session 3 prep expected Trollskull to be haunted, tied to local urchins, expensive to repair, and entangled with neighbors and guild obligations. Those beats are not confirmed in session 3 transcript truth and should be checked against later sessions.
+- [[People/NPCs/Sukov]] of the [[Factions/Carpenters', Roofers', and Plaisterers' Guild]] estimated 250 dragons to make the place structurally fit for trade.
+- 125 dragons are needed up front to start.
+- Remaining 125 dragons are due before opening sign-off.
+- Work covers roof, damaged wall sections, exterior weatherproofing, failing plaster, and city sign-off.
+- Timeline is about two tendays.
+
+## Room Notes
+
+- Room assignments were discussed in session 4 but should be confirmed later.
+- Aladeen gave the spare room beside his second-floor room to the urchins.
+- Jonathan claimed the den/turret area.
+- Davy, Elior, and Broethuul's exact room claims are a little muddied by transcript speaker labels, though Davy and Broethuul are both associated with attic spaces in table chatter.
+
+## Open Questions
+
+- Was the magistrate transfer completed offscreen?
+- What does Lif want?
+- How will the party raise repair funds?
+- What final name will the tavern use?
 
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`

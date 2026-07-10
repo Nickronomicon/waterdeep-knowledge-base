@@ -14,6 +14,7 @@ source_paths:
   - ../raw/notes/handouts/the-crommor-warning.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - dashboard
@@ -43,8 +44,12 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
 | [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
-| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] | Whole party | Offered, not yet transferred in ingested truth | Inspect manor, magistrate transfer, ownership obligations. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] | Whole party | Occupied, legal transfer unclear | Confirm magistrate status, fund repairs, manage haunting and tavern plan. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
+| [[People/NPCs/Lif]] and the haunting | Whole party | Active, newly confirmed | Learn the ghost's name, disposition, and tavern expectations. |
+| [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Local competition, guild tension, possible sabotage. |
+| [[Objects/Opera Invitation from Mirt]] | Whole party | Active invitation | Meet [[People/NPCs/Mirt]] at [[Places/Lightsinger Theater]] on Ches 3. |
+| [[People/NPCs/Vajra Safahr]] / [[Places/Blackstaff Tower]] | Whole party | Immediate next hook | Resolve the Blackstaff summons and any Gray Hands offer. |
 
 ## Immediate Follow-Up
 
@@ -52,4 +57,4 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, Dorgar, Victoro Cassalanter, Laeral Silverhand, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue session 4 from Volo's offer of [[Objects/Trollskull Manor Deed]] and likely inspection of [[Places/Trollskull Manor]].
+- Continue session 5 from the party leaving [[Places/Trollskull Manor]] for [[Places/Blackstaff Tower]] on the evening of Ches 2.

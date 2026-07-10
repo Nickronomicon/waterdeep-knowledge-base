@@ -1,0 +1,40 @@
+---
+type: npc
+status: active
+updated: 2026-07-10
+source_paths:
+  - ../raw/notes/dm-planning/session-3/prep-notes.md
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+tags:
+  - waterdeep
+  - npc
+  - trollskull
+  - urchin
+---
+
+# Nat
+
+Nat is one of the three Trollskull Alley urchins who were already using [[Places/Trollskull Manor]] as a hideout when the party first inspected it.
+
+## Current Status
+
+- Living in Trollskull Manor with [[People/NPCs/Jenks]] and [[People/NPCs/Squiddly]] after the party offered them a room.
+- Wants to help guard the manor, act as lookout, call in street traffic, and clean.
+- Carries a wooden sword and thinks well of her own swordplay.
+
+## Communication
+
+- Nat does not speak at the table so far.
+- She signs to Jenks and Squiddly, who interpret for her.
+- Davy and Aladeen recognized that her signs borrow from Common Sign Language but are mostly a personal system taught to her friends.
+
+## Session 4
+
+- Initially treated the party as possible intruders until they showed the deed.
+- Was embarrassed when Squiddly mentioned she sometimes sleeps under the outside stairs.
+- Described [[People/NPCs/Emmet Frewn]] as a man who counts other people's coins before his own.
+
+## Sources
+
+- `../raw/notes/dm-planning/session-3/prep-notes.md`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`

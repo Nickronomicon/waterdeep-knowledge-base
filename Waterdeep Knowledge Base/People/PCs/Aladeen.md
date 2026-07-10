@@ -15,6 +15,7 @@ source_paths:
   - ../raw/notes/handouts/s0-the-crommor-incident.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
 tags:
   - waterdeep
   - pc
@@ -115,6 +116,15 @@ Cantrips:
 - Revived Davy with Healing Word after Grum'shar's Burning Hands.
 - Used a healing potion on Floon after the fight, letting the party return him alive to Volo.
 
+## Session 4 Table-Facing Notes
+
+- Stayed at [[Places/Trollskull Manor]] to clean, manage the urchins, and make the place feel alive while others handled errands.
+- Played music during cleanup, improvising a ballad about the party's early adventures.
+- Saw a rag apparently cleaning the bar when no one looked directly at it.
+- Visited [[Places/Frewn's Brews]] and judged the rival tavern's conversion, taps, roof, and clientele.
+- Visited [[Places/Corellon's Crown]] for aromatics and received sage and a lavender bundle from [[People/NPCs/Fala Lefaliir]].
+- Took a second-floor bedroom and gave the adjacent spare room to the urchins, based on transcript context.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -138,6 +148,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 
 ## Uncertainties
 

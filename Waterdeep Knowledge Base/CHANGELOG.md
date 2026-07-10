@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 4
+
+- Confirmed the in-world date correction that sessions 1-3 occurred on Ches 1, 1492 DR, ending in the early morning of Ches 2, then ingested [[Sessions/Session 04 - 2026-03-22]] as Ches 2, 1492 DR.
+- Ingested the Trollskull Manor arrival, urchin introductions, haunting signs, Frewn rivalry, guild repair estimate, Fala visit, Mirt opera invitation, and Vajra's Sending from `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`.
+- Created or updated pages for [[People/NPCs/Nat]], [[People/NPCs/Jenks]], [[People/NPCs/Squiddly]], [[People/NPCs/Lif]], [[People/NPCs/Emmet Frewn]], [[People/NPCs/Fala Lefaliir]], [[People/NPCs/Sukov]], [[People/NPCs/Mirt]], [[People/NPCs/Vajra Safahr]], [[Places/Trollskull Alley]], [[Places/Frewn's Brews]], [[Places/Corellon's Crown]], [[Places/Lightsinger Theater]], [[Places/Blackstaff Tower]], [[Factions/Carpenters', Roofers', and Plaisterers' Guild]], [[Factions/Gray Hands]], and [[Objects/Opera Invitation from Mirt]].
+- Updated PC pages, [[Places/Trollskull Manor]], [[Objects/Trollskull Manor Deed]], [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[Sessions/Session 05 - 2026-04-01]], [[INDEX]], and `../TODO.md`.
+
+Follow-up:
+
+- Begin session 5 from the actual session 4 ending: the party is leaving Trollskull Manor for [[Places/Blackstaff Tower]] after Vajra's summons.
+- Verify whether Blackstaff Tower, the Gray Hands offer, Dock Ward monster work, and the opera invitation enter play in session 5 or slide later.
+- Continue tracking the unresolved Trollskull legal transfer, 250-dragon repair estimate, likely [[People/NPCs/Lif]] haunting, [[People/NPCs/Emmet Frewn]] rivalry, and the urchins' living arrangement.
+
 ## [2026-07-10] ingest | Session 3
 
 - Ingested [[Sessions/Session 03 - 2026-03-01]] from `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`, resolving the Candle Lane Watch arrival, sewer descent, Xanathar hideout fight, Floon rescue, Nihiloor escape, and Volo's Trollskull Manor offer.

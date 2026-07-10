@@ -8,9 +8,11 @@ source_paths:
   - ../raw/notes/dm-planning/session-1/opening-scene.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
+  - Sessions/Session 04 - 2026-03-22.md
 tags:
   - waterdeep
   - synopsis
@@ -82,3 +84,27 @@ Floon was alive, barely. Aladeen poured a healing potion down his throat, and Fl
 The party returned through the sewers with Floon and Renaer. Renaer split off to reassure the people who would be looking for him, asking the group to look him up anytime. Back at the Yawning Portal, Volo greeted Floon with enormous relief and then made a confession: he was a bit short on cash. Instead of the promised reward, he offered something "much more valuable": the deed to a historic North Ward property called Trollskull Manor.
 
 And so, after one missing friend, one warehouse, one sewer crawl, one mind flayer, one portal, and several legal advisories, our heroes ended the night as prospective property owners. Next stop: inspecting the manor. Nothing about that name sounds haunted, so this should be fine.
+
+## Session 4
+
+The next morning, bright and springlike in the way Waterdeep sometimes is before remembering it has a reputation to maintain, the party made their way to Trollskull Alley to inspect their new property. The deed in hand felt rather small compared with the building itself: four stories of old North Ward dignity, crooked chimneys, sagging shutters, a cracked upper window, and the sort of charm real estate agents call "character" when the alternative is "expensive."
+
+Inside, Trollskull Manor greeted its new owners with dust, stale beer, mildew, broken furniture, warped tables, and a cellar smell that suggested the building had been losing a private war against time. It also greeted them with three children bursting out from behind the bar in mid-ambush. Nat, Jenks, and Squiddly had been using the place as a haunted castle, hideout, and general headquarters. They were armed with wooden weapons, enormous confidence, and a working theory that the "troll skull ghost" lived in the walls.
+
+The ghost did not wait long to make a point. A bottle slid off a shelf and shattered. Later, after Elior attempted to solve the cellar problem with fire magic, the manor shook, the smell evolved into something newly terrible, and fresh writing appeared in the dust: "closing time." This did not discourage the party. If anything, it improved the branding.
+
+The group began discussing the obvious next step: reopening the place as a tavern. Possibly a haunted tavern. Possibly a theme tavern. Possibly the first business in Waterdeep to combine hospitality, supernatural activity, and suspiciously enthusiastic child labor into one investor-ready concept. The urchins were offered a room and work helping guard, clean, call in foot traffic, and generally become part of the household. Squiddly moved in with a pillow, a broken little tiefling figurine, and a quiver of blunt wooden arrows, which is honestly a stronger moving-day inventory than some adults manage.
+
+The neighborhood then began introducing itself. Emmet Frewn, owner of Frewn's Brews and immediate local rival, arrived with a cheap bottle in a fancy skin and the air of a man congratulating someone at a funeral. He had tried to buy Trollskull Manor before Volo outbid him, and he spent his visit inspecting the building's weak points with a little too much interest. Aladeen later visited Frewn's Brews and found it less "talk of the town" and more "two taps and a grudge."
+
+Elior went to the Carpenters', Roofers', and Plaisterers' Guild, which sent over Sukov, a practical guild man with apprentices, measuring tools, and no visible interest in negotiating reality. The verdict: the manor could be slept in, but not legally opened for business. Roof, walls, weatherproofing, failing plaster, and city sign-off would cost 250 dragons total, with 125 needed to begin and another 125 before opening. The good news: the house has good bones. The bad news: bones are expensive.
+
+Aladeen also visited Corellon's Crown, where Fala Lefaliir proved to be a much better neighbor than Frewn by offering sage, lavender, baby's breath, and thistle to help make Trollskull Manor smell less like an alchemical crime scene. Fala seemed genuinely pleased that someone might bring the old manor back to life. Also, there were potions on the shelves, because sometimes a neighbor is both kind and useful.
+
+As the day wore on, the party cleaned, claimed rooms, investigated the haunting, discussed guilds, weighed the economics of tavern ownership, and generally discovered that being rewarded with real estate is not the same thing as being rewarded with money. Aladeen played music while the children helped clean. A rag on the bar seemed to wipe dirt away when no one looked directly at it. A chair slid out when reopening the tavern was mentioned. A bed moved after Broethuul insisted there was nothing to see. Trollskull Manor, it seems, has opinions.
+
+Near evening, Threestrings arrived with brandy and a paper bird. Renaer, it turned out, had spoken well of the party after the rescue. The bird unfolded into an invitation: tickets to the opera tomorrow night at the Lightsinger Theater in the Sea Ward, formal attire required, with instructions to meet Mirt at intermission in private box C. Most of the party recognized the name. Mirt with a private opera box is not usually the sort of person one ignores. Davy, meanwhile, was identified as the member most in need of emergency formalwear, and Threestrings offered to help.
+
+Then, as the household settled toward its first night in the manor, Jonathan received a Sending from Vajra Safahr, the Blackstaff herself. She wanted him to come to Blackstaff Tower and bring his friends. When he asked why, the answer was simple enough: Waterdeep had noticed them.
+
+So our heroes ended the day not with sleep, but with another invitation from someone powerful, a half-repaired haunted tavern full of children behind them, an opera tomorrow, a repair bill they could not yet pay, and the Blackstaff waiting across the city. Homeownership is going great.

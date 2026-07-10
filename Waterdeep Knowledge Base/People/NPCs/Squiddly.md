@@ -1,0 +1,34 @@
+---
+type: npc
+status: active
+updated: 2026-07-10
+source_paths:
+  - ../raw/notes/dm-planning/session-3/prep-notes.md
+  - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
+tags:
+  - waterdeep
+  - npc
+  - trollskull
+  - urchin
+---
+
+# Squiddly
+
+Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great deal of enthusiasm. He is one of the three children the party found inside [[Places/Trollskull Manor]].
+
+## Current Status
+
+- Living in Trollskull Manor with [[People/NPCs/Nat]] and [[People/NPCs/Jenks]] after the party gave them a spare room.
+- Wants to help with the manor and learn to fight.
+
+## Session 4
+
+- Announced that the "troll skull" had returned when the party entered the manor.
+- Interpreted Nat's signs, with varying degrees of reliability.
+- Was eager for any proposed job, adventure, or sword lesson.
+- Moved in quickly with one pillow, a broken-horned tiefling figurine, and blunt wooden arrows.
+
+## Sources
+
+- `../raw/notes/dm-planning/session-3/prep-notes.md`
+- `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
