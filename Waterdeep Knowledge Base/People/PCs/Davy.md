@@ -23,6 +23,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - pc
@@ -160,6 +161,13 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Davy trusted the party enough for Dorgar to reveal the [[Places/Last Temple of Myrkul]] beneath the cemetery.
 - Planned to tell Dorgar as much as time allowed about the last four days.
 
+## Session 10 Table-Facing Notes
+
+- Stayed at Trollskull Manor to begin and tend [[Objects/Dorgar's Seance Candles]].
+- Lit the first candle in an upstairs window on the morning of Ches 5.
+- Understood that the process did not need constant babysitting, but Davy remained the party member most connected to the rite.
+- Did not go to the Cassalanter loan negotiation.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -195,6 +203,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 
 ## Uncertainties
 

@@ -5,6 +5,7 @@ updated: 2026-07-10
 source_paths:
   - ../raw/notes/handouts/s0-davy-backstory.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - npc
@@ -25,6 +26,7 @@ Dorgar is a City of the Dead groundskeeper, [[People/PCs/Davy|Davy's]] dear frie
 - Identified Davy as the closest thing he has to kin, though not by blood.
 - Asked the party to swear secrecy before revealing the hidden temple, naming his own safety and possibly "Amy's" safety. The transcript is uncertain on the name.
 - Agreed to come to Trollskull Manor for Davy to help investigate or contact the manor's spirits.
+- His candle preparation began at Trollskull Manor on Ches 5, 1492 DR; if completed, he can come the following day.
 
 ## Ghost-Contact Instructions
 
@@ -48,9 +50,10 @@ Dorgar is a City of the Dead groundskeeper, [[People/PCs/Davy|Davy's]] dear frie
 - How much does Dorgar know about Davy's hidden identity and past?
 - Will he recognize [[People/NPCs/Lif]] or older Trollskull spirits if the candle rite succeeds?
 - How dangerous would it be if the City Watch, a Lathanderite, or another temple faction discovered the hidden Myrkulite shrine?
+- Will he arrive before or after any Kelemvorite exorcism effort Elior has started?
 
 ## Sources
 
 - `../raw/notes/handouts/s0-davy-backstory.md`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
-
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`

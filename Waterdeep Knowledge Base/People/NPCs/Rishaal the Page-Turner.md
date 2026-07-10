@@ -5,6 +5,7 @@ updated: 2026-07-10
 source_paths:
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - npc
@@ -21,6 +22,7 @@ Rishaal the Page-Turner is the gold dragonborn bookseller who runs [[Places/Book
 - Friendly neighbor and bookshop owner.
 - Loaned Aladeen monster reference books as a welcome-to-the-street gesture.
 - Invited magically inclined friends, especially Elior, to come examine the shop's scroll collection.
+- Still owed the return of Aladeen's borrowed books as of session 10.
 
 ## Session 6
 
@@ -33,4 +35,4 @@ Rishaal the Page-Turner is the gold dragonborn bookseller who runs [[Places/Book
 
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
-
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`

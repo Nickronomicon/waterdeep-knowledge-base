@@ -21,6 +21,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - pc
@@ -155,6 +156,17 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Asked [[People/NPCs/Xoblob]] about ghosts, warlocks, and necromancers at [[Places/Old Xoblob Shop]].
 - Followed Davy to [[People/NPCs/Dorgar]] and the [[Places/Last Temple of Myrkul]], where Dorgar gave the party [[Objects/Dorgar's Seance Candles]].
 
+## Session 10 Table-Facing Notes
+
+- Noticed that Elior was missing from Trollskull Manor in the morning.
+- Went to [[Places/Cassalanter Villa]] in the feathered opera hat to negotiate financing for Trollskull Manor.
+- Led much of the conversation with [[People/NPCs/Victoro Cassalanter]] and negotiated the [[Objects/Cassalanter Loan]].
+- Proposed a reduced introductory interest period, first three months at 2%, then extended to four months when Victoro increased the principal to 2,000 gp.
+- Continued hoping that Trollskull's ghost or ghosts might become useful tavern staff.
+- Addressed the kitchen haunting as a famous chef during the Underbough trial setup, asking it to let the applicants cook and help only if asked.
+- Treated the message "I think we've got rats" as helpful rather than hostile.
+- Reassured Miri by explaining that many spirits are simply people or presences rather than enemies.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -183,6 +195,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 
 ## Uncertainties
 

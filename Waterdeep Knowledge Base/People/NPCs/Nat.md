@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - npc
@@ -64,6 +65,13 @@ Nat is one of the three Trollskull Alley urchins who were already using [[Places
 - Continued to function as part of the household's alert system.
 - Appears to have a dagger as part of the urchins' growing emergency-defense kit.
 
+## Session 10
+
+- Was loudly mock-fighting downstairs with Jenks and Squiddly in the morning.
+- Went with the group to [[Places/Steam and Steel]] and [[Places/The Bent Nail]].
+- Tried to look innocent when [[People/NPCs/Embric]] remembered chasing the urchins out of Steam and Steel before.
+- Is due to receive a wooden training buckler from Tally the next day.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
@@ -72,3 +80,4 @@ Nat is one of the three Trollskull Alley urchins who were already using [[Places
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`

@@ -11,6 +11,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - place
@@ -37,6 +38,9 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - [[People/NPCs/Remallia Haventree]] advised that getting Trollskull open as a tavern is itself useful Harper work because taverns gather information.
 - The party has begun pursuing a way to communicate with, rather than simply tolerate, the manor's ghosts.
 - [[People/NPCs/Dorgar]] gave the party [[Objects/Dorgar's Seance Candles]] as preparation for a ghost-contact rite that takes about a day.
+- [[Objects/Cassalanter Loan|A 2,000 gp Cassalanter loan]] has been negotiated but not signed; funds, documents, and guild representatives are expected the day after session 10.
+- [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] are in the middle of a trial dinner as prospective kitchen staff.
+- A Help Wanted sign for a barman and barmaid is posted outside.
 
 ## Known Facts
 
@@ -57,6 +61,8 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Remaining 125 dragons are due before opening sign-off.
 - Work covers roof, damaged wall sections, exterior weatherproofing, failing plaster, and city sign-off.
 - Timeline is about two tendays.
+- Session 10 table review added or restated expected opening costs: 100 gp for cellar/plumbing, 250 gp for windows, 50 gp for a sign, 100 gp deposit with launderers, 25 gp for dung sweepers, 10 gp for stablemasters/farriers, 25 gp per year for the Fellowship of Innkeepers, plus beverage, meat, bread, furniture, and staffing costs.
+- Victoro Cassalanter suggested opening by the festival period around Ches 19-21 if possible.
 
 ## Room Notes
 
@@ -102,6 +108,17 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The party explored ghost options at [[Places/The Plinth]], [[Places/Old Xoblob Shop]], and eventually with [[People/NPCs/Dorgar]].
 - Dorgar gave the party the candle procedure needed before he can visit and attempt to communicate with the haunting.
 
+## Session 10 Developments
+
+- Davy lit the first of Dorgar's seance candles in an upstairs window on the morning of Ches 5.
+- The party visited [[Places/Steam and Steel]] and [[Places/The Bent Nail]] for neighborhood business, armor/weapon pricing, and child-training gear.
+- Aladeen commissioned three wooden training bucklers from [[People/NPCs/Tally Fellbranch]] for 10 gp total, ready the next day.
+- Aladeen sold a spear to [[People/NPCs/Embric]] for 4 sp credit on a Trollskull account.
+- Aladeen, Broethuul, and Jonathan negotiated the [[Objects/Cassalanter Loan]] at [[Places/Cassalanter Villa]].
+- Corvin and Miri Underbough arrived seeking kitchen work and began a trial dinner.
+- Aladeen posted a Help Wanted sign for a barman and barmaid.
+- The kitchen haunting moved pots and pans, frightened Miri, and wrote "I think we've got rats" in wall grime.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
@@ -114,6 +131,9 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - What will it cost or take to repair/clear the chimney and make the hearth usable?
 - Will the party follow Dorgar's candle instructions, seek Kelemvorite exorcism, or try both?
 - What will Trollskull's ghosts say if contacted directly?
+- Will all five PCs sign the Cassalanter loan?
+- Will Corvin and Miri become staff, flee, or reveal another complication during dinner?
+- Are the rats a mundane kitchen problem or something more organized?
 
 ## Sources
 
@@ -125,3 +145,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`

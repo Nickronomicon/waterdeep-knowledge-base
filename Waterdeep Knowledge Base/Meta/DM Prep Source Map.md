@@ -22,6 +22,7 @@ source_paths:
   - ../raw/notes/handouts/s9-Maxeene-info.md
   - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/notes/dm-planning/session-7/outline.md
   - ../raw/notes/dm-planning/session-8/outline.md
   - ../raw/notes/dm-planning/session-10/outline.md
@@ -55,8 +56,8 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 7 | `../raw/notes/dm-planning/session-7/outline.md`; `../raw/notes/handouts/s7-scrap-of-note.md`; carried-over `session-6/lightsinger_theater.md` | Opera/Mirt/Harper recruitment, watcher/chase/ambush, Scrap of Note, Maxeene mission assignment. Thomril & Sons Cartage and Maxeene prep remained pending. | Ingested into [[Sessions/Session 07 - 2026-04-16]]. Actual play reached the opera, Mirt, Harper pins, Maxeene assignment, watcher chase, ambush, prisoner, and Scrap of Note; it did not reach Maxeene. |
 | 8 | `../raw/notes/dm-planning/session-8/outline.md` | Remallia Haventree at Ulbrinter Villa, Harper follow-up, paper bird, Fala credit note, Corvin and Miri Underbough job approach. | Ingested into [[Sessions/Session 08 - 2026-04-30]]. Actual play resolved the Castle Ward prisoner as Thugby, reached Maxeene at Thomril & Sons, revealed Davil/Yagra spy-network information and the rock-gnome Stone lead, then ended after the arson attack. Remallia/Underbough material slid forward. |
 | 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md`; transcript sources | Maxeene report follow-up, Remallia/Ulbrinter Villa, Thalosmere archive handout, Trollskull ghost inquiry, Dorgar and the hidden Myrkul temple. | Ingested into [[Sessions/Session 09 - 2026-05-07]]. Actual play reported to Remallia, introduced Great Game framing and Harper support objects, then pursued ghost communication through the Plinth, Xoblob, and Dorgar. |
-| 10 | `../raw/notes/dm-planning/session-10/outline.md` | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Begin from session 9's evening Ches 4 ending in the Last Temple of Myrkul; verify which prepared items occurred and what remains upcoming. |
-| 11 | `../raw/notes/dm-planning/session-11/outline.md` | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Establish latest current state before session 12 prep. |
+| 10 | `../raw/notes/dm-planning/session-10/outline.md`; transcript sources | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Ingested into [[Sessions/Session 10 - 2026-06-11]]. Actual play began Dorgar's candle preparation, added Steam and Steel/Bent Nail errands, negotiated the Cassalanter loan, introduced the Underboughs, and stopped before dinner, signing, or seance. |
+| 11 | `../raw/notes/dm-planning/session-11/outline.md` | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Begin from session 10's Trollskull dinner setup and kitchen ghost rat warning; establish latest current state before session 12 prep. |
 
 ## Major Prep Threads To Track
 

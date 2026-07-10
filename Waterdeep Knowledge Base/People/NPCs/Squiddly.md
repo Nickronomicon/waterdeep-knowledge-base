@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - npc
@@ -57,6 +58,13 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 - Stole the [[People/NPCs/Ulbrinter Manservant|manservant's]] Ulbrinter-crest handkerchief.
 - Has one of the party-supplied daggers or is at least closely associated with the urchins' dagger custody.
 
+## Session 10
+
+- Was loudly mock-fighting downstairs with Nat and Jenks in the morning.
+- Went with the group to [[Places/Steam and Steel]] and [[Places/The Bent Nail]].
+- Admitted that Embric had chased the urchins out of the forge before.
+- Is due to receive a wooden training buckler from Tally the next day.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
@@ -65,3 +73,4 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`

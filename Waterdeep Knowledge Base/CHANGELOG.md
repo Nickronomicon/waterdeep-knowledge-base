@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 10
+
+- Ingested [[Sessions/Session 10 - 2026-06-11]] from `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`, covering Ches 5 at Trollskull Manor, Dorgar's candle preparation, Elior's private Kelemvorite exorcism/research errand, Steam and Steel, Bent Nail bucklers, Cassalanter Villa, loan negotiation, Underbough arrival, Help Wanted sign, and the kitchen ghost's rat warning.
+- Created pages for [[Places/Steam and Steel]], [[People/NPCs/Embric]], [[People/NPCs/Avi]], [[People/NPCs/Corvin Underbough]], [[People/NPCs/Miri Underbough]], [[Objects/Cassalanter Loan]], and [[Objects/Elior's Ghost Research Books]].
+- Updated PC pages, [[Places/Trollskull Manor]], [[People/NPCs/Lif]], [[Objects/Dorgar's Seance Candles]], [[People/NPCs/Dorgar]], [[People/NPCs/Victoro Cassalanter]], [[Factions/Cassalanters]], [[Places/Cassalanter Villa]], [[Places/The Bent Nail]], [[People/NPCs/Tally Fellbranch]], [[Places/The Plinth]], the urchin pages, book and guild pages, [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[Sessions/Session 11 - 2026-06-25]], [[INDEX]], and `../TODO.md`.
+- Marked the Cassalanter loan as negotiated but unsigned and carried the Underbough dinner, loan signing, guild payments, and seance forward to session 11.
+
+Follow-up:
+
+- Begin session 11 from the Underbough trial dinner at Trollskull Manor on Ches 5, 1492 DR, immediately after the kitchen ghost warns, "I think we've got rats."
+- Track whether all five PCs sign the Cassalanter loan, which guilds are paid immediately, whether Corvin and Miri are hired, and whether Dorgar's candle preparation completes.
+- Keep Elior's exorcism research as a private or semi-private parallel track until the table reveals more.
+
 ## [2026-07-10] ingest | Session 9
 
 - Ingested [[Sessions/Session 09 - 2026-05-07]] from `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`, covering Trollskull's Ulbrinter summons, Remallia Haventree's Harper follow-up, Maxeene report delivery, Scrap of Note analysis, Great Game framing, Harper support objects, Trollskull ghost-consultation search, Brother Senric at the Plinth, Xoblob's ghost advice, Dorgar's reveal in the City of the Dead, the Last Temple of Myrkul, and the seance-candle instructions.

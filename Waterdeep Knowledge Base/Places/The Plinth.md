@@ -4,6 +4,7 @@ status: active
 updated: 2026-07-10
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - place
@@ -28,7 +29,14 @@ The Plinth is an all-faiths temple in Waterdeep's Trades Ward, south of the [[Pl
 - Brother Senric could not speak with spirits and instead urged the party to consider helping any lingering souls move onward.
 - The party left without securing ghost communication and continued to [[Places/Old Xoblob Shop]].
 
+## Session 10 Events
+
+- [[People/PCs/Elior Thalosmere]] returned privately the next morning to seek a Kelemvorite exorcism for Trollskull Manor.
+- [[People/NPCs/Brother Senric]] was not present; a different solemn Kelemvorite representative staffed the altar.
+- Elior donated 5 gp and was placed on the list, but the representative made clear that a nonviolent poltergeist with a small donation would not be urgent.
+- Elior received suggested reading titles for ghost, death, and exorcism research.
+
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
-
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`

@@ -21,6 +21,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - pc
@@ -178,6 +179,19 @@ Cantrips:
 - Went to [[Places/The Plinth]], [[Places/Old Xoblob Shop]], and the [[Places/City of the Dead]] while the party searched for someone who could speak with Trollskull Manor's spirits.
 - Noticed the bright purple lute at Old Xoblob Shop, tried to play it, and bargained over it without buying it.
 
+## Session 10 Table-Facing Notes
+
+- Led the morning neighborhood errand to [[Places/Steam and Steel]] after noticing Elior was missing and wanting to check whether neighbors had seen him.
+- Sold a spear to [[People/NPCs/Embric]] for 4 sp credit on a Trollskull account.
+- Considered studded leather and shields for the urchins but did not buy them from Steam and Steel.
+- Commissioned three wooden training bucklers from [[People/NPCs/Tally Fellbranch]] for 10 gp total, ready the next day.
+- Helped smooth over Jonathan's gate introduction at [[Places/Cassalanter Villa]] with a more persuasive account of the party's identities and invitation.
+- Suggested that the party might offer [[People/NPCs/Victoro Cassalanter]] a future delicate favor, though Victoro declined needing such a thing.
+- Floated the idea of a private tasting room upstairs at Trollskull Manor.
+- Gave [[People/NPCs/Corvin Underbough]] 1 gp to buy ingredients for a trial dinner.
+- Made a strong Help Wanted sign for a barman and barmaid using charcoal on scrap wood.
+- Helped reassure [[People/NPCs/Miri Underbough]] after the kitchen ghost frightened her.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -207,6 +221,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 
 ## Uncertainties
 

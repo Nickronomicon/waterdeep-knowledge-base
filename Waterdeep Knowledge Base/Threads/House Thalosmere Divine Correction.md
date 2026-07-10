@@ -7,6 +7,7 @@ source_paths:
   - ../raw/notes/handouts/s0-private-archive-house-thalosmere.md
   - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - thread
@@ -42,6 +43,12 @@ House Thalosmere records classify the Crommor Incident as misassigned blame, int
 - Elior noticed the subtle Harper room-symbolism at [[Places/Ulbrinter Villa]] and later recognized Myrkul's symbol in the [[Places/Last Temple of Myrkul]].
 - Elior's session 9 ghost-question arc now connects the correction thread to lingering souls: [[People/NPCs/Brother Senric]] argued for helping souls move onward, while [[People/NPCs/Dorgar]] offered a willingness-based communication rite.
 
+## Session 10 Ghost Research
+
+- Elior privately pursued Kelemvorite exorcism for Trollskull Manor while the rest of the party pursued Dorgar's seance preparation.
+- He gathered [[Objects/Elior's Ghost Research Books]] from House Thalosmere and a purchased Volo title.
+- This creates a live philosophical and practical split: correction may mean helping a spirit move on, while the party's tavern plan may mean negotiating with the spirit as staff or ally.
+
 ## Open Questions
 
 - What is the correction entity/function, and why are its names unstable?
@@ -49,6 +56,7 @@ House Thalosmere records classify the Crommor Incident as misassigned blame, int
 - What happens if the correction needed destabilizes Waterdeep?
 - How does divine correction interact with infernal contracts and fey story-logic?
 - How should Elior classify a ghost who wants to remain useful at Trollskull Manor?
+- Will Elior's private exorcism work conflict with Dorgar's Myrkulite seance?
 
 ## Sources
 
@@ -56,3 +64,4 @@ House Thalosmere records classify the Crommor Incident as misassigned blame, int
 - `../raw/notes/handouts/s0-private-archive-house-thalosmere.md`
 - `../raw/notes/handouts/s9-thalosmere-archive-report.md`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`

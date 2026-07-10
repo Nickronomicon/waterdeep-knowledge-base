@@ -23,6 +23,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - pc
@@ -175,6 +176,15 @@ Cantrips:
 - Went with the party to [[Places/The Plinth]], [[Places/Old Xoblob Shop]], and the [[Places/City of the Dead]].
 - Saw Davy's warm relationship with [[People/NPCs/Dorgar]] and the hidden [[Places/Last Temple of Myrkul]] beneath the cemetery.
 
+## Session 10 Table-Facing Notes
+
+- Began the morning in classic armored readiness, seated upright and waiting for stimulus.
+- Joined Aladeen's neighborhood errand to [[Places/Steam and Steel]].
+- Accompanied Aladeen and Broethuul to [[Places/Cassalanter Villa]].
+- Opened the Cassalanter gate encounter poorly by grabbing the bars and demanding entry, then invoked the full Eagleshield name after the guards called the visitors peasants.
+- Participated in the loan discussion but let Broethuul and Aladeen do most of the negotiation.
+- Did not object to the final 2,000 gp Cassalanter loan terms in session 10.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -204,6 +214,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 
 ## Uncertainties
 

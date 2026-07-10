@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 9 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 10 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 9 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 10 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
@@ -72,7 +72,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 7 | 2026-04-16 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Ingested |
 | Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Ingested |
 | Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Ingested |
-| Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Prep scaffolded; transcript not ingested |
+| Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Ingested |
 | Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Prep scaffolded; transcript not ingested |
 
 ### Non-Campaign or Unclassified Sources
@@ -182,6 +182,10 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Dorgar]]
 - [[People/NPCs/Brother Senric]]
 - [[People/NPCs/Ulbrinter Manservant]]
+- [[People/NPCs/Embric]]
+- [[People/NPCs/Avi]]
+- [[People/NPCs/Corvin Underbough]]
+- [[People/NPCs/Miri Underbough]]
 
 Verify spelling and table-specific details against transcripts before treating any page as stable.
 
@@ -232,6 +236,7 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/The Plinth]]
 - [[Places/City of the Dead]]
 - [[Places/Last Temple of Myrkul]]
+- [[Places/Steam and Steel]]
 
 ### Objects, Clues, and Obligations
 
@@ -260,6 +265,7 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Remallia's Fala Credit Note]]
 - [[Objects/Remallia's Paper Bird]]
 - [[Objects/Remallia's Lender List]]
+- [[Objects/Elior's Ghost Research Books]]
 
 ### Timeline
 

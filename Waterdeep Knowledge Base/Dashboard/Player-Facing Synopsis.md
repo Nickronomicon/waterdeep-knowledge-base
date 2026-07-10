@@ -15,6 +15,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/notes/handouts/s9-Maxeene-info.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -24,6 +25,7 @@ source_paths:
   - Sessions/Session 07 - 2026-04-16.md
   - Sessions/Session 08 - 2026-04-30.md
   - Sessions/Session 09 - 2026-05-07.md
+  - Sessions/Session 10 - 2026-06-11.md
 tags:
   - waterdeep
   - synopsis
@@ -293,3 +295,45 @@ After making the party promise secrecy, Dorgar led them through a hidden stair b
 This was not, notably, a chamber of immediate murder. It was simple, hidden, old, and dangerous mostly because knowing about it seemed dangerous. Dorgar explained that he could attempt to speak with the Trollskull spirits, but not command them. A ghost would have to want to speak. For preparation, he gave the party two plain candles: burn the first in a window, use its flame to light the second, let both burn down. The process would take about a day. Then he could come to Trollskull and do the rest.
 
 So our heroes ended the evening under the City of the Dead, carrying Harper errands, noble loan leads, a paper bird, a medicine note, a possible Great Game, and two candles from a secret Myrkulite temple. Trollskull Manor still needed a roof, a license, customers, money, and perhaps a conversation with its dead. The good news is that the party now had a plan. The other news is that the plan involved ghosts, nobles, Harpers, and religious secrecy, so naturally everything should be very straightforward.
+
+## Session 10
+
+The next morning, Ches 5, began with the traditional sounds of home: three children downstairs attempting to convert adult negligence into martial discipline. Two daggers, one mace, several questionable instincts, and absolutely no formal certification. Trollskull Manor was becoming many things. Quiet was not one of them.
+
+Davy began the candle preparation Dorgar had given the party, lighting the first candle in an upstairs window because the lower windows were still boarded. If the flame was kept properly and the candles burned down in sequence, Dorgar could come the next day and try to speak with the manor's spirits.
+
+Elior, meanwhile, was simply gone. His room was open, empty, and perfectly made, which somehow made it more suspicious. The party handled this with appropriate calm, by which I mean a short conversation about whether the ghost got him and then a decision to visit the neighbors.
+
+First stop: Steam and Steel, the forge in Trollskull Alley. Inside, Embric, a fire genasi weaponsmith, hammered a huge blade while his arm flared with fire at every strike. His husband Avi, a water genasi armorsmith, tended the forge and proved very willing to explain shieldcraft in depth. They had not seen Elior. Aladeen sold a spear for four silver of store credit, considered armor upgrades, and investigated shield options for the children, because apparently the solution to armed children is more equipment but with better pedagogy.
+
+This led to The Bent Nail, where Tally Fellbranch agreed to make three small wooden training bucklers for the urchins. They would not turn Nat, Jenks, and Squiddly into professional soldiers, but they might make the next round of indoor weapon practice slightly less medically interesting. Tally also stood ready for real Trollskull work once the party had money.
+
+And money, at last, became the day's main event.
+
+Aladeen, Broethuul, and Jonathan went to Cassalanter Villa, while Davy stayed with the candles and Elior remained buried in whatever private reading had brought him back home. Cassalanter Villa was exactly as subtle as one expects from a noble banking family: white walls, crimson roof, gardens, guards, marble, tapestries, statues, and the general architectural statement "yes, this is where the money lives."
+
+The gate introduction had a rough start. Jonathan grabbed the bars and demanded entry, the guards called the visitors peasants, and everyone briefly discovered that noble names work better when deployed before the gate-shaking. Aladeen smoothed things over by naming the party, their invitation, and their noble associations. The guards sent word inside, and the party was admitted.
+
+Victoro Cassalanter received them warmly as Renaer's heroes and Floon's rescuers. He asked sensible questions: what repairs were needed, what sort of clientele Trollskull hoped to attract, when the party wanted to open. The costs began to gather on the table: roof and walls, windows, cellar and plumbing, signage, guild dues, launders, dung sweepers, stables, drink stock, food stock, staff, furniture, and the endless little dragons that vanish whenever a building tries to become a business.
+
+The party first talked around fifteen hundred dragons. Victoro advised more. He also suggested aiming to open around the coming festival season, when the city would be full of thirsty people already in the streets. A relaunch during Fleet Week could turn Trollskull Manor from a ruin with ambitions into a known destination overnight.
+
+Then came the loan. Victoro offered money with interest beginning only after opening. Broethuul negotiated the terms down: two thousand dragons total, two percent per tenday for the first four months after opening, then three percent per tenday after that, with the principal paid down separately. Victoro agreed and said the funds, documents, and relevant guild representatives would come to Trollskull the next day. All parties would need to sign.
+
+They toasted to business with brandy expensive enough to make poverty feel briefly theoretical.
+
+Back at Trollskull, two halflings waited outside with bedrolls, a basket, and the hopeful patience of people who had been told "no" before and decided to try anyway. Corvin Underbough introduced himself as a cook and his sister Miri as his sous chef. They had heard the manor might reopen and figured a tavern would need cooks before it needed customers.
+
+The party, having learned nothing from previous experiments in letting strangers into unstable buildings, invited them in for a trial dinner.
+
+The pantry was a catastrophe. The kitchen was worse. Corvin did the brave professional thing and decided this could still be made to work. Aladeen gave him coin for ingredients, and Corvin went shopping while Miri stayed behind. Aladeen then made a Help Wanted sign for a barman and barmaid, because apparently the staffing department was now open.
+
+Then Miri met the house.
+
+There was a shriek from the kitchen, followed by Miri fleeing behind the bar after seeing pots and pans move on their own. Broethuul, delighted rather than alarmed, treated this as an opportunity to introduce the kitchen spirit to prospective staff. He addressed the unseen presence as a famous chef and asked it to let the Underboughs cook, helping only if asked.
+
+The ghost answered in grime on the wall:
+
+"I think we've got rats."
+
+So our heroes ended the session with a loan negotiated but unsigned, two thousand dragons due to arrive tomorrow, guilds gathering, cooks on trial, a Help Wanted sign outside, Dorgar's candles burning upstairs, Elior quietly researching something he was not fully explaining, and the manor itself offering its first kitchen note. Trollskull is not open yet, but it is already managing to have staffing problems, financing problems, pest problems, and ghosts with opinions. In other words, hospitality has begun.

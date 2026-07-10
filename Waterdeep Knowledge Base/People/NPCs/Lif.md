@@ -7,6 +7,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
 tags:
   - waterdeep
   - npc
@@ -25,6 +26,13 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. In
 - The ghost seems to approve of reopening the tavern, or at least responds positively to the idea.
 - In session 5, after Broethuul formally addressed the manor and asked its denizens to help restore the tavern, old tankards set themselves upright, dust blew out of them, and brandy poured itself for the party.
 - In session 6, the party learned that many neighbors believe Lif is the ghost, though other rumors blame the old hag/orphanage stories.
+
+## Session 10 Signs
+
+- During the Underbough trial dinner setup, a kitchen haunting moved pots and pans, frightening [[People/NPCs/Miri Underbough]].
+- [[People/PCs/Broethuul]] addressed the presence as a famous chef and asked it to let the Underboughs cook, helping only if asked.
+- Writing appeared in grime on the kitchen wall: "I think we've got rats."
+- The party treated this as a helpful kitchen ghost, but the transcript does not prove whether the presence was Lif or another Trollskull spirit.
 
 ## Session 4 Signs
 
@@ -52,6 +60,8 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. In
 - When will the party learn Lif's name?
 - What does Lif want from the new owners?
 - Can the haunting become a working part of the tavern rather than a threat?
+- Is the kitchen presence Lif, another staff spirit, or a different phenomenon?
+- What rats did the spirit mean?
 
 ## Sources
 
@@ -59,3 +69,4 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. In
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
