@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 9
+
+- Ingested [[Sessions/Session 09 - 2026-05-07]] from `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`, covering Trollskull's Ulbrinter summons, Remallia Haventree's Harper follow-up, Maxeene report delivery, Scrap of Note analysis, Great Game framing, Harper support objects, Trollskull ghost-consultation search, Brother Senric at the Plinth, Xoblob's ghost advice, Dorgar's reveal in the City of the Dead, the Last Temple of Myrkul, and the seance-candle instructions.
+- Created pages for [[People/NPCs/Dorgar]], [[People/NPCs/Brother Senric]], [[People/NPCs/Ulbrinter Manservant]], [[Places/Ulbrinter Villa]], [[Places/The Plinth]], [[Places/City of the Dead]], [[Places/Last Temple of Myrkul]], [[Objects/Maxeene Information Handout]], [[Objects/Thalosmere Archive Report on Remallia Haventree]], [[Objects/Ulbrinter Calling Card]], [[Objects/Remallia's Fala Credit Note]], [[Objects/Remallia's Paper Bird]], [[Objects/Remallia's Lender List]], [[Objects/Dorgar's Seance Candles]], and [[Threads/Great Game]].
+- Updated PC pages, Remallia, Mirt, Harpers, Maxeene, Thugby, Scrap of Note, Trollskull Manor, Fala, Xoblob, Old Xoblob Shop, the urchin pages, Cassalanter finance pages, [[Threads/House Thalosmere Divine Correction]], [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[Sessions/Session 10 - 2026-06-11]], [[INDEX]], and `../TODO.md`.
+- Marked `s9-Maxeene-info.md` as table-revealed and `s9-thalosmere-archive-report.md` as Elior-private reveal in the vault's handout tracking.
+
+Follow-up:
+
+- Begin session 10 from the evening of Ches 4, 1492 DR, at the hidden [[Places/Last Temple of Myrkul]] after Dorgar gives the party the candle procedure.
+- Track whether the party starts [[Objects/Dorgar's Seance Candles]], pursues the Cassalanter loan, contacts Remallia/Mirt, reports the Thomril & Sons arson to authorities, or lets the aftermath sit.
+- Preserve the secrecy boundary around Dorgar's temple and the uncertain person whose safety he mentioned.
+
 ## [2026-07-10] lint | Player-facing Session 8 synopsis comments
 
 - Revised [[Dashboard/Player-Facing Synopsis]] for session 8 to avoid implying that Elior or the party knew Maxeene was a horse before arriving at Thomril & Sons.

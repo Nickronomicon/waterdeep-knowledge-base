@@ -22,6 +22,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - pc
@@ -148,6 +149,17 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Dragged Elior down from the burning loft area before the fire cut off the ladder.
 - Took the four poisoned crossbow bolts from the poison-weapon attacker Maxeene killed.
 
+## Session 9 Table-Facing Notes
+
+- Wore the darkened and muted version of the opera outfit for the visit to [[Places/Ulbrinter Villa]].
+- Joined the report to [[People/NPCs/Remallia Haventree]] and witnessed the Harper side of [[Places/Ulbrinter Villa]].
+- Went with the party to [[Places/The Plinth]] and [[Places/Old Xoblob Shop]] while they looked for a way to speak with Trollskull's spirits.
+- After Xoblob suggested warlocks or necromancers, said he knew someone and led the party to [[People/NPCs/Dorgar]] in the [[Places/City of the Dead]].
+- Introduced Dorgar as a dear friend and showed a warmth around him the party had not previously seen.
+- Dorgar identified Davy as the closest thing he has to kin, and Davy reciprocated.
+- Davy trusted the party enough for Dorgar to reveal the [[Places/Last Temple of Myrkul]] beneath the cemetery.
+- Planned to tell Dorgar as much as time allowed about the last four days.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -163,7 +175,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - Track [[Threads/Davy Is Anastasia Crommor|Davy's hidden identity as Anastasia Crommor]].
 - Track [[Threads/Crommor Incident|the Crommor Incident]] and the truth of the broken bugle.
 - Track [[Threads/Cassalanter Warning in the Bugle|the warning meant for Laeral]] and the unrevealed handout [[Objects/The Crommor Warning]].
-- Clarify Davy's current relationship to Dorgar, Myrkul, Kelemvor, Bonnie, and Threestrings.
+- Track Davy's current relationship to [[People/NPCs/Dorgar]], Myrkul, Kelemvor, Bonnie, and Threestrings now that Dorgar has entered table-facing play.
 - Connect Davy's tools and forgery/thievery profile to actual table behavior.
 - Decide when and how Aladeen, Jonathan, or Laeral might learn who Davy really is.
 
@@ -182,6 +194,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 
 ## Uncertainties
 

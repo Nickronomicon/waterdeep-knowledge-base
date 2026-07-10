@@ -22,6 +22,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - pc
@@ -166,6 +167,14 @@ Cantrips:
 - Learned or remembered in play that Lay on Hands was available, then used it to bring [[People/PCs/Elior Thalosmere|Elior]] back after Davy stabilized him.
 - Killed the gnome pyromancer with radiant damage after the stable was already burning badly.
 
+## Session 9 Table-Facing Notes
+
+- Cleaned up into the same general tabard-and-cloak style before the party visited [[Places/Ulbrinter Villa]].
+- Joined the report to [[People/NPCs/Remallia Haventree]] and heard her frame Trollskull's future tavern as a useful information-gathering hub.
+- Supported the search for a way to communicate with Trollskull Manor's spirits rather than immediately pivoting to exorcism.
+- Went with the party to [[Places/The Plinth]], [[Places/Old Xoblob Shop]], and the [[Places/City of the Dead]].
+- Saw Davy's warm relationship with [[People/NPCs/Dorgar]] and the hidden [[Places/Last Temple of Myrkul]] beneath the cemetery.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -194,6 +203,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 
 ## Uncertainties
 

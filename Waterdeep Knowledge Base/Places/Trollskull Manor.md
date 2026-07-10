@@ -10,6 +10,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - place
@@ -33,6 +34,9 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The party learned in session 6 that a half-elf tavernkeeper named Lif died in the manor about forty years ago and is a likely identity for the haunting.
 - [[People/NPCs/Broxley Fairkettle]] of the [[Factions/Fellowship of Innkeepers]] has now visited, starting the tavern guild-membership track.
 - The hearth/chimney has a blocked or stuck flue and filled the room with smoke when the urchins tried to make a fire.
+- [[People/NPCs/Remallia Haventree]] advised that getting Trollskull open as a tavern is itself useful Harper work because taverns gather information.
+- The party has begun pursuing a way to communicate with, rather than simply tolerate, the manor's ghosts.
+- [[People/NPCs/Dorgar]] gave the party [[Objects/Dorgar's Seance Candles]] as preparation for a ghost-contact rite that takes about a day.
 
 ## Known Facts
 
@@ -89,6 +93,15 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - [[People/NPCs/Broxley Fairkettle]] visited on behalf of the [[Factions/Fellowship of Innkeepers]], discussed guild dues and rules, and warned that operating outside the guild could create trouble.
 - Broxley also identified the [[Factions/Cassalanters]] as major moneylenders when the party discussed financing.
 
+## Session 9 Developments
+
+- [[People/NPCs/Ulbrinter Manservant]] visited Trollskull with [[Objects/Ulbrinter Calling Card]], inviting the party to [[Places/Ulbrinter Villa]].
+- [[People/NPCs/Squiddly]] stole the manservant's Ulbrinter-crest handkerchief.
+- The urchins were left with an increasingly serious defensive kit: Nat and Squiddly each have daggers, and Jenks has the mace from the Castle Ward ambush.
+- Remallia framed opening Trollskull as the party's best immediate way to help Waterdeep and the Harpers.
+- The party explored ghost options at [[Places/The Plinth]], [[Places/Old Xoblob Shop]], and eventually with [[People/NPCs/Dorgar]].
+- Dorgar gave the party the candle procedure needed before he can visit and attempt to communicate with the haunting.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
@@ -99,6 +112,8 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Is the haunting only Lif, or are the Mirthkettle/orphanage rumors also spiritually relevant?
 - Has the party formally joined the Fellowship of Innkeepers, and what bylaws will apply?
 - What will it cost or take to repair/clear the chimney and make the hearth usable?
+- Will the party follow Dorgar's candle instructions, seek Kelemvorite exorcism, or try both?
+- What will Trollskull's ghosts say if contacted directly?
 
 ## Sources
 
@@ -109,3 +124,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

@@ -19,6 +19,9 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/notes/handouts/s9-Maxeene-info.md
+  - ../raw/notes/handouts/s9-thalosmere-archive-report.md
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/notes/dm-planning/session-7/outline.md
   - ../raw/notes/dm-planning/session-8/outline.md
   - ../raw/notes/dm-planning/session-10/outline.md
@@ -51,8 +54,8 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 6 | `../raw/notes/dm-planning/session-6/run_sheet.md`; `lightsinger_theater.md` | Lightsinger Theater, Mirt, Harper pitch, notable attendees, Cassalanters, spy, chase/ambush, Stone-related note. | Ingested into [[Sessions/Session 06 - 2026-04-09]]. Actual play stayed in Trollskull Alley: neighbors, Trollskull history, Vajra report/payment, gazer follow-up, Rishaal books, Threestrings formalwear, and departure for the opera. Theater/Mirt material slid forward. |
 | 7 | `../raw/notes/dm-planning/session-7/outline.md`; `../raw/notes/handouts/s7-scrap-of-note.md`; carried-over `session-6/lightsinger_theater.md` | Opera/Mirt/Harper recruitment, watcher/chase/ambush, Scrap of Note, Maxeene mission assignment. Thomril & Sons Cartage and Maxeene prep remained pending. | Ingested into [[Sessions/Session 07 - 2026-04-16]]. Actual play reached the opera, Mirt, Harper pins, Maxeene assignment, watcher chase, ambush, prisoner, and Scrap of Note; it did not reach Maxeene. |
 | 8 | `../raw/notes/dm-planning/session-8/outline.md` | Remallia Haventree at Ulbrinter Villa, Harper follow-up, paper bird, Fala credit note, Corvin and Miri Underbough job approach. | Ingested into [[Sessions/Session 08 - 2026-04-30]]. Actual play resolved the Castle Ward prisoner as Thugby, reached Maxeene at Thomril & Sons, revealed Davil/Yagra spy-network information and the rock-gnome Stone lead, then ended after the arson attack. Remallia/Underbough material slid forward. |
-| 9 | No DM-planning folder; handouts exist. | Likely Maxeene report follow-up and Thalosmere archive handout material. | Start from the Thomril & Sons fire aftermath; use transcript plus `s9-*` handouts to place reveals and recipients. |
-| 10 | `../raw/notes/dm-planning/session-10/outline.md` | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Verify which items occurred and what remains upcoming. |
+| 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md`; transcript sources | Maxeene report follow-up, Remallia/Ulbrinter Villa, Thalosmere archive handout, Trollskull ghost inquiry, Dorgar and the hidden Myrkul temple. | Ingested into [[Sessions/Session 09 - 2026-05-07]]. Actual play reported to Remallia, introduced Great Game framing and Harper support objects, then pursued ghost communication through the Plinth, Xoblob, and Dorgar. |
+| 10 | `../raw/notes/dm-planning/session-10/outline.md` | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Begin from session 9's evening Ches 4 ending in the Last Temple of Myrkul; verify which prepared items occurred and what remains upcoming. |
 | 11 | `../raw/notes/dm-planning/session-11/outline.md` | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Establish latest current state before session 12 prep. |
 
 ## Major Prep Threads To Track
@@ -67,6 +70,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 - Cassalanter financing as both business solution and infernal/noble pressure vector.
 - Underbough infiltration as tavern-staff opportunity and hidden sabotage risk.
 - Stone of Golorr clue state, especially the note from the theater/ambush prep.
+- Dorgar/Myrkul ghost-contact track and whether it collides with Kelemvorite or Lathanderite expectations.
 
 ## Handouts Likely Paired With Session Ingest
 

@@ -13,6 +13,8 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/notes/handouts/s9-Maxeene-info.md
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -21,6 +23,7 @@ source_paths:
   - Sessions/Session 06 - 2026-04-09.md
   - Sessions/Session 07 - 2026-04-16.md
   - Sessions/Session 08 - 2026-04-30.md
+  - Sessions/Session 09 - 2026-05-07.md
 tags:
   - waterdeep
   - synopsis
@@ -256,3 +259,37 @@ The stablemaster was not so lucky. He was shot, then struck down while trying to
 By the end, the attackers were dead or fleeing, Elior was back on his feet by the slimmest margin, Maxeene was alive, and Thomril & Sons was burning badly. The party recovered coin, weapons, poisoned crossbow bolts, and a fire agate focus from the fallen attackers. More importantly, they had the information Mirt wanted: Davil and Yagra are connected to a Zhentarim effort to locate Xanathar hideouts. They also had a new Stone clue, a dead stablemaster, a surviving Harper horse, a second Thugby escape, and absolutely no clean explanation for any authority who might come asking why yet another building was full of bodies around them.
 
 So our heroes ended the morning with Maxeene's report in hand, the Harpers still awaiting word, a stable burning behind them, and Waterdeep's underworld looking a little less like a distant gang war and a little more like a net being pulled tight around their lives. The spy rat, at least, got away.
+
+## Session 9
+
+The party returned to Trollskull Manor in the mid-afternoon of Ches 4, carrying Maxeene's information, several new bruises, and the sort of smell that says one has recently participated in a stable fire. The children greeted them with news: a fancy, perfumed man in a tailed coat had come by and left a calling card. Nat distrusted him. Squiddly had stolen his handkerchief. This is what passes for household security when the household is mostly rubble, ambition, and armed children.
+
+The card bore the Ulbrinter crest and asked the party to visit at their earliest convenience, which everyone understood to mean "now, please, and preferably without pretending not to understand noble phrasing." Elior recognized the name. Lady Remallia Haventree, widow of Lord Ulbrinter, had been at the opera. That alone was notable: she had spent years mostly out of public sight after her husband's death.
+
+So the group cleaned up, dressed as respectably as current circumstances allowed, left the children with stern warnings and still more weapons than most sensible adults would recommend, and went to Ulbrinter Villa.
+
+The villa felt less abandoned than asleep: old stone, ivy, drawn curtains, precise servants, and a morning room so pale and composed that it seemed designed to discourage loud mistakes. Remallia was not the anxious, fragile figure some might have expected from the opera. She was calm, direct, and very interested in exact wording.
+
+Mirt, it turned out, had told her that the party spoke with Maxeene. Remallia wanted the report without embroidery. The party gave it: Davil Starsong and Yagra Stonefist were likely the sun elf and half-orc Maxeene overheard discussing spies to find Xanathar Guild hideouts. There was also the rock gnome who had talked about a stone while following a lord's carriage and, later, a well-dressed red-haired man.
+
+Then the party produced the scrap of note from Mr. Jones. Remallia had not heard about that yet. The Stone. X and Z. Lady B. R. Too many eyes. Too many factions. She did not pretend the answers were obvious, but she did give the situation a name with weight behind it: Waterdeep might be seeing the start of another Great Game, the kind of noble-and-criminal scramble where powerful people treat the city as a board and everyone else gets to be the pieces that break.
+
+Remallia also made the Harper arrangement clearer. Mirt recruits, finances, and thinks in large city-sized arcs. She handles more of the day-to-day work. She gave the party a paper bird that could reach her or Lord Mirt, a note that could be shown to Fala if emergency medicine was needed and coin was not immediately available, and a short list of people who might help finance Trollskull Manor. Victoro Cassalanter appeared on that list, because Waterdeep likes its problems braided.
+
+Most practically, she told the party that getting Trollskull open was not a distraction from helping the city. It was the work. Taverns hear things. People talk over drinks, around staff, beside musicians, under the assumption that nobody important is listening. Maxeene had just proven the point on four legs.
+
+This gave Broethuul an idea with the kind of energy that makes future historians nervous: if unnoticed listeners gather excellent information, perhaps Trollskull's ghosts could become an information network. Or at least be asked what they wanted. The group set out looking for someone who could speak with spirits.
+
+First came the Plinth, Waterdeep's all-faiths temple, now more ruined spire than shining monument. At Kelemvor's altar they met Brother Senric, a young and eager acolyte who was very pleased to have visitors right up until the conversation became "can we talk to ghosts" and then "does anyone here do necromancy." Senric could not speak with spirits. He could help find someone to put lingering souls to rest. This gave Elior something to think about, and gave everyone else a lingering memory of Elior offering an old mackerel at the altar.
+
+The next stop was Old Xoblob Shop, because when seeking spiritual counsel, one naturally considers the purple gnome across from the Skewered Dragon. Xoblob did not hear voices and could not help with ghosts, though he did suggest warlocks or necromancers while warning that one should not wander Waterdeep loudly asking for necromancers. Aladeen briefly considered buying a bright purple lute. The lute survived the encounter unpurchased and only somewhat less in tune.
+
+Then Davy said he knew someone.
+
+He led the party to the City of the Dead at sunset, where a gaunt man in black robes was sweeping among the headstones. This was Dorgar: groundskeeper, Davy's dear friend, and apparently someone who made Davy smile in a way the party had not really seen before. Dorgar was warm, unsettling, and delighted to hear Davy had found a place. He also understood quickly that the party had not come to speak with the groundskeeper, but with the other Dorgar.
+
+After making the party promise secrecy, Dorgar led them through a hidden stair behind a mausoleum and down into a small underground shrine. Elior recognized the symbol: Myrkul. Dorgar called the place the last temple of Myrkul in Waterdeep.
+
+This was not, notably, a chamber of immediate murder. It was simple, hidden, old, and dangerous mostly because knowing about it seemed dangerous. Dorgar explained that he could attempt to speak with the Trollskull spirits, but not command them. A ghost would have to want to speak. For preparation, he gave the party two plain candles: burn the first in a window, use its flame to light the second, let both burn down. The process would take about a day. Then he could come to Trollskull and do the rest.
+
+So our heroes ended the evening under the City of the Dead, carrying Harper errands, noble loan leads, a paper bird, a medicine note, a possible Great Game, and two candles from a secret Myrkulite temple. Trollskull Manor still needed a roof, a license, customers, money, and perhaps a conversation with its dead. The good news is that the party now had a plan. The other news is that the plan involved ghosts, nobles, Harpers, and religious secrecy, so naturally everything should be very straightforward.

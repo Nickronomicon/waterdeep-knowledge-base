@@ -20,6 +20,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - pc
@@ -168,6 +169,15 @@ Cantrips:
 - Healed [[People/NPCs/Maxeene]] after she was shot, likely keeping her alive long enough to kill her attacker.
 - Looted the poison-weapon attacker and gnome pyromancer, including coin, poisoned bolts, weapons, and a fire agate crystal focus.
 
+## Session 9 Table-Facing Notes
+
+- Gave the urchins another dagger before the party left for [[Places/Ulbrinter Villa]], leaving the children with an expanding and slightly worrying collection of defensive implements.
+- Flashed or toyed with his [[Factions/Harpers]] pin while meeting [[People/NPCs/Remallia Haventree]], though she gave no overt reaction.
+- Noticed the subtle Harper symbolism worked into the morning-room trim at [[Places/Ulbrinter Villa]].
+- Received [[Objects/Remallia's Paper Bird]] for one-use contact with Remallia or [[People/NPCs/Mirt]].
+- Went to [[Places/The Plinth]], [[Places/Old Xoblob Shop]], and the [[Places/City of the Dead]] while the party searched for someone who could speak with Trollskull Manor's spirits.
+- Noticed the bright purple lute at Old Xoblob Shop, tried to play it, and bargained over it without buying it.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -196,6 +206,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 
 ## Uncertainties
 

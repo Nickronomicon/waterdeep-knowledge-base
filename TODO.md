@@ -40,7 +40,7 @@ Agents may read these files after you add them, but should never edit anything u
 - [x] Ingest background and character arc notes into PC pages and open-thread pages.
 - [x] Ingest existing DM session notes before transcript ingest, so table canon and private prep are available.
 - [x] Reconstruct `Sessions/Session 01` from notes, memory, and the session 2 recap.
-- [ ] Ingest recorded sessions 9 through 11 in chronological order. -- *UPDATE: Sessions 1-8 are ingested/reconstructed.*
+- [ ] Ingest recorded sessions 10 through 11 in chronological order. -- *UPDATE: Sessions 1-9 are ingested/reconstructed.*
 - [ ] Update people, factions, places, objects, and timeline pages as each session is processed.
 - [ ] Build `Dashboard/Current Campaign State`.
 - [ ] Expand `Dashboard/Open Threads` from session summaries.

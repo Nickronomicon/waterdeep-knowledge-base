@@ -8,6 +8,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - npc
@@ -51,6 +52,11 @@ Jenks is one of the three Trollskull Alley urchins who were already exploring an
 - Was encouraged to learn how to use the weapon properly rather than simply having it taken away.
 - Went with Nat and Squiddly to buy breakfast bread using three copper, ate some on the way back, and returned late.
 
+## Session 9
+
+- Helped report the perfumed fancy man who visited Trollskull and left the Ulbrinter calling card.
+- Still has or is strongly associated with the mace from the Castle Ward ambush.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
@@ -58,3 +64,4 @@ Jenks is one of the three Trollskull Alley urchins who were already exploring an
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

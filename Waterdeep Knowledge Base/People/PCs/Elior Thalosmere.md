@@ -14,6 +14,7 @@ source_paths:
   - ../raw/notes/handouts/s0-elior-backstory.md
   - ../raw/notes/handouts/s0-private-archive-house-thalosmere.md
   - ../raw/notes/handouts/s0-the-crommor-incident.md
+  - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -21,6 +22,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - pc
@@ -170,6 +172,18 @@ Other listed magic:
 - Was stabilized by [[People/PCs/Davy]] and then revived by Jonathan's Lay on Hands.
 - Escaped the burning building after Davy dragged him down from the loft.
 
+## Session 9 Table-Facing Notes
+
+- Recognized the Ulbrinter crest and knew [[People/NPCs/Remallia Haventree]] was the widow of Lord Arthagast Ulbrinter, publicly reclusive for roughly five years.
+- Received [[Objects/Thalosmere Archive Report on Remallia Haventree]] as a private House Thalosmere context handout before meeting Remallia.
+- Dressed in old nice formalwear for the visit to [[Places/Ulbrinter Villa]].
+- Noticed subtle Harper symbolism in the carved trim of Remallia's morning room.
+- Helped frame the [[Objects/Scrap of Note]] and [[People/NPCs/Maxeene|Maxeene's]] Stone lead for Remallia.
+- Identified religious routes for ghost consultation at [[Places/The Plinth]], including Kelemvor for the dead and Lathander as a risky choice for undead tolerance.
+- Offered an aged mackerel at Kelemvor's altar, creating a memorable but awkward devotional moment.
+- Was moved by [[People/NPCs/Brother Senric|Brother Senric's]] argument that lingering souls should be helped onward rather than exploited.
+- Recognized the symbol of Myrkul at the [[Places/Last Temple of Myrkul]] beneath the [[Places/City of the Dead]].
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -183,6 +197,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - Track [[Threads/House Thalosmere Divine Correction|House Thalosmere's divine correction archive]] and the half-erased correction deity/function.
 - Track phenomena that cause Elior's scar to warm, especially around Davy, Aladeen, Broethuul, and the Crommor material.
 - Connect Elior's divine-correction theme to lingering souls, broken prophecy, infernal contracts, and Waterdeep politics.
+- Track how Elior weighs Trollskull's ghosts after hearing both Kelemvorite and Myrkulite approaches in session 9.
 - Determine whether Grum'shar's spellbook has ongoing plot relevance or is just carried loot.
 - Decide how much of the Crommor archive Elior shares with the party.
 
@@ -193,6 +208,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/notes/handouts/s0-elior-backstory.md`
 - `../raw/notes/handouts/s0-private-archive-house-thalosmere.md`
 - `../raw/notes/handouts/s0-the-crommor-incident.md`
+- `../raw/notes/handouts/s9-thalosmere-archive-report.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
@@ -200,6 +216,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 
 ## Uncertainties
 

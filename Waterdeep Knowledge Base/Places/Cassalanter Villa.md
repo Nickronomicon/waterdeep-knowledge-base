@@ -4,6 +4,7 @@ status: active
 updated: 2026-07-10
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - place
@@ -19,7 +20,7 @@ Cassalanter Villa is the Sea Ward home of [[Factions/Cassalanters|House Cassalan
 
 - Not yet visited in ingested transcript truth.
 - Victoro described it as being on Diamond Street in the Sea Ward and said the party could not miss it.
-- Active lead for tavern financing.
+- Active lead for tavern financing, reinforced in session 9 by [[People/NPCs/Remallia Haventree|Remallia's]] lender list.
 
 ## Open Questions
 
@@ -30,3 +31,4 @@ Cassalanter Villa is the Sea Ward home of [[Factions/Cassalanters|House Cassalan
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

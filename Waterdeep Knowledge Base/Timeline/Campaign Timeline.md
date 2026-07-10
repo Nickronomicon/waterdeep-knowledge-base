@@ -11,6 +11,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - timeline
@@ -32,6 +33,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 | [[Sessions/Session 06 - 2026-04-09]] | 2026-04-09 | Ches 3, 1492 DR | Party returns to Trollskull, hears manor history from Fala and Tally, reports the grell incident to Vajra, receives 30 gp, investigates the gazer lead with Vincent and Rishaal, prepares formalwear, and ends heading to the opera. |
 | [[Sessions/Session 07 - 2026-04-16]] | 2026-04-16 | Ches 3, 1492 DR | Party attends the Lightsinger opera, meets Renaer/Floon and city elites, receives Cassalanter loan offer, accepts Harper pins from Mirt, gets the Maxeene mission, chases a Box C watcher, survives a Castle Ward ambush, and recovers the Scrap of Note. |
 | [[Sessions/Session 08 - 2026-04-30]] | 2026-04-30 | Ches 3-4, 1492 DR | Party resolves the Castle Ward prisoner as Thugby, rests at Trollskull, meets Broxley Fairkettle, interviews Maxeene at Thomril & Sons, learns Davil/Yagra are hiring spies against Xanathar hideouts, hears a rock-gnome Stone lead, survives the arson attack, loses the stablemaster, and watches Thugby flee again. |
+| [[Sessions/Session 09 - 2026-05-07]] | 2026-05-07 | Ches 4, 1492 DR | Party returns to Trollskull, receives Remallia's Ulbrinter summons, reports Maxeene's information and the Scrap of Note at Ulbrinter Villa, learns the Great Game frame, receives Harper support objects, seeks ghost communication at the Plinth and Xoblob's, meets Dorgar in the City of the Dead, discovers the Last Temple of Myrkul, and receives seance-candle instructions. |
 
 ## Open Chronology Questions
 
@@ -41,7 +43,8 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 - Whether the escaped survivor reaches a faction contact through the sewers.
 - Whether the Watch responds to the Castle Ward ambush or the Thomril & Sons arson.
 - Exact final damage to Thomril & Sons after the burning-stable fight.
-- Whether Thugby reports to anyone after fleeing the second time.
+- Whether Thugby reports to anyone after fleeing the second time, and what Remallia's manservant learns about him.
+- Whether the party begins Dorgar's candle procedure immediately after returning from the City of the Dead.
 
 ## Sources
 
@@ -53,3 +56,4 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

@@ -8,6 +8,7 @@ source_paths:
   - ../raw/notes/handouts/s7-scrap-of-note.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - object
@@ -31,6 +32,8 @@ This is the first explicit table-facing clue naming the Stone. The party immedia
 
 In session 8, [[People/NPCs/Maxeene]] supplied a separate Stone-adjacent lead: an unnamed rock gnome had hired her at least a week earlier, talked about a significant stone, followed a lord's carriage, and later followed a well-dressed red-haired man on foot. Maxeene did not recognize the terms "Third Eye" or "Lady B."
 
+In session 9, the party brought the note to [[People/NPCs/Remallia Haventree]]. She treated X as possibly [[Factions/Xanathar Guild]] and Z as possibly [[Factions/Zhentarim]], but emphasized that those were still assumptions. She did not reveal an immediate candidate for "Lady B." The combination of gangs, the Stone, and possible noble involvement made her raise the idea of another [[Threads/Great Game]].
+
 ## Open Questions
 
 - Who wrote the note?
@@ -40,9 +43,11 @@ In session 8, [[People/NPCs/Maxeene]] supplied a separate Stone-adjacent lead: a
 - Was Mr. Jones watching Mirt, the Harpers, the party, or all of them?
 - Is Maxeene's rock gnome lead connected to the same Stone referenced in this note?
 - Who were the lord in the carriage and the well-dressed red-haired man?
+- Is Remallia holding back any theory about Lady B, R, or the eyes?
 
 ## Sources
 
 - `../raw/notes/handouts/s7-scrap-of-note.md`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

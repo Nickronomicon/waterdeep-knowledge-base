@@ -4,6 +4,7 @@ status: active
 updated: 2026-07-10
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - faction
@@ -21,6 +22,7 @@ The Cassalanters are an old Waterdeep noble banking family. They entered table t
 - Victoro recognized or at least noticed Renaer's rescuers and the new owners of [[Places/Trollskull Manor]].
 - Victoro offered the party a conversation about a loan for restoring Trollskull Manor.
 - The party was invited to [[Places/Cassalanter Villa]] on Diamond Street in the Sea Ward to discuss terms.
+- In session 9, [[People/NPCs/Remallia Haventree]] included Victoro on a short lender list or confirmed him as a practical loan contact while asking the party not to use her name.
 
 ## Table-Facing Impression
 
@@ -37,7 +39,9 @@ The Cassalanters are already tied to the campaign's private Crommor material thr
 - What loan terms will Victoro offer?
 - Does Victoro recognize any deeper Crommor connections in Jonathan, Aladeen, or Davy?
 - Who was the tiefling attendant with Ammalia?
+- Will the party approach Victoro because of the opera offer, Remallia's lender list, or both?
 
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

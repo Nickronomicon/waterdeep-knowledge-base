@@ -20,6 +20,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - pc
@@ -145,6 +146,15 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Recognized [[People/NPCs/Thugby]] among the attackers at [[Places/Thomril & Sons Cartage]].
 - Took shots at Thugby and other attackers during the burning-stable fight, including one memorable empty crossbow twang before remembering to load.
 
+## Session 9 Table-Facing Notes
+
+- Helped deliver the [[Objects/Maxeene Information Handout|Maxeene report]] to [[People/NPCs/Remallia Haventree]] and identified [[People/NPCs/Davil Starsong]] and [[People/NPCs/Yagra Stonefist]] as the likely pair Maxeene overheard.
+- Asked Remallia about support for [[Places/Trollskull Manor]], including whether she could act as a silent partner or connect the party to lenders.
+- Became interested in using Trollskull Manor's ghosts as a possible information network after seeing how much Maxeene learned by being overlooked.
+- Asked [[People/NPCs/Brother Senric]] at [[Places/The Plinth]] about speaking with ghosts, then continued looking when Senric leaned toward exorcism rather than conversation.
+- Asked [[People/NPCs/Xoblob]] about ghosts, warlocks, and necromancers at [[Places/Old Xoblob Shop]].
+- Followed Davy to [[People/NPCs/Dorgar]] and the [[Places/Last Temple of Myrkul]], where Dorgar gave the party [[Objects/Dorgar's Seance Candles]].
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -172,6 +182,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 
 ## Uncertainties
 

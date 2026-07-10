@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 8 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 9 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 8 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 9 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
@@ -71,7 +71,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 6 | 2026-04-09 | `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt` | `../raw/json_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.json` | Ingested |
 | Session 7 | 2026-04-16 | `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt` | `../raw/json_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.json` | Ingested |
 | Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Ingested |
-| Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Prep scaffolded; transcript not ingested |
+| Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Ingested |
 | Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Prep scaffolded; transcript not ingested |
 | Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Prep scaffolded; transcript not ingested |
 
@@ -132,6 +132,7 @@ Pages under `People/PCs/`:
 - [[Threads/Floon Rescue]]
 - [[Threads/Zhentarim-Xanathar Street War]]
 - [[Threads/Neverember Cache and Renaer's Locket]]
+- [[Threads/Great Game]]
 
 ### NPCs
 
@@ -178,7 +179,9 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Andrew]]
 - [[People/NPCs/Vincent Trench]]
 - [[People/NPCs/Rishaal the Page-Turner]]
-- [[People/NPCs/Dorger]]
+- [[People/NPCs/Dorgar]]
+- [[People/NPCs/Brother Senric]]
+- [[People/NPCs/Ulbrinter Manservant]]
 
 Verify spelling and table-specific details against transcripts before treating any page as stable.
 
@@ -225,6 +228,10 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/Cassalanter Villa]]
 - [[Places/Sea Maidens Fair]]
 - [[Places/Thomril & Sons Cartage]]
+- [[Places/Ulbrinter Villa]]
+- [[Places/The Plinth]]
+- [[Places/City of the Dead]]
+- [[Places/Last Temple of Myrkul]]
 
 ### Objects, Clues, and Obligations
 
@@ -234,7 +241,7 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Dragonstaff of Ahghairon]]
 - [[Objects/Trollskull Manor Deed]]
 - [[Objects/Cassalanter Loan]]
-- [[Objects/Seance Candle]]
+- [[Objects/Dorgar's Seance Candles]]
 - [[Objects/The Crommor Warning]]
 - [[Objects/Floon's Unicorn Necklace]]
 - [[Objects/Renaer's Locket]]
@@ -247,6 +254,12 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Blackstaff Payment Pouch]]
 - [[Objects/Borrowed Monster Books]]
 - [[Objects/Scrap of Note]]
+- [[Objects/Maxeene Information Handout]]
+- [[Objects/Thalosmere Archive Report on Remallia Haventree]]
+- [[Objects/Ulbrinter Calling Card]]
+- [[Objects/Remallia's Fala Credit Note]]
+- [[Objects/Remallia's Paper Bird]]
+- [[Objects/Remallia's Lender List]]
 
 ### Timeline
 

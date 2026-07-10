@@ -4,8 +4,10 @@ status: active
 updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-7/outline.md
+  - ../raw/notes/handouts/s9-Maxeene-info.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - npc
@@ -22,6 +24,8 @@ Maxeene is a talking draft mare, Harper contact, and intelligence source at [[Pl
 - Works at Thomril & Sons Cartage and gathers information because people speak freely around animals.
 - Survived the session 8 arson attack after being healed by Aladeen and fighting off an attacker herself.
 - Knows [[Places/Trollskull Manor]] is the party's home and may stop by if they have hauling work.
+- Her information was formalized for the table in [[Objects/Maxeene Information Handout]] and reported to [[People/NPCs/Remallia Haventree]] in session 9.
+- Remallia said she would see that Maxeene is looked after or employed after the Thomril & Sons disaster.
 
 ## Session 8 Information
 
@@ -51,11 +55,13 @@ Stone lead:
 ## Open Questions
 
 - Did the attackers know Maxeene was the spy, or only that a spy worked at Thomril & Sons?
-- Will Maxeene continue working as a Harper contact after the stable burned and her stablemaster died?
+- Where will Maxeene work after Thomril & Sons burned and the stablemaster died?
 - Does the rock gnome lead point to Dalakhar, the Stone of Golorr, or another Grand Game actor?
 
 ## Sources
 
 - `../raw/notes/dm-planning/session-7/outline.md`
+- `../raw/notes/handouts/s9-Maxeene-info.md`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

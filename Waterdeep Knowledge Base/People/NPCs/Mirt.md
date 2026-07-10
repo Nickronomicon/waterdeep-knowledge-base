@@ -8,6 +8,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - npc
@@ -26,7 +27,10 @@ Mirt is the likely opera contact named in the paper-bird invitation delivered by
 - Vajra confirmed Mirt likely wants his own separate word with the party and did not treat the opera invitation as her doing.
 - Recruited all five PCs into association with the [[Factions/Harpers]].
 - Assigned the party to find [[People/NPCs/Maxeene]] and learn what she overheard from Zhentarim operatives.
-- The party found Maxeene in session 8 and learned that Davil Starsong and Yagra Stonefist were discussing spies against Xanathar Guild hideouts, but they have not yet reported this back to Mirt in ingested transcript truth.
+- The party found Maxeene in session 8 and learned that Davil Starsong and Yagra Stonefist were discussing spies against Xanathar Guild hideouts.
+- In session 9, [[People/NPCs/Remallia Haventree]] said Mirt had told her the party spoke with Maxeene, and the party reported the information to Remallia rather than directly to Mirt.
+- Remallia described Mirt as working for the city in a roundabout way, handling recruitment, finance, and big-picture protection of Waterdeep.
+- The party now has [[Objects/Remallia's Paper Bird]], which can contact either Remallia or Lord Mirt.
 
 ## Session 7
 
@@ -42,6 +46,7 @@ Mirt is the likely opera contact named in the paper-bird invitation delivered by
 - Did Renaer buy the tickets himself, or arrange them through Mirt/Threestrings?
 - What will Mirt do when he learns the party was attacked immediately after leaving Box C?
 - How will Mirt respond to the attack on Maxeene's workplace and the death of the Thomril & Sons stablemaster?
+- Did Mirt intend Remallia to be the party's day-to-day Harper contact from here on?
 
 ## Sources
 
@@ -50,3 +55,4 @@ Mirt is the likely opera contact named in the paper-bird invitation delivered by
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`

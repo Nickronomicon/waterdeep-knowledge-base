@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
 tags:
   - waterdeep
   - npc
@@ -22,6 +23,7 @@ Fala Lefaliir is the wood elf herbalist who runs [[Places/Corellon's Crown]] in 
 - Wants Trollskull Manor restored because the whole alley is named after it and benefits from its revival.
 - Keeps aromatics, herbs, and potions.
 - Confirmed in session 6 to have some magical ability, used practically and subtly.
+- In session 9, [[People/NPCs/Remallia Haventree]] gave the party [[Objects/Remallia's Fala Credit Note]], which they can show Fala if they need medicine and cannot pay immediately.
 
 ## Session 4
 
@@ -40,8 +42,14 @@ Fala Lefaliir is the wood elf herbalist who runs [[Places/Corellon's Crown]] in 
 - Magically tailored and recolored Davy's gaudy opera outfit into a plausible blue formal look lasting about eight hours.
 - Refused Davy's offered gold, saying the intervention was for the sake of the entire alley.
 
+## Session 9
+
+- Became part of Remallia's quiet support network for the party, at least for medicine or emergency supplies, through the credit note.
+- Has not yet been shown the note in transcript truth.
+
 ## Sources
 
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
