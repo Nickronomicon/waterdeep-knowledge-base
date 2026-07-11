@@ -3,6 +3,7 @@ type: place
 status: occupied
 updated: 2026-07-11
 source_paths:
+  - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
@@ -48,6 +49,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 ## Known Facts
 
 - Located in the North Ward.
+- Original adventure baseline: four-story former tavern/residence, haunted by Lif's poltergeist, intended to become the party's home base and possible public tavern.
 - Described by Volo as a remarkable historic property.
 - Volo says he acquired the deed while researching an upcoming book, but the property did not suit his needs.
 - Oldest building in Trollskull Alley.
@@ -159,6 +161,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 
 ## Sources
 
+- `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`

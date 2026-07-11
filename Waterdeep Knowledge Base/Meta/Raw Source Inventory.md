@@ -2,7 +2,7 @@
 type: meta
 status: current
 updated: 2026-07-11
-source_commit: 6fad85b
+source_commit: 6fad85b plus current raw working tree
 tags:
   - waterdeep
   - inventory
@@ -10,15 +10,15 @@ tags:
 
 # Raw Source Inventory
 
-Inventory of `../raw/` after commit `6fad85b`. Raw sources were read and classified only; no files under `../raw/` were edited.
+Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree. Raw sources were read and classified only; no files under `../raw/` were edited.
 
 ## Summary
 
-`../raw/` currently contains 210 files:
+`../raw/` currently contains 211 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 51 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 52 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
 | `.txt` | 11 | Text transcripts for Waterdeep sessions 2-12 |
 | `.json` | 11 | JSON transcripts for Waterdeep sessions 2-12 |
@@ -125,12 +125,13 @@ Important caveat from `../raw/notes/technical-notes.md`: transcript speaker labe
 | Path | Purpose | Ingest Use |
 |---|---|---|
 | `../raw/Dragon-Heist-Remix.pdf` | Justin Alexander's *Dragon Heist Remix*, 337 pages. | Primary structural adventure reference. Ingest as runnable structures, not long prose. |
-| `../raw/waterdeep_dragon_heist/` | Original adventure markdown plus 131 image/map files. | Supporting canon, NPC/place/stat reference, maps, and handout art. |
+| `../raw/waterdeep_dragon_heist/` | Original adventure markdown plus 131 image/map files. | Supporting canon, NPC/place/stat reference, maps, handout art, and Trollskull Alley reference. |
 
 Original adventure markdown files:
 
 - `../raw/waterdeep_dragon_heist/00.Introduction.md`
 - `../raw/waterdeep_dragon_heist/01.A-Friend-In-Need.md`
+- `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`
 - `../raw/waterdeep_dragon_heist/03.Fireball.md`
 - `../raw/waterdeep_dragon_heist/04.Dragon-Season.md`
 - `../raw/waterdeep_dragon_heist/05.Spring-Madness.md`
@@ -145,8 +146,8 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Post-session-12 commit requested by the user before broader finalization.
-2. Revisit [[Dashboard/Current Campaign State]] after the commit.
-3. Prepare for session 13 transcript/notes when added.
-4. Active handouts/clue objects as they arise during session ingest.
-5. Remix structures and original adventure reference pages once current campaign state is established.
+1. Create the first weekly prep page when the session 13 date is known.
+2. Expand active adventure-reference pages into prep cards as Fireball, Gralhund Villa, faction outposts, or Eye heists approach.
+3. Continue ingesting active handouts/clue objects as they arise during session ingest.
+4. Add quick references for Waterdeep wards, law, faction missions, and frequently used NPC/stat lookups as active prep requires them.
+5. Periodically lint the vault for stale facts, missing links, orphan pages, and unresolved threads.

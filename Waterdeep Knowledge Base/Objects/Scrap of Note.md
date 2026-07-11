@@ -3,12 +3,13 @@ type: object
 status: held-by-party
 revealed: true
 revealed_session: 7
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/handouts/s7-scrap-of-note.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - Reference/Remix Revelation Lists.md
 tags:
   - waterdeep
   - object
@@ -28,11 +29,13 @@ The note says:
 
 ## Current Significance
 
-This is the first explicit table-facing clue naming the Stone. The party immediately speculated that X might be [[Factions/Xanathar Guild]], Z might be [[Factions/Zhentarim]], and R might be [[People/NPCs/Renaer Neverember]], but none of those readings are confirmed.
+This is the first explicit table-facing clue naming the [[Objects/Stone of Golorr]]. The party immediately speculated that X might be [[Factions/Xanathar Guild]], Z might be [[Factions/Zhentarim]], and R might be [[People/NPCs/Renaer Neverember]], but none of those readings are confirmed.
 
 In session 8, [[People/NPCs/Maxeene]] supplied a separate Stone-adjacent lead: an unnamed rock gnome had hired her at least a week earlier, talked about a significant stone, followed a lord's carriage, and later followed a well-dressed red-haired man on foot. Maxeene did not recognize the terms "Third Eye" or "Lady B."
 
 In session 9, the party brought the note to [[People/NPCs/Remallia Haventree]]. She treated X as possibly [[Factions/Xanathar Guild]] and Z as possibly [[Factions/Zhentarim]], but emphasized that those were still assumptions. She did not reveal an immediate candidate for "Lady B." The combination of gangs, the Stone, and possible noble involvement made her raise the idea of another [[Threads/Great Game]].
+
+DM-facing structural note: the phrasing aligns strongly with the Remix's [[Reference/Remix Revelation Lists|Stone/Eyes revelation structure]], but the party has not yet learned what the Eyes are.
 
 ## Open Questions
 
@@ -51,3 +54,4 @@ In session 9, the party brought the note to [[People/NPCs/Remallia Haventree]]. 
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- [[Reference/Remix Revelation Lists]]

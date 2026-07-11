@@ -1,8 +1,9 @@
 ---
 type: place
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
+  - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
@@ -26,6 +27,10 @@ Trollskull Alley is the North Ward neighborhood around [[Places/Trollskull Manor
 - [[Places/Tiger's Eye]] - private investigation office run by [[People/NPCs/Vincent Trench]].
 - [[Places/Book Wyrm's Treasure]] - bookshop run by [[People/NPCs/Rishaal the Page-Turner]].
 
+## Original Adventure Support
+
+The original Trollskull chapter is available for neighborhood baselines, business services, Lif's default haunting behavior, and faction-mission hooks. Use transcript/campaign pages first for anything already customized at the table.
+
 ## Session 4 Impression
 
 The alley has lively evening foot traffic and a communal feel. People gather outside after work, though very few seem to enter Frewn's Brews.
@@ -36,6 +41,7 @@ The alley reacts quickly to danger. By the time the party returned from the Dock
 
 ## Sources
 
+- `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

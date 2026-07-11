@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-11] ingest | Structural adventure reference
+
+- Began adventure-reference ingest with the Remix as the primary framework and original adventure markdown as supporting reference.
+- Created [[Reference/Dragon Heist Remix Overview]], [[Reference/Remix Faction Timelines]], [[Reference/Remix Revelation Lists]], [[Reference/Remix Faction Outposts]], [[Reference/Remix Response Teams]], [[Reference/Remix Eye Heists]], [[Reference/Remix Golorr Artifacts]], [[Reference/Original Adventure Overview]], [[Objects/Stone of Golorr]], and [[Factions/Bregan D'aerthe]].
+- Cross-linked the new structure into [[Dashboard/Faction Clocks]], [[Threads/Great Game]], [[Objects/Scrap of Note]], [[Meta/Raw Source Inventory]], [[INDEX]], and `../TODO.md`.
+- Preserved source priority: table truth remains authoritative, the Remix provides future-facing structure, and original adventure files provide maps, lair baselines, NPC/stat references, handouts, Trollskull support, and Waterdeep setting support.
+- Added `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md` to the source map and cited it from [[Reference/Original Adventure Overview]], [[Reference/Remix Faction Outposts]], [[Places/Trollskull Manor]], and [[Places/Trollskull Alley]].
+
+Follow-up:
+
+- Expand quick-reference pages for Waterdeep wards, faction missions, law, and frequently used NPC/stat lookups as active prep requires.
+- Before Fireball or the Eye heist phase, deepen the relevant outpost/lair pages into table-ready prep cards.
+
 ## [2026-07-11] setup | Initial Wiki Build complete
 
 - Finished the Initial Wiki Build checklist after all currently available sessions were ingested.

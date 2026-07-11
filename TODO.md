@@ -49,7 +49,7 @@ Agents may read these files after you add them, but should never edit anything u
 
 ## Remix and Adventure Reference
 
-- [ ] Ingest the Remix at a structural level.
+- [x] Ingest the Remix at a structural level. -- *UPDATE: Initial structural pass created overview, timelines, revelations, outposts, response teams, Eye heists, Golorr artifacts, and Stone pages.*
   - Villain goals.
   - Faction outposts.
   - Response teams.
@@ -58,8 +58,8 @@ Agents may read these files after you add them, but should never edit anything u
   - Golorr artifacts.
   - Faction timelines.
   - Simple running checklist.
-- [ ] Cross-link Remix structures to the current campaign state.
-- [ ] Ingest original adventure reference only where it supports active play.
+- [x] Cross-link Remix structures to the current campaign state.
+- [x] Ingest original adventure reference only where it supports active play. -- *UPDATE: Added original adventure overview and lair/chapter backfill references for Remix-called structures.*
 - [ ] Create quick-reference pages for frequently used Waterdeep law, wards, factions, NPCs, and locations.
 
 ## Begin Weekly Use

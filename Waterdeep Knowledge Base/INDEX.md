@@ -10,6 +10,7 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 - Session 1 is not available in the recorded transcript sources.
 - Waterdeep session transcripts are available for sessions 2 through 12; sessions 2 through 12 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
+- Structural adventure reference ingest has begun with active Remix overview, timeline, revelation, outpost, response-team, Eye heist, Golorr artifact, and original-adventure overview pages.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
 ## Start Here
@@ -48,6 +49,7 @@ Core dashboards are active for weekly use. Add or revise prep-facing dashboards 
 
 - `../raw/waterdeep_dragon_heist/00.Introduction.md`
 - `../raw/waterdeep_dragon_heist/01.A-Friend-In-Need.md`
+- `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`
 - `../raw/waterdeep_dragon_heist/03.Fireball.md`
 - `../raw/waterdeep_dragon_heist/04.Dragon-Season.md`
 - `../raw/waterdeep_dragon_heist/05.Spring-Madness.md`
@@ -292,6 +294,10 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 - [[Reference/Dragon Heist Remix Overview]]
 - [[Reference/Remix Revelation Lists]]
 - [[Reference/Remix Faction Timelines]]
+- [[Reference/Remix Faction Outposts]]
+- [[Reference/Remix Response Teams]]
+- [[Reference/Remix Eye Heists]]
+- [[Reference/Remix Golorr Artifacts]]
 - [[Reference/Original Adventure Overview]]
 - [[Reference/Waterdeep Code Legal]]
 
@@ -300,8 +306,8 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 1. Make a git commit for the completed initial wiki build.
 2. Create the first `Prep/Session Prep - YYYY-MM-DD.md` once the next real session date is known.
 3. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
-4. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
-5. Cross-link the structural Remix reference to [[Dashboard/Faction Clocks]] and [[Dashboard/Open Threads]].
+4. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.
+5. Expand structural Remix pages into more detailed prep cards as the party approaches Fireball, Gralhund Villa, and the Eye heists.
 6. Periodically lint the vault for stale facts, missing links, orphan pages, and unresolved threads.
 
 ## Maintenance Notes

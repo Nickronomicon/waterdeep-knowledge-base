@@ -3,10 +3,15 @@ type: dashboard
 status: active
 updated: 2026-07-11
 source_paths:
+  - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/notes/dm-planning/session-6/lightsinger_theater.md
   - ../raw/notes/dm-planning/session-12/force-grey.md
   - ../raw/waterdeep_dragon_heist/00.Introduction.md
+  - Reference/Dragon Heist Remix Overview.md
+  - Reference/Remix Response Teams.md
+  - Reference/Remix Faction Outposts.md
+  - Reference/Remix Revelation Lists.md
   - Sessions/Session 12 - 2026-07-09.md
   - Dashboard/Open Threads.md
 tags:
@@ -18,6 +23,8 @@ tags:
 # Faction Clocks
 
 Working DM-facing escalation dashboard after [[Sessions/Session 12 - 2026-07-09]]. These clocks are not strict mechanics; they are a quick way to decide what pressure moves next when the party spends time, opens Trollskull, ignores leads, makes noise, or exposes new information.
+
+Use [[Reference/Dragon Heist Remix Overview]], [[Reference/Remix Faction Outposts]], and [[Reference/Remix Response Teams]] when a clock triggers a concrete move.
 
 ## Clock Scale
 
@@ -54,6 +61,8 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 - If the party contacts Vajra/Elra: advance Gray Hands Trust; decide whether Zelifarn remains stable.
 - If Broethuul shares Amberleaf or asks Zelifarn about the door: advance Autumn Door and Stone / Great Game.
 - If the escaped Drowned Lantern cutpurse or salvage boss reports back: advance Xanathar Attention by 1.
+- If the party looks for a Stone/Eye lead: use the Remix loop, point them at an outpost, and advance Stone / Great Game.
+- If the party angers a Grand Game faction: deploy or schedule a response team.
 
 ## Clock Notes
 
@@ -66,6 +75,11 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/notes/dm-planning/session-6/lightsinger_theater.md`
 - `../raw/notes/dm-planning/session-12/force-grey.md`
+- `../raw/Dragon-Heist-Remix.pdf`
 - `../raw/waterdeep_dragon_heist/00.Introduction.md`
+- [[Reference/Dragon Heist Remix Overview]]
+- [[Reference/Remix Faction Outposts]]
+- [[Reference/Remix Response Teams]]
+- [[Reference/Remix Revelation Lists]]
 - [[Sessions/Session 12 - 2026-07-09]]
 - [[Dashboard/Open Threads]]
