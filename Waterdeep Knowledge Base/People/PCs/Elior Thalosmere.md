@@ -24,6 +24,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - pc
@@ -196,6 +197,15 @@ Other listed magic:
 - Returned to Trollskull and read at the table while describing the work to the party as family-history and self-knowledge research.
 - Did not attend the Cassalanter loan negotiation; Aladeen told him he was watching the children as the others left.
 
+## Session 11 Table-Facing Notes
+
+- Was present for the Underbough dinner and rat fight in fiction, though the player was absent.
+- Was swarmed by rats upstairs, took significant bite damage, and repeatedly used Sorcerous Burst effectively.
+- Finished the last rats on Davy with a green mist-like spell effect.
+- Observed Dorgar's seance skeptically beside Jonathan.
+- Heard Lif confirm that he is the only spirit in Trollskull and that he wants restoration rather than harm.
+- The session leaves Elior's private Kelemvorite exorcism track unresolved against the new evidence of Lif's cooperation.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -231,6 +241,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 
 ## Uncertainties
 

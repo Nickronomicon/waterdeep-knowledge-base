@@ -6,6 +6,7 @@ source_paths:
   - ../raw/notes/handouts/s0-davy-backstory.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - npc
@@ -26,7 +27,7 @@ Dorgar is a City of the Dead groundskeeper, [[People/PCs/Davy|Davy's]] dear frie
 - Identified Davy as the closest thing he has to kin, though not by blood.
 - Asked the party to swear secrecy before revealing the hidden temple, naming his own safety and possibly "Amy's" safety. The transcript is uncertain on the name.
 - Agreed to come to Trollskull Manor for Davy to help investigate or contact the manor's spirits.
-- His candle preparation began at Trollskull Manor on Ches 5, 1492 DR; if completed, he can come the following day.
+- His candle preparation was completed at Trollskull Manor on Ches 5, 1492 DR, and Dorgar successfully performed the seance that contacted [[People/NPCs/Lif]].
 
 ## Ghost-Contact Instructions
 
@@ -38,6 +39,16 @@ Dorgar is a City of the Dead groundskeeper, [[People/PCs/Davy|Davy's]] dear frie
 - The process takes roughly a day, and Dorgar recommended starting one evening and finishing the next evening.
 - After the candles are prepared, he can do the remaining work and determine whether the manor has ghosts or some other magical phenomenon.
 
+## Session 11 Seance
+
+- Arrived at Trollskull Manor before the Underbough trial dinner concluded.
+- Prepared upstairs while dinner continued below, using herbs, salt, twine, a sharp knife, and other ritual tools.
+- Clarified that the candle preparation remains useful for up to three days, though the first day is strongest.
+- Cleared a ten-foot space in the taproom, shaped a complex salt circle, and warned the party that the spirit might speak directly, speak through him, or not appear.
+- Let Davy assist as apprentice and accepted Broethuul's arcane assistance.
+- Opened contact with Lif, who answered five questions directly from the circle.
+- The rite ended cleanly, leaving Lif's "welcome" message behind the bar.
+
 ## Connections
 
 - [[People/PCs/Davy]] trusts Dorgar deeply and smiled openly around him in a way the party had not seen before.
@@ -48,12 +59,12 @@ Dorgar is a City of the Dead groundskeeper, [[People/PCs/Davy|Davy's]] dear frie
 
 - Who is the person whose safety Dorgar referenced alongside his own?
 - How much does Dorgar know about Davy's hidden identity and past?
-- Will he recognize [[People/NPCs/Lif]] or older Trollskull spirits if the candle rite succeeds?
 - How dangerous would it be if the City Watch, a Lathanderite, or another temple faction discovered the hidden Myrkulite shrine?
-- Will he arrive before or after any Kelemvorite exorcism effort Elior has started?
+- How will Dorgar react if Elior or Kelemvorite clergy continue pursuing exorcism after Lif's cooperative appearance?
 
 ## Sources
 
 - `../raw/notes/handouts/s0-davy-backstory.md`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`

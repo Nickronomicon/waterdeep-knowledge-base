@@ -13,6 +13,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - timeline
@@ -36,6 +37,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 | [[Sessions/Session 08 - 2026-04-30]] | 2026-04-30 | Ches 3-4, 1492 DR | Party resolves the Castle Ward prisoner as Thugby, rests at Trollskull, meets Broxley Fairkettle, interviews Maxeene at Thomril & Sons, learns Davil/Yagra are hiring spies against Xanathar hideouts, hears a rock-gnome Stone lead, survives the arson attack, loses the stablemaster, and watches Thugby flee again. |
 | [[Sessions/Session 09 - 2026-05-07]] | 2026-05-07 | Ches 4, 1492 DR | Party returns to Trollskull, receives Remallia's Ulbrinter summons, reports Maxeene's information and the Scrap of Note at Ulbrinter Villa, learns the Great Game frame, receives Harper support objects, seeks ghost communication at the Plinth and Xoblob's, meets Dorgar in the City of the Dead, discovers the Last Temple of Myrkul, and receives seance-candle instructions. |
 | [[Sessions/Session 10 - 2026-06-11]] | 2026-06-11 | Ches 5, 1492 DR | Davy begins Dorgar's candle rite, Elior privately seeks Kelemvorite exorcism and ghost research books, the party visits Steam and Steel and The Bent Nail, Aladeen commissions urchin bucklers, Aladeen/Broethuul/Jonathan negotiate a 2,000 gp Cassalanter loan, Corvin and Miri Underbough arrive for a trial dinner, and the kitchen ghost warns of rats. |
+| [[Sessions/Session 11 - 2026-06-25]] | 2026-06-25 | Ches 5, 1492 DR | The Underboughs serve their trial dinner, rats erupt from a hidden cellar passage, the party discovers a smuggler's route to the sewers, Dorgar performs the seance, Lif confirms he wants Trollskull restored, and the night ends with Lif's "welcome" message. |
 
 ## Open Chronology Questions
 
@@ -47,8 +49,10 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 - Exact final damage to Thomril & Sons after the burning-stable fight.
 - Whether Thugby reports to anyone after fleeing the second time, and what Remallia's manservant learns about him.
 - Whether all PCs sign the Cassalanter loan and how much is immediately paid to guilds.
-- How the Underbough trial dinner and rat warning resolve.
-- Whether Dorgar's candle preparation completes without interference.
+- Whether Corvin and Miri are hired after the completed trial dinner.
+- Who used the Trollskull smuggler's passage to release rats, and how the party secures it.
+- What Fala knows about Lif and whether he can be strengthened.
+- Whether Tally's bucklers are picked up before the urchins cause another weapon-training incident.
 
 ## Sources
 
@@ -62,3 +66,4 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`

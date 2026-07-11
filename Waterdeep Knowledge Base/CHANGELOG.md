@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-10] ingest | Session 11
+
+- Ingested [[Sessions/Session 11 - 2026-06-25]] from `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`, covering the Underbough trial dinner, Goose's Fat backstory, Trollskull rat incursion, hidden sewer passage, Dorgar's seance, and Lif's direct answers.
+- Created [[Places/Trollskull Smuggler's Passage]] for the newly discovered cellar-to-sewer route.
+- Updated PC pages, [[Places/Trollskull Manor]], [[People/NPCs/Lif]], [[People/NPCs/Dorgar]], [[Objects/Dorgar's Seance Candles]], [[Objects/Cassalanter Loan]], [[People/NPCs/Corvin Underbough]], [[People/NPCs/Miri Underbough]], [[People/NPCs/Fala Lefaliir]], [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[INDEX]], and `../TODO.md`.
+- Marked session 11 as ingested while intentionally leaving [[Dashboard/Current Campaign State]] and other finalizing synthesis tasks untouched until after the user's post-ingestion git commit.
+
+Follow-up:
+
+- Begin next play from the morning after Lif's seance at Trollskull Manor on Ches 6, 1492 DR unless new raw notes revise the date.
+- Track the Underbough hire decision, Cassalanter signing/funds/guild representatives, Tally's bucklers, Fala follow-up about Lif, and securing the smuggler's passage.
+- Preserve Willifort Crowelle and Tissina Khyret as prepared but not-yet-table-confirmed session 11 material until they actually appear.
+
 ## [2026-07-10] ingest | Session 10
 
 - Ingested [[Sessions/Session 10 - 2026-06-11]] from `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`, covering Ches 5 at Trollskull Manor, Dorgar's candle preparation, Elior's private Kelemvorite exorcism/research errand, Steam and Steel, Bent Nail bucklers, Cassalanter Villa, loan negotiation, Underbough arrival, Help Wanted sign, and the kitchen ghost's rat warning.

@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - object
@@ -29,7 +30,7 @@ The Cassalanter Loan is the pending financing arrangement negotiated with [[Peop
 - After that: 3% per tenday on outstanding principal.
 - Principal is not automatically amortized; the party must actively pay it down.
 - Initial payment at full principal would be 40 gp per tenday during the 2% period, then 60 gp per tenday during the 3% period.
-- Victoro will send the funds and documents to Trollskull Manor the next day after the session 10 negotiation.
+- Victoro is expected to send the funds and documents to Trollskull Manor the day after the session 10 negotiation; session 11 ended the prior evening before delivery occurred.
 - All party members must be present to sign.
 - Victoro said he would arrange for relevant guild representatives to be present so the party can pay them immediately.
 
@@ -42,7 +43,7 @@ The Cassalanter Loan is the pending financing arrangement negotiated with [[Peop
 
 ## Status
 
-Negotiated but not signed as of the end of [[Sessions/Session 10 - 2026-06-11]].
+Negotiated but not signed as of the end of [[Sessions/Session 11 - 2026-06-25]]. Delivery, signatures, and guild payments remain pending for the next morning or midday.
 
 ## Sources
 
@@ -50,4 +51,4 @@ Negotiated but not signed as of the end of [[Sessions/Session 10 - 2026-06-11]].
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
-
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`

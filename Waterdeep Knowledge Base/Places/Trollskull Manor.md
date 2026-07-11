@@ -12,6 +12,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - place
@@ -29,18 +30,18 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The deed is in the party's hands and the manor is treated as their home, but the transcript does not show the magistrate transfer scene; exact legal status should be confirmed.
 - Intended use: party home base and future tavern, possibly with a haunted-house theme.
 - [[People/NPCs/Nat]], [[People/NPCs/Jenks]], and [[People/NPCs/Squiddly]] now have a room in the manor.
-- The haunting is strongly confirmed; the likely ghost is [[People/NPCs/Lif]].
+- The haunting is strongly confirmed as [[People/NPCs/Lif]], the former tavernkeeper.
 - The building is safe enough to sleep in but not legal or safe enough to serve customers.
 - A floating eye creature and possible intruder probed the manor while the party was at Blackstaff Tower in session 5.
 - The party learned in session 6 that a half-elf tavernkeeper named Lif died in the manor about forty years ago and is a likely identity for the haunting.
 - [[People/NPCs/Broxley Fairkettle]] of the [[Factions/Fellowship of Innkeepers]] has now visited, starting the tavern guild-membership track.
 - The hearth/chimney has a blocked or stuck flue and filled the room with smoke when the urchins tried to make a fire.
 - [[People/NPCs/Remallia Haventree]] advised that getting Trollskull open as a tavern is itself useful Harper work because taverns gather information.
-- The party has begun pursuing a way to communicate with, rather than simply tolerate, the manor's ghosts.
-- [[People/NPCs/Dorgar]] gave the party [[Objects/Dorgar's Seance Candles]] as preparation for a ghost-contact rite that takes about a day.
+- The party used [[Objects/Dorgar's Seance Candles]] and Dorgar's seance to speak directly with Lif on the night of Ches 5.
 - [[Objects/Cassalanter Loan|A 2,000 gp Cassalanter loan]] has been negotiated but not signed; funds, documents, and guild representatives are expected the day after session 10.
-- [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] are in the middle of a trial dinner as prospective kitchen staff.
+- [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] completed a rat-interrupted trial dinner as prospective kitchen staff; the hire decision is deferred until morning.
 - A Help Wanted sign for a barman and barmaid is posted outside.
+- [[Places/Trollskull Smuggler's Passage]] now connects the cellar to the sewers; it is temporarily blocked from the cellar side.
 
 ## Known Facts
 
@@ -119,21 +120,31 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Aladeen posted a Help Wanted sign for a barman and barmaid.
 - The kitchen haunting moved pots and pans, frightened Miri, and wrote "I think we've got rats" in wall grime.
 
+## Session 11 Developments
+
+- Corvin and Miri served a trial dinner: excellent gurdats, solid Tahllap noodles, excellent tarnsar, and overdone Harvelveauplum bread pudding after the rat interruption.
+- The Underboughs' previous restaurant, the Goose's Fat, had closed and then burned down a few days later; no proof connects them to the fire.
+- Giant rats and rat swarms erupted from a hidden cellar door during dinner.
+- The party killed the rats and found a two-door hidden passage connecting the cellar to the sewer.
+- Evidence suggested someone or something opened the latched sewer-side door to let the rats through, then closed it behind them.
+- The party temporarily blocked the cellar-side door with old junk and barrels.
+- Dorgar performed a seance after dinner, with Davy as apprentice and Broethuul assisting effectively.
+- Lif answered directly, said he wants the manor restored, confirmed he is the only spirit present, revealed the smuggler's passage, and pointed the party to Fala for questions about strengthening him.
+- After the rite ended, Lif wrote "welcome" in grime behind the bar.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
-- What does Lif want?
+- How can the party best work with Lif now that he wants restoration and is willing to help?
 - How will the party raise repair funds?
 - What final name will the tavern use?
 - Who sent the floating eye or tried the upstairs window?
-- Is the haunting only Lif, or are the Mirthkettle/orphanage rumors also spiritually relevant?
+- Are the Mirthkettle/orphanage rumors spiritually irrelevant, or only not currently active inside the manor?
 - Has the party formally joined the Fellowship of Innkeepers, and what bylaws will apply?
 - What will it cost or take to repair/clear the chimney and make the hearth usable?
-- Will the party follow Dorgar's candle instructions, seek Kelemvorite exorcism, or try both?
-- What will Trollskull's ghosts say if contacted directly?
 - Will all five PCs sign the Cassalanter loan?
-- Will Corvin and Miri become staff, flee, or reveal another complication during dinner?
-- Are the rats a mundane kitchen problem or something more organized?
+- Will Corvin and Miri become staff after the rat-interrupted dinner?
+- Who sent the rats through the smuggler's passage, and how will the party secure the route?
 
 ## Sources
 
@@ -146,3 +157,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`

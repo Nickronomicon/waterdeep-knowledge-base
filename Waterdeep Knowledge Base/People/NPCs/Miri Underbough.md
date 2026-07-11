@@ -1,10 +1,12 @@
 ---
 type: npc
-status: trial-cook
+status: hire-decision-pending
 updated: 2026-07-10
 source_paths:
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/notes/dm-planning/session-11/outline.md
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - npc
@@ -18,10 +20,10 @@ Miri Underbough is a halfling cook or sous chef who came to [[Places/Trollskull 
 
 ## Current Status
 
-- Trial cook applicant at Trollskull Manor.
+- Trial cook applicant at Trollskull Manor; hire decision deferred until the morning after session 11.
 - More reserved than Corvin, with a practical but nervous manner.
 - Encountered the kitchen haunting before dinner and was badly frightened.
-- Has not yet completed the trial dinner in ingested transcript truth.
+- Helped complete the trial dinner, though the rat attack drove her outside for part of the aftermath.
 
 ## Session 10
 
@@ -32,6 +34,15 @@ Miri Underbough is a halfling cook or sous chef who came to [[Places/Trollskull 
 - [[People/PCs/Broethuul]] and [[People/PCs/Aladeen]] reassured her that the ghosts were helpful or at least manageable.
 - Asked whether she could wait outside until Corvin returned.
 
+## Session 11
+
+- Helped prepare and serve the Underbough trial dinner.
+- Called for help from the cellar when she discovered the rats.
+- Fled upstairs and then outside once the rat fight spilled into the manor.
+- Returned cautiously after Corvin called that the rats were gone.
+- Admitted the bread pudding had stayed on the stove during the rat emergency.
+- Left with Corvin after the party asked them to return the next morning for an answer.
+
 ## Name Notes
 
 The transcript renders her name as Miri/Miri Underbow. Use Miri Underbough from DM prep/session scaffold as canonical unless corrected.
@@ -40,4 +51,5 @@ The transcript renders her name as Miri/Miri Underbow. Use Miri Underbough from 
 
 - `../raw/notes/dm-planning/session-10/outline.md`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
-
+- `../raw/notes/dm-planning/session-11/outline.md`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`

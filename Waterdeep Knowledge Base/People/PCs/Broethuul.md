@@ -22,6 +22,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - pc
@@ -167,6 +168,16 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Treated the message "I think we've got rats" as helpful rather than hostile.
 - Reassured Miri by explaining that many spirits are simply people or presences rather than enemies.
 
+## Session 11 Table-Facing Notes
+
+- Investigated Miri's call for help and found giant rats and rat swarms in the cellar.
+- Activated a moonlit blood-hunter rite on his rapier, causing nearby creatures to shimmer and making his blade glow.
+- Killed one giant rat and later destroyed a rat swarm with rapier and rite damage.
+- Helped reason through the hidden passage, concluding that the latched sewer-side door implied someone or something had opened and closed it around the rat incursion.
+- Was especially invested in asking Lif what he wanted for Trollskull Manor and whether he could help restore it.
+- Assisted Dorgar's seance with strong arcane intuition, effectively anticipating parts of the rite.
+- Learned that Lif wants restoration, can still clean and wield a broom, and knows of the smuggler's passage.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -196,6 +207,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 
 ## Uncertainties
 

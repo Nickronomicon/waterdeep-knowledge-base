@@ -23,6 +23,7 @@ source_paths:
   - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/notes/dm-planning/session-7/outline.md
   - ../raw/notes/dm-planning/session-8/outline.md
   - ../raw/notes/dm-planning/session-10/outline.md
@@ -57,7 +58,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 8 | `../raw/notes/dm-planning/session-8/outline.md` | Remallia Haventree at Ulbrinter Villa, Harper follow-up, paper bird, Fala credit note, Corvin and Miri Underbough job approach. | Ingested into [[Sessions/Session 08 - 2026-04-30]]. Actual play resolved the Castle Ward prisoner as Thugby, reached Maxeene at Thomril & Sons, revealed Davil/Yagra spy-network information and the rock-gnome Stone lead, then ended after the arson attack. Remallia/Underbough material slid forward. |
 | 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md`; transcript sources | Maxeene report follow-up, Remallia/Ulbrinter Villa, Thalosmere archive handout, Trollskull ghost inquiry, Dorgar and the hidden Myrkul temple. | Ingested into [[Sessions/Session 09 - 2026-05-07]]. Actual play reported to Remallia, introduced Great Game framing and Harper support objects, then pursued ghost communication through the Plinth, Xoblob, and Dorgar. |
 | 10 | `../raw/notes/dm-planning/session-10/outline.md`; transcript sources | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Ingested into [[Sessions/Session 10 - 2026-06-11]]. Actual play began Dorgar's candle preparation, added Steam and Steel/Bent Nail errands, negotiated the Cassalanter loan, introduced the Underboughs, and stopped before dinner, signing, or seance. |
-| 11 | `../raw/notes/dm-planning/session-11/outline.md` | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Begin from session 10's Trollskull dinner setup and kitchen ghost rat warning; establish latest current state before session 12 prep. |
+| 11 | `../raw/notes/dm-planning/session-11/outline.md`; transcript sources | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Ingested into [[Sessions/Session 11 - 2026-06-25]]. Actual play reached dinner, rats, hidden sewer passage, and Dorgar's seance with Lif; Underbough hiring and loan delivery/signing slid forward. |
 
 ## Major Prep Threads To Track
 

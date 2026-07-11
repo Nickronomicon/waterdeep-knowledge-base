@@ -24,6 +24,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - pc
@@ -185,6 +186,15 @@ Cantrips:
 - Participated in the loan discussion but let Broethuul and Aladeen do most of the negotiation.
 - Did not object to the final 2,000 gp Cassalanter loan terms in session 10.
 
+## Session 11 Table-Facing Notes
+
+- Ate the Underbough trial dinner in full armor and found crispy cheese novel.
+- Fought rat swarms and giant rats in the cellar, with armor absorbing much of the swarm's damage.
+- Killed a giant rat with a morningstar strike and used Toll the Dead to wipe out rat swarms clinging to him.
+- Investigated the first secret passage after the fight and noticed the second hidden door at the apparent dead end.
+- Helped decide to bar or block the hidden cellar access before returning to dinner and the seance.
+- Watched Dorgar's seance from a skeptical distance with Elior.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -215,6 +225,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 
 ## Uncertainties
 

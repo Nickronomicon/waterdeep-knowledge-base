@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 10 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 11 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 10 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 11 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
@@ -73,7 +73,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 8 | 2026-04-30 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Ingested |
 | Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Ingested |
 | Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Ingested |
-| Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Prep scaffolded; transcript not ingested |
+| Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Ingested |
 
 ### Non-Campaign or Unclassified Sources
 
@@ -220,6 +220,7 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/Candle Lane Zhentarim Warehouse]]
 - [[Places/Xanathar Sewer Hideout]]
 - [[Places/Trollskull Manor]]
+- [[Places/Trollskull Smuggler's Passage]]
 - [[Places/Trollskull Alley]]
 - [[Places/Frewn's Brews]]
 - [[Places/Corellon's Crown]]
@@ -284,9 +285,9 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Complete the setup checklist in `../TODO.md`.
-2. Ingest sessions 8 through 11 in chronological order, pairing transcripts with [[Meta/DM Prep Source Map]].
-3. Continue expanding people, factions, places, objects, and timeline pages as each session is processed.
-4. Finalize [[Dashboard/Current Campaign State]] after session 11 is processed.
+2. Make the user's requested post-session-11 ingestion commit before broader finalizing tasks.
+3. Finalize [[Dashboard/Current Campaign State]] after that commit.
+4. Continue expanding people, factions, places, objects, and timeline pages as future sessions are processed.
 5. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
 6. Create a weekly prep workflow page once the next real session date is known.
 7. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.

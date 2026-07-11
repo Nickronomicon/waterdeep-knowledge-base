@@ -23,6 +23,7 @@ source_paths:
   - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
   - ../raw/notes/handouts/s7-scrap-of-note.md
@@ -55,9 +56,9 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
 | [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
-| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Loan negotiated, signature pending | Confirm magistrate status, sign or reject loan, pay guilds, manage haunting, staff tavern. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Loan negotiated, signature pending | Confirm magistrate status, sign or reject loan, pay guilds, hire staff, secure the new sewer passage. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
-| [[People/NPCs/Lif]] and the haunting | Whole party | Candles burning, warning given | Use Lif history, Mirthkettle rumors, kitchen warning, and [[Objects/Dorgar's Seance Candles]] to shape haunting. |
+| [[People/NPCs/Lif]] and the haunting | Whole party | Contacted, cooperative | Lif wants Trollskull restored, can clean/serve drinks, says he is alone, and pointed the party to Fala. |
 | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Local competition, guild tension, possible sabotage. |
 | [[Factions/Harpers]] / [[People/NPCs/Mirt]] / [[People/NPCs/Remallia Haventree]] | Whole party | Active faction track | Maxeene report delivered to Remallia; party has [[Objects/Remallia's Paper Bird]] and quiet support. |
 | [[Objects/Opera Invitation from Mirt]] | Whole party | Resolved as invitation; fallout active | Mirt meeting happened; watcher and ambush followed immediately after Box C. |
@@ -75,10 +76,11 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Factions/Fellowship of Innkeepers]] / tavern licensing | Whole party | New business obligation | [[People/NPCs/Broxley Fairkettle]] introduced guild dues, bylaws, and likely pressure if Trollskull opens outside the guild. |
 | [[Threads/Great Game]] | Whole party | Active frame | Remallia suspects the Stone, gangs, and noble-house references may indicate another Waterdhavian Great Game. |
 | [[Places/Ulbrinter Villa]] / Remallia support package | Whole party | Active support | Track Fala credit note, paper bird, lender list, cover story, and Thugby investigation. |
-| [[People/NPCs/Dorgar]] / [[Places/Last Temple of Myrkul]] | Whole party, especially [[People/PCs/Davy]] | Active, secret | Candle procedure began on Ches 5; Dorgar can attempt ghost contact once it finishes. |
-| [[People/NPCs/Corvin Underbough]] / [[People/NPCs/Miri Underbough]] | Whole party | Trial dinner in progress | Decide hire/no-hire after dinner; evaluate how they handle ghosts, ruined kitchen, and rats. |
+| [[People/NPCs/Dorgar]] / [[Places/Last Temple of Myrkul]] | Whole party, especially [[People/PCs/Davy]] | Active, secret | Dorgar's rite succeeded; preserve temple secrecy and track friction with Kelemvorite exorcism logic. |
+| [[People/NPCs/Corvin Underbough]] / [[People/NPCs/Miri Underbough]] | Whole party | Hire decision pending | Trial dinner showed skill, rats tested nerves, and the party asked them to return in the morning. |
 | [[Objects/Elior's Ghost Research Books]] / Kelemvorite exorcism | [[People/PCs/Elior Thalosmere]] | Private parallel track | Elior has quietly sought exorcism options while the rest of the party prepares Dorgar's seance. |
 | [[Places/Steam and Steel]] / [[Places/The Bent Nail]] | Whole party, especially Aladeen | Local business links | Pick up urchin bucklers, use forge credit, and commission furnishings once loan money arrives. |
+| [[Places/Trollskull Smuggler's Passage]] | Whole party | Newly discovered security threat | Determine who opened the latched sewer-side door, then seal, secure, exploit, or monitor the route. |
 
 ## Immediate Follow-Up
 
@@ -86,5 +88,6 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue session 11 from the Underbough trial dinner at Trollskull Manor on Ches 5, 1492 DR.
-- Track rat warning payoff, Underbough hire/no-hire, Cassalanter loan signature, guild payments, and Dorgar's seance after the candles finish.
+- Continue next play from the morning after Lif's seance at Trollskull Manor, still before the Cassalanter signing.
+- Track Underbough hire/no-hire, Cassalanter loan signature, guild payments, Tally's bucklers, Fala follow-up, and smuggler's-passage security.
+- Defer [[Dashboard/Current Campaign State]] finalization until after the user's post-session-11 ingest commit.

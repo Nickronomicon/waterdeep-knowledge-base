@@ -8,6 +8,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - npc
@@ -17,15 +18,29 @@ tags:
 
 # Lif
 
-Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NPCs/Fala Lefaliir]] and [[People/NPCs/Tally Fellbranch]] told the party that a half-elf named Lif once ran Trollskull as a tavern and died there roughly forty years ago.
+Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NPCs/Fala Lefaliir]] and [[People/NPCs/Tally Fellbranch]] told the party that a half-elf named Lif once ran Trollskull as a tavern and died there roughly forty years ago. In session 11, [[People/NPCs/Dorgar|Dorgar's]] seance confirmed Lif as the spirit present.
 
 ## Current Status
 
-- Haunting of Trollskull Manor is strongly confirmed by session 4.
-- Disposition appears reactive and possibly tavern-focused rather than immediately hostile.
-- The ghost seems to approve of reopening the tavern, or at least responds positively to the idea.
+- Haunting of Trollskull Manor is strongly confirmed by session 4 and identified as Lif in session 11.
+- Disposition is tavern-focused, lonely, and restoration-oriented rather than immediately hostile.
+- Lif wants the former glory of his home restored.
 - In session 5, after Broethuul formally addressed the manor and asked its denizens to help restore the tavern, old tankards set themselves upright, dust blew out of them, and brandy poured itself for the party.
 - In session 6, the party learned that many neighbors believe Lif is the ghost, though other rumors blame the old hag/orphanage stories.
+- In session 11, Lif said he is the only spirit currently inhabiting the manor.
+- Lif can still clean, wield a broom, serve drinks, and write warnings, but he says he can no longer greet guests.
+- Lif directed the party to [[People/NPCs/Fala Lefaliir]] for questions about strengthening him or understanding his ghostly limits.
+
+## Session 11 Seance
+
+- Dorgar opened contact after the seance candles finished on the evening of Ches 5.
+- Lif addressed the party as the new wardens of Trollskull Manor.
+- He said his only desire is restoration and the former glory of his home.
+- He confirmed there are no other spirits in the manor, saying he is alone.
+- He revealed the old [[Places/Trollskull Smuggler's Passage]] to the sewers and described it as mostly blocked off and unused since before his time.
+- He did not know how the party might strengthen him because he was never a priest or magician.
+- He told the party to tell Fala Lefaliir that Lif sends his regards.
+- After the rite ended, Lif wrote "welcome" in grime behind the bar.
 
 ## Session 10 Signs
 
@@ -57,11 +72,10 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. In
 
 ## Open Questions
 
-- When will the party learn Lif's name?
-- What does Lif want from the new owners?
+- What does Fala know about Lif and the limits of his haunting?
 - Can the haunting become a working part of the tavern rather than a threat?
-- Is the kitchen presence Lif, another staff spirit, or a different phenomenon?
-- What rats did the spirit mean?
+- Can Lif be strengthened safely, and would strengthening him change his nature?
+- How much does Lif know about recent intrusions if he cannot always communicate?
 
 ## Sources
 
@@ -70,3 +84,4 @@ Lif is the likely identity of the ghost haunting [[Places/Trollskull Manor]]. In
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`

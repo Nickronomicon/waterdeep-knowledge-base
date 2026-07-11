@@ -22,6 +22,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
 tags:
   - waterdeep
   - pc
@@ -192,6 +193,15 @@ Cantrips:
 - Made a strong Help Wanted sign for a barman and barmaid using charcoal on scrap wood.
 - Helped reassure [[People/NPCs/Miri Underbough]] after the kitchen ghost frightened her.
 
+## Session 11 Table-Facing Notes
+
+- Cast Sleep on multiple rat swarms during the Trollskull cellar fight, buying the party time to control the incursion.
+- Used Healing Word on Broethuul and several Vicious Mockery insults against the rat swarms.
+- Tried to keep the rats away from Corvin and Miri after the fight moved upstairs.
+- Suggested sending the Underboughs away before Dorgar's seance rather than involving prospective staff in the rite.
+- Offered folklore-flavored advice during the seance that Dorgar politely acknowledged without using.
+- Gave Elior Bardic Inspiration during the rat fight.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -222,6 +232,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 
 ## Uncertainties
 

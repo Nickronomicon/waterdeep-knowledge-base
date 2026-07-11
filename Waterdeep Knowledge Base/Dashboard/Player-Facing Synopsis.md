@@ -16,6 +16,7 @@ source_paths:
   - ../raw/notes/handouts/s9-Maxeene-info.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -26,6 +27,7 @@ source_paths:
   - Sessions/Session 08 - 2026-04-30.md
   - Sessions/Session 09 - 2026-05-07.md
   - Sessions/Session 10 - 2026-06-11.md
+  - Sessions/Session 11 - 2026-06-25.md
 tags:
   - waterdeep
   - synopsis
@@ -337,3 +339,47 @@ The ghost answered in grime on the wall:
 "I think we've got rats."
 
 So our heroes ended the session with a loan negotiated but unsigned, two thousand dragons due to arrive tomorrow, guilds gathering, cooks on trial, a Help Wanted sign outside, Dorgar's candles burning upstairs, Elior quietly researching something he was not fully explaining, and the manor itself offering its first kitchen note. Trollskull is not open yet, but it is already managing to have staffing problems, financing problems, pest problems, and ghosts with opinions. In other words, hospitality has begun.
+
+## Session 11
+
+Dinner at Trollskull began under promising circumstances, which is to say the building did not immediately collapse, nobody had yet been bitten, and the prospective cooks were still willing to use the kitchen after being warned by wall grime.
+
+Corvin and Miri Underbough set out to prove themselves with a tour of comfort food and tavern fare. First came gurdats, pan-fried mushrooms and cheese, crisped and seasoned well enough that even Jonathan's confusion over why food could sound like bones breaking did not dim the achievement. Then came Tahllap noodles, hot and tangy with vegetables and goat cheese: solid, cheap, drink-friendly food of the sort a tavern can actually sell without bankrupting itself in cheese. The main event was tarnsar, a roasted boar dish with potatoes, onions, herbs, glaze, and just enough sweetness to make it feel like festival food. Corvin, despite the pantry, the kitchen, and the general condition of everything, could cook.
+
+He could also worry. A few of the party caught how badly he needed this job. His last place, the Goose's Fat, had closed under bad management and then burned down a few days later. This was not exactly reassuring, but neither was it proof of anything beyond Waterdeep's usual habit of turning employment history into a mystery.
+
+Then Miri called from the cellar.
+
+The good news: the ghost had been right. The bad news: the ghost had been right about rats.
+
+Not little rats, either. Giant rats. Rat swarms. Rats boiling out of a hidden cellar door in such numbers that "infestation" felt too gentle and "invasion" became more accurate. Broethuul drew his rapier through blood and moonlight, turning himself and several nearby combatants into an alarming shimmer of magical visibility. Aladeen tried to sing the rats to sleep and then insulted them with increasingly committed alliteration. Jonathan discovered that full armor is an excellent dinner choice when one is suddenly covered in rodents. Davy shot, stabbed, and eventually wore part of the swarm. Elior, in the absence of his player but not his problems, screamed, burned rats with divine glyph-magic, was badly bitten, and then sprayed the last clinging rats off Davy in a fine green mist.
+
+The rats died. The outfits suffered.
+
+Behind the secret door was a short hidden passage, and behind that was another hidden door into the city sewers. Davy got it open. The unpleasant part was not that Trollskull had an old route to the sewers. Honestly, that almost felt on brand. The unpleasant part was that the sewer-side door had been shut and latched when the party reached it, while the passage between the doors showed clear signs of a great many rats passing through. Unless the rats have been quietly attending locksmith school, someone or something had opened the way for them.
+
+The party blocked the cellar-side door as best they could with junk and old barrels, which is not permanent security but is at least the kind of problem that makes noise if it becomes worse.
+
+Dessert, sadly, had lost its moment. Corvin's bread pudding with Harvelveauplum sauce should have been a halfling specialty: sweet, spicy, rich, a little bright with fruit and pepper. Instead, after the rat fight, everything smelled like rat and the pudding had stayed on the stove too long. The party did not hold this against him. They also did not hire the Underboughs on the spot. Corvin and Miri were asked to return in the morning, which left them cautiously hopeful and left the kitchen, to Corvin's visible pain, still dirty.
+
+Then Dorgar came downstairs.
+
+The party sent the Underboughs away before beginning the seance, because there is hospitality and then there is inviting job applicants to watch your friend from a secret Myrkulite temple draw a salt circle in the taproom and call to the dead. Dorgar cleared a space, shaped the salt into a pattern that the eye did not quite want to understand, placed the spent candle stubs at the center, and warned everyone how the rite might go. The spirit might speak directly. It might speak through him. It might refuse to come. If it answered, there would be five questions.
+
+Davy helped as Dorgar's apprentice. Broethuul, perhaps to nobody's surprise and everybody's concern, proved very good at helping with a magical rite when the rite had rules to feel out. Aladeen contributed folklore. Dorgar politely let that folklore pass by.
+
+The lights dimmed. The salt glowed upward. The air smelled sweet and floral, like funeral flowers from somewhere far away. Bells rang faintly in the distance. And a voice spoke from the center of the circle, faint and unused, asking what the new wardens of Trollskull Manor would ask of him.
+
+The ghost wanted restoration. The former glory of his home.
+
+He could still help a little. He could clean. He could serve drinks. He could wield a broom. To his shame, he could no longer greet guests.
+
+There were no other spirits in the manor. Just him. Alone.
+
+He knew the cellar secret: an old smuggler's passage to the sewers, mostly blocked and unused since before his time.
+
+And when asked whether he could be strengthened, he did not know. He was never a priest or a magician. Fala Lefaliir might know more. Tell Fala, he said, that Lif sends his regards.
+
+So our heroes ended the night not with a loan signed, not with guilds paid, not with a tavern staffed, but with something maybe better: a name, a welcome, and a ghost who wants the same impossible thing they do. Trollskull Manor is still broken. It has a sewer door, a rat problem, a pending loan, unwashed dishes, and a tomorrow full of business decisions. But behind the bar, in grime, one word appeared after the lights came back:
+
+Welcome.

@@ -72,7 +72,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 7 | `../raw/notes/dm-planning/session-7/outline.md` | Ingested into [[Sessions/Session 07 - 2026-04-16]] and [[Meta/DM Prep Source Map]]. Actual play assigned the Maxeene mission but did not reach Thomril & Sons Cartage or the prepped Zhent response team. |
 | Session 8 | `../raw/notes/dm-planning/session-8/outline.md` | Ingested into [[Sessions/Session 08 - 2026-04-30]] and [[Meta/DM Prep Source Map]]. |
 | Session 10 | `../raw/notes/dm-planning/session-10/outline.md` | Ingested into [[Sessions/Session 10 - 2026-06-11]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
-| Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Ingested into [[Sessions/Session 11 - 2026-06-25]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
+| Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Ingested into [[Sessions/Session 11 - 2026-06-25]] and [[Meta/DM Prep Source Map]]. Current-state finalization intentionally deferred until after the post-ingestion commit. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 
@@ -114,7 +114,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 | 8 | `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt` | `../raw/json_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.json` | Ingested into [[Sessions/Session 08 - 2026-04-30]] |
 | 9 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Ingested into [[Sessions/Session 09 - 2026-05-07]] |
 | 10 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Ingested into [[Sessions/Session 10 - 2026-06-11]] |
-| 11 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Not ingested |
+| 11 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Ingested into [[Sessions/Session 11 - 2026-06-25]] |
 
 Important caveat from `../raw/notes/technical-notes.md`: transcript speaker labels are unreliable and should not be treated as stable evidence of who spoke.
 
@@ -143,7 +143,8 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Session transcript 11, paired with same-session prep notes from [[Meta/DM Prep Source Map]].
-2. Active handouts/clue objects as they arise during session ingest.
-3. Revisit [[Dashboard/Current Campaign State]] after session 11 is ingested.
-4. Remix structures and original adventure reference pages once current campaign state is established.
+1. Post-session-11 commit requested by the user before broader finalization.
+2. Revisit [[Dashboard/Current Campaign State]] after the commit.
+3. Session 12 transcript/notes when added.
+4. Active handouts/clue objects as they arise during session ingest.
+5. Remix structures and original adventure reference pages once current campaign state is established.
