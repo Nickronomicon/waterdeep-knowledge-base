@@ -1,6 +1,7 @@
 ```yaml
 target-audience: Broethuul
-revealed: no
+revealed: yes
+session: 12
 ```
 # The Amberleaf Dispatch
 *A Whisper Folded in Autumn*
