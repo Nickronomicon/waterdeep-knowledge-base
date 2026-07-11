@@ -1,8 +1,8 @@
 ---
 type: meta
 status: current
-updated: 2026-07-10
-source_commit: 99dcfb8
+updated: 2026-07-11
+source_commit: 6fad85b
 tags:
   - waterdeep
   - inventory
@@ -10,18 +10,18 @@ tags:
 
 # Raw Source Inventory
 
-Inventory of `../raw/` after commit `99dcfb8` (`Ingests the-crommor-warning-handout.md.`). Raw sources were read and classified only; no files under `../raw/` were edited.
+Inventory of `../raw/` after commit `6fad85b`. Raw sources were read and classified only; no files under `../raw/` were edited.
 
 ## Summary
 
-`../raw/` currently contains 206 files:
+`../raw/` currently contains 210 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 49 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 51 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
-| `.txt` | 10 | Text transcripts for Waterdeep sessions 2-11 |
-| `.json` | 10 | JSON transcripts for Waterdeep sessions 2-11 |
+| `.txt` | 11 | Text transcripts for Waterdeep sessions 2-12 |
+| `.json` | 11 | JSON transcripts for Waterdeep sessions 2-12 |
 | `.png` | 101 | Original adventure images and maps |
 | `.jpg` | 30 | Original adventure images and maps |
 
@@ -73,6 +73,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 8 | `../raw/notes/dm-planning/session-8/outline.md` | Ingested into [[Sessions/Session 08 - 2026-04-30]] and [[Meta/DM Prep Source Map]]. |
 | Session 10 | `../raw/notes/dm-planning/session-10/outline.md` | Ingested into [[Sessions/Session 10 - 2026-06-11]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
 | Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Ingested into [[Sessions/Session 11 - 2026-06-25]] and [[Meta/DM Prep Source Map]]. Current-state finalization intentionally deferred until after the post-ingestion commit. |
+| Session 12 | `../raw/notes/dm-planning/session-12/outline.md`; `../raw/notes/dm-planning/session-12/force-grey.md` | Ingested into [[Sessions/Session 12 - 2026-07-09]] and [[Meta/DM Prep Source Map]]. Actual play used the loan/renovation and Force Grey harbor material, while the smuggler's-passage combat stayed unused. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 
@@ -95,13 +96,13 @@ These are record copies of player-facing or player-targeted handouts. The vault 
 | `../raw/notes/handouts/s7-scrap-of-note.md` | Scrap of note. | Revealed in session 7; ingested into [[Objects/Scrap of Note]]. |
 | `../raw/notes/handouts/s9-Maxeene-info.md` | Maxeene information. | Revealed in session 9; ingested into [[Objects/Maxeene Information Handout]], [[People/NPCs/Maxeene]], [[People/NPCs/Remallia Haventree]], and clue tracking. |
 | `../raw/notes/handouts/s9-thalosmere-archive-report.md` | Thalosmere archive report on Lady Remallia Haventree. | Revealed privately to Elior in session 9; ingested into [[Objects/Thalosmere Archive Report on Remallia Haventree]], [[People/PCs/Elior Thalosmere]], [[People/NPCs/Remallia Haventree]], and [[Threads/House Thalosmere Divine Correction]]. |
-| `../raw/notes/handouts/the-amberleaf-dispatch.md` | Amberleaf Dispatch. | Object/handout page; track encoded or partial state. |
-| `../raw/notes/handouts/the-amberleaf-dispatch-revealed.md` | Revealed Amberleaf Dispatch. | Object/handout page; track decoded/revealed state and recipients. |
+| `../raw/notes/handouts/s12-the-amberleaf-dispatch.md` | Amberleaf Dispatch, revealed privately to Broethuul in session 12. | Ingested into [[Objects/The Amberleaf Dispatch]], [[People/PCs/Broethuul]], and [[Threads/Broethuul and the Autumn Court]]. |
+| `../raw/notes/handouts/the-amberleaf-dispatch-revealed.md` | Revealed Amberleaf Dispatch variant. | Tracked as related to [[Objects/The Amberleaf Dispatch]]; session 12 transcript did not establish every variant line as table-revealed. |
 | `../raw/notes/handouts/the-crommor-warning.md` | Unrevealed Davy handout containing the recovered warning hidden inside the Crommor bugle for Laeral Silverhand. | Ingested into [[Objects/The Crommor Warning]], [[People/PCs/Davy]], [[Threads/Cassalanter Warning in the Bugle]], and [[Threads/Crommor Incident]]. |
 
 ## Session Transcripts
 
-Recorded Waterdeep transcripts exist for sessions 2-11:
+Recorded Waterdeep transcripts exist for sessions 2-12:
 
 | Session | Text Path | JSON Path | Ingest Status |
 |---|---|---|---|
@@ -115,6 +116,7 @@ Recorded Waterdeep transcripts exist for sessions 2-11:
 | 9 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Ingested into [[Sessions/Session 09 - 2026-05-07]] |
 | 10 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Ingested into [[Sessions/Session 10 - 2026-06-11]] |
 | 11 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Ingested into [[Sessions/Session 11 - 2026-06-25]] |
+| 12 | `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt` | `../raw/json_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.json` | Ingested into [[Sessions/Session 12 - 2026-07-09]] |
 
 Important caveat from `../raw/notes/technical-notes.md`: transcript speaker labels are unreliable and should not be treated as stable evidence of who spoke.
 
@@ -143,8 +145,8 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Post-session-11 commit requested by the user before broader finalization.
+1. Post-session-12 commit requested by the user before broader finalization.
 2. Revisit [[Dashboard/Current Campaign State]] after the commit.
-3. Session 12 transcript/notes when added.
+3. Prepare for session 13 transcript/notes when added.
 4. Active handouts/clue objects as they arise during session ingest.
 5. Remix structures and original adventure reference pages once current campaign state is established.

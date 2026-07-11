@@ -2,7 +2,7 @@
 type: dashboard
 status: active
 audience: players
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -17,6 +17,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -28,6 +29,7 @@ source_paths:
   - Sessions/Session 09 - 2026-05-07.md
   - Sessions/Session 10 - 2026-06-11.md
   - Sessions/Session 11 - 2026-06-25.md
+  - Sessions/Session 12 - 2026-07-09.md
 tags:
   - waterdeep
   - synopsis
@@ -383,3 +385,51 @@ And when asked whether he could be strengthened, he did not know. He was never a
 So our heroes ended the night not with a loan signed, not with guilds paid, not with a tavern staffed, but with something maybe better: a name, a welcome, and a ghost who wants the same impossible thing they do. Trollskull Manor is still broken. It has a sewer door, a rat problem, a pending loan, unwashed dishes, and a tomorrow full of business decisions. But behind the bar, in grime, one word appeared after the lights came back:
 
 Welcome.
+
+## Session 12
+
+Morning at Trollskull began with the sort of damp, sawdust-adjacent optimism that only a haunted renovation project can provide. Lif had written Welcome behind the bar. The tavern still smelled like rats, old water, and last night's interrupted dinner, but it also felt, inconveniently and sincerely, like home.
+
+Before the Cassalanter money arrived, the party went to Corellon's Crown to deliver Lif's message. Fala heard that the ghost of Trollskull had spoken and went very still. They remembered Lif not as a monster or a rumor, but as a good man who wanted to make the old manor into a tavern for the alley, the ward, and the city. He died before he ever really got to open it. Fala promised to look into what might help him now, though "strengthen a ghost" is not exactly a standard apothecary request.
+
+The children, meanwhile, were missing. This was briefly alarming and then became alarming in the more specific way where neighbors reported that Nat, Jenks, and Squiddly had gone off "on adventure" armed with a growing quantity of questionable household weaponry. They returned later with cuts, scrapes, bruises, and the immediate conclusion that the giant chest of Cassalanter gold proved adventure pays. This may require follow-up parenting, or at least follow-up accounting.
+
+The Underboughs returned too, and this time the answer was yes. Corvin and Miri were hired for the kitchen, at a rate that Aladeen confirmed was fair and perhaps even generous to the party once the tavern actually opened. Corvin took the news with visible relief and went straight back to work, which is probably the healthiest possible response to employment at a building with a sewer door and a ghost coworker.
+
+Then came the money. Willifort Crowelle arrived on behalf of the Cassalanters with porters, papers, and two thousand dragons in a chest. Elior read the contract and found it painfully, almost suspiciously straightforward: interest begins after opening, forty dragons per tenday for the first four months if the principal stays unpaid, sixty after that. Since the party had not yet formed a legal company with a name grand enough to borrow money, everyone signed individually. The tavern, at last, had funding.
+
+And then the city did something rare and let several days pass in a mostly productive blur.
+
+Trollskull changed shape. Guild workers patched walls and windows. Tally and his apprentices brought beams and furniture. Embric and Avi installed kitchen fittings while debating whether the previous ones had merely been unsafe or actively malicious. Fala brought herbs for the cellar and left a note for Lif. Lif helped in the ways he could: doors latched, mugs righted themselves, dust found its way into piles instead of drinks. Corvin tested food. Miri sorted what was usable from what was moldy in ways best not investigated by poetry.
+
+By Ches 12, the place was still not open, but it was no longer a ruin pretending to be a tavern. It was becoming one.
+
+Naturally, this meant it was time to go underwater.
+
+Jonathan received a Sending from Vajra Safahr: a bronze dragon had been spotted in Deepwater Harbor. It had startled sailors but hurt no one. The assignment was not to kill it, which is a helpful clarification when paladins and dragons appear in the same sentence. The party was to investigate, learn its intentions, and report to the Drowned Lantern before dusk.
+
+At the Drowned Lantern, Elra Harsard provided five potions of water breathing and the sort of briefing that can be summarized as "please remember that friendly does not mean harmless." Unfortunately, a few nearby professionals in the fields of salvage, theft, and poor timing noticed the potions too. They wanted dragon treasure. The party had the means to reach dragon treasure. A negotiation occurred, in the same way that falling down stairs is technically a descent.
+
+Aladeen solved the boss problem with Suggestion, sending him calmly away to reconsider his afternoon. The rest of the crew did not follow instructions nearly as well. Cutpurses lunged for potions, dock bruisers swung heavy weapons, and a gazer popped up from under the pier because apparently no Waterdeep errand is complete until a small floating eye tries to ruin it. Jonathan killed the thief who stole his potion and got it back. Broethuul briefly lost his alchemy kit to a thief who had badly misunderstood the assignment, then recovered it by way of rapier. Elior threw thunder and healing around the dock. Aladeen put an arrow through the gazer badly enough that Davy was able to finish it at very close range.
+
+When the bodies settled, one escaped cutpurse and one magically dismissed boss remained future problems. One dead thief carried a crude Xanathar symbol, because the city likes to sign its complications. Elra, who had not intervened, seemed neither surprised nor impressed. This was, she explained, why the Watch had not been invited.
+
+Then the party drank the potions and entered Deepwater Harbor.
+
+The harbor below was green-black, cold, and strange, full of dim light, fish, old wreckage, and the flash of bronze scales. The dragon was Zelifarn: young, curious, dramatic, and much more interested in stories, questions, shiny oddities, and the behavior of air-breathers than in burning the city down. He had not sunk any ships. The wreck was older than he was. He liked thieves because they brought treasure to him by trying to steal his. Aladeen gave him a silver piece, which was received with the gravity some nobles reserve for land grants.
+
+The party learned, after some very wet diplomacy, that Zelifarn was not a threat to Waterdeep so much as a powerful, bored, collecting-minded neighbor with excellent lungs and a loose relationship to property law. He was open to friendship. He was not interested in spying as a job. He was very much not interested in mind flayers.
+
+Then he noticed Broethuul.
+
+According to Zelifarn, Broethuul smelled like a wrong-water door. Another door-smelling visitor had come near the harbor, passed briefly through a strange threshold, and left something for him: an autumn leaf, bright and persistent beneath the water. Zelifarn delivered it with surprising ceremony. Broethuul recognized that it was more than a leaf and kept its meaning close for the moment. The rest of the party saw enough to know that something had found him. They did not yet know what it said.
+
+The report back to Elra was simple enough: the dragon was curious, not hostile, and probably best watched rather than attacked. Elra accepted that, gave the party five spare water-breathing potions, and implied Vajra would call again if the city needed them.
+
+The session then let time move again. By the morning of Ches 16, Trollskull Manor had crossed the line from abandoned landmark to almost-tavern. The outside was painted. The bar was sanded. The hearth worked. The kitchen smelled like onions, yeast, and hot iron instead of regret. The cellar was improving. Lif wrote Welcome on a chalkboard every morning, and when asked whether he could leave the manor, he circled N and turned it into a frowny face. Clear, sad, efficient.
+
+Only one major thing was missing: the tavern still needed a name and sign.
+
+Across the alley, Frewn's Brews had an answer of its own. A fresh poster promised a grand opening soon: real drinks, living staff, no ghosts.
+
+So our heroes ended the session on the morning of Ches 16, three days from opening, with a signed loan, hired cooks, a helpful ghost, a rival tavern talking trash in print, five spare water-breathing potions, a bronze dragon acquaintance under the harbor, and an autumn leaf in Broethuul's hands. Trollskull is almost ready for customers. Which means, in Waterdeep terms, that everyone should be extremely calm.

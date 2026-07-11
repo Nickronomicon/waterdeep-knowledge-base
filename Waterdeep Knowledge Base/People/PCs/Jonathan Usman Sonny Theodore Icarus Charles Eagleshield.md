@@ -9,7 +9,7 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
@@ -25,6 +25,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - pc
@@ -195,6 +196,15 @@ Cantrips:
 - Helped decide to bar or block the hidden cellar access before returning to dinner and the seance.
 - Watched Dorgar's seance from a skeptical distance with Elior.
 
+## Session 12 Table-Facing Notes
+
+- Signed the [[Objects/Cassalanter Loan]] after [[People/NPCs/Willifort Crowelle]] delivered the documents and funds.
+- Received [[People/NPCs/Vajra Safahr|Vajra's]] Sending about the bronze dragon in [[Places/Deepwater Harbor]] and correctly recognized it as Gray Hands/Force Grey business.
+- Recovered his stolen water-breathing potion by killing the cutpurse who took it.
+- Fought through the Drowned Lantern dock fight in armor and helped keep the salvage crew from reaching the dragon.
+- Entered Deepwater Harbor with the party and introduced his full name to [[People/NPCs/Zelifarn]], who judged it too many names.
+- Helped report that Zelifarn was not hostile to Waterdeep.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -226,6 +236,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 
 ## Uncertainties
 

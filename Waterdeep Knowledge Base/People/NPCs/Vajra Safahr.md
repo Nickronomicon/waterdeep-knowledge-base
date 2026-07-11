@@ -1,12 +1,14 @@
 ---
 type: npc
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/dm-planning/session-4/vajra_recruitment.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/notes/dm-planning/session-12/force-grey.md
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - npc
@@ -30,6 +32,7 @@ Vajra Safahr is the Blackstaff of Waterdeep. She summoned the party to [[Places/
 - Told the party to preserve the grell evidence and not hand it to the Watch yet.
 - Sent a Blackstaff-embroidered pouch containing 30 gold dragons to [[Places/Trollskull Manor]] as payment or reimbursement.
 - Contacted Davy with follow-up about the receipt address; the exact address/name is not captured in the transcript.
+- Contacted Jonathan in session 12 with a new Gray Hands assignment: investigate [[People/NPCs/Zelifarn]], a bronze dragon in [[Places/Deepwater Harbor]], and report to [[People/NPCs/Laraelra Harsard]] at [[Places/Drowned Lantern]].
 
 ## Party-Specific Knowledge Displayed
 
@@ -46,6 +49,7 @@ Vajra Safahr is the Blackstaff of Waterdeep. She summoned the party to [[Places/
 - Who were the watchers following the party to Blackstaff Tower?
 - How will Vajra assess the grell response, given the dead monster but public panic and Watch attention?
 - What did Vajra learn from briefly inspecting or magically tracing the receipt and note fragment?
+- How does Vajra judge the party's report that Zelifarn is curious but not hostile?
 
 ## Sources
 
@@ -53,3 +57,5 @@ Vajra Safahr is the Blackstaff of Waterdeep. She summoned the party to [[Places/
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/notes/dm-planning/session-12/force-grey.md`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

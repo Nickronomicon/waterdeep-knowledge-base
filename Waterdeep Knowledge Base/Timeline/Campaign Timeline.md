@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: draft
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -14,6 +14,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - timeline
@@ -38,6 +39,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 | [[Sessions/Session 09 - 2026-05-07]] | 2026-05-07 | Ches 4, 1492 DR | Party returns to Trollskull, receives Remallia's Ulbrinter summons, reports Maxeene's information and the Scrap of Note at Ulbrinter Villa, learns the Great Game frame, receives Harper support objects, seeks ghost communication at the Plinth and Xoblob's, meets Dorgar in the City of the Dead, discovers the Last Temple of Myrkul, and receives seance-candle instructions. |
 | [[Sessions/Session 10 - 2026-06-11]] | 2026-06-11 | Ches 5, 1492 DR | Davy begins Dorgar's candle rite, Elior privately seeks Kelemvorite exorcism and ghost research books, the party visits Steam and Steel and The Bent Nail, Aladeen commissions urchin bucklers, Aladeen/Broethuul/Jonathan negotiate a 2,000 gp Cassalanter loan, Corvin and Miri Underbough arrive for a trial dinner, and the kitchen ghost warns of rats. |
 | [[Sessions/Session 11 - 2026-06-25]] | 2026-06-25 | Ches 5, 1492 DR | The Underboughs serve their trial dinner, rats erupt from a hidden cellar passage, the party discovers a smuggler's route to the sewers, Dorgar performs the seance, Lif confirms he wants Trollskull restored, and the night ends with Lif's "welcome" message. |
+| [[Sessions/Session 12 - 2026-07-09]] | 2026-07-09 | Ches 6-16, 1492 DR | Party tells Fala about Lif, hires the Underboughs, signs the Cassalanter loan, renovates Trollskull through major time skips, completes a Gray Hands mission in Deepwater Harbor, meets Zelifarn, receives Broethuul's Amberleaf Dispatch, and ends three days before opening with Frewn counter-advertising. |
 
 ## Open Chronology Questions
 
@@ -48,11 +50,13 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 - Whether the Watch responds to the Castle Ward ambush or the Thomril & Sons arson.
 - Exact final damage to Thomril & Sons after the burning-stable fight.
 - Whether Thugby reports to anyone after fleeing the second time, and what Remallia's manservant learns about him.
-- Whether all PCs sign the Cassalanter loan and how much is immediately paid to guilds.
-- Whether Corvin and Miri are hired after the completed trial dinner.
+- How much Cassalanter loan cash remains after renovation/guild payments.
 - Who used the Trollskull smuggler's passage to release rats, and how the party secures it.
 - What Fala knows about Lif and whether he can be strengthened.
 - Whether Tally's bucklers are picked up before the urchins cause another weapon-training incident.
+- What happened during the urchins' offscreen "adventure" on Ches 5-6.
+- Whether the escaped Drowned Lantern cutpurse or salvage boss reports the Gray Hands harbor mission.
+- Whether Broethuul shares the Amberleaf Dispatch with the rest of the party.
 
 ## Sources
 
@@ -67,3 +71,4 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

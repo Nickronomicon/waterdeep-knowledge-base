@@ -7,7 +7,7 @@ class: Bard
 subclass: College of Eloquence
 species: Human
 background: Entertainer
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
@@ -23,6 +23,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - pc
@@ -202,6 +203,17 @@ Cantrips:
 - Offered folklore-flavored advice during the seance that Dorgar politely acknowledged without using.
 - Gave Elior Bardic Inspiration during the rat fight.
 
+## Session 12 Table-Facing Notes
+
+- Helped deliver Lif's message to [[People/NPCs/Fala Lefaliir]] and asked about practical ways to bless or support the manor's spirits before opening.
+- Took the long way through the neighborhood to look for [[People/NPCs/Nat]], [[People/NPCs/Jenks]], and [[People/NPCs/Squiddly]] after learning they had gone adventuring.
+- Helped evaluate the Underboughs' requested pay and judged it fair.
+- Signed the [[Objects/Cassalanter Loan]].
+- Used Suggestion on the salvage boss at [[Places/Drowned Lantern]], sending him away from the dragon hoard plan.
+- Kept the party alive during the dock fight and badly wounded the gazer with a strong shortbow shot before Davy finished it.
+- Gave [[People/NPCs/Zelifarn]] a silver piece for his treasure collection and tried to turn the dragon into a friendly information contact.
+- After the final time skip, arranged a chalkboard for [[People/NPCs/Lif]] and learned Lif cannot leave Trollskull Manor.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -233,6 +245,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 
 ## Uncertainties
 

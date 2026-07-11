@@ -1,7 +1,7 @@
 ---
 type: meta
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -28,6 +28,10 @@ source_paths:
   - ../raw/notes/dm-planning/session-8/outline.md
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/notes/dm-planning/session-11/outline.md
+  - ../raw/notes/dm-planning/session-12/outline.md
+  - ../raw/notes/dm-planning/session-12/force-grey.md
+  - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/stats.md
   - ../raw/notes/technical-notes.md
 tags:
@@ -59,6 +63,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md`; transcript sources | Maxeene report follow-up, Remallia/Ulbrinter Villa, Thalosmere archive handout, Trollskull ghost inquiry, Dorgar and the hidden Myrkul temple. | Ingested into [[Sessions/Session 09 - 2026-05-07]]. Actual play reported to Remallia, introduced Great Game framing and Harper support objects, then pursued ghost communication through the Plinth, Xoblob, and Dorgar. |
 | 10 | `../raw/notes/dm-planning/session-10/outline.md`; transcript sources | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Ingested into [[Sessions/Session 10 - 2026-06-11]]. Actual play began Dorgar's candle preparation, added Steam and Steel/Bent Nail errands, negotiated the Cassalanter loan, introduced the Underboughs, and stopped before dinner, signing, or seance. |
 | 11 | `../raw/notes/dm-planning/session-11/outline.md`; transcript sources | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Ingested into [[Sessions/Session 11 - 2026-06-25]]. Actual play reached dinner, rats, hidden sewer passage, and Dorgar's seance with Lif; Underbough hiring and loan delivery/signing slid forward. |
+| 12 | `../raw/notes/dm-planning/session-12/outline.md`; `force-grey.md`; `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`; transcript sources | Loan signing, renovation montage, possible smuggler's-passage combat, Force Grey bronze-dragon mission, Amberleaf handout. | Ingested into [[Sessions/Session 12 - 2026-07-09]]. Actual play resolved Fala/Lif, Underbough hiring, loan signing, renovation time skips, the Drowned Lantern fight, Zelifarn, Broethuul's Amberleaf Dispatch, and Frewn's counter-ad. Smuggler's-passage combat and Tissina Khyret did not enter transcript truth. |
 
 ## Major Prep Threads To Track
 
@@ -73,6 +78,8 @@ When a session transcript is processed, pair it with the row below. Promote only
 - Underbough infiltration as tavern-staff opportunity and hidden sabotage risk.
 - Stone of Golorr clue state, especially the note from the theater/ambush prep.
 - Dorgar/Myrkul ghost-contact track and whether it collides with Kelemvorite or Lathanderite expectations.
+- Zelifarn, Deepwater Harbor, and Gray Hands contact paths as a new dragon/faction surface.
+- Broethuul's Amberleaf Dispatch as a private bridge between the Autumn Court, the Stone/Eye, the Crommor horn, and Cassalanter-adjacent contract imagery.
 
 ## Handouts Likely Paired With Session Ingest
 
@@ -82,6 +89,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 5 | `../raw/notes/handouts/s6-cargo-chit.md`; `../raw/notes/handouts/s6-note-fragment.md` | Dock Ward grell/crate clue objects revealed early in session 5 despite filenames. |
 | 7 | `../raw/notes/handouts/s7-scrap-of-note.md` | Revealed after the Castle Ward ambush; ingested into [[Objects/Scrap of Note]]. |
 | 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md` | Maxeene, Remallia, Harpers, and House Thalosmere reveal tracking. |
+| 12 | `../raw/notes/handouts/s12-the-amberleaf-dispatch.md` | Revealed privately to Broethuul by Zelifarn; ingested into [[Objects/The Amberleaf Dispatch]] and [[Threads/Broethuul and the Autumn Court]]. |
 
 ## Transcript Pass Checklist
 

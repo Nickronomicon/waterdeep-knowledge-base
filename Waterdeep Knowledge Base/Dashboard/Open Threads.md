@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -24,6 +24,10 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/notes/dm-planning/session-12/outline.md
+  - ../raw/notes/dm-planning/session-12/force-grey.md
+  - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
   - ../raw/notes/handouts/s7-scrap-of-note.md
@@ -47,7 +51,7 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Aladeen and the Crommor Collapse]] | [[People/PCs/Aladeen]], [[People/PCs/Davy]] | Dormant until revealed | Redemption or rupture through performance. |
 | [[Threads/Jonathan and House Crommor]] | [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]], [[People/PCs/Davy]] | Dormant until revealed | Test of justice, punishment, and noble duty. |
 | [[Threads/House Thalosmere Divine Correction]] | [[People/PCs/Elior Thalosmere]] | Active observation | Divine anomaly logic, Remallia archive report, lingering-soul ethics. |
-| [[Threads/Broethuul and the Autumn Court]] | [[People/PCs/Broethuul]] | Active but distant | Fey portal, lost court, non-infernal anomaly contrast. |
+| [[Threads/Broethuul and the Autumn Court]] | [[People/PCs/Broethuul]] | Active, private handout revealed | Fey portal, lost court, Amberleaf Dispatch, Stone/Eye memory, non-infernal anomaly contrast. |
 
 ## Campaign Threads
 
@@ -56,17 +60,17 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
 | [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
-| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Loan negotiated, signature pending | Confirm magistrate status, sign or reject loan, pay guilds, hire staff, secure the new sewer passage. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Loan signed, opening imminent | Confirm current cash after repairs, choose tavern name/sign, finish opening prep, secure the new sewer passage. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
-| [[People/NPCs/Lif]] and the haunting | Whole party | Contacted, cooperative | Lif wants Trollskull restored, can clean/serve drinks, says he is alone, and pointed the party to Fala. |
-| [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Local competition, guild tension, possible sabotage. |
+| [[People/NPCs/Lif]] and the haunting | Whole party | Contacted, cooperative | Lif wants Trollskull restored, can clean/serve drinks, cannot leave the manor, and Fala is researching his limits. |
+| [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Frewn is counter-marketing against ghosts as Trollskull nears opening; local competition, guild tension, possible sabotage. |
 | [[Factions/Harpers]] / [[People/NPCs/Mirt]] / [[People/NPCs/Remallia Haventree]] | Whole party | Active faction track | Maxeene report delivered to Remallia; party has [[Objects/Remallia's Paper Bird]] and quiet support. |
 | [[Objects/Opera Invitation from Mirt]] | Whole party | Resolved as invitation; fallout active | Mirt meeting happened; watcher and ambush followed immediately after Box C. |
-| [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | First report delivered; party was paid 30 gp and told to preserve evidence, but Vajra's next ask is still pending. |
+| [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | Deepwater Harbor dragon report delivered; party has spare water-breathing potions and may be called again. |
 | [[Places/Fish Street Warehouse]] / [[Objects/Dockside Transfer Receipt]] / [[Objects/Loose It Then Leave Note Fragment]] | Whole party | Active clue trail | Trace three ironbound crates, redacted ownership, and the receipt address; exact address/name not captured in session 6 transcript. |
 | Trollskull surveillance/intrusion | Whole party | Active pressure | [[People/NPCs/Vincent Trench]] thinks the gazer lead points back to Xanathar; determine which operator sent it and whether the upstairs intrusion was related. |
 | [[Places/Book Wyrm's Treasure]] / [[Objects/Borrowed Monster Books]] | Whole party | Active obligation | Return Rishaal's books; translate the older Draconic volume if useful. |
-| [[Factions/Cassalanters]] / [[Places/Cassalanter Villa]] | Whole party | Loan terms negotiated | [[Objects/Cassalanter Loan]] documents and money are expected at Trollskull next day with all PCs required to sign. |
+| [[Factions/Cassalanters]] / [[Places/Cassalanter Villa]] | Whole party | Loan signed | [[Objects/Cassalanter Loan]] is active; first interest begins after opening. Track debt pressure, patron leverage, and Davy's private Cassalanter misgivings. |
 | [[Objects/Scrap of Note]] / Stone clue | Whole party | Active mystery | Decode X, Z, Lady B, R, "third eye," and how the note connects to the watcher/ambush. |
 | [[People/NPCs/Mr Jones]] and Castle Ward ambush | Whole party | Aftermath active | [[People/NPCs/Thugby]] was released/intimidated and then reappeared with the Thomril arson crew; one original survivor still escaped through the sewers. |
 | [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | Whole party, especially Elior | New social lead | Festival ships in port; Zardoz expects citywide attention. |
@@ -77,10 +81,12 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Great Game]] | Whole party | Active frame | Remallia suspects the Stone, gangs, and noble-house references may indicate another Waterdhavian Great Game. |
 | [[Places/Ulbrinter Villa]] / Remallia support package | Whole party | Active support | Track Fala credit note, paper bird, lender list, cover story, and Thugby investigation. |
 | [[People/NPCs/Dorgar]] / [[Places/Last Temple of Myrkul]] | Whole party, especially [[People/PCs/Davy]] | Active, secret | Dorgar's rite succeeded; preserve temple secrecy and track friction with Kelemvorite exorcism logic. |
-| [[People/NPCs/Corvin Underbough]] / [[People/NPCs/Miri Underbough]] | Whole party | Hire decision pending | Trial dinner showed skill, rats tested nerves, and the party asked them to return in the morning. |
+| [[People/NPCs/Corvin Underbough]] / [[People/NPCs/Miri Underbough]] | Whole party | Hired | Kitchen staff are in place; track reliability, Lif friction, and any Goose's Fat fallout. |
 | [[Objects/Elior's Ghost Research Books]] / Kelemvorite exorcism | [[People/PCs/Elior Thalosmere]] | Private parallel track | Elior has quietly sought exorcism options while the rest of the party prepares Dorgar's seance. |
 | [[Places/Steam and Steel]] / [[Places/The Bent Nail]] | Whole party, especially Aladeen | Local business links | Pick up urchin bucklers, use forge credit, and commission furnishings once loan money arrives. |
 | [[Places/Trollskull Smuggler's Passage]] | Whole party | Newly discovered security threat | Determine who opened the latched sewer-side door, then seal, secure, exploit, or monitor the route. |
+| [[People/NPCs/Zelifarn]] / [[Places/Deepwater Harbor]] | Whole party, especially Broethuul | New Gray Hands contact | Keep the bronze dragon discreet, decide whether to visit him, and monitor harbor faction attention. |
+| [[Objects/The Amberleaf Dispatch]] | [[People/PCs/Broethuul]] | Revealed privately | Broethuul-only clue tying the wrong-water door, Starfern claim, Stone/Eye, Crommor horn, and House of Coin and Smile. |
 
 ## Immediate Follow-Up
 
@@ -88,6 +94,6 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue next play from the morning after Lif's seance at Trollskull Manor, still before the Cassalanter signing.
-- Track Underbough hire/no-hire, Cassalanter loan signature, guild payments, Tally's bucklers, Fala follow-up, and smuggler's-passage security.
-- Defer [[Dashboard/Current Campaign State]] finalization until after the user's post-session-11 ingest commit.
+- Continue next play from the morning of Ches 16, 1492 DR, three days before the intended Trollskull opening window.
+- Track tavern name/sign, remaining loan cash after repairs, Frewn's counter-marketing, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
+- Defer [[Dashboard/Current Campaign State]] finalization until the user is ready after the session 12 ingest commit.

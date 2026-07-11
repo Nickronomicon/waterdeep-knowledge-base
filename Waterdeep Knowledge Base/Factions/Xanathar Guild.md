@@ -1,7 +1,7 @@
 ---
 type: faction
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -10,6 +10,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
 tags:
@@ -35,6 +36,7 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - In session 6, [[People/NPCs/Vincent Trench]] said that a gazer sent to look at the party "always leads back to Xanathar," though this is Vincent's professional judgment rather than direct proof.
 - The [[Objects/Scrap of Note]] includes "X" in a context the party speculated might mean Xanathar, but that is not confirmed.
 - In session 8, [[People/NPCs/Maxeene]] reported that [[People/NPCs/Davil Starsong]] and [[People/NPCs/Yagra Stonefist]] discussed hiring spies to locate Xanathar Guild hideouts.
+- In session 12, a salvage crew at [[Places/Drowned Lantern]] tried to steal the party's water-breathing potions to pursue a dragon hoard; one dead cutpurse carried a crude copied Xanathar symbol.
 
 ## Known Clues
 
@@ -44,6 +46,7 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - [[Objects/Dockside Transfer Receipt]] for three ironbound crates.
 - [[Objects/Loose It Then Leave Note Fragment]] found by the cracked-open [[Objects/Ironbound Grell Crate]].
 - A gazer-like creature watched [[Places/Trollskull Manor]] and the alley while the party was at [[Places/Blackstaff Tower]].
+- A gazer supported the Drowned Lantern salvage crew, suggesting the operation was at least Xanathar-linked.
 
 ## Open Questions
 
@@ -55,6 +58,7 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - Which Xanathar operative, if any, sent the gazer to watch Trollskull Manor?
 - Does "X" in the Scrap of Note mean Xanathar?
 - Which hideouts are Davil and Yagra trying to find, and will that spy network expose places the party has already touched?
+- Will the escaped Drowned Lantern cutpurse or magically dismissed salvage boss report the party's harbor mission?
 
 ## Sources
 
@@ -65,5 +69,6 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/notes/handouts/s6-cargo-chit.md`
 - `../raw/notes/handouts/s6-note-fragment.md`

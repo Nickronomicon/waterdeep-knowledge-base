@@ -1,12 +1,13 @@
 ---
 type: npc
-status: hire-decision-pending
-updated: 2026-07-10
+status: hired
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/notes/dm-planning/session-11/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - npc
@@ -20,10 +21,11 @@ Miri Underbough is a halfling cook or sous chef who came to [[Places/Trollskull 
 
 ## Current Status
 
-- Trial cook applicant at Trollskull Manor; hire decision deferred until the morning after session 11.
+- Hired kitchen staff at Trollskull Manor as of the morning of Ches 6 in session 12.
 - More reserved than Corvin, with a practical but nervous manner.
 - Encountered the kitchen haunting before dinner and was badly frightened.
 - Helped complete the trial dinner, though the rat attack drove her outside for part of the aftermath.
+- During renovation, helped inventory what was usable, edible, drinkable, or unsalvageable.
 
 ## Session 10
 
@@ -43,6 +45,12 @@ Miri Underbough is a halfling cook or sous chef who came to [[Places/Trollskull 
 - Admitted the bread pudding had stayed on the stove during the rat emergency.
 - Left with Corvin after the party asked them to return the next morning for an answer.
 
+## Session 12
+
+- Returned with Corvin and was formally hired.
+- Continued to show nervousness around the haunting, but stayed with the work.
+- Helped make the kitchen operational during the renovation montage.
+
 ## Name Notes
 
 The transcript renders her name as Miri/Miri Underbow. Use Miri Underbough from DM prep/session scaffold as canonical unless corrected.
@@ -53,3 +61,4 @@ The transcript renders her name as Miri/Miri Underbow. Use Miri Underbough from 
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/notes/dm-planning/session-11/outline.md`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

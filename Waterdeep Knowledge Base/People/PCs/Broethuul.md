@@ -7,7 +7,7 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
@@ -23,6 +23,8 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - pc
@@ -178,11 +180,23 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Assisted Dorgar's seance with strong arcane intuition, effectively anticipating parts of the rite.
 - Learned that Lif wants restoration, can still clean and wield a broom, and knows of the smuggler's passage.
 
+## Session 12 Table-Facing Notes
+
+- Helped bring Lif's message to [[People/NPCs/Fala Lefaliir]] and asked about strengthening Lif so he could interact with the tavern more meaningfully.
+- Supported hiring [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] after their trial dinner.
+- Signed the [[Objects/Cassalanter Loan]].
+- Lost his alchemist's supplies briefly when a Drowned Lantern cutpurse mistook them for a potion, then recovered them after killing the thief with his rapier.
+- Took heavy punishment from dock bruisers before Elior healed him.
+- Introduced himself to [[People/NPCs/Zelifarn]] as Broethuul of Clan Starfern and the Autumn Court.
+- Received [[Objects/The Amberleaf Dispatch]] from Zelifarn. The party saw the leaf, but Broethuul did not share the full message during the transcript.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
 
 On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sensed a distortion like the one tied to his arrival: not fey and not natural, but binding and contractual. He ignored it at the time, but later rumors of infernal dealings, fallen houses, and hidden treasure make the sensation newly relevant.
+
+In session 12, the Amberleaf Dispatch reframed Broethuul's arrival as planted rather than merely lost and connected the harbor threshold, the Starfern claim, the broken Crommor horn, the Stone/Eye, and the "House of Coin and Smile." Treat the contents as Broethuul-private unless shared in play.
 
 ## Open Threads
 
@@ -191,6 +205,7 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - Does any Waterdeep faction know his value to the Starfern clan or its enemies?
 - How does the Order of the Faeslayer function in play, and what does it imply about Broethuul's enemies?
 - Why did Broethuul sense contractual distortion around the Crommor Incident, and does that connect to the Cassalanters?
+- Will Broethuul share the Amberleaf Dispatch, and can he find the wrong-water door again?
 
 ## Sources
 
@@ -208,6 +223,8 @@ On the day of [[Threads/Crommor Incident|the Crommor Incident]], Broethuul sense
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 
 ## Uncertainties
 

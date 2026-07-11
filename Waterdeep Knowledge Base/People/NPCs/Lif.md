@@ -1,7 +1,7 @@
 ---
 type: npc
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - npc
@@ -29,7 +30,9 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - In session 6, the party learned that many neighbors believe Lif is the ghost, though other rumors blame the old hag/orphanage stories.
 - In session 11, Lif said he is the only spirit currently inhabiting the manor.
 - Lif can still clean, wield a broom, serve drinks, and write warnings, but he says he can no longer greet guests.
-- Lif directed the party to [[People/NPCs/Fala Lefaliir]] for questions about strengthening him or understanding his ghostly limits.
+- Lif directed the party to [[People/NPCs/Fala Lefaliir]] for questions about strengthening him or understanding his ghostly limits; in session 12 the party delivered his regards to Fala.
+- During the renovation montage, Lif helped with doors, mugs, dust, and daily "Welcome" messages.
+- When asked by chalkboard whether he can leave the manor, Lif indicated no.
 
 ## Session 11 Seance
 
@@ -41,6 +44,14 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - He did not know how the party might strengthen him because he was never a priest or magician.
 - He told the party to tell Fala Lefaliir that Lif sends his regards.
 - After the rite ended, Lif wrote "welcome" in grime behind the bar.
+
+## Session 12 Developments
+
+- The party told Fala that Lif sends his regards; Fala reacted with grief and affection, remembering Lif as a good man who wanted to run Trollskull as a neighborhood tavern.
+- Fala began considering what kind of research might help the party understand or strengthen Lif.
+- Fala later left herbs for the cellar smell and a note behind the bar saying that they remember.
+- As renovation progressed, Lif helped the building behave like a tavern again: latching doors, arranging mugs, collecting dust into piles, and keeping dust out of drinks.
+- Aladeen arranged a chalkboard for communication. Lif renewed "Welcome" every morning and answered the question about leaving the manor by circling "N" and turning it into a frowny face.
 
 ## Session 10 Signs
 
@@ -72,7 +83,7 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 
 ## Open Questions
 
-- What does Fala know about Lif and the limits of his haunting?
+- What will Fala's research reveal about Lif and the limits of his haunting?
 - Can the haunting become a working part of the tavern rather than a threat?
 - Can Lif be strengthened safely, and would strengthening him change his nature?
 - How much does Lif know about recent intrusions if he cannot always communicate?
@@ -85,3 +96,4 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

@@ -1,7 +1,7 @@
 ---
 type: npc
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -10,6 +10,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - npc
@@ -65,6 +66,12 @@ Jenks is one of the three Trollskull Alley urchins who were already exploring an
 - Hid his face when Embric remembered chasing the urchins out of the forge before.
 - Is due to receive a wooden training buckler from Tally the next day.
 
+## Session 12
+
+- Was missing with Nat and Squiddly on the morning of Ches 6 after the children apparently went on an "adventure" armed to the teeth.
+- Returned later with scratches and bruises.
+- Reacted to the Cassalanter gold chest as treasure, reinforcing that the children's adventure logic remains lively and dangerous.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
@@ -74,3 +81,4 @@ Jenks is one of the three Trollskull Alley urchins who were already exploring an
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

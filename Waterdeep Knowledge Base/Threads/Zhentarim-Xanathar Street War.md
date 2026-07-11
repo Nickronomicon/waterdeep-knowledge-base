@@ -1,12 +1,13 @@
 ---
 type: thread
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - thread
@@ -30,6 +31,7 @@ The party has stepped into an open conflict between the [[Factions/Zhentarim]] a
 - [[People/NPCs/Krentz]] was seen alive deeper in the hideout with a deep gnome, apparently trying to barricade a door.
 - In session 8, [[People/NPCs/Maxeene]] reported that [[People/NPCs/Davil Starsong]] and [[People/NPCs/Yagra Stonefist]] discussed hiring spies to root out Xanathar Guild hideouts.
 - The arson attack at [[Places/Thomril & Sons Cartage]] involved at least one flying-snake-tattooed attacker and may have been an attempt to kill or expose Maxeene as a spy.
+- In session 12, a Xanathar-linked salvage crew with a gazer tried to steal the party's water-breathing potions at [[Places/Drowned Lantern]] before they could reach [[People/NPCs/Zelifarn]].
 
 ## Working Read
 
@@ -37,9 +39,12 @@ The factions are fighting over information connected to [[People/NPCs/Renaer Nev
 
 Session 8 suggests at least one Zhentarim-aligned operation is now trying to build a spy network against Xanathar hideouts. It is not yet clear whether Davil's faction is responsible for earlier kidnappings and violence, whether it is a rival Zhentarim cell, or whether the Thomril & Sons arson team was acting on orders from someone else entirely.
 
+Session 12 adds a separate Xanathar-linked opportunist layer in the harbor: a salvage crew learned enough about the dragon rumors and the Blackstaff-provided potions to try for Zelifarn's supposed hoard. One cutpurse and the crew boss escaped, so the faction may learn the party is working Gray Hands business again.
+
 ## Sources
 
 - `../raw/notes/discord-synopsis-channel.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

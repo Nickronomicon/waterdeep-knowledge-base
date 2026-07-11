@@ -7,7 +7,7 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Elior-level-3.pdf
@@ -25,6 +25,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - pc
@@ -206,6 +207,15 @@ Other listed magic:
 - Heard Lif confirm that he is the only spirit in Trollskull and that he wants restoration rather than harm.
 - The session leaves Elior's private Kelemvorite exorcism track unresolved against the new evidence of Lif's cooperation.
 
+## Session 12 Table-Facing Notes
+
+- Went to [[People/NPCs/Fala Lefaliir]] with the party and heard the table-facing version of Lif's death and Fala's willingness to research him.
+- Supported hiring the Underboughs and jokingly pushed costume/theming ideas for the future tavern staff.
+- Carefully reviewed the [[Objects/Cassalanter Loan]] documents before signing and found them straightforward.
+- Bought another mackerel from the Dock Ward fishwife before the Deepwater Harbor mission.
+- Used Thunderwave and Cure Wounds during the [[Places/Drowned Lantern]] fight, including a major heal that kept Broethuul standing.
+- Helped assess [[People/NPCs/Zelifarn]] as curious and non-hostile rather than a threat to Waterdeep.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -242,6 +252,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 
 ## Uncertainties
 

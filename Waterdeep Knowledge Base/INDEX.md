@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 11 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 12 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 11; sessions 2 through 11 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 12; sessions 2 through 12 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Raw sources live outside the vault in `../raw/` and are read-only.
 
@@ -74,6 +74,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 9 | 2026-05-07 | `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt` | `../raw/json_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.json` | Ingested |
 | Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Ingested |
 | Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Ingested |
+| Session 12 | 2026-07-09 | `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt` | `../raw/json_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.json` | Ingested |
 
 ### Non-Campaign or Unclassified Sources
 
@@ -83,7 +84,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 - `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], [[Dashboard/Player-Facing Synopsis]], and [[Meta/DM Prep Source Map]].
 - `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
 - `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
-- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, and 11; scaffolded into session pages and [[Meta/DM Prep Source Map]].
+- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, 11, and 12; scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - `../raw/notes/handouts/` - record copies of session-0 backstory handouts, in-game clue handouts, and other player-facing documents.
 - See [[Meta/Raw Source Inventory]] for the detailed classified source map.
 
@@ -106,8 +107,9 @@ As pages are created, maintain these sections:
   - [[Sessions/Session 07 - 2026-04-16]]
   - [[Sessions/Session 08 - 2026-04-30]]
   - [[Sessions/Session 09 - 2026-05-07]]
-  - [[Sessions/Session 10 - 2026-06-11]]
-  - [[Sessions/Session 11 - 2026-06-25]]
+	  - [[Sessions/Session 10 - 2026-06-11]]
+	  - [[Sessions/Session 11 - 2026-06-25]]
+	  - [[Sessions/Session 12 - 2026-07-09]]
 
 ### Player Characters
 
@@ -186,6 +188,9 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Avi]]
 - [[People/NPCs/Corvin Underbough]]
 - [[People/NPCs/Miri Underbough]]
+- [[People/NPCs/Willifort Crowelle]]
+- [[People/NPCs/Laraelra Harsard]]
+- [[People/NPCs/Zelifarn]]
 
 Verify spelling and table-specific details against transcripts before treating any page as stable.
 
@@ -238,6 +243,8 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/City of the Dead]]
 - [[Places/Last Temple of Myrkul]]
 - [[Places/Steam and Steel]]
+- [[Places/Drowned Lantern]]
+- [[Places/Deepwater Harbor]]
 
 ### Objects, Clues, and Obligations
 
@@ -267,6 +274,8 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Remallia's Paper Bird]]
 - [[Objects/Remallia's Lender List]]
 - [[Objects/Elior's Ghost Research Books]]
+- [[Objects/The Amberleaf Dispatch]]
+- [[Objects/Force Grey Water Breathing Potions]]
 
 ### Timeline
 
@@ -285,7 +294,7 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Complete the setup checklist in `../TODO.md`.
-2. Make the user's requested post-session-11 ingestion commit before broader finalizing tasks.
+2. Make the user's requested post-session-12 ingestion commit before broader finalizing tasks.
 3. Finalize [[Dashboard/Current Campaign State]] after that commit.
 4. Continue expanding people, factions, places, objects, and timeline pages as future sessions are processed.
 5. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.

@@ -1,12 +1,13 @@
 ---
 type: npc
-status: hire-decision-pending
-updated: 2026-07-10
+status: hired
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/notes/dm-planning/session-11/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - npc
@@ -20,12 +21,13 @@ Corvin Underbough is a halfling cook who came to [[Places/Trollskull Manor]] wit
 
 ## Current Status
 
-- Trial cook applicant at Trollskull Manor; hire decision deferred until the morning after session 11.
+- Hired kitchen staff at Trollskull Manor as of the morning of Ches 6 in session 12.
 - Arrived with a covered basket, traveling gear, and Miri.
 - Heard that Trollskull Manor might reopen as a public house and came looking for work.
 - Was given 1 gp by [[People/PCs/Aladeen]] to buy ingredients and prepare dinner as a test.
 - Completed a rat-interrupted trial dinner that demonstrated real talent despite the state of the kitchen.
 - Needs the job badly enough that several PCs noticed his anxiety during dinner.
+- Agreed to 1 gp 5 sp per tenday before opening and 2 gp per tenday for himself and Miri after opening.
 
 ## Session 10
 
@@ -44,6 +46,13 @@ Corvin Underbough is a halfling cook who came to [[Places/Trollskull Manor]] wit
 - Offered to stay and clean the kitchen afterward, but the party asked him and Miri to return the next morning for an answer.
 - Left cautiously optimistic, though clearly unhappy about leaving a dirty kitchen.
 
+## Session 12
+
+- Returned with Miri for the party's decision and was formally hired.
+- Asked for 2 gp per tenday for both Underboughs once open, with a lower 1 gp 5 sp pre-opening rate.
+- Went straight back to work in the kitchen after being hired.
+- During the renovation montage, tested tavern staples and helped turn the kitchen into a working space.
+
 ## Name Notes
 
 The transcript sometimes renders the surname as "Underbow" and the given name as "Corbin." Use Corvin Underbough from DM prep/session scaffold as canonical unless corrected.
@@ -54,3 +63,4 @@ The transcript sometimes renders the surname as "Underbow" and the given name as
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/notes/dm-planning/session-11/outline.md`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

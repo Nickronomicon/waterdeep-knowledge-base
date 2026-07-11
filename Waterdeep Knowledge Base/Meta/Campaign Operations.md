@@ -1,7 +1,7 @@
 ---
 type: meta
 status: active
-updated: 2026-07-09
+updated: 2026-07-11
 source_paths:
   - ../raw/roster.md
   - ../raw/stats.md
@@ -46,8 +46,8 @@ This page captures the operating assumptions needed before session transcript in
 - Party level: 3.
 - Party name: TBD.
 - Tavern name: Trollskull Manor for now.
-- Current in-world date from `../raw/stats.md`: 5 Ches, 1492 DR.
-- Next listed session: Session 12 on 2026-07-09.
+- `../raw/stats.md` still lists 5 Ches, 1492 DR and session 12 on 2026-07-09; session ingest has advanced transcript truth beyond that source.
+- Latest ingested transcript truth ends on the morning of Ches 16, 1492 DR in [[Sessions/Session 12 - 2026-07-09]].
 
 ## Homebrew And Character Sources
 

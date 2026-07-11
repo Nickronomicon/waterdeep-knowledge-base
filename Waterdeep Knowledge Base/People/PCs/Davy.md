@@ -7,7 +7,7 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
@@ -25,6 +25,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - pc
@@ -179,6 +180,15 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Asked Lif what he wanted for the manor, how he could help, and whether other spirits inhabited Trollskull.
 - Heard Lif identify Fala as a possible source of knowledge about strengthening him.
 
+## Session 12 Table-Facing Notes
+
+- Joined the morning visit to [[People/NPCs/Fala Lefaliir]] and heard Fala's grief and memory of Lif.
+- Signed the [[Objects/Cassalanter Loan]] with a distinctive mark rather than a polished formal signature.
+- Took part in the [[Places/Drowned Lantern]] fight, including stopping a cutpurse from stealing from him.
+- Killed the gazer at close range with a crossbow after Aladeen's shot badly wounded it.
+- Entered [[Places/Deepwater Harbor]] with the party and met [[People/NPCs/Zelifarn]].
+- Introduced himself to Zelifarn as "just Davy," prompting the dragon to play with the name.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -216,6 +226,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 
 ## Uncertainties
 

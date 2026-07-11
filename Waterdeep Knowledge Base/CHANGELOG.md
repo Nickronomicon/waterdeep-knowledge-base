@@ -15,6 +15,21 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-11] ingest | Session 12
+
+- Ingested [[Sessions/Session 12 - 2026-07-09]] from `../raw/notes/dm-planning/session-12/outline.md`, `../raw/notes/dm-planning/session-12/force-grey.md`, `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`, and `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`.
+- Covered the Ches 6 Fala follow-up, Underbough hire, Cassalanter loan signing, Trollskull renovation time skips, Ches 12 Gray Hands harbor assignment, Drowned Lantern fight, Zelifarn meeting, Broethuul-private Amberleaf Dispatch, final Ches 16 Trollskull opening state, and Frewn's anti-ghost advertisement.
+- Created [[Sessions/Session 12 - 2026-07-09]], [[People/NPCs/Willifort Crowelle]], [[People/NPCs/Laraelra Harsard]], [[People/NPCs/Zelifarn]], [[Places/Drowned Lantern]], [[Places/Deepwater Harbor]], [[Objects/The Amberleaf Dispatch]], and [[Objects/Force Grey Water Breathing Potions]].
+- Updated PC pages, [[Places/Trollskull Manor]], [[Objects/Cassalanter Loan]], [[People/NPCs/Lif]], [[People/NPCs/Fala Lefaliir]], [[People/NPCs/Corvin Underbough]], [[People/NPCs/Miri Underbough]], [[People/NPCs/Vajra Safahr]], [[Factions/Gray Hands]], [[Factions/Xanathar Guild]], [[Threads/Zhentarim-Xanathar Street War]], [[Threads/Broethuul and the Autumn Court]], [[Dashboard/Open Threads]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], and [[INDEX]].
+- Preserved prep-vs-table distinctions: Tissina Khyret did not appear in transcript truth, the salvage-boss note was not found, the smuggler's-passage combat did not occur, and the Amberleaf Dispatch contents remain Broethuul-private unless shared later.
+- Left [[Dashboard/Current Campaign State]] and other finalizing synthesis tasks untouched per the user's instruction to commit after ingestion first.
+
+Follow-up:
+
+- Begin next play from the morning of Ches 16, 1492 DR, three days before the intended Trollskull opening window.
+- Track the tavern name/sign, remaining Cassalanter loan cash after repairs, Frewn's counter-marketing, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
+- Confirm table bookkeeping for post-renovation funds and whether Tally's urchin bucklers were picked up during the time skip.
+
 ## [2026-07-10] ingest | Session 11
 
 - Ingested [[Sessions/Session 11 - 2026-06-25]] from `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`, covering the Underbough trial dinner, Goose's Fat backstory, Trollskull rat incursion, hidden sewer passage, Dorgar's seance, and Lif's direct answers.

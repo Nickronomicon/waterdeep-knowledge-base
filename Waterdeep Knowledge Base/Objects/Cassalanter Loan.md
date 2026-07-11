@@ -1,15 +1,16 @@
 ---
 type: object
-status: pending-signature
+status: signed
 revealed: true
 revealed_session: 10
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - object
@@ -20,7 +21,7 @@ tags:
 
 # Cassalanter Loan
 
-The Cassalanter Loan is the pending financing arrangement negotiated with [[People/NPCs/Victoro Cassalanter]] to restore and open [[Places/Trollskull Manor]].
+The Cassalanter Loan is the financing arrangement negotiated with [[People/NPCs/Victoro Cassalanter]] to restore and open [[Places/Trollskull Manor]]. It was signed by all five PCs in [[Sessions/Session 12 - 2026-07-09]].
 
 ## Current Terms
 
@@ -30,9 +31,9 @@ The Cassalanter Loan is the pending financing arrangement negotiated with [[Peop
 - After that: 3% per tenday on outstanding principal.
 - Principal is not automatically amortized; the party must actively pay it down.
 - Initial payment at full principal would be 40 gp per tenday during the 2% period, then 60 gp per tenday during the 3% period.
-- Victoro is expected to send the funds and documents to Trollskull Manor the day after the session 10 negotiation; session 11 ended the prior evening before delivery occurred.
-- All party members must be present to sign.
-- Victoro said he would arrange for relevant guild representatives to be present so the party can pay them immediately.
+- [[People/NPCs/Willifort Crowelle]] delivered the documents and a 2,000 gp chest to Trollskull Manor at midday on Ches 6.
+- Because the party had no formal company or named fellowship able to hold the debt, all five owners signed individually.
+- The exact remaining cash after initial guild payments and purchases is not captured in the transcript and should be checked against table bookkeeping.
 
 ## Negotiation
 
@@ -41,9 +42,9 @@ The Cassalanter Loan is the pending financing arrangement negotiated with [[Peop
 - [[People/PCs/Broethuul]] negotiated the reduced 2% introductory period, extending it from three months to four months when the principal increased to 2,000 gp.
 - [[People/PCs/Aladeen]] offered the idea of a future favor, but Victoro said he had not needed outside favors in Waterdeep for a long time.
 
-## Status
+## Signature
 
-Negotiated but not signed as of the end of [[Sessions/Session 11 - 2026-06-25]]. Delivery, signatures, and guild payments remain pending for the next morning or midday.
+Signed in [[Sessions/Session 12 - 2026-07-09]] by [[People/PCs/Aladeen]], [[People/PCs/Broethuul]], [[People/PCs/Davy]], [[People/PCs/Elior Thalosmere]], and [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]]. Elior reviewed the contract and found it straightforward.
 
 ## Sources
 
@@ -52,3 +53,4 @@ Negotiated but not signed as of the end of [[Sessions/Session 11 - 2026-06-25]].
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
