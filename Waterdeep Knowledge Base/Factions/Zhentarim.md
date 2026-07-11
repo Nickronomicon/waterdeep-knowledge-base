@@ -1,11 +1,12 @@
 ---
 type: faction
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - faction
@@ -28,6 +29,7 @@ The Zhentarim, also called the Black Network or "the Zhents" at the table, are a
 - [[People/NPCs/Maxeene]] reported that [[People/NPCs/Davil Starsong]] and [[People/NPCs/Yagra Stonefist]] discussed hiring spies to find [[Factions/Xanathar Guild]] hideouts.
 - A poison-weapon attacker at [[Places/Thomril & Sons Cartage]] had a flying-snake tattoo.
 - [[People/NPCs/Thugby]] reappeared among the arson crew at Thomril & Sons, then fled after recognizing the party.
+- Session 12 did not advance the Zhentarim lead directly, but the Xanathar-linked harbor fight may matter to Davil/Yagra's anti-Xanathar spy effort.
 
 ## Open Questions
 
@@ -43,3 +45,4 @@ The Zhentarim, also called the Black Network or "the Zhents" at the table, are a
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

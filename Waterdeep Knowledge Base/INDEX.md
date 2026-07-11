@@ -20,14 +20,18 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 - [[Meta/Raw Source Inventory]] - classified inventory of files under `../raw/`.
 - [[Meta/Campaign Operations]] - transcript ingest guardrails, campaign logistics, and source authority notes.
 - [[Meta/DM Prep Source Map]] - session-by-session map of DM prep sources, likely handouts, and transcript ingest focus.
+- [[Dashboard/Current Campaign State]] - live DM-facing snapshot for weekly prep.
+- [[Dashboard/Open Threads]] - unresolved hooks, mysteries, obligations, and dangling consequences.
+- [[Dashboard/Faction Clocks]] - live faction pressure and escalation timers.
 - [[Dashboard/Player-Facing Synopsis]] - spoiler-safe campaign recap prose suitable for posting between sessions.
+- [[Timeline/Campaign Timeline]] - chronological campaign record and date anchors.
 
-## Planned Dashboards
+## Dashboards
 
-These pages should be created or finalized during the first campaign ingest or first prep pass:
+Core dashboards are active for weekly use. Add or revise prep-facing dashboards as the campaign cadence settles.
 
-- [[Dashboard/Current Campaign State]] - pre-transcript current-state scaffold from stats and latest DM prep.
-- [[Dashboard/Next Session]] - current weekly prep landing page or pointer to the active prep note.
+- [[Dashboard/Current Campaign State]] - current situation, obligations, resources, and next-session questions.
+- [[Dashboard/Next Session]] - planned current weekly prep landing page or pointer to the active prep note.
 - [[Dashboard/Open Threads]] - unresolved hooks, promises, mysteries, obligations, and dangling consequences.
 - [[Dashboard/Player-Facing Synopsis]] - Discord-postable player recap, updated after each session ingest.
 - [[Dashboard/Faction Clocks]] - live faction agendas and escalation timers.
@@ -107,9 +111,9 @@ As pages are created, maintain these sections:
   - [[Sessions/Session 07 - 2026-04-16]]
   - [[Sessions/Session 08 - 2026-04-30]]
   - [[Sessions/Session 09 - 2026-05-07]]
-	  - [[Sessions/Session 10 - 2026-06-11]]
-	  - [[Sessions/Session 11 - 2026-06-25]]
-	  - [[Sessions/Session 12 - 2026-07-09]]
+  - [[Sessions/Session 10 - 2026-06-11]]
+  - [[Sessions/Session 11 - 2026-06-25]]
+  - [[Sessions/Session 12 - 2026-07-09]]
 
 ### Player Characters
 
@@ -293,13 +297,12 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 
 ## Immediate Backlog
 
-1. Complete the setup checklist in `../TODO.md`.
-2. Make the user's requested post-session-12 ingestion commit before broader finalizing tasks.
-3. Finalize [[Dashboard/Current Campaign State]] after that commit.
-4. Continue expanding people, factions, places, objects, and timeline pages as future sessions are processed.
-5. Build a first [[Dashboard/Faction Clocks]] page using transcripts plus Remix structure.
-6. Create a weekly prep workflow page once the next real session date is known.
-7. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
+1. Make a git commit for the completed initial wiki build.
+2. Create the first `Prep/Session Prep - YYYY-MM-DD.md` once the next real session date is known.
+3. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
+4. Ingest the Remix at the structural level: villains, clues, faction outposts, faction response teams, Eyes of the Stone, Golorr artifacts, and simple checklist.
+5. Cross-link the structural Remix reference to [[Dashboard/Faction Clocks]] and [[Dashboard/Open Threads]].
+6. Periodically lint the vault for stale facts, missing links, orphan pages, and unresolved threads.
 
 ## Maintenance Notes
 

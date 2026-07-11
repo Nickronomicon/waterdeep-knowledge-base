@@ -1,13 +1,14 @@
 ---
 type: faction
 status: active
-updated: 2026-07-10
+updated: 2026-07-11
 source_paths:
   - ../raw/notes/dm-planning/session-6/lightsinger_theater.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/notes/handouts/s9-Maxeene-info.md
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
   - waterdeep
   - faction
@@ -27,6 +28,7 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - In session 9, the party reported Maxeene's information to [[People/NPCs/Remallia Haventree]] at [[Places/Ulbrinter Villa]].
 - Remallia now functions as a day-to-day Harper handler, while [[People/NPCs/Mirt]] remains a bigger-picture recruiter, financier, and city-level operator.
 - Remallia gave the party [[Objects/Remallia's Paper Bird]] for one-use contact with her or Mirt, [[Objects/Remallia's Fala Credit Note]] for emergency medicine, and guidance to get [[Places/Trollskull Manor]] open as an information-gathering tavern.
+- As of session 12, Trollskull is nearly open, making Remallia's tavern-as-listening-post advice operational soon.
 
 ## Terms As Explained
 
@@ -61,3 +63,4 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/notes/handouts/s9-Maxeene-info.md`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

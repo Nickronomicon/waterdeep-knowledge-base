@@ -28,6 +28,8 @@ source_paths:
   - ../raw/notes/dm-planning/session-12/force-grey.md
   - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - Dashboard/Current Campaign State.md
+  - Dashboard/Faction Clocks.md
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
   - ../raw/notes/handouts/s7-scrap-of-note.md
@@ -40,6 +42,31 @@ tags:
 # Open Threads
 
 Current DM-facing thread index built from character backgrounds, arc notes, and ingested sessions. These are not all known to the whole party.
+
+## Priority Lanes
+
+### Hot Next Session
+
+- Name/sign/opening decisions for [[Places/Trollskull Manor]].
+- Confirm remaining cash after the [[Objects/Cassalanter Loan]] and renovation montage.
+- Decide how visible [[People/NPCs/Lif]] will be during opening.
+- Respond to [[People/NPCs/Emmet Frewn|Frewn's]] anti-ghost counter-marketing.
+- Decide whether to secure, monitor, or use [[Places/Trollskull Smuggler's Passage]].
+- Track whether [[People/PCs/Broethuul]] shares any part of [[Objects/The Amberleaf Dispatch]].
+
+### Active Background Pressure
+
+- [[Factions/Xanathar Guild]] may learn about the [[Places/Drowned Lantern]] / [[People/NPCs/Zelifarn]] mission from survivors.
+- [[Factions/Zhentarim]] remains split or opaque, with Davil/Yagra's spy effort separate from the violent actors seen so far.
+- [[Factions/Harpers]] and [[Factions/Gray Hands]] both have reasons to value Trollskull as the party's base.
+- [[Factions/Cassalanters]] now hold the tavern debt.
+- [[Threads/Great Game]] is still a frame, not yet a fully visible chase.
+
+### Private Or Limited-Knowledge Threads
+
+- [[Threads/Davy Is Anastasia Crommor]] and [[Objects/The Crommor Warning]] remain unrevealed to Davy/the party.
+- [[Objects/The Amberleaf Dispatch]] is known in full only to Broethuul and the DM unless shared later.
+- [[Objects/Elior's Ghost Research Books]] and Elior's exorcism research remain private or semi-private.
 
 ## Character Arc Threads
 
@@ -96,4 +123,4 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
 - Continue next play from the morning of Ches 16, 1492 DR, three days before the intended Trollskull opening window.
 - Track tavern name/sign, remaining loan cash after repairs, Frewn's counter-marketing, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
-- Defer [[Dashboard/Current Campaign State]] finalization until the user is ready after the session 12 ingest commit.
+- Use [[Dashboard/Current Campaign State]] and [[Dashboard/Faction Clocks]] as the starting point for weekly prep.

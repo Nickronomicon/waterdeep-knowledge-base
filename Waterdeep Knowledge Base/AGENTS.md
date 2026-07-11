@@ -190,5 +190,5 @@ When asked to lint or health-check the wiki:
 ## Current Known Inputs
 
 - Session 1 is not recorded in the available transcripts.
-- Recorded Waterdeep transcripts currently include sessions 2 through 11.
-- The latest sampled campaign state from session 11 includes Trollskull Manor ownership, a prospective Cassalanter loan, a Kelemvor-related seance, and contact with Lif, the manor's ghost. Treat this as a clue to be verified during proper session ingest, not as a fully processed state.
+- Recorded Waterdeep transcripts currently include sessions 2 through 12.
+- The latest ingested campaign state is the morning of Ches 16, 1492 DR, after session 12. Trollskull Manor is three days from the intended opening window, the Cassalanter loan has been signed, Corvin and Miri Underbough have been hired, Lif is cooperative but still bound to the manor, Frewn has started anti-ghost counter-marketing, and Broethuul has privately received [[Objects/The Amberleaf Dispatch]].

@@ -40,12 +40,12 @@ Agents may read these files after you add them, but should never edit anything u
 - [x] Ingest background and character arc notes into PC pages and open-thread pages.
 - [x] Ingest existing DM session notes before transcript ingest, so table canon and private prep are available.
 - [x] Reconstruct `Sessions/Session 01` from notes, memory, and the session 2 recap.
-- [x] Ingest recorded session 11. -- *UPDATE: Sessions 1-11 are ingested/reconstructed from currently available raw transcripts.*
-- [x] Update people, factions, places, objects, and timeline pages as each session is processed. -- *UPDATE: Complete through session 11; broader current-state synthesis is intentionally deferred until after a post-ingestion commit.*
-- [ ] Build `Dashboard/Current Campaign State`.
-- [ ] Expand `Dashboard/Open Threads` from session summaries.
-- [ ] Build `Timeline/Campaign Timeline`.
-- [ ] Build `Dashboard/Faction Clocks` from actual play plus the Remix.
+- [x] Ingest recorded session 12. -- *UPDATE: Sessions 1-12 are ingested/reconstructed from currently available raw transcripts.*
+- [x] Update people, factions, places, objects, and timeline pages as each session is processed. -- *UPDATE: Complete through session 12; current-state synthesis is now built for weekly use.*
+- [x] Build `Dashboard/Current Campaign State`.
+- [x] Expand `Dashboard/Open Threads` from session summaries.
+- [x] Build `Timeline/Campaign Timeline`.
+- [x] Build `Dashboard/Faction Clocks` from actual play plus the Remix.
 
 ## Remix and Adventure Reference
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Player-Facing Synopsis.md",
+                "file": "Dashboard/Current Campaign State.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Player-Facing Synopsis"
+              "title": "Current Campaign State"
             }
           }
         ]
@@ -201,6 +201,10 @@
   },
   "active": "977290ec03b6aff1",
   "lastOpenFiles": [
+    "Sessions/Session 12 - 2026-07-09.md",
+    "Dashboard/Current Campaign State.md",
+    "Dashboard/Player-Facing Synopsis.md",
+    "Dashboard/Faction Clocks.md",
     "Objects/Force Grey Water Breathing Potions.md",
     "Objects/The Amberleaf Dispatch.md",
     "Places/Deepwater Harbor.md",
@@ -208,7 +212,6 @@
     "People/NPCs/Zelifarn.md",
     "People/NPCs/Laraelra Harsard.md",
     "People/NPCs/Willifort Crowelle.md",
-    "Sessions/Session 12 - 2026-07-09.md",
     "Places/Trollskull Smuggler's Passage.md",
     "Sessions/Session 11 - 2026-06-25.md",
     "Sessions/Session 10 - 2026-06-11.md",
@@ -224,9 +227,6 @@
     "Objects/Remallia's Lender List.md",
     "Objects/Remallia's Paper Bird.md",
     "Objects/Remallia's Fala Credit Note.md",
-    "Objects/Ulbrinter Calling Card.md",
-    "Objects/Thalosmere Archive Report on Remallia Haventree.md",
-    "Objects/Maxeene Information Handout.md",
     "Reference",
     "Timeline",
     "Factions",

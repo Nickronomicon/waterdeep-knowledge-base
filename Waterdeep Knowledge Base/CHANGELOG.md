@@ -15,6 +15,20 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-11] setup | Initial Wiki Build complete
+
+- Finished the Initial Wiki Build checklist after all currently available sessions were ingested.
+- Finalized [[Dashboard/Current Campaign State]], expanded [[Dashboard/Open Threads]] with priority prep lanes, activated [[Timeline/Campaign Timeline]] with date anchors through Ches 16, and created [[Dashboard/Faction Clocks]] from actual play plus active Remix/adventure pressure.
+- Updated [[Factions/Cassalanters]], [[Factions/Zhentarim]], and [[Factions/Harpers]] to align faction state with the session 12 endpoint.
+- Updated [[INDEX]], [[AGENTS]], and `../TODO.md` so the vault now points to the active dashboards and the remaining backlog starts with weekly prep, structural Remix ingest, and periodic linting.
+- Sources read included [[Sessions/Session 12 - 2026-07-09]], [[Dashboard/Open Threads]], [[Timeline/Campaign Timeline]], [[Meta/Campaign Operations]], active faction pages, `../raw/stats.md`, `../raw/notes/technical-notes.md`, `../raw/notes/dm-planning/session-3/prep-notes.md`, `../raw/notes/dm-planning/session-6/lightsinger_theater.md`, `../raw/notes/dm-planning/session-12/force-grey.md`, and `../raw/waterdeep_dragon_heist/00.Introduction.md`.
+
+Follow-up:
+
+- Make a git commit for the completed initial wiki build.
+- Create the first weekly prep page once the next real session date is known.
+- Ingest the Remix structurally and cross-link it to the active clocks and open threads.
+
 ## [2026-07-11] ingest | Session 12
 
 - Ingested [[Sessions/Session 12 - 2026-07-09]] from `../raw/notes/dm-planning/session-12/outline.md`, `../raw/notes/dm-planning/session-12/force-grey.md`, `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`, and `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`.
