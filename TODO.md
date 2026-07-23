@@ -64,8 +64,8 @@ Agents may read these files after you add them, but should never edit anything u
 
 ## Begin Weekly Use
 
-- [ ] Create the first `Prep/Session Prep - YYYY-MM-DD.md` for the next scheduled session.
-- [ ] Use the prep page to produce:
+- [x] Create the first `Prep/Session Prep - YYYY-MM-DD.md` for the next scheduled session.
+- [x] Use the prep page to produce:
   - recap bullets;
   - likely scenes;
   - active NPC agendas;

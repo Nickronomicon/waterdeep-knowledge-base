@@ -14,11 +14,11 @@ Inventory of `../raw/` after commit `6fad85b`, updated for the current raw worki
 
 ## Summary
 
-`../raw/` currently contains 211 files:
+`../raw/` currently contains 212 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 52 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 53 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
 | `.txt` | 11 | Text transcripts for Waterdeep sessions 2-12 |
 | `.json` | 11 | JSON transcripts for Waterdeep sessions 2-12 |
@@ -74,6 +74,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 10 | `../raw/notes/dm-planning/session-10/outline.md` | Ingested into [[Sessions/Session 10 - 2026-06-11]], [[Dashboard/Current Campaign State]], and [[Meta/DM Prep Source Map]]. |
 | Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Ingested into [[Sessions/Session 11 - 2026-06-25]] and [[Meta/DM Prep Source Map]]. Current-state finalization intentionally deferred until after the post-ingestion commit. |
 | Session 12 | `../raw/notes/dm-planning/session-12/outline.md`; `../raw/notes/dm-planning/session-12/force-grey.md` | Ingested into [[Sessions/Session 12 - 2026-07-09]] and [[Meta/DM Prep Source Map]]. Actual play used the loan/renovation and Force Grey harbor material, while the smuggler's-passage combat stayed unused. |
+| Session 13 | `../raw/notes/dm-planning/session-13/outline.md` | Used for [[Prep/Session Prep - 2026-07-23]]. Grand opening is planned for Ches 19; Frewn remains petty/background; any action beat is street-war/Grand Game spillover; Fireball is explicitly deferred to Ches 22. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 

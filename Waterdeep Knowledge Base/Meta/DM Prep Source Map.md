@@ -1,7 +1,7 @@
 ---
 type: meta
 status: active
-updated: 2026-07-11
+updated: 2026-07-22
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -32,6 +32,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-12/force-grey.md
   - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/notes/dm-planning/session-13/outline.md
   - ../raw/stats.md
   - ../raw/notes/technical-notes.md
 tags:
@@ -64,6 +65,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 10 | `../raw/notes/dm-planning/session-10/outline.md`; transcript sources | Cassalanter loan terms, dinner with the Underboughs, loan signing, seance. | Ingested into [[Sessions/Session 10 - 2026-06-11]]. Actual play began Dorgar's candle preparation, added Steam and Steel/Bent Nail errands, negotiated the Cassalanter loan, introduced the Underboughs, and stopped before dinner, signing, or seance. |
 | 11 | `../raw/notes/dm-planning/session-11/outline.md`; transcript sources | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Ingested into [[Sessions/Session 11 - 2026-06-25]]. Actual play reached dinner, rats, hidden sewer passage, and Dorgar's seance with Lif; Underbough hiring and loan delivery/signing slid forward. |
 | 12 | `../raw/notes/dm-planning/session-12/outline.md`; `force-grey.md`; `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`; transcript sources | Loan signing, renovation montage, possible smuggler's-passage combat, Force Grey bronze-dragon mission, Amberleaf handout. | Ingested into [[Sessions/Session 12 - 2026-07-09]]. Actual play resolved Fala/Lif, Underbough hiring, loan signing, renovation time skips, the Drowned Lantern fight, Zelifarn, Broethuul's Amberleaf Dispatch, and Frewn's counter-ad. Smuggler's-passage combat and Tissina Khyret did not enter transcript truth. |
+| 13 | `../raw/notes/dm-planning/session-13/outline.md`; [[Prep/Session Prep - 2026-07-23]]; [[Objects/Trollskull Hiring Applications]]; [[Objects/Zhent Runner Message Tube]] | Trollskull grand opening, guest list, two-phase opening structure, hiring/staffing choices, petty Frewn rumor/shill pressure, optional Zhentarim-Xanathar street-war interruption, and business-result rolls. | Prep only. Grand opening is Ches 19, 1492 DR. Fireball is fixed for Ches 22 and should not be treated as the session 13 closer. |
 
 ## Major Prep Threads To Track
 
@@ -90,6 +92,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 7 | `../raw/notes/handouts/s7-scrap-of-note.md` | Revealed after the Castle Ward ambush; ingested into [[Objects/Scrap of Note]]. |
 | 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md` | Maxeene, Remallia, Harpers, and House Thalosmere reveal tracking. |
 | 12 | `../raw/notes/handouts/s12-the-amberleaf-dispatch.md` | Revealed privately to Broethuul by Zelifarn; ingested into [[Objects/The Amberleaf Dispatch]] and [[Threads/Broethuul and the Autumn Court]]. |
+| 13 | [[Objects/Trollskull Hiring Applications]]; [[Objects/Zhent Runner Message Tube]] | Hiring packet can be posted before session; message tube is conditional on recovery during the street-war interruption. |
 
 ## Transcript Pass Checklist
 

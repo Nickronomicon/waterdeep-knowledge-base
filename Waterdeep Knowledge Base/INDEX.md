@@ -38,6 +38,10 @@ Core dashboards are active for weekly use. Add or revise prep-facing dashboards 
 - [[Dashboard/Faction Clocks]] - live faction agendas and escalation timers.
 - [[Timeline/Campaign Timeline]] - chronological campaign record.
 
+## Prep
+
+- [[Prep/Session Prep - 2026-07-23]] - Session 13 Trollskull grand opening prep; grand opening on Ches 19, Fireball deferred to Ches 22.
+
 ## Source Inventory
 
 ### Primary Adventure Sources
@@ -90,7 +94,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 - `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], [[Dashboard/Player-Facing Synopsis]], and [[Meta/DM Prep Source Map]].
 - `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
 - `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
-- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, 11, and 12; scaffolded into session pages and [[Meta/DM Prep Source Map]].
+- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, 11, 12, and 13; scaffolded into session pages, prep pages, and [[Meta/DM Prep Source Map]].
 - `../raw/notes/handouts/` - record copies of session-0 backstory handouts, in-game clue handouts, and other player-facing documents.
 - See [[Meta/Raw Source Inventory]] for the detailed classified source map.
 
@@ -282,6 +286,8 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Elior's Ghost Research Books]]
 - [[Objects/The Amberleaf Dispatch]]
 - [[Objects/Force Grey Water Breathing Potions]]
+- [[Objects/Trollskull Hiring Applications]]
+- [[Objects/Zhent Runner Message Tube]]
 
 ### Timeline
 
@@ -304,11 +310,12 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Make a git commit for the completed initial wiki build.
-2. Create the first `Prep/Session Prep - YYYY-MM-DD.md` once the next real session date is known.
-3. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
-4. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.
-5. Expand structural Remix pages into more detailed prep cards as the party approaches Fireball, Gralhund Villa, and the Eye heists.
-6. Periodically lint the vault for stale facts, missing links, orphan pages, and unresolved threads.
+2. Run [[Prep/Session Prep - 2026-07-23]] at the table, then ingest session 13 afterward.
+3. Prepare the Ches 22 Fireball sequence as its own session/arc beat after the grand opening has resolved.
+4. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
+5. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.
+6. Expand structural Remix pages into more detailed prep cards as the party approaches Fireball, Gralhund Villa, and the Eye heists.
+7. Periodically lint the vault for stale facts, missing links, orphan pages, and unresolved threads.
 
 ## Maintenance Notes
 

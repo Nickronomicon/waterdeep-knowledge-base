@@ -15,6 +15,60 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-22] prep | Session 13 handouts
+
+- Created [[Objects/Trollskull Hiring Applications]] as a player-facing applicant packet for speeding up the Trollskull hiring sequence before session 13.
+- Created [[Objects/Zhent Runner Message Tube]] as a conditional player-facing clue handout for the street-war interruption if the party recovers the runner's message tube.
+- Linked both handouts from [[Prep/Session Prep - 2026-07-23]], added them to [[INDEX]], and tracked them in [[Meta/DM Prep Source Map]].
+
+Follow-up:
+
+- Post the hiring applications before session so the players can choose which candidates to interview.
+- Reveal the message tube only if recovered during play.
+
+## [2026-07-22] prep | Session 13 Elra revision
+
+- Revised [[Prep/Session Prep - 2026-07-23]] so Laraelra Harsard's grand-opening beat reinforces her role as Vajra's right hand and Force Grey handler.
+- Removed the harbor follow-up framing from Elra's phase 2 event and replaced it with forward-looking Blackstaff/Force Grey operational trust.
+
+Follow-up:
+
+- Use Elra to signal future city-scale work and command expectations without implying the Blackstaff doubts the party's earlier jobs.
+
+## [2026-07-22] prep | Session 13 guest-list revision
+
+- Revised [[Prep/Session Prep - 2026-07-23]] to remove Mirt from the Trollskull grand-opening guest list, events, and table quotes.
+- Kept Harper communication deniable through Threestrings, Remallia's people, and a possible silver raven.
+- Added Thugby to the guest list and phase 2 event menu as a returning low-level chaos contact.
+
+Follow-up:
+
+- Keep Mirt away from public Harper-listening-post setup unless the party explicitly invites him or the situation becomes too public to matter.
+
+## [2026-07-22] prep | Session 13 encounter revision
+
+- Revised [[Prep/Session Prep - 2026-07-23]] so Frewn's grand-opening interference stays petty and plausibly deniable: shills, rumors, planted complaints, and ghost panic rather than cellar sabotage or Shard Shunner escalation.
+- Replaced the Shard Shunner sabotage combat with an optional Zhentarim-Xanathar street-war spillover that happens near Trollskull during the opening and should feel like distracting city business intruding on the party.
+- Updated [[Meta/Raw Source Inventory]] and [[Meta/DM Prep Source Map]] to reflect the revised Session 13 prep direction.
+
+Follow-up:
+
+- Keep Frewn as a long-tail business rival after Dragon Heist if the campaign continues into Dungeon of the Mad Mage.
+- Use the street-war interruption only if the grand opening needs an outside action beat.
+
+## [2026-07-22] prep | Session 13 Trollskull grand opening
+
+- Created [[Prep/Session Prep - 2026-07-23]] as the first weekly prep page for session 13.
+- Built a grand-opening guest list, short opening beat, two-phase skill-event structure, Shard Shunner sabotage combat, opening result track, conversational snippets, and fallback paths.
+- Revised the session boundary so the Trollskull grand opening stands alone on Ches 19, 1492 DR; Fireball is explicitly deferred to Ches 22, 1492 DR.
+- Updated [[INDEX]], [[Meta/Raw Source Inventory]], [[Meta/DM Prep Source Map]], and `../TODO.md`.
+- Sources read included `../raw/notes/dm-planning/session-13/outline.md`, [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], [[Dashboard/Faction Clocks]], [[Sessions/Session 12 - 2026-07-09]], Trollskull pages, active NPC pages, Remix reference pages, `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`, `../raw/waterdeep_dragon_heist/03.Fireball.md`, and `../raw/Dragon-Heist-Remix.pdf`.
+
+Follow-up:
+
+- Run session 13 from the Ches 19 grand opening, then ingest the transcript/notes after play.
+- Prepare the Ches 22 Fireball sequence as a separate session beat.
+
 ## [2026-07-11] ingest | Structural adventure reference
 
 - Began adventure-reference ingest with the Remix as the primary framework and original adventure markdown as supporting reference.
