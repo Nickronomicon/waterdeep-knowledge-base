@@ -1,12 +1,13 @@
 ---
 type: npc
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - npc
@@ -25,7 +26,7 @@ Talisolvanar "Tally" Fellbranch is the half-elf carpenter and woodcarver who run
 - Knows a long chain of Trollskull Manor history and ghost rumors.
 - Making three wooden training bucklers for the urchins, commissioned in session 10.
 - Supplied furniture, beams, and apprentices during the session 12 renovation montage.
-- Is waiting on the party's final tavern name/signboard design.
+- Delivered and hung the final Trollskull Manor sign on opening morning in session 13.
 
 ## Session 6
 
@@ -47,9 +48,15 @@ Talisolvanar "Tally" Fellbranch is the half-elf carpenter and woodcarver who run
 - Brought furniture, new beams, and apprentices into the Trollskull renovation work once the Cassalanter money arrived.
 - By Ches 16, still needed the party's final tavern name before completing the signboard.
 
+## Session 13
+
+- Delivered the finished Trollskull Manor sign on Ches 19 with apprentices.
+- The sign carries the Skullduggers identity beneath the troll skull and crossed swords.
+
 ## Sources
 
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

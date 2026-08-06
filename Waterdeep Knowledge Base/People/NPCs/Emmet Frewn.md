@@ -1,12 +1,13 @@
 ---
 type: npc
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - npc
@@ -26,6 +27,7 @@ Emmet Frewn is the owner of [[Places/Frewn's Brews]], the party's nearest tavern
 - Has already made a "neighborly" visit to the party.
 - [[People/NPCs/Broxley Fairkettle]] says Frewn's Brews is a member of the [[Factions/Fellowship of Innkeepers]], though late on dues.
 - As Trollskull nears opening, Frewn's Brews has posted an advertisement promising "Real drinks, living staff, no ghosts."
+- During Trollskull's grand opening, Frewn watched from across the alley while a planted customer loudly complained about undead service and poured out his drink outside the tavern.
 
 ## Session 4
 
@@ -45,6 +47,13 @@ Emmet Frewn is the owner of [[Places/Frewn's Brews]], the party's nearest tavern
 - Did not appear directly.
 - Frewn's Brews put up a fresh sign or poster across the alley as Trollskull approached opening, positioning itself directly against the haunted-tavern angle.
 
+## Session 13
+
+- Watched Trollskull's opening from across the alley.
+- Avoided doing anything directly provable when Jonathan confronted him.
+- Benefited from or arranged a shill who loudly framed Lif as an unsafe undead servant and poured out a drink in front of Trollskull.
+- Left still smirking, but with Jonathan's warning in mind.
+
 ## Table-Facing Impression
 
 Frewn is insecure, petty, and trying very hard to look prosperous. His clothes and accessories appear expensive at first glance but shabby on closer inspection.
@@ -55,3 +64,4 @@ Frewn is insecure, petty, and trying very hard to look prosperous. His clothes a
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

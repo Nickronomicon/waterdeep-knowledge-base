@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -28,6 +28,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-12/force-grey.md
   - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - Dashboard/Current Campaign State.md
   - Dashboard/Faction Clocks.md
   - ../raw/notes/handouts/s6-cargo-chit.md
@@ -47,17 +48,22 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 
 ### Hot Next Session
 
-- Name/sign/opening decisions for [[Places/Trollskull Manor]].
-- Confirm remaining cash after the [[Objects/Cassalanter Loan]] and renovation montage.
-- Decide how visible [[People/NPCs/Lif]] will be during opening.
-- Respond to [[People/NPCs/Emmet Frewn|Frewn's]] anti-ghost counter-marketing.
+- Interrogate or otherwise resolve the Zhentarim-adjacent runner from opening night.
+- Decide whether to open, hide, deliver, copy, or bargain with [[Objects/Zhent Runner Message Tube]].
+- Question [[People/NPCs/Thugby]] about the opera ambush, Thomril arson, and whoever keeps hiring him.
+- Handle the Watch response to bodies outside [[Places/Trollskull Manor]] on opening night.
+- Confirm remaining cash after the [[Objects/Cassalanter Loan]], renovation montage, opening business roll, and staff hiring.
+- Start using [[Dashboard/Trollskull Operations]] for every tenday business roll.
+- Post operating hours and settle early staff routines for Trollskull.
+- Respond to [[People/NPCs/Emmet Frewn|Frewn's]] planted anti-ghost complaint without making him the main plot.
 - Decide whether to secure, monitor, or use [[Places/Trollskull Smuggler's Passage]].
 - Track whether [[People/PCs/Broethuul]] shares any part of [[Objects/The Amberleaf Dispatch]].
+- Prepare for Ches 22, 1492 DR, when the Fireball is planned to enter play.
 
 ### Active Background Pressure
 
-- [[Factions/Xanathar Guild]] may learn about the [[Places/Drowned Lantern]] / [[People/NPCs/Zelifarn]] mission from survivors.
-- [[Factions/Zhentarim]] remains split or opaque, with Davil/Yagra's spy effort separate from the violent actors seen so far.
+- [[Factions/Xanathar Guild]] may learn about the [[Places/Drowned Lantern]] / [[People/NPCs/Zelifarn]] mission from survivors, and the opening-night gazer may have escaped.
+- [[Factions/Zhentarim]] remains split or opaque, with Davil/Yagra's spy effort separate from the violent actors seen so far and the new runner/tube unresolved.
 - [[Factions/Harpers]] and [[Factions/Gray Hands]] both have reasons to value Trollskull as the party's base.
 - [[Factions/Cassalanters]] now hold the tavern debt.
 - [[Threads/Great Game]] is still a frame, not yet a fully visible chase.
@@ -87,19 +93,19 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
 | [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
-| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Loan signed, opening imminent | Confirm current cash after repairs, choose tavern name/sign, finish opening prep, secure the new sewer passage. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Open as of Ches 19 | Confirm current cash after repairs and opening, post hours, manage staff, secure the sewer passage, handle first-interest pressure, and use [[Dashboard/Trollskull Operations]] for tenday rolls. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
 | [[People/NPCs/Lif]] and the haunting | Whole party | Contacted, cooperative | Lif wants Trollskull restored, can clean/serve drinks, cannot leave the manor, and Fala is researching his limits. |
-| [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Frewn is counter-marketing against ghosts as Trollskull nears opening; local competition, guild tension, possible sabotage. |
-| [[Factions/Harpers]] / [[People/NPCs/Mirt]] / [[People/NPCs/Remallia Haventree]] | Whole party | Active faction track | Maxeene report delivered to Remallia; party has [[Objects/Remallia's Paper Bird]] and quiet support. |
+| [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Frewn has used anti-ghost posters and a planted opening-day complaint; keep pressure petty, deniable, and long-tail. |
+| [[Factions/Harpers]] / [[People/NPCs/Mirt]] / [[People/NPCs/Remallia Haventree]] | Whole party | Active faction track | Trollskull is open and received deniable silver-raven congratulations; party has [[Objects/Remallia's Paper Bird]] and quiet support. |
 | [[Objects/Opera Invitation from Mirt]] | Whole party | Resolved as invitation; fallout active | Mirt meeting happened; watcher and ambush followed immediately after Box C. |
-| [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | Deepwater Harbor dragon report delivered; party has spare water-breathing potions and may be called again. |
+| [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | Deepwater Harbor dragon report delivered; Elra attended the opening in personal capacity and signaled favorable Force Grey standing. |
 | [[Places/Fish Street Warehouse]] / [[Objects/Dockside Transfer Receipt]] / [[Objects/Loose It Then Leave Note Fragment]] | Whole party | Active clue trail | Trace three ironbound crates, redacted ownership, and the receipt address; exact address/name not captured in session 6 transcript. |
 | Trollskull surveillance/intrusion | Whole party | Active pressure | [[People/NPCs/Vincent Trench]] thinks the gazer lead points back to Xanathar; determine which operator sent it and whether the upstairs intrusion was related. |
 | [[Places/Book Wyrm's Treasure]] / [[Objects/Borrowed Monster Books]] | Whole party | Active obligation | Return Rishaal's books; translate the older Draconic volume if useful. |
 | [[Factions/Cassalanters]] / [[Places/Cassalanter Villa]] | Whole party | Loan signed | [[Objects/Cassalanter Loan]] is active; first interest begins after opening. Track debt pressure, patron leverage, and Davy's private Cassalanter misgivings. |
 | [[Objects/Scrap of Note]] / Stone clue | Whole party | Active mystery | Decode X, Z, Lady B, R, "third eye," and how the note connects to the watcher/ambush. |
-| [[People/NPCs/Mr Jones]] and Castle Ward ambush | Whole party | Aftermath active | [[People/NPCs/Thugby]] was released/intimidated and then reappeared with the Thomril arson crew; one original survivor still escaped through the sewers. |
+| [[People/NPCs/Mr Jones]] and Castle Ward ambush | Whole party | Aftermath active | [[People/NPCs/Thugby]] was released/intimidated, reappeared with the Thomril arson crew, escaped, and then accidentally attended Trollskull's opening. |
 | [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | Whole party, especially Elior | New social lead | Festival ships in port; Zardoz expects citywide attention. |
 | [[People/NPCs/Maxeene]] / [[Places/Thomril & Sons Cartage]] | Whole party | Active consequence | Maxeene survived, her report reached Remallia, Thomril & Sons burned, the stablemaster is likely dead, and no Watch report is captured yet. |
 | [[People/NPCs/Davil Starsong]] / [[People/NPCs/Yagra Stonefist]] | Whole party | New faction lead | Maxeene overheard them discussing spies to locate Xanathar Guild hideouts; determine whether this cell is foe, ally, or separate Zhentarim splinter. |
@@ -114,6 +120,8 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Places/Trollskull Smuggler's Passage]] | Whole party | Newly discovered security threat | Determine who opened the latched sewer-side door, then seal, secure, exploit, or monitor the route. |
 | [[People/NPCs/Zelifarn]] / [[Places/Deepwater Harbor]] | Whole party, especially Broethuul | New Gray Hands contact | Keep the bronze dragon discreet, decide whether to visit him, and monitor harbor faction attention. |
 | [[Objects/The Amberleaf Dispatch]] | [[People/PCs/Broethuul]] | Revealed privately | Broethuul-only clue tying the wrong-water door, Starfern claim, Stone/Eye, Crommor horn, and House of Coin and Smile. |
+| [[Objects/Zhent Runner Message Tube]] | Whole party | Recovered, unopened | Opening-night sealed tube tied to a Zhentarim-adjacent runner and Xanathar-linked pursuers; next-session pressure object. |
+| Ches 22 Fireball | Whole party | Planned next arc trigger | Fireball is scheduled for Ches 22, three days after Trollskull's grand opening, unless player action meaningfully redirects the setup. |
 
 ## Immediate Follow-Up
 
@@ -121,6 +129,6 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue next play from the morning of Ches 16, 1492 DR, three days before the intended Trollskull opening window.
-- Track tavern name/sign, remaining loan cash after repairs, Frewn's counter-marketing, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
+- Continue next play from the evening/night of Ches 19, 1492 DR, just after Trollskull's opening-night street-war interruption.
+- Track the runner, Thugby, sealed tube, Watch response, remaining loan cash, opening business results, staff routines, posted hours, Frewn's next petty move, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
 - Use [[Dashboard/Current Campaign State]] and [[Dashboard/Faction Clocks]] as the starting point for weekly prep.

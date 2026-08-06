@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/notes/dm-planning/session-3/prep-notes.md
@@ -12,7 +12,7 @@ source_paths:
   - Reference/Remix Response Teams.md
   - Reference/Remix Faction Outposts.md
   - Reference/Remix Revelation Lists.md
-  - Sessions/Session 12 - 2026-07-09.md
+  - Sessions/Session 13 - 2026-07-23.md
   - Dashboard/Open Threads.md
 tags:
   - waterdeep
@@ -22,7 +22,7 @@ tags:
 
 # Faction Clocks
 
-Working DM-facing escalation dashboard after [[Sessions/Session 12 - 2026-07-09]]. These clocks are not strict mechanics; they are a quick way to decide what pressure moves next when the party spends time, opens Trollskull, ignores leads, makes noise, or exposes new information.
+Working DM-facing escalation dashboard after [[Sessions/Session 13 - 2026-07-23]]. These clocks are not strict mechanics; they are a quick way to decide what pressure moves next when the party spends time, runs Trollskull, ignores leads, makes noise, or exposes new information.
 
 Use [[Reference/Dragon Heist Remix Overview]], [[Reference/Remix Faction Outposts]], and [[Reference/Remix Response Teams]] when a clock triggers a concrete move.
 
@@ -40,22 +40,23 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 
 | Clock | Owner / Force | Progress | Current Read | Advances When | At Full |
 |---|---|---:|---|---|---|
-| Trollskull Opening | Party, guilds, alley | 5/6 | The manor is nearly ready; name/sign and money accounting remain. | Time passes toward Ches 19, party delays key decisions, Frewn disrupts opening. | Opening day arrives with unresolved operational problems. |
-| Frewn Countermove | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | 2/6 | Frewn has shifted from resentment to public anti-ghost marketing. | Trollskull advertises, Lif becomes visible, party humiliates Frewn, Frewn loses customers. | Frewn attempts sabotage, poaching, planted rumors, or guild complaints. |
-| Cassalanter Leverage | [[Factions/Cassalanters]] | 3/8 | Loan signed; public read is generous patronage, private threads point toward contract danger. | Tavern opens, payments begin, party asks for more help, Davy/Crommor clues surface. | Cassalanters call in social leverage, invite deeper entanglement, or protect their secrets. |
-| Xanathar Attention | [[Factions/Xanathar Guild]] | 4/8 | Party has hit a sewer hideout, grell asset, gazer surveillance, and harbor salvage crew. | Drowned Lantern survivors report, party returns to sewers, party flaunts Zelifarn contact, Xanathar loses more assets. | Xanathar assigns a deliberate response team or escalates surveillance at Trollskull. |
-| Zhentarim Split Pressure | [[Factions/Zhentarim]] | 3/8 | Davil/Yagra are seeking Xanathar hideouts; other Zhentarim-marked actors remain violent and opaque. | Party contacts Davil/Yagra, Thugby reports, Maxeene fallout spreads, gang war heats up. | The party must distinguish Doom Raider overtures from hostile Zhentarim actors under pressure. |
-| Harper Trust | [[Factions/Harpers]] | 4/6 | Maxeene report delivered; Remallia wants Trollskull open as a listening post. | Party opens tavern, sends paper bird, gains useful gossip, protects witnesses quietly. | Remallia/Mirt offer a higher-stakes Harper lead or support package. |
-| Gray Hands Trust | [[Factions/Gray Hands]] | 4/6 | Grell and Zelifarn assignments completed messily but usefully. | Party reports clearly, keeps Blackstaff business discreet, avoids Watch scandals. | Vajra gives a more sensitive assignment or formalizes trust/renown. |
-| City Watch Attention | [[Factions/City Watch]] | 3/6 | The party has a growing trail of public violence, but noble/faction cover has kept it manageable. | Watch connects Castle Ward, Thomril & Sons, Fish Street, or Drowned Lantern; bodies appear near Trollskull. | Watch interview, legal summons, or Staget-style warning becomes unavoidable. |
-| Stone / Great Game | [[Threads/Great Game]] | 3/8 | Renaer's locket, the Scrap of Note, Maxeene's rock gnome, and Amberleaf all point toward a memory/Stone race. | Party pursues X/Z/Lady B/R, Broethuul shares Amberleaf, another faction finds an Eye, Fireball trigger approaches. | The Grand Game moves from clues to an overt chase or explosion. |
+| Trollskull Operations | Party, staff, guilds, alley | 1/6 | Trollskull is open; hours, staff routines, first accounting, and Lif-facing procedures remain loose. Use [[Dashboard/Trollskull Operations]] for tenday business rolls. | Time passes, staff are undertrained, guild rules are missed, customers are confused, Frewn pressures service. | Business trouble, staff crisis, guild citation, or a useful tavern rumor enters play. |
+| Frewn Countermove | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | 3/6 | Frewn has used posters and a planted complaint against undead service, but remains deniable. | Trollskull succeeds publicly, Lif becomes famous, party humiliates Frewn, Frewn loses customers. | Frewn attempts sharper sabotage, poaching, planted rumors, or guild complaints. |
+| Cassalanter Leverage | [[Factions/Cassalanters]] | 4/8 | Loan signed and Trollskull opened; interest pressure now begins. | Payments come due, party asks for more help, Davy/Crommor clues surface, Cassalanters visit publicly. | Cassalanters call in social leverage, invite deeper entanglement, or protect their secrets. |
+| Xanathar Attention | [[Factions/Xanathar Guild]] | 5/8 | Party has hit a sewer hideout, grell asset, gazer surveillance, harbor salvage crew, and opening-night pursuers. | Drowned Lantern survivors report, the opening-night gazer escaped, party opens the tube, party returns to sewers. | Xanathar assigns a deliberate response team or escalates surveillance at Trollskull. |
+| Zhentarim Split Pressure | [[Factions/Zhentarim]] | 5/8 | Davil/Yagra are seeking Xanathar hideouts; a runner and sealed flying-snake tube are now in party hands. | Party opens the tube, questions or harms the runner, contacts Davil/Yagra, Thugby talks, gang war heats up. | The party must distinguish Doom Raider overtures from hostile Zhentarim actors under pressure. |
+| Harper Trust | [[Factions/Harpers]] | 5/6 | Trollskull is open as a potential listening post, with deniable silver-raven congratulations. | Party gains useful gossip, protects witnesses quietly, sends paper bird, exposes Harper ties. | Remallia/Mirt offer a higher-stakes Harper lead or support package. |
+| Gray Hands Trust | [[Factions/Gray Hands]] | 5/6 | Grell and Zelifarn assignments completed; Elra's opening visit cemented favorable notice. | Party keeps Blackstaff business discreet, avoids Watch scandals, handles city threats cleanly. | Vajra gives a more sensitive assignment or formalizes trust/renown. |
+| City Watch Attention | [[Factions/City Watch]] | 4/6 | The party now has opening-night bodies outside its tavern, but witnesses saw attackers threaten the business. | Watch connects Castle Ward, Thomril & Sons, Fish Street, Drowned Lantern, or Trollskull incidents. | Watch interview, legal summons, or Staget-style warning becomes unavoidable. |
+| Stone / Great Game | [[Threads/Great Game]] | 4/8 | Renaer's warning, the unopened tube, locket, Scrap of Note, rock gnome, and Amberleaf point toward the Stone race. | Party opens the tube, pursues X/Z/Lady B/R, Broethuul shares Amberleaf, Fireball trigger approaches. | The Grand Game moves from clues to an overt chase or explosion. |
 | Bregan D'aerthe Entry | [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | 1/6 | Zardoz is socially introduced; Sea Maidens ships are in port. | Party follows Zardoz, harbor activity grows, Zelifarn draws ship attention, noble festival scenes continue. | Jarlaxle's people actively test, recruit, misdirect, or steal from the party. |
 | Autumn Door | [[Threads/Broethuul and the Autumn Court]] | 2/6 | Amberleaf Dispatch revealed privately; wrong-water door is now an active concept. | Broethuul shares/investigates, visits Zelifarn, seeks the harbor threshold, Stone/Eye clues surface. | A fey messenger, threshold scene, or Starfern claimant consequence enters play. |
 
 ## Immediate Trigger Menu
 
-- If the party spends days on tavern work: advance Trollskull Opening, Frewn Countermove, Cassalanter Leverage.
+- If the party spends days on tavern work: advance Trollskull Operations, Frewn Countermove, Cassalanter Leverage.
 - If the party advertises the ghost: advance Frewn Countermove and possibly City Watch Attention if rumors turn ugly.
+- If the party opens or loses the message tube: advance Zhentarim Split Pressure, Xanathar Attention, and Stone / Great Game.
 - If the party enters the sewers or investigates the smuggler's passage: advance Xanathar Attention.
 - If the party contacts Remallia/Mirt: advance Harper Trust; consider reducing Watch heat if Harpers help quietly.
 - If the party contacts Vajra/Elra: advance Gray Hands Trust; decide whether Zelifarn remains stable.
@@ -69,6 +70,7 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 - Keep player-facing summaries free of unrevealed private content, especially [[Objects/The Crommor Warning]] and [[Objects/The Amberleaf Dispatch]].
 - The Remix/Grand Game layer should inform faction moves, but transcript truth controls what has actually been revealed.
 - Add, split, or retire clocks once the Fireball/Stone chase begins in earnest.
+- Trollskull Opening retired after session 13; use Trollskull Operations for ongoing business pressure.
 
 ## Sources
 
@@ -81,5 +83,5 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 - [[Reference/Remix Faction Outposts]]
 - [[Reference/Remix Response Teams]]
 - [[Reference/Remix Revelation Lists]]
-- [[Sessions/Session 12 - 2026-07-09]]
+- [[Sessions/Session 13 - 2026-07-23]]
 - [[Dashboard/Open Threads]]

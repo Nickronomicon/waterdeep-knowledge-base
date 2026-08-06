@@ -433,3 +433,37 @@ Only one major thing was missing: the tavern still needed a name and sign.
 Across the alley, Frewn's Brews had an answer of its own. A fresh poster promised a grand opening soon: real drinks, living staff, no ghosts.
 
 So our heroes ended the session on the morning of Ches 16, three days from opening, with a signed loan, hired cooks, a helpful ghost, a rival tavern talking trash in print, five spare water-breathing potions, a bronze dragon acquaintance under the harbor, and an autumn leaf in Broethuul's hands. Trollskull is almost ready for customers. Which means, in Waterdeep terms, that everyone should be extremely calm.
+
+## Session 13
+
+Three days before opening, the party faced the ancient and terrible Waterdhavian trial known as "hiring people." Trollskull had cooks, a ghost, a loan, and a dream. It did not yet have enough hands to keep cups filled, tables cleared, and customers from wandering into the parts of the building where the owners keep their secrets.
+
+Applications were reviewed. Interviews were considered, shortened, and in some cases spiritually replaced by decisive owner instinct. By the end, Trollskull had hired Lillian Haekin for polished morning and tea service, Mosp the kobold for bar work and drinks with perhaps too much personality, Ryba for quick and competent floor service, and Patric Nivka as an eager general helper who very much needed both work and a place to sleep. Aladeen negotiated the wages with the sort of intensity normally reserved for duels and theater contracts, and Patric was allowed to stay upstairs rather than anywhere near the cellar's more interesting architectural problems.
+
+The tavern also gained its sign. On the morning of Ches 19, Tally arrived with apprentices and a shield-like board showing Trollskull Manor beneath a troll skull, crossed swords, and the name Skullduggers. Lif, who had been writing Welcome on the chalkboard each morning, revised the message to Open? Davy erased the question mark. The mugs turned themselves handle-out behind the bar.
+
+And Trollskull Manor opened.
+
+The children helped spread the word with a ghost-positive jingle, which is either excellent advertising or the beginning of a future neighborhood ordinance. Fala dressed the place with festive herbs and continued quiet chalkboard conversations with Lif. Broxley Fairkettle inspected on behalf of the Fellowship of Innkeepers and found no disasters, though he did note that operating hours should probably be posted if the tavern intended to operate during hours. Hammond Craddock from the vintners and brewers side of things sampled the stock and made a professional effort to convince the owners that future orders could be fancier, fresher, and more expensive.
+
+Lif was, by almost every practical measure, very good at being a bartender. Drinks moved quickly. Mugs shifted into place. Customers stared, delighted or unsettled, as service appeared from nowhere. Mosp did fine with ordinary orders and then became a hazard around the phrase "surprise me," which may require either training, supervision, or warning labels. Ryba knew what she was doing. Patric did not, but he worked hard enough that the difference was at least charming.
+
+Frewn, naturally, was watching.
+
+Jonathan found him across the alley, where Frewn managed to be present, smug, and technically innocent all at once. Shortly afterward, a customer made a loud show of complaining that undead drink service was unsafe and poured out his drink in front of Trollskull. The complaint did not stop the opening, but it did make clear that Frewn's rivalry had entered the "plausibly deniable nuisance" phase.
+
+The evening crowd brought better complications. Threestrings settled by the fireplace. Elra Harsard appeared in a personal capacity, which somehow made her no less obviously connected to serious Blackstaff business. Renaer, Floon, and Volo arrived together; Floon had been drinking and retelling the rescue story with generous improvements, while Volo immediately saw publishing opportunities in a haunted tavern. A silver raven delivered an unsigned congratulatory note that vanished into glittering deniability. Rishaal read quietly and left a wrapped booklet marked for Lif. Neighbors drank, danced, stared, and occasionally tried to work out how one tips a ghost.
+
+Then Waterdeep remembered it had other plots.
+
+A bloodied man rushed into the tavern and asked Jonathan to hide him. Outside, armed pursuers threatened to burn the place down if he did not come out. Aladeen solved the hiding problem by suggesting, magically and firmly, that the man go outside and stand behind Jonathan for the next eight hours. This made him very easy to find, but also placed him behind Jonathan, which has solved worse problems.
+
+The men outside claimed the runner was a spy, a thief, and a liar. A small floating eye watched from above. The party was not much inclined to let armed strangers threaten their brand-new front door, and the resulting fight was brief, public, and bad for the attackers. Elior opened with ice and thunder. Davy shot at the gazer as it retreated. Broethuul fought through a nasty hit and put down the lead bruiser. Jonathan held the line and ended the fleeing cutter with divine force. Aladeen insulted, inspired, healed, and generally made sure the evening's entertainment remained on theme.
+
+One attacker tried to steal the runner's sealed message tube and run. He did not get far.
+
+By the end, the attackers were down, the crowd was cheering, the Watch was being summoned, and the tube was back in the party's hands. Its seal showed a black flying snake with wings. The runner was very clear that opening it would make everyone else's problems worse, which is not usually the kind of sentence that makes adventurers less curious.
+
+As if the night needed one more familiar face, Thugby appeared. Not on purpose, apparently. He had heard about a new tavern opening and had not realized it belonged to the people who had already met him in two separate crime scenes. Aladeen recognized him, Thugby panicked, and soon he too was upstairs for a special drink.
+
+So our heroes ended opening night with a functioning tavern, hired staff, a proud sign, customers who had seen both ghost service and street violence, a Watch conversation incoming, one magically obedient runner, one deeply nervous Thugby, and one sealed message tube full of trouble still waiting to be opened. Trollskull Manor is officially in business. Waterdeep, with admirable timing, immediately became a customer.

@@ -190,5 +190,5 @@ When asked to lint or health-check the wiki:
 ## Current Known Inputs
 
 - Session 1 is not recorded in the available transcripts.
-- Recorded Waterdeep transcripts currently include sessions 2 through 12.
-- The latest ingested campaign state is the morning of Ches 16, 1492 DR, after session 12. Trollskull Manor is three days from the intended opening window, the Cassalanter loan has been signed, Corvin and Miri Underbough have been hired, Lif is cooperative but still bound to the manor, Frewn has started anti-ghost counter-marketing, and Broethuul has privately received [[Objects/The Amberleaf Dispatch]].
+- Recorded Waterdeep transcripts currently include sessions 2 through 13.
+- The latest ingested campaign state is the evening/night of Ches 19, 1492 DR, after session 13. Trollskull Manor is open under the Skullduggers sign, the Cassalanter loan interest period has begun or is about to begin, the Underboughs plus Lillian, Mosp, Ryba, and Patric are hired, Lif is serving drinks and still bound to the manor, Frewn has escalated to petty planted anti-ghost complaints, Broethuul has privately received [[Objects/The Amberleaf Dispatch]], and the immediate next state includes a Zhentarim-adjacent runner, [[People/NPCs/Thugby]], and an unopened [[Objects/Zhent Runner Message Tube]] upstairs at Trollskull.

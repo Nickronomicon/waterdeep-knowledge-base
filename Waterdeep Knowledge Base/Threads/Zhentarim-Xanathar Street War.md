@@ -1,13 +1,14 @@
 ---
 type: thread
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - thread
@@ -32,6 +33,10 @@ The party has stepped into an open conflict between the [[Factions/Zhentarim]] a
 - In session 8, [[People/NPCs/Maxeene]] reported that [[People/NPCs/Davil Starsong]] and [[People/NPCs/Yagra Stonefist]] discussed hiring spies to root out Xanathar Guild hideouts.
 - The arson attack at [[Places/Thomril & Sons Cartage]] involved at least one flying-snake-tattooed attacker and may have been an attempt to kill or expose Maxeene as a spy.
 - In session 12, a Xanathar-linked salvage crew with a gazer tried to steal the party's water-breathing potions at [[Places/Drowned Lantern]] before they could reach [[People/NPCs/Zelifarn]].
+- In session 13, a bloodied Zhentarim-adjacent runner fled into [[Places/Trollskull Manor]] during the grand opening, pursued by Xanathar-linked attackers and a gazer.
+- The pursuers tried to take or stop the runner's sealed message tube. A cutter briefly stole it, but the party killed him and recovered the unopened [[Objects/Zhent Runner Message Tube]].
+- The runner remains alive and magically compelled to stay near Jonathan at the end of the session.
+- The gazer's final state is uncertain: Davy shot it hard as it retreated over a roof, but the transcript does not confirm whether it died or escaped.
 
 ## Working Read
 
@@ -41,6 +46,8 @@ Session 8 suggests at least one Zhentarim-aligned operation is now trying to bui
 
 Session 12 adds a separate Xanathar-linked opportunist layer in the harbor: a salvage crew learned enough about the dragon rumors and the Blackstaff-provided potions to try for Zelifarn's supposed hoard. One cutpurse and the crew boss escaped, so the faction may learn the party is working Gray Hands business again.
 
+Session 13 brings the conflict directly to Trollskull's front door. The runner's flying-snake seal and the Xanathar-linked gazer make the fight look like another piece of the same information war, but the sealed message remains unopened and the party has not yet sorted whether this runner belongs to Davil's circle, another Zhentarim cell, or something more dangerous.
+
 ## Sources
 
 - `../raw/notes/discord-synopsis-channel.md`
@@ -48,3 +55,4 @@ Session 12 adds a separate Xanathar-linked opportunist layer in the harbor: a sa
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

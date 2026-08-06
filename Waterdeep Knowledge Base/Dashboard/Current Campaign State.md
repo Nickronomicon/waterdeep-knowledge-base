@@ -1,11 +1,11 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/stats.md
   - ../raw/notes/technical-notes.md
-  - Sessions/Session 12 - 2026-07-09.md
+  - Sessions/Session 13 - 2026-07-23.md
   - Dashboard/Open Threads.md
   - Timeline/Campaign Timeline.md
 tags:
@@ -16,41 +16,45 @@ tags:
 
 # Current Campaign State
 
-Live DM-facing snapshot after [[Sessions/Session 12 - 2026-07-09]]. The campaign is paused on the morning of Ches 16, 1492 DR, with [[Places/Trollskull Manor]] nearly ready to open.
+Live DM-facing snapshot after [[Sessions/Session 13 - 2026-07-23]]. The campaign is paused on the evening or night of Ches 19, 1492 DR, after [[Places/Trollskull Manor]] opened and a Zhentarim-Xanathar street-war incident spilled onto its doorstep.
 
 ## Stable Operating Facts
 
 | Field | Current Value |
 |---|---|
 | Party level | 3 |
-| Party name | None yet |
-| Tavern name | Still undecided; "Trollskull Manor" is the working property name |
-| Current in-world date | Morning of Ches 16, 1492 DR |
+| Party name | The Skullduggers |
+| Tavern name | Trollskull Manor |
+| Current in-world date | Evening/night of Ches 19, 1492 DR |
 | Current location | [[Places/Trollskull Manor]] / [[Places/Trollskull Alley]] |
-| Real session coverage | Sessions 1-12 ingested; session 1 reconstructed |
+| Real session coverage | Sessions 1-13 ingested; session 1 reconstructed |
 | Cadence | Thursday evenings when scheduled |
 
 ## Immediate Situation
 
-- Trollskull is three days from the intended opening window.
-- The tavern still needs its final public name and signboard; [[People/NPCs/Tally Fellbranch]] is waiting on the design/name.
-- [[Objects/Cassalanter Loan]] is signed for 2,000 gp. First interest begins after opening; confirm the current cash balance after repairs, guild payments, and setup purchases.
+- Trollskull Manor opened on Ches 19, 1492 DR.
+- The sign is up: Trollskull Manor, with the Skullduggers marked under a troll skull and crossed swords.
+- [[Objects/Cassalanter Loan]] is signed for 2,000 gp. First interest begins after opening; confirm the current cash balance after repairs, guild payments, staff setup, and the first business result. Track recurring tavern rolls in [[Dashboard/Trollskull Operations]].
 - [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] are hired as kitchen staff.
-- [[People/NPCs/Lif]] is cooperative, writes "Welcome" on a chalkboard each morning, can help with tavern work, and cannot leave the manor.
+- [[People/NPCs/Lillian Haekin]], [[People/NPCs/Mosp]], [[People/NPCs/Ryba]], and [[People/NPCs/Patric Nivka]] are hired as front-room staff.
+- [[People/NPCs/Lif]] is cooperative, served drinks on opening day, communicates by chalkboard, and cannot leave the manor.
 - [[People/NPCs/Fala Lefaliir]] is researching whether Lif can be understood, strengthened, or supported safely.
-- [[Places/Frewn's Brews]] has posted a rival advertisement emphasizing living staff and no ghosts.
+- [[Places/Frewn's Brews]] has moved from anti-ghost advertising to planted opening-day complaints, still petty and deniable.
 - [[Places/Trollskull Smuggler's Passage]] remains an unresolved security problem.
+- A Zhentarim-adjacent runner is under Aladeen's Suggestion and stuck near Jonathan for eight hours.
+- [[People/NPCs/Thugby]] is upstairs as a nervous guest.
+- [[Objects/Zhent Runner Message Tube]] is recovered but unopened.
 
-## Recent Session 12 Changes
+## Recent Session 13 Changes
 
-- Lif's message reached Fala, who remembered him fondly.
-- The Underboughs were hired.
-- [[People/NPCs/Willifort Crowelle]] delivered the loan documents and 2,000 gp chest; all five PCs signed.
-- Renovation advanced through major time skips from Ches 6 to Ches 16.
-- The party completed a [[Factions/Gray Hands]] harbor assignment for [[People/NPCs/Vajra Safahr]] / [[People/NPCs/Laraelra Harsard]].
-- [[People/NPCs/Zelifarn]], a young bronze dragon in [[Places/Deepwater Harbor]], was assessed as curious rather than hostile.
-- [[People/PCs/Broethuul]] privately received [[Objects/The Amberleaf Dispatch]].
-- The party received five spare [[Objects/Force Grey Water Breathing Potions]].
+- Front-room hiring is complete enough to operate.
+- The grand opening happened on Ches 19 and drew neighbors, guild representatives, Threestrings, Elra, Renaer, Floon, Volo, and a deniable silver-raven message likely from Remallia.
+- [[People/NPCs/Broxley Fairkettle]] flagged missing posted hours during opening-day inspection.
+- [[People/NPCs/Hammond Craddock]] tried to upsell better beverage supply.
+- Frewn watched while a shill complained about undead service outside the tavern.
+- A Zhentarim-Xanathar street-war fight erupted outside Trollskull; the party killed the attackers and recovered a sealed message tube.
+- The Watch was summoned after the fight.
+- Thugby unexpectedly returned and was brought upstairs by Aladeen.
 
 ## Party Resources And Obligations
 
@@ -65,32 +69,38 @@ Live DM-facing snapshot after [[Sessions/Session 12 - 2026-07-09]]. The campaign
 | [[Objects/Elior's Ghost Research Books]] | Elior's private or semi-private Kelemvorite ghost research remains unresolved. |
 | [[Objects/The Crommor Warning]] | Unrevealed to Davy; DM-facing. |
 | [[Objects/The Amberleaf Dispatch]] | Revealed privately to Broethuul; not party-wide knowledge. |
+| [[Objects/Zhent Runner Message Tube]] | Recovered but unopened; contents not revealed. |
 
 ## Active Faction Pressure
 
-- [[Factions/Harpers]]: Remallia wants Trollskull open as an information-gathering tavern; Maxeene's report is delivered.
-- [[Factions/Gray Hands]]: Vajra/Elra accepted the Zelifarn report; the party remains a useful irregular asset.
-- [[Factions/Xanathar Guild]]: The party has repeatedly disrupted Xanathar-linked operations, and a Drowned Lantern survivor may report the harbor mission.
-- [[Factions/Zhentarim]]: Davil/Yagra are connected to a spy effort against Xanathar hideouts, while other Zhentarim-marked actors attacked Thomril & Sons.
-- [[Factions/Cassalanters]]: The party now owes the Cassalanters money; Davy's private material and the Crommor/Amberleaf threads make this more dangerous than it appears publicly.
-- [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]]: Local rivalry is active and visible.
+- [[Factions/Harpers]]: Remallia wants Trollskull as an information-gathering tavern; silver-raven support remains deniable.
+- [[Factions/Gray Hands]]: Elra's opening visit signaled favorable notice and future trust.
+- [[Factions/Xanathar Guild]]: The party has repeatedly disrupted Xanathar-linked operations; the opening-night gazer may or may not have escaped.
+- [[Factions/Zhentarim]]: The runner and sealed tube are now in party hands, but cell allegiance remains unresolved.
+- [[Factions/Cassalanters]]: The party now owes the Cassalanters money and the interest clock begins after opening.
+- [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]]: Local rivalry is active, petty, and likely ongoing.
 
 See [[Dashboard/Faction Clocks]] for the working escalation view.
 
 ## Hot Next-Session Questions
 
-- What is the tavern's public name and sign?
-- How much money remains after the renovation montage?
+- What does the runner say once the party questions him?
+- Does the party open, hide, deliver, or bargain with the sealed message tube?
+- What does Thugby know about his previous jobs and employers?
+- How does the Watch record the opening-night bodies outside Trollskull?
+- How much money remains after the renovation montage and opening-day business result?
+- What is the first recurring tenday business roll result in [[Dashboard/Trollskull Operations]]?
+- What operating hours does Trollskull post?
 - Does the party secure, exploit, or ignore the smuggler's passage?
-- How does Frewn escalate after the anti-ghost poster?
+- How does Frewn escalate after planted anti-ghost complaints?
 - Does Broethuul share any of the Amberleaf Dispatch?
-- What did the urchins do during their offscreen adventure?
 - Does Fala return with a way to help Lif?
+- What happens on Ches 22, the planned Fireball date?
 
 ## Sources
 
 - `../raw/stats.md`
 - `../raw/notes/technical-notes.md`
-- [[Sessions/Session 12 - 2026-07-09]]
+- [[Sessions/Session 13 - 2026-07-23]]
 - [[Dashboard/Open Threads]]
 - [[Timeline/Campaign Timeline]]

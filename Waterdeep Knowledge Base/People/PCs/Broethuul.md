@@ -7,7 +7,7 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
@@ -25,6 +25,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - pc
@@ -190,6 +191,14 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Introduced himself to [[People/NPCs/Zelifarn]] as Broethuul of Clan Starfern and the Autumn Court.
 - Received [[Objects/The Amberleaf Dispatch]] from Zelifarn. The party saw the leaf, but Broethuul did not share the full message during the transcript.
 
+## Session 13 Table-Facing Notes
+
+- Bought and distributed fancy feathers as opening-day doorbusters or social favors.
+- Worked the Trollskull floor during the grand opening, mixing service with carousing.
+- Deferred [[People/NPCs/Hammond Craddock|Hammond Craddock's]] beverage upsell until the tavern's next order.
+- Gave [[People/NPCs/Laraelra Harsard|Elra Harsard]] a feather and briefly drew her into feather-tickle nonsense before she restored control of the exchange.
+- Fought in the opening-night street-war incident, took a heavy hit from the bruiser, and killed the prone lead attacker with his rapier.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -225,6 +234,7 @@ In session 12, the Amberleaf Dispatch reframed Broethuul's arrival as planted ra
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
 
 ## Uncertainties
 

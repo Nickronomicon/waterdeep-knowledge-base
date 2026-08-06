@@ -7,7 +7,7 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
@@ -26,6 +26,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - pc
@@ -189,6 +190,14 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Entered [[Places/Deepwater Harbor]] with the party and met [[People/NPCs/Zelifarn]].
 - Introduced himself to Zelifarn as "just Davy," prompting the dragon to play with the name.
 
+## Session 13 Table-Facing Notes
+
+- Continued darkening the opera outfit with soot and charcoal; Fala later offered proper black dye in the morning.
+- Erased the question mark from Lif's chalkboard "Open?" and underlined "Open," effectively opening Trollskull Manor.
+- Worked opening service as an unobtrusive busboy or cater-waiter.
+- Shot at the gazer during the opening-night fight and landed a hard shot as it retreated over a roof; whether it died or escaped is uncertain.
+- Noticed and intercepted the silver-raven message likely sent by Remallia.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -227,6 +236,7 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
 
 ## Uncertainties
 

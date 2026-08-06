@@ -1,11 +1,12 @@
 ---
 type: meta
 status: active
-updated: 2026-07-11
+updated: 2026-07-30
 source_paths:
   - ../raw/roster.md
   - ../raw/stats.md
   - ../raw/notes/technical-notes.md
+  - ../raw/notes/dm-planning/session-13/outline.md
 tags:
   - waterdeep
   - operations
@@ -44,10 +45,11 @@ This page captures the operating assumptions needed before session transcript in
 ## Current Party Context
 
 - Party level: 3.
-- Party name: TBD.
-- Tavern name: Trollskull Manor for now.
+- Party name: The Skullduggers.
+- Tavern name: Trollskull Manor.
 - `../raw/stats.md` still lists 5 Ches, 1492 DR and session 12 on 2026-07-09; session ingest has advanced transcript truth beyond that source.
-- Latest ingested transcript truth ends on the morning of Ches 16, 1492 DR in [[Sessions/Session 12 - 2026-07-09]].
+- Latest ingested transcript truth ends on the evening or night of Ches 19, 1492 DR in [[Sessions/Session 13 - 2026-07-23]].
+- Trollskull Manor is now an active business. Use [[Dashboard/Trollskull Operations]] for the recurring d100 tenday business roll, operating costs, modifiers, and ledger.
 
 ## Homebrew And Character Sources
 

@@ -15,6 +15,28 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-07-30] setup | Trollskull tenday operations
+
+- Checked the `## Rolling for Results` section in `../raw/notes/dm-planning/session-13/outline.md` against the vault and found it was only partially captured through opening-result reminders.
+- Created [[Dashboard/Trollskull Operations]] to track the recurring tenday d100 business procedure, current cost baseline, modifiers, unpaid-obligation consequences, opening-roll follow-up, and future ledger entries.
+- Linked the operations page from [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], [[Dashboard/Faction Clocks]], [[Places/Trollskull Manor]], [[Meta/Campaign Operations]], and [[INDEX]].
+
+Follow-up:
+
+- Confirm the session 13 opening phase rolls and remaining loan cash, then use [[Dashboard/Trollskull Operations]] for every future 10-day business result.
+
+## [2026-07-25] ingest | Session 13
+
+- Ingested [[Sessions/Session 13 - 2026-07-23]] from the new session 13 transcripts plus session 13 prep/handout pages.
+- Covered final Trollskull hiring, the Skullduggers sign, the Ches 19 grand opening, Lif's public bar service, Frewn's planted anti-ghost complaint, opening guests and faction signals, the Zhentarim-Xanathar street-war interruption, recovery of the unopened [[Objects/Zhent Runner Message Tube]], and Thugby's accidental return.
+- Created [[People/NPCs/Lillian Haekin]], [[People/NPCs/Mosp]], [[People/NPCs/Ryba]], [[People/NPCs/Patric Nivka]], and [[People/NPCs/Hammond Craddock]].
+- Updated [[AGENTS]], PC pages, [[Places/Trollskull Manor]], [[Objects/Trollskull Hiring Applications]], [[Objects/Zhent Runner Message Tube]], [[People/NPCs/Lif]], [[People/NPCs/Emmet Frewn]], [[People/NPCs/Thugby]], [[People/NPCs/Renaer Neverember]], [[People/NPCs/Laraelra Harsard]], [[People/NPCs/Remallia Haventree]], [[People/NPCs/Broxley Fairkettle]], [[People/NPCs/Rishaal the Page-Turner]], [[People/NPCs/Tally Fellbranch]], active faction pages, reference pages, [[Threads/Zhentarim-Xanathar Street War]], [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], [[Dashboard/Faction Clocks]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], [[Meta/Campaign Operations]], [[Meta/Raw Source Inventory]], [[Meta/DM Prep Source Map]], and [[INDEX]].
+- Preserved reveal boundaries: the tube contents are not table-revealed, the silver raven remains deniable, Broethuul's Amberleaf Dispatch remains private unless shared, and Fireball remains future-facing on Ches 22.
+
+Follow-up:
+
+- Begin next play from the evening/night of Ches 19, 1492 DR, with the runner, Thugby, sealed tube, Watch response, opening accounting, posted hours, staff routines, and Ches 22 Fireball setup.
+
 ## [2026-07-22] prep | Session 13 handouts
 
 - Created [[Objects/Trollskull Hiring Applications]] as a player-facing applicant packet for speeding up the Trollskull hiring sequence before session 13.

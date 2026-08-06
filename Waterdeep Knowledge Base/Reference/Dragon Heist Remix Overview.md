@@ -49,9 +49,9 @@ The current major players are:
 
 ## Campaign Alignment
 
-- The campaign is currently paused on the morning of Ches 16, before Trollskull's expected opening window.
+- The campaign is currently paused on the evening or night of Ches 19, after Trollskull's grand opening and before the Ches 22 Fireball trigger.
 - The Remix's Fireball and heavy Grand Game machinery have not fully triggered at the table yet.
-- The party already has several early Remix-adjacent clues: [[Objects/Renaer's Locket]], [[Objects/Scrap of Note]], Maxeene's rock gnome lead, the Cassalanter loan, Zardoz exposure, and Broethuul's [[Objects/The Amberleaf Dispatch]].
+- The party already has several early Remix-adjacent clues: [[Objects/Renaer's Locket]], [[Objects/Scrap of Note]], Maxeene's rock gnome lead, the Cassalanter loan, Zardoz exposure, the unopened [[Objects/Zhent Runner Message Tube]], and Broethuul's [[Objects/The Amberleaf Dispatch]].
 - Use transcript truth first. Remix material is future-facing structure until it appears in play.
 
 ## Related Reference

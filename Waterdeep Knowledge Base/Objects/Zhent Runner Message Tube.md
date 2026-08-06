@@ -1,11 +1,13 @@
 ---
 type: object
-status: prepared
+status: recovered-unopened
 revealed: false
 revealed_session:
-updated: 2026-07-22
+updated: 2026-07-25
 source_paths:
   - Prep/Session Prep - 2026-07-23.md
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json
 tags:
   - waterdeep
   - object
@@ -18,7 +20,15 @@ tags:
 
 # Zhent Runner Message Tube
 
-Conditional player-facing handout for session 13. Give this to the players only if they recover the message tube from the Zhentarim-adjacent runner during the street-war spillover near Trollskull Manor.
+Conditional player-facing handout prepared for session 13. The party recovered the sealed tube during the street-war spillover at [[Places/Trollskull Manor]], but did not open it before the session ended.
+
+## Current Status
+
+- Recovered in [[Sessions/Session 13 - 2026-07-23]] after a Xanathar-linked cutter snatched it from the Zhentarim-adjacent runner and tried to flee.
+- The tube is sealed with a black flying snake with wings.
+- The runner warned the party not to open it, saying that if the message appears unsealed everyone has a problem.
+- [[People/PCs/Aladeen]] had the tube by the end of the session.
+- The handout text below is not table-revealed yet. Use it only if the party opens or otherwise accesses the tube contents.
 
 ## Ready-To-Post Handout
 
@@ -47,3 +57,5 @@ The message is written on a narrow strip of cheap paper, rolled tight enough to 
 ## Sources
 
 - [[Prep/Session Prep - 2026-07-23]]
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json`

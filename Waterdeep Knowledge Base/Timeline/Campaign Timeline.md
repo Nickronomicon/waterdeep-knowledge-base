@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -15,6 +15,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - timeline
@@ -26,7 +27,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 
 ## Current Endpoint
 
-The latest ingested table state is the morning of Ches 16, 1492 DR, three days before the intended [[Places/Trollskull Manor]] opening window. Session 12 included large time skips from Ches 6 to Ches 12 and then to Ches 16.
+The latest ingested table state is the evening or night of Ches 19, 1492 DR, after the [[Places/Trollskull Manor]] grand opening and opening-night street-war interruption.
 
 ## Session Chronology
 
@@ -44,6 +45,7 @@ The latest ingested table state is the morning of Ches 16, 1492 DR, three days b
 | [[Sessions/Session 10 - 2026-06-11]] | 2026-06-11 | Ches 5, 1492 DR | Davy begins Dorgar's candle rite, Elior privately seeks Kelemvorite exorcism and ghost research books, the party visits Steam and Steel and The Bent Nail, Aladeen commissions urchin bucklers, Aladeen/Broethuul/Jonathan negotiate a 2,000 gp Cassalanter loan, Corvin and Miri Underbough arrive for a trial dinner, and the kitchen ghost warns of rats. |
 | [[Sessions/Session 11 - 2026-06-25]] | 2026-06-25 | Ches 5, 1492 DR | The Underboughs serve their trial dinner, rats erupt from a hidden cellar passage, the party discovers a smuggler's route to the sewers, Dorgar performs the seance, Lif confirms he wants Trollskull restored, and the night ends with Lif's "welcome" message. |
 | [[Sessions/Session 12 - 2026-07-09]] | 2026-07-09 | Ches 6-16, 1492 DR | Party tells Fala about Lif, hires the Underboughs, signs the Cassalanter loan, renovates Trollskull through major time skips, completes a Gray Hands mission in Deepwater Harbor, meets Zelifarn, receives Broethuul's Amberleaf Dispatch, and ends three days before opening with Frewn counter-advertising. |
+| [[Sessions/Session 13 - 2026-07-23]] | 2026-07-23 | Ches 16-19, 1492 DR | Party hires Lillian, Mosp, Ryba, and Patric, opens Trollskull Manor as the Skullduggers on Ches 19, handles Frewn's planted anti-ghost complaint, receives opening guests and faction signals, defeats Xanathar-linked attackers pursuing a Zhentarim-adjacent runner, recovers an unopened sealed message tube, and ends with the runner and Thugby upstairs. |
 
 ## Date Anchors
 
@@ -52,6 +54,8 @@ The latest ingested table state is the morning of Ches 16, 1492 DR, three days b
 - Sessions 5-9 move through Ches 2-4 by transcript inference.
 - Sessions 10-11 occur on Ches 5.
 - Session 12 begins on Ches 6, skips to Ches 12 for the harbor mission, and ends on the morning of Ches 16.
+- Session 13 covers final opening prep, skips to the grand opening on Ches 19, and ends that evening or night.
+- Fireball is planned for Ches 22, 1492 DR, three days after the grand opening.
 
 ## Open Chronology Questions
 
@@ -62,13 +66,17 @@ The latest ingested table state is the morning of Ches 16, 1492 DR, three days b
 - Whether the Watch responds to the Castle Ward ambush or the Thomril & Sons arson.
 - Exact final damage to Thomril & Sons after the burning-stable fight.
 - Whether Thugby reports to anyone after fleeing the second time, and what Remallia's manservant learns about him.
-- How much Cassalanter loan cash remains after renovation/guild payments.
+- How much Cassalanter loan cash remains after renovation/guild payments and opening-day business results.
 - Who used the Trollskull smuggler's passage to release rats, and how the party secures it.
 - What Fala knows about Lif and whether he can be strengthened.
 - Whether Tally's bucklers are picked up before the urchins cause another weapon-training incident.
 - What happened during the urchins' offscreen "adventure" on Ches 5-6.
 - Whether the escaped Drowned Lantern cutpurse or salvage boss reports the Gray Hands harbor mission.
 - Whether Broethuul shares the Amberleaf Dispatch with the rest of the party.
+- What Thugby reveals now that he has accidentally returned to Trollskull and been brought upstairs.
+- Whether the opening-night gazer escaped after Davy's shot.
+- What the runner says and whether the party opens the sealed message tube before Ches 22.
+- How the Watch records the opening-night bodies outside Trollskull.
 
 ## Sources
 
@@ -84,3 +92,4 @@ The latest ingested table state is the morning of Ches 16, 1492 DR, three days b
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

@@ -1,7 +1,7 @@
 ---
 type: npc
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -10,6 +10,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - npc
@@ -33,6 +34,8 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - Lif directed the party to [[People/NPCs/Fala Lefaliir]] for questions about strengthening him or understanding his ghostly limits; in session 12 the party delivered his regards to Fala.
 - During the renovation montage, Lif helped with doors, mugs, dust, and daily "Welcome" messages.
 - When asked by chalkboard whether he can leave the manor, Lif indicated no.
+- During the grand opening, Lif became one of Trollskull's signature features, rapidly serving drinks, arranging mugs, and responding through chalkboard cues.
+- Customers still need an obvious ordering convention or sign explaining how to address an invisible bartender.
 
 ## Session 11 Seance
 
@@ -52,6 +55,15 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - Fala later left herbs for the cellar smell and a note behind the bar saying that they remember.
 - As renovation progressed, Lif helped the building behave like a tavern again: latching doors, arranging mugs, collecting dust into piles, and keeping dust out of drinks.
 - Aladeen arranged a chalkboard for communication. Lif renewed "Welcome" every morning and answered the question about leaving the manor by circling "N" and turning it into a frowny face.
+
+## Session 13 Developments
+
+- On opening morning, Lif changed the chalkboard "Welcome" to "Open?" before Davy erased the question mark and underlined "Open."
+- The mugs behind the bar turned handle-out at once when Trollskull opened.
+- Aladeen asked Lif to be the tavern's showpiece, and Lif agreed with chalkboard approval.
+- Lif worked behind the bar with [[People/NPCs/Mosp]], serving drinks quickly and theatrically.
+- Lif tried to prevent Mosp from giving at least one customer a deeply questionable surprise drink.
+- [[People/NPCs/Rishaal the Page-Turner]] left a twine-wrapped booklet tagged "For Lif" on the bar.
 
 ## Session 10 Signs
 
@@ -87,6 +99,8 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - Can the haunting become a working part of the tavern rather than a threat?
 - Can Lif be strengthened safely, and would strengthening him change his nature?
 - How much does Lif know about recent intrusions if he cannot always communicate?
+- What did Rishaal leave for Lif, and can it improve communication or service?
+- What customer-facing system will let patrons order from Lif without confusion?
 
 ## Sources
 
@@ -97,3 +111,4 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

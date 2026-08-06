@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 12 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 13 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 12; sessions 2 through 12 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 13; sessions 2 through 13 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Structural adventure reference ingest has begun with active Remix overview, timeline, revelation, outpost, response-team, Eye heist, Golorr artifact, and original-adventure overview pages.
 - Raw sources live outside the vault in `../raw/` and are read-only.
@@ -24,6 +24,7 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 - [[Dashboard/Current Campaign State]] - live DM-facing snapshot for weekly prep.
 - [[Dashboard/Open Threads]] - unresolved hooks, mysteries, obligations, and dangling consequences.
 - [[Dashboard/Faction Clocks]] - live faction pressure and escalation timers.
+- [[Dashboard/Trollskull Operations]] - recurring tenday business roll, operating costs, modifiers, and ledger.
 - [[Dashboard/Player-Facing Synopsis]] - spoiler-safe campaign recap prose suitable for posting between sessions.
 - [[Timeline/Campaign Timeline]] - chronological campaign record and date anchors.
 
@@ -36,11 +37,12 @@ Core dashboards are active for weekly use. Add or revise prep-facing dashboards 
 - [[Dashboard/Open Threads]] - unresolved hooks, promises, mysteries, obligations, and dangling consequences.
 - [[Dashboard/Player-Facing Synopsis]] - Discord-postable player recap, updated after each session ingest.
 - [[Dashboard/Faction Clocks]] - live faction agendas and escalation timers.
+- [[Dashboard/Trollskull Operations]] - recurring tenday business roll, operating costs, modifiers, and ledger.
 - [[Timeline/Campaign Timeline]] - chronological campaign record.
 
 ## Prep
 
-- [[Prep/Session Prep - 2026-07-23]] - Session 13 Trollskull grand opening prep; grand opening on Ches 19, Fireball deferred to Ches 22.
+- [[Prep/Session Prep - 2026-07-23]] - Session 13 Trollskull grand opening prep; used for the Ches 19 opening, with Fireball deferred to Ches 22.
 
 ## Source Inventory
 
@@ -85,6 +87,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 10 | 2026-06-11 | `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt` | `../raw/json_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.json` | Ingested |
 | Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Ingested |
 | Session 12 | 2026-07-09 | `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt` | `../raw/json_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.json` | Ingested |
+| Session 13 | 2026-07-23 | `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt` | `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json` | Ingested |
 
 ### Non-Campaign or Unclassified Sources
 
@@ -120,6 +123,7 @@ As pages are created, maintain these sections:
   - [[Sessions/Session 10 - 2026-06-11]]
   - [[Sessions/Session 11 - 2026-06-25]]
   - [[Sessions/Session 12 - 2026-07-09]]
+  - [[Sessions/Session 13 - 2026-07-23]]
 
 ### Player Characters
 
@@ -201,6 +205,11 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Willifort Crowelle]]
 - [[People/NPCs/Laraelra Harsard]]
 - [[People/NPCs/Zelifarn]]
+- [[People/NPCs/Lillian Haekin]]
+- [[People/NPCs/Mosp]]
+- [[People/NPCs/Ryba]]
+- [[People/NPCs/Patric Nivka]]
+- [[People/NPCs/Hammond Craddock]]
 
 Verify spelling and table-specific details against transcripts before treating any page as stable.
 

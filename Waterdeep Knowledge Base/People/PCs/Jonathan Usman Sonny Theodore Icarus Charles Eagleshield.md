@@ -9,7 +9,7 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
@@ -26,6 +26,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - pc
@@ -205,6 +206,15 @@ Cantrips:
 - Entered Deepwater Harbor with the party and introduced his full name to [[People/NPCs/Zelifarn]], who judged it too many names.
 - Helped report that Zelifarn was not hostile to Waterdeep.
 
+## Session 13 Table-Facing Notes
+
+- Worked the Trollskull Manor door during the grand opening.
+- Confronted [[People/NPCs/Emmet Frewn]] across the alley after noticing him watching the opening.
+- Became the physical anchor for Aladeen's Suggestion on the Zhentarim-adjacent runner, who was compelled to stand behind him.
+- Held the front line during the opening-night street-war fight with Wrathful Smite and divine force.
+- Killed the final fleeing cutter after the cutter stole the runner's sealed tube.
+- Remained attached to the compelled runner at session end, making Jonathan central to the next interrogation scene.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -237,6 +247,7 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
 
 ## Uncertainties
 

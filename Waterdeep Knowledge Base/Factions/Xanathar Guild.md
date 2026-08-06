@@ -1,7 +1,7 @@
 ---
 type: faction
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -11,6 +11,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
 tags:
@@ -37,6 +38,8 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - The [[Objects/Scrap of Note]] includes "X" in a context the party speculated might mean Xanathar, but that is not confirmed.
 - In session 8, [[People/NPCs/Maxeene]] reported that [[People/NPCs/Davil Starsong]] and [[People/NPCs/Yagra Stonefist]] discussed hiring spies to locate Xanathar Guild hideouts.
 - In session 12, a salvage crew at [[Places/Drowned Lantern]] tried to steal the party's water-breathing potions to pursue a dragon hoard; one dead cutpurse carried a crude copied Xanathar symbol.
+- In session 13, Xanathar-linked attackers and a gazer pursued a Zhentarim-adjacent runner into [[Places/Trollskull Manor]] during the grand opening.
+- The party killed the attackers outside Trollskull and recovered the unopened [[Objects/Zhent Runner Message Tube]] they were trying to take or suppress.
 
 ## Known Clues
 
@@ -47,6 +50,7 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - [[Objects/Loose It Then Leave Note Fragment]] found by the cracked-open [[Objects/Ironbound Grell Crate]].
 - A gazer-like creature watched [[Places/Trollskull Manor]] and the alley while the party was at [[Places/Blackstaff Tower]].
 - A gazer supported the Drowned Lantern salvage crew, suggesting the operation was at least Xanathar-linked.
+- A gazer supported the opening-night pursuit at Trollskull; Davy shot it as it retreated, but whether it died or escaped remains uncertain.
 
 ## Open Questions
 
@@ -59,6 +63,8 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - Does "X" in the Scrap of Note mean Xanathar?
 - Which hideouts are Davil and Yagra trying to find, and will that spy network expose places the party has already touched?
 - Will the escaped Drowned Lantern cutpurse or magically dismissed salvage boss report the party's harbor mission?
+- Did the opening-night gazer escape and report Trollskull's involvement?
+- Why did Xanathar-linked attackers want the runner or the sealed tube?
 
 ## Sources
 
@@ -70,5 +76,6 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
 - `../raw/notes/handouts/s6-cargo-chit.md`
 - `../raw/notes/handouts/s6-note-fragment.md`

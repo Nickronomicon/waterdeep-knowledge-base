@@ -7,7 +7,7 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Elior-level-3.pdf
@@ -26,6 +26,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - pc
@@ -216,6 +217,14 @@ Other listed magic:
 - Used Thunderwave and Cure Wounds during the [[Places/Drowned Lantern]] fight, including a major heal that kept Broethuul standing.
 - Helped assess [[People/NPCs/Zelifarn]] as curious and non-hostile rather than a threat to Waterdeep.
 
+## Session 13 Table-Facing Notes
+
+- Helped invite and host socially notable opening guests, including [[People/NPCs/Renaer Neverember]] and [[People/NPCs/Floon Blagmaar]].
+- Acted as Trollskull's social host or maitre d' during the grand opening.
+- Helped smooth Broxley Fairkettle's inspection and other opening-day social pressure.
+- Opened the street-war fight with Ice Knife and later used Thunderwave to kill or disrupt attackers.
+- Took a serious hit while moving through the fight but remained part of the crowd-facing spectacle afterward.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -253,6 +262,7 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
 
 ## Uncertainties
 

@@ -1,12 +1,13 @@
 ---
 type: faction
 status: active
-updated: 2026-07-11
+updated: 2026-07-25
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - faction
@@ -30,6 +31,9 @@ The Zhentarim, also called the Black Network or "the Zhents" at the table, are a
 - A poison-weapon attacker at [[Places/Thomril & Sons Cartage]] had a flying-snake tattoo.
 - [[People/NPCs/Thugby]] reappeared among the arson crew at Thomril & Sons, then fled after recognizing the party.
 - Session 12 did not advance the Zhentarim lead directly, but the Xanathar-linked harbor fight may matter to Davil/Yagra's anti-Xanathar spy effort.
+- In session 13, a Zhentarim-adjacent runner with a sealed black flying-snake message tube fled into Trollskull Manor during the grand opening.
+- The party recovered the unopened [[Objects/Zhent Runner Message Tube]] after a Xanathar-linked cutter tried to steal it.
+- The runner remains alive and magically compelled to stay near Jonathan at the end of the session.
 
 ## Open Questions
 
@@ -39,6 +43,8 @@ The Zhentarim, also called the Black Network or "the Zhents" at the table, are a
 - Did Davil Starsong, Yagra Stonefist, or another Zhentarim cell order the attack on Thomril & Sons?
 - Does "Z" in the Scrap of Note mean Zhentarim?
 - Are Davil's people the same Zhentarim faction that abducted Renaer and Floon, or a rival/less-hostile splinter?
+- Which Zhentarim cell sent the runner, and does the sealed tube connect to Davil, Yagra, or another operator?
+- What happens if the party opens the tube or returns it sealed?
 
 ## Sources
 
@@ -46,3 +52,4 @@ The Zhentarim, also called the Black Network or "the Zhents" at the table, are a
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

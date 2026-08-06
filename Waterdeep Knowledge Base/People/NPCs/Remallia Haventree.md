@@ -1,11 +1,12 @@
 ---
 type: npc
 status: active
-updated: 2026-07-10
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - npc
@@ -30,6 +31,7 @@ Remallia Haventree, also known as the Widow Ulbrinter, is a secluded Waterdhavia
 - Advised that the best thing the party could do for Waterdeep and the Harpers is get [[Places/Trollskull Manor]] open, because taverns gather information.
 - Offered a cover story that she had hired the party to clear stirges or crows from her chimney.
 - Asked the party to call her Remy rather than Lady Remy.
+- Likely sent an unsigned silver-raven congratulations to Trollskull's grand opening, keeping Harper support deniable.
 
 ## Thalosmere Archive Context
 
@@ -50,9 +52,11 @@ The private [[Objects/Thalosmere Archive Report on Remallia Haventree]] revealed
 - How much does she already know about the Stone, the eyes, and the noble side of the Great Game?
 - What will she do with the Maxeene report and Scrap of Note?
 - How will she react if the party uses or loses the paper bird?
+- Was the silver-raven message purely congratulations, or did it also mark Trollskull as a live Harper listening post?
 
 ## Sources
 
 - `../raw/notes/handouts/s9-thalosmere-archive-report.md`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

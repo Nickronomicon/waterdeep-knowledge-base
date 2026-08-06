@@ -43,9 +43,9 @@ The Remix's spring schedule assumes:
 
 ## Current Campaign Fit
 
-- Actual table chronology is earlier and slower than the Remix default: the party is on the morning of Ches 16 after session 12.
-- Trollskull's intended opening window still lines up neatly with the Remix's suggested Ches 19 opening pressure.
-- Fireball has not occurred. Keep the default Ches 20-22 Remix timing as a flexible pressure window, not a locked canon date.
+- Actual table chronology has reached the evening or night of Ches 19 after session 13.
+- Trollskull opened on Ches 19, matching the Remix's suggested opening pressure.
+- Fireball has not occurred. The campaign plan currently places it on Ches 22.
 - Zardoz and the Sea Maidens are already socially visible, while Cassalanter leverage is stronger than default because the party has signed the loan.
 
 ## Faction Knowledge Quick View

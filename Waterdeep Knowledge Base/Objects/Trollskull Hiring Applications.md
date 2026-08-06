@@ -1,12 +1,13 @@
 ---
 type: object
-status: prepared
-revealed: false
-revealed_session:
-updated: 2026-07-22
+status: used
+revealed: true
+revealed_session: 13
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/dm-planning/session-13/outline.md
   - Prep/Session Prep - 2026-07-23.md
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - object
@@ -17,7 +18,13 @@ tags:
 
 # Trollskull Hiring Applications
 
-Player-facing hiring packet for the Trollskull Manor grand opening on Ches 19, 1492 DR. This can be posted before session 13 so the party can choose which applicants to interview at the table.
+Player-facing hiring packet for the Trollskull Manor grand opening on Ches 19, 1492 DR. This packet was used in [[Sessions/Session 13 - 2026-07-23]] to speed up the hiring sequence.
+
+## Session 13 Outcome
+
+The party hired [[People/NPCs/Lillian Haekin]], [[People/NPCs/Mosp]], [[People/NPCs/Ryba]], and [[People/NPCs/Patric Nivka]]. [[People/PCs/Aladeen]] negotiated the combined front-room cost to 4 gp 5 sp per tenday, reduced to 4 gp per tenday if Patric can lodge at Trollskull.
+
+The party did not hire Althaea/Elthaea/Ulthaea, Reynardo Greenleaf, or Turgattan Thornhammer during this session.
 
 ## Ready-To-Post Handout
 
@@ -97,3 +104,4 @@ The following replies arrive in response to the Trollskull Manor hiring notice, 
 
 - `../raw/notes/dm-planning/session-13/outline.md`
 - [[Prep/Session Prep - 2026-07-23]]
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

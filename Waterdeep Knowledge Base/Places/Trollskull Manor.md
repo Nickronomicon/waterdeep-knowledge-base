@@ -1,7 +1,7 @@
 ---
 type: place
-status: occupied
-updated: 2026-07-11
+status: open
+updated: 2026-07-25
 source_paths:
   - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/dm-planning/session-3/prep-notes.md
@@ -15,6 +15,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - place
@@ -33,7 +34,8 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Intended use: party home base and future tavern, possibly with a haunted-house theme.
 - [[People/NPCs/Nat]], [[People/NPCs/Jenks]], and [[People/NPCs/Squiddly]] now have a room in the manor.
 - The haunting is strongly confirmed as [[People/NPCs/Lif]], the former tavernkeeper.
-- The building is nearly ready to open as of the morning of Ches 16, 1492 DR, but still lacks a final public name and sign.
+- The tavern opened on Ches 19, 1492 DR under the public name Trollskull Manor.
+- The sign identifies the party as the Skullduggers beneath a troll skull and crossed swords.
 - A floating eye creature and possible intruder probed the manor while the party was at Blackstaff Tower in session 5.
 - The party learned in session 6 that a half-elf tavernkeeper named Lif died in the manor about forty years ago and is a likely identity for the haunting.
 - [[People/NPCs/Broxley Fairkettle]] of the [[Factions/Fellowship of Innkeepers]] has now visited, starting the tavern guild-membership track.
@@ -42,9 +44,13 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The party used [[Objects/Dorgar's Seance Candles]] and Dorgar's seance to speak directly with Lif on the night of Ches 5.
 - [[Objects/Cassalanter Loan|A 2,000 gp Cassalanter loan]] was signed by all five PCs on Ches 6, and the gold entered play.
 - [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] are hired as kitchen staff.
-- A Help Wanted sign for a barman and barmaid is posted outside.
+- [[People/NPCs/Lillian Haekin]], [[People/NPCs/Mosp]], [[People/NPCs/Ryba]], and [[People/NPCs/Patric Nivka]] are hired as front-room staff.
+- Patric is currently allowed to sleep in the upstairs den or common area.
 - [[Places/Trollskull Smuggler's Passage]] now connects the cellar to the sewers; it is temporarily blocked from the cellar side.
 - [[People/NPCs/Lif]] uses a chalkboard to write "Welcome" daily and has indicated that he cannot leave the manor.
+- Opening-day business results were rolled at the table but still need final accounting.
+- Recurring tenday business rolls, costs, modifiers, and ledger entries are tracked in [[Dashboard/Trollskull Operations]].
+- The evening of opening was interrupted by a Zhentarim-Xanathar street-war fight outside the tavern; the party recovered an unopened [[Objects/Zhent Runner Message Tube]] and ended with a magically compelled runner and [[People/NPCs/Thugby]] upstairs.
 
 ## Known Facts
 
@@ -147,17 +153,36 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The final public tavern name and signboard remain undecided.
 - [[Places/Frewn's Brews]] posted a rival opening advertisement across the alley emphasizing living staff and no ghosts.
 
+## Session 13 Developments
+
+- The party hired Lillian Haekin, Mosp, Ryba, and Patric Nivka for front-room service.
+- Aladeen negotiated their wages to 4 gp 5 sp per tenday, or 4 gp per tenday if Patric can lodge at Trollskull.
+- Tally delivered the finished Trollskull Manor sign on Ches 19.
+- Lif changed the chalkboard from "Welcome" to "Open?" before Davy erased the question mark and opened the tavern.
+- Nat, Jenks, and Squiddly helped advertise with a ghost-positive jingle.
+- Broxley Fairkettle inspected during opening day; the main practical issue was that operating hours were not yet posted.
+- Hammond Craddock of the vintners/brewers guild sampled stock and tried to upsell better supply for future orders.
+- Frewn watched from across the alley while a planted customer loudly complained about undead service and poured out a drink outside the tavern.
+- The evening crowd included Threestrings, Elra Harsard, Renaer, Floon, Volo, several alley neighbors, and an unsigned silver-raven congratulations likely from Remallia.
+- A Zhentarim-adjacent runner fled into the tavern pursued by Xanathar-linked attackers and a gazer. The party defeated the pursuers outside, recovered the sealed tube, and called for the Watch.
+- Thugby accidentally attended the opening and was persuaded upstairs by Aladeen.
+- The session ended upstairs with Thugby, the runner, and the unopened message tube ready for immediate follow-up.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
 - How can the party best work with Lif now that he wants restoration and is willing to help?
-- What final name will the tavern use?
 - Who sent the floating eye or tried the upstairs window?
 - Are the Mirthkettle/orphanage rumors spiritually irrelevant, or only not currently active inside the manor?
 - Has the party formally joined the Fellowship of Innkeepers, and what bylaws will apply?
 - How much Cassalanter gold remains after guild payments, staff setup, and opening purchases?
+- What are the opening-day roll results and the first regular tenday result in [[Dashboard/Trollskull Operations]]?
 - Who sent the rats through the smuggler's passage, and how will the party secure the route?
-- How will Frewn escalate now that Trollskull is nearly ready to open?
+- What operating hours will be posted after Broxley's opening-day note?
+- How will the party handle customers addressing or ordering from Lif?
+- How will Frewn escalate after his planted anti-ghost complaint?
+- What will the Watch make of bodies outside Trollskull on opening night?
+- Will the party open, deliver, hide, or bargain with the sealed Zhent runner tube?
 
 ## Sources
 
@@ -173,3 +198,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

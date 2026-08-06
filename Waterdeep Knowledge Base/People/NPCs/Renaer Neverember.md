@@ -1,13 +1,14 @@
 ---
 type: npc
 status: active
-updated: 2026-07-10
+updated: 2026-07-25
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
 tags:
   - waterdeep
   - npc
@@ -27,6 +28,8 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - Spoke well of the party to Threestrings after the rescue and appears to have arranged or funded their opera invitation to meet [[People/NPCs/Mirt]].
 - Reappeared at [[Places/Lightsinger Theater]] with [[People/NPCs/Floon Blagmaar]] in session 7.
 - Recommended the party to Mirt as "good bets," enabling their Harper invitation.
+- Attended the Trollskull Manor grand opening in session 13 with Floon and Volo.
+- Privately warned the party that Neverember agents may be looking for him and could show up around the tavern.
 
 ## What Renaer Knows
 
@@ -55,6 +58,7 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - How much does Renaer know about Dagult's missing cache?
 - Will Renaer become an ongoing ally, Harper contact, or social bridge for the party?
 - Does the "Contact R?" in [[Objects/Scrap of Note]] refer to Renaer, or is that table speculation a false lead?
+- Who exactly are the Neverember agents Renaer is worried about, and how close are they to Trollskull?
 
 ## Sources
 
@@ -63,3 +67,4 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
+- `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
