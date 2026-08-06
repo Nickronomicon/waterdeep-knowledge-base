@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-25
+updated: 2026-08-06
 source_paths:
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -52,7 +52,6 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Decide whether to open, hide, deliver, copy, or bargain with [[Objects/Zhent Runner Message Tube]].
 - Question [[People/NPCs/Thugby]] about the opera ambush, Thomril arson, and whoever keeps hiring him.
 - Handle the Watch response to bodies outside [[Places/Trollskull Manor]] on opening night.
-- Confirm remaining cash after the [[Objects/Cassalanter Loan]], renovation montage, opening business roll, and staff hiring.
 - Start using [[Dashboard/Trollskull Operations]] for every tenday business roll.
 - Post operating hours and settle early staff routines for Trollskull.
 - Respond to [[People/NPCs/Emmet Frewn|Frewn's]] planted anti-ghost complaint without making him the main plot.
@@ -93,7 +92,7 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
 | [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
-| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Open as of Ches 19 | Confirm current cash after repairs and opening, post hours, manage staff, secure the sewer passage, handle first-interest pressure, and use [[Dashboard/Trollskull Operations]] for tenday rolls. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Open as of Ches 19 | Current loan cash is 637 gp after repairs and opening-day accounting; post hours, manage staff, secure the sewer passage, handle first-interest pressure, and use [[Dashboard/Trollskull Operations]] for tenday rolls. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
 | [[People/NPCs/Lif]] and the haunting | Whole party | Contacted, cooperative | Lif wants Trollskull restored, can clean/serve drinks, cannot leave the manor, and Fala is researching his limits. |
 | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Frewn has used anti-ghost posters and a planted opening-day complaint; keep pressure petty, deniable, and long-tail. |
@@ -130,5 +129,5 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
 - Continue next play from the evening/night of Ches 19, 1492 DR, just after Trollskull's opening-night street-war interruption.
-- Track the runner, Thugby, sealed tube, Watch response, remaining loan cash, opening business results, staff routines, posted hours, Frewn's next petty move, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
+- Track the runner, Thugby, sealed tube, Watch response, first regular tenday business result, staff routines, posted hours, Frewn's next petty move, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
 - Use [[Dashboard/Current Campaign State]] and [[Dashboard/Faction Clocks]] as the starting point for weekly prep.

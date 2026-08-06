@@ -3,7 +3,7 @@ type: object
 status: signed
 revealed: true
 revealed_session: 10
-updated: 2026-07-11
+updated: 2026-08-06
 source_paths:
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
@@ -33,7 +33,7 @@ The Cassalanter Loan is the financing arrangement negotiated with [[People/NPCs/
 - Initial payment at full principal would be 40 gp per tenday during the 2% period, then 60 gp per tenday during the 3% period.
 - [[People/NPCs/Willifort Crowelle]] delivered the documents and a 2,000 gp chest to Trollskull Manor at midday on Ches 6.
 - Because the party had no formal company or named fellowship able to hold the debt, all five owners signed individually.
-- The exact remaining cash after initial guild payments and purchases is not captured in the transcript and should be checked against table bookkeeping.
+- After repairs, staff setup, and two good opening-day performance/business rolls, 637 gp remains from the original 2,000 gp loan reserve. Exact opening roll totals are not recorded in the vault.
 
 ## Negotiation
 

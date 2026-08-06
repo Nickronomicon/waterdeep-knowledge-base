@@ -1,7 +1,7 @@
 ---
 type: place
 status: open
-updated: 2026-07-25
+updated: 2026-08-06
 source_paths:
   - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/dm-planning/session-3/prep-notes.md
@@ -48,7 +48,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Patric is currently allowed to sleep in the upstairs den or common area.
 - [[Places/Trollskull Smuggler's Passage]] now connects the cellar to the sewers; it is temporarily blocked from the cellar side.
 - [[People/NPCs/Lif]] uses a chalkboard to write "Welcome" daily and has indicated that he cannot leave the manor.
-- Opening-day business results were rolled at the table but still need final accounting.
+- Opening-day business results were rolled at the table. After repairs and two good performance/business rolls, the Skullduggers had 637 gp left from the original 2,000 gp Cassalanter loan.
 - Recurring tenday business rolls, costs, modifiers, and ledger entries are tracked in [[Dashboard/Trollskull Operations]].
 - The evening of opening was interrupted by a Zhentarim-Xanathar street-war fight outside the tavern; the party recovered an unopened [[Objects/Zhent Runner Message Tube]] and ended with a magically compelled runner and [[People/NPCs/Thugby]] upstairs.
 
@@ -175,8 +175,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Who sent the floating eye or tried the upstairs window?
 - Are the Mirthkettle/orphanage rumors spiritually irrelevant, or only not currently active inside the manor?
 - Has the party formally joined the Fellowship of Innkeepers, and what bylaws will apply?
-- How much Cassalanter gold remains after guild payments, staff setup, and opening purchases?
-- What are the opening-day roll results and the first regular tenday result in [[Dashboard/Trollskull Operations]]?
+- What is the first regular tenday result in [[Dashboard/Trollskull Operations]]?
 - Who sent the rats through the smuggler's passage, and how will the party secure the route?
 - What operating hours will be posted after Broxley's opening-day note?
 - How will the party handle customers addressing or ordering from Lif?

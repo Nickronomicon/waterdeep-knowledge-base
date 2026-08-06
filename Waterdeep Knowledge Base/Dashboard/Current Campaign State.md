@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-25
+updated: 2026-08-06
 source_paths:
   - ../raw/stats.md
   - ../raw/notes/technical-notes.md
@@ -34,7 +34,7 @@ Live DM-facing snapshot after [[Sessions/Session 13 - 2026-07-23]]. The campaign
 
 - Trollskull Manor opened on Ches 19, 1492 DR.
 - The sign is up: Trollskull Manor, with the Skullduggers marked under a troll skull and crossed swords.
-- [[Objects/Cassalanter Loan]] is signed for 2,000 gp. First interest begins after opening; confirm the current cash balance after repairs, guild payments, staff setup, and the first business result. Track recurring tavern rolls in [[Dashboard/Trollskull Operations]].
+- [[Objects/Cassalanter Loan]] is signed for 2,000 gp. After repairs, staff setup, and two good opening-day performance/business rolls, 637 gp remains from the original loan reserve. First interest begins after opening; track recurring tavern rolls in [[Dashboard/Trollskull Operations]].
 - [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] are hired as kitchen staff.
 - [[People/NPCs/Lillian Haekin]], [[People/NPCs/Mosp]], [[People/NPCs/Ryba]], and [[People/NPCs/Patric Nivka]] are hired as front-room staff.
 - [[People/NPCs/Lif]] is cooperative, served drinks on opening day, communicates by chalkboard, and cannot leave the manor.
@@ -88,7 +88,6 @@ See [[Dashboard/Faction Clocks]] for the working escalation view.
 - Does the party open, hide, deliver, or bargain with the sealed message tube?
 - What does Thugby know about his previous jobs and employers?
 - How does the Watch record the opening-night bodies outside Trollskull?
-- How much money remains after the renovation montage and opening-day business result?
 - What is the first recurring tenday business roll result in [[Dashboard/Trollskull Operations]]?
 - What operating hours does Trollskull post?
 - Does the party secure, exploit, or ignore the smuggler's passage?

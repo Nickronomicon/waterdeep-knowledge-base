@@ -15,6 +15,16 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-08-06] decision | Trollskull opening accounting
+
+- Recorded the user-confirmed opening-day result: after all repairs and two good performance/business rolls, the Skullduggers have 637 gp left from their original 2,000 gp Cassalanter loan.
+- Updated [[Dashboard/Trollskull Operations]], [[Dashboard/Current Campaign State]], [[Places/Trollskull Manor]], [[Objects/Cassalanter Loan]], [[Sessions/Session 13 - 2026-07-23]], [[Dashboard/Open Threads]], and [[Timeline/Campaign Timeline]].
+- Preserved that the exact opening roll totals are not recorded in the vault; only the final remaining loan cash is confirmed.
+
+Follow-up:
+
+- Use [[Dashboard/Trollskull Operations]] for the first regular tenday business result and ongoing interest/cost tracking.
+
 ## [2026-07-30] setup | Trollskull tenday operations
 
 - Checked the `## Rolling for Results` section in `../raw/notes/dm-planning/session-13/outline.md` against the vault and found it was only partially captured through opening-result reminders.

@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-07-30
+updated: 2026-08-06
 source_paths:
   - ../raw/notes/dm-planning/session-13/outline.md
   - Sessions/Session 13 - 2026-07-23.md
@@ -29,6 +29,7 @@ Recurring DM-facing tracker for [[Places/Trollskull Manor]] as a business after 
 | Routine costs | 96 gp per tenday if Patric lodges at Trollskull |
 | First regular result check | End of the first tenday after Ches 19; likely around Ches 29 unless the table calendar says otherwise |
 | Loan principal | 2,000 gp |
+| Remaining loan cash after opening day | 637 gp |
 | Cassalanter interest | 40 gp per tenday for first four months after opening; 60 gp per tenday afterward unless principal changes |
 
 The `+8` modifier is the current working estimate from the session 13 prep logic: [[People/NPCs/Corvin Underbough]] and [[People/NPCs/Miri Underbough]] add `+3`, [[People/NPCs/Lif]] adds `+2`, and the remaining front-room staff collectively bring the tavern to roughly the intended fully staffed bonus.
@@ -85,20 +86,20 @@ If Patric cannot lodge at Trollskull, the front-room staff cost returns to 4 gp 
 | Maintenance unpaid | -1 per gp unpaid | Unpaid operating expenses are not owed next tenday, but conditions worsen now. |
 | Cassalanter unpaid | No roll penalty | First offense brings threats; repeated offenses invite drastic action. |
 
-## Opening Roll Follow-Up
+## Opening Roll Result
 
-Session 13 included opening-day business rolls, but final accounting was not captured in the session page. Resolve or confirm:
+The opening-day accounting is resolved from user-provided table bookkeeping on 2026-08-06:
 
-- Phase 1 grand-opening result.
-- Phase 2 grand-opening result.
-- Whether the additional `1d6 + 500 gp` opening reserve from prep was used at the table.
-- Remaining Cassalanter loan cash after opening setup and business result.
+- Trollskull finished all opening repairs and setup.
+- The table made two good opening performance/business rolls; exact roll totals are not recorded in the vault.
+- After all repairs, setup costs, and opening-day results, the Skullduggers had 637 gp left from the original 2,000 gp Cassalanter loan.
+- This means 1,363 gp of the original loan reserve has been spent or absorbed by net opening costs before the first regular tenday result.
 
 ## Tenday Ledger
 
 | Period | In-World Date | Roll | Modifier | Result | Costs Paid | Net | Notes |
 |---|---|---:|---:|---|---|---:|---|
-| Opening | Ches 19, 1492 DR | TBD | TBD | Opening-day results rolled, accounting pending | TBD | TBD | Capture phase rolls and remaining loan cash. |
+| Opening | Ches 19, 1492 DR | Exact totals not recorded | Opening-day procedure | Two good performance results after repairs and setup | Paid from loan reserve | 637 gp loan cash remains | Original 2,000 gp loan reserve reduced by 1,363 gp through opening-day accounting. |
 | Tenday 1 | Ches 19-29, 1492 DR |  | +18 expected |  | 96 gp expected |  | First regular tenday result. |
 
 ## Sources

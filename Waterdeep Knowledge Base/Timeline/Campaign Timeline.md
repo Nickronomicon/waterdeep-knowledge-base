@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: active
-updated: 2026-07-25
+updated: 2026-08-06
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -27,7 +27,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 
 ## Current Endpoint
 
-The latest ingested table state is the evening or night of Ches 19, 1492 DR, after the [[Places/Trollskull Manor]] grand opening and opening-night street-war interruption.
+The latest ingested table state is the evening or night of Ches 19, 1492 DR, after the [[Places/Trollskull Manor]] grand opening and opening-night street-war interruption. After opening-day accounting, the Skullduggers have 637 gp left from their original 2,000 gp Cassalanter loan.
 
 ## Session Chronology
 
@@ -66,7 +66,6 @@ The latest ingested table state is the evening or night of Ches 19, 1492 DR, aft
 - Whether the Watch responds to the Castle Ward ambush or the Thomril & Sons arson.
 - Exact final damage to Thomril & Sons after the burning-stable fight.
 - Whether Thugby reports to anyone after fleeing the second time, and what Remallia's manservant learns about him.
-- How much Cassalanter loan cash remains after renovation/guild payments and opening-day business results.
 - Who used the Trollskull smuggler's passage to release rats, and how the party secures it.
 - What Fala knows about Lif and whether he can be strengthened.
 - Whether Tally's bucklers are picked up before the urchins cause another weapon-training incident.
