@@ -10,15 +10,15 @@ tags:
 
 # Raw Source Inventory
 
-Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 13 transcripts. Raw sources were read and classified only; no files under `../raw/` were edited.
+Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 14 planning notes. Raw sources were read and classified only; no files under `../raw/` were edited.
 
 ## Summary
 
-`../raw/` currently contains 214 files:
+`../raw/` currently contains 216 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 53 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 55 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
 | `.txt` | 12 | Text transcripts for Waterdeep sessions 2-13 |
 | `.json` | 12 | JSON transcripts for Waterdeep sessions 2-13 |
@@ -75,6 +75,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 11 | `../raw/notes/dm-planning/session-11/outline.md` | Ingested into [[Sessions/Session 11 - 2026-06-25]] and [[Meta/DM Prep Source Map]]. Current-state finalization intentionally deferred until after the post-ingestion commit. |
 | Session 12 | `../raw/notes/dm-planning/session-12/outline.md`; `../raw/notes/dm-planning/session-12/force-grey.md` | Ingested into [[Sessions/Session 12 - 2026-07-09]] and [[Meta/DM Prep Source Map]]. Actual play used the loan/renovation and Force Grey harbor material, while the smuggler's-passage combat stayed unused. |
 | Session 13 | `../raw/notes/dm-planning/session-13/outline.md` | Used for [[Prep/Session Prep - 2026-07-23]] and ingested into [[Sessions/Session 13 - 2026-07-23]]. Actual play opened Trollskull on Ches 19, hired staff, used petty Frewn shill pressure, triggered the street-war interruption, recovered the sealed tube, and kept Fireball deferred to Ches 22. |
+| Session 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md` | Used for [[Prep/Session Prep - 2026-08-06]] and [[Objects/Yellowspire Demand Note]]. Prep covers opening-night runner/Watch fallout, tube-opened Yellowspire retaliation, tube-unopened Harper monster contingency, and Ches 22 Fireball. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 
@@ -148,8 +149,8 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Prepare the next session from the Ches 19 evening endpoint: runner, Thugby, sealed tube, Watch response, staff routines, and Ches 22 Fireball setup.
-2. Expand active adventure-reference pages into prep cards as Fireball, Gralhund Villa, faction outposts, or Eye heists approach.
+1. Run [[Prep/Session Prep - 2026-08-06]] from the Ches 19 evening endpoint through the Ches 22 Fireball cliffhanger.
+2. Expand active adventure-reference pages into prep cards for the Fireball investigation, Gralhund Villa, nimblewright leads, faction outposts, or Eye heists as the next session requires.
 3. Continue ingesting active handouts/clue objects as they arise during session ingest.
 4. Add quick references for Waterdeep wards, law, faction missions, and frequently used NPC/stat lookups as active prep requires them.
 5. Periodically lint the vault for stale facts, missing links, orphan pages, and unresolved threads.

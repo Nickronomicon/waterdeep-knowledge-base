@@ -15,6 +15,28 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-08-06] prep | Session 14 Fireball ending revision
+
+- Revised [[Prep/Session Prep - 2026-08-06]] so session 14 ends on the sensory Fireball explosion only, with no cause, casualty count, Dalakhar, Urstul, Stone, nimblewright, or Watch explanation revealed before the cut.
+- Moved the named resident casualty/body-count table into post-session/session-15 prep use instead of an at-table roll.
+
+Follow-up:
+
+- Roll body count and named resident impact after session 14, then prepare the session 15 Fireball crime-scene opening.
+
+## [2026-08-06] prep | Session 14
+
+- Created [[Prep/Session Prep - 2026-08-06]] for the opening-night fallout, Zhent runner interrogation, Hustus Staget and Watch response, tube decision, Yellowspire retaliation branch, Harper monster contingency branch, and Ches 22 Fireball cliffhanger.
+- Created [[Objects/Yellowspire Demand Note]] as a conditional player-facing handout if the party opens [[Objects/Zhent Runner Message Tube]] and the Zhentarim retaliate by taking Nat or the urchins.
+- Created [[Dashboard/Next Session]] as the active prep pointer for session 14.
+- Updated [[INDEX]], [[Meta/DM Prep Source Map]], and [[Meta/Raw Source Inventory]] for the session 14 prep pass.
+- Sources read included `../raw/notes/dm-planning/session-14/outline.md`, `../raw/notes/dm-planning/session-14/notes.md`, [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], [[Dashboard/Faction Clocks]], [[Dashboard/Trollskull Operations]], [[Sessions/Session 13 - 2026-07-23]], [[Objects/Zhent Runner Message Tube]], `../raw/waterdeep_dragon_heist/03.Fireball.md`, and `../raw/waterdeep_dragon_heist/04.Dragon-Season.md`.
+
+Follow-up:
+
+- After session 14, ingest actual runner/tube/Watch/Thugby outcomes, any Yellowspire or Harper-branch play, named Fireball casualties, and the true Fireball endpoint.
+- Prepare the Fireball investigation, nimblewright trail, and Gralhund Villa follow-up once session 14 table truth is known.
+
 ## [2026-08-06] decision | Trollskull opening accounting
 
 - Recorded the user-confirmed opening-day result: after all repairs and two good performance/business rolls, the Skullduggers have 637 gp left from their original 2,000 gp Cassalanter loan.
