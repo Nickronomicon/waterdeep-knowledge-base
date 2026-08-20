@@ -1,10 +1,11 @@
 ---
 type: dashboard
 status: active
-updated: 2026-08-06
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/dm-planning/session-13/outline.md
   - Sessions/Session 13 - 2026-07-23.md
+  - Sessions/Session 14 - 2026-08-06.md
   - Places/Trollskull Manor.md
   - Objects/Cassalanter Loan.md
   - Objects/Trollskull Hiring Applications.md
@@ -27,7 +28,7 @@ Recurring DM-facing tracker for [[Places/Trollskull Manor]] as a business after 
 | Current likely operations modifiers | `+8` |
 | Current likely total roll | `1d100 + 18` |
 | Routine costs | 96 gp per tenday if Patric lodges at Trollskull |
-| First regular result check | End of the first tenday after Ches 19; likely around Ches 29 unless the table calendar says otherwise |
+| First regular result check | End of the first tenday after Ches 19; likely around Ches 29 unless the Fireball interruption changes the operating period |
 | Loan principal | 2,000 gp |
 | Remaining loan cash after opening day | 637 gp |
 | Cassalanter interest | 40 gp per tenday for first four months after opening; 60 gp per tenday afterward unless principal changes |
@@ -102,10 +103,17 @@ The opening-day accounting is resolved from user-provided table bookkeeping on 2
 | Opening | Ches 19, 1492 DR | Exact totals not recorded | Opening-day procedure | Two good performance results after repairs and setup | Paid from loan reserve | 637 gp loan cash remains | Original 2,000 gp loan reserve reduced by 1,363 gp through opening-day accounting. |
 | Tenday 1 | Ches 19-29, 1492 DR |  | +18 expected |  | 96 gp expected |  | First regular tenday result. |
 
+## Interruption Notes
+
+- Session 14 ended on the mid-morning Ches 22 Fireball outside Trollskull Alley.
+- The blast shattered Trollskull's newly installed windows inward before any damage accounting was resolved.
+- Before rolling the first full tenday, decide whether Ches 22-29 is a normal operating stretch, a damaged/closed stretch, or a special partial-period result.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-13/outline.md`
 - [[Sessions/Session 13 - 2026-07-23]]
+- [[Sessions/Session 14 - 2026-08-06]]
 - [[Places/Trollskull Manor]]
 - [[Objects/Cassalanter Loan]]
 - [[Objects/Trollskull Hiring Applications]]

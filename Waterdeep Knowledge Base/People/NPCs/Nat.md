@@ -1,7 +1,7 @@
 ---
 type: npc
-status: active
-updated: 2026-07-11
+status: rescued
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -11,6 +11,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - npc
@@ -27,6 +28,7 @@ Nat is one of the three Trollskull Alley urchins who were already using [[Places
 - Living in Trollskull Manor with [[People/NPCs/Jenks]] and [[People/NPCs/Squiddly]] after the party offered them a room.
 - Wants to help guard the manor, act as lookout, call in street traffic, and clean.
 - Carries a wooden sword and thinks well of her own swordplay.
+- Was kidnapped by flying-snake-marked Zhentarim on Ches 20, 1492 DR, held at [[Places/Yellowspire]], stabbed during the rescue standoff, healed by the party, and returned safely to Trollskull late on Ches 21.
 
 ## Communication
 
@@ -79,6 +81,16 @@ Nat is one of the three Trollskull Alley urchins who were already using [[Places
 - Returned later with scratches, bruises, and no clear explanation recorded in the transcript.
 - Saw the Cassalanter gold chest at Trollskull; the urchins immediately treated it as proof that adventuring pays.
 
+## Session 14
+
+- Went out with Jenks and Squiddly on Ches 20 and followed a black flying snake because it looked like the bad marks.
+- Was grabbed by flying-snake-marked men near Trollskull while Jenks and Squiddly were knocked down.
+- Was used as leverage in [[Objects/Yellowspire Demand Note]].
+- Was held bound and gagged upstairs at [[Places/Yellowspire]] by a Banite acolyte with a knife.
+- Tried to elbow or struggle free during Broethuul's standoff with the acolyte, but was held fast.
+- Was stabbed for four points of damage when the acolyte tried to escape, then immediately healed back to full by the party.
+- Tried to hug the nearest rescuer while still bound, then signed rapidly about what happened once freed and returned to Trollskull.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
@@ -89,3 +101,4 @@ Nat is one of the three Trollskull Alley urchins who were already using [[Places
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

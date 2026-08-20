@@ -7,7 +7,7 @@ class: Bard
 subclass: College of Eloquence
 species: Human
 background: Entertainer
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
@@ -25,6 +25,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - pc
@@ -224,6 +225,14 @@ Cantrips:
 - Used Vicious Mockery, Bardic Inspiration, Healing Word, and crossbow fire during the opening-night street-war fight.
 - Recovered or held the sealed [[Objects/Zhent Runner Message Tube]] by the end of the session.
 - Recognized [[People/NPCs/Thugby]] and persuaded him upstairs for a special drink.
+
+## Session 14 Table-Facing Notes
+
+- Questioned [[People/NPCs/Thugby]] over a good drink and learned about his recent House Cragspear carriage-guard job.
+- Used Bardic Inspiration to help Davy attempt to reseal [[Objects/Zhent Runner Message Tube]] after the party opened it.
+- Used [[Objects/Remallia's Paper Bird]] to contact Remallia after [[People/NPCs/Nat]] was kidnapped.
+- Cast Suggestion on [[People/NPCs/Oren Fallow]] at [[Places/The Sleeping Wench]], forcing him to smile and follow Jonathan while the party recovered him.
+- Shot [[People/NPCs/Amath Sercent]] with a crossbow at [[Places/Yellowspire]], inspired Elior, mocked the infernal panther, and healed both allies and Nat.
 
 ## Background and Arc Notes
 

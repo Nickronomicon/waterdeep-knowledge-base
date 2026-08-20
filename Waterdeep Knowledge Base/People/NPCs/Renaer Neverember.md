@@ -1,7 +1,7 @@
 ---
 type: npc
 status: active
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - npc
@@ -30,6 +31,8 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - Recommended the party to Mirt as "good bets," enabling their Harper invitation.
 - Attended the Trollskull Manor grand opening in session 13 with Floon and Volo.
 - Privately warned the party that Neverember agents may be looking for him and could show up around the tavern.
+- Heard or reviewed the opened Zhent runner message in session 14 and was visibly uneasy about old Neverember references.
+- Inferred that "the Portal" likely meant the Yawning Portal and that the warning not to bring the message there implied the sender or recipient frequents it.
 
 ## What Renaer Knows
 
@@ -68,3 +71,4 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

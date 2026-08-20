@@ -2,7 +2,7 @@
 type: dashboard
 status: active
 audience: players
-updated: 2026-07-11
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -18,6 +18,8 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -30,6 +32,8 @@ source_paths:
   - Sessions/Session 10 - 2026-06-11.md
   - Sessions/Session 11 - 2026-06-25.md
   - Sessions/Session 12 - 2026-07-09.md
+  - Sessions/Session 13 - 2026-07-23.md
+  - Sessions/Session 14 - 2026-08-06.md
 tags:
   - waterdeep
   - synopsis
@@ -467,3 +471,53 @@ By the end, the attackers were down, the crowd was cheering, the Watch was being
 As if the night needed one more familiar face, Thugby appeared. Not on purpose, apparently. He had heard about a new tavern opening and had not realized it belonged to the people who had already met him in two separate crime scenes. Aladeen recognized him, Thugby panicked, and soon he too was upstairs for a special drink.
 
 So our heroes ended opening night with a functioning tavern, hired staff, a proud sign, customers who had seen both ghost service and street violence, a Watch conversation incoming, one magically obedient runner, one deeply nervous Thugby, and one sealed message tube full of trouble still waiting to be opened. Trollskull Manor is officially in business. Waterdeep, with admirable timing, immediately became a customer.
+
+## Session 14
+
+Opening night at Trollskull was not quite finished. The crowds had thinned. The staff were cleaning. Renaer, Floon, and Elra remained downstairs. Upstairs, the party had a frightened runner, a nervous Thugby, and a sealed message tube marked with a black flying snake. The runner, once released from the magical requirement to stand behind Jonathan like the world's least comfortable shadow, immediately begged for the tube back and explained that he was paid to deliver sealed messages, not understand them. This was, naturally, not the sort of warning that reduces curiosity.
+
+Davy went out into the night to acquire a forgery kit. The others opened the tube.
+
+Inside was a message about a gnome who was not dead, old Neverember business, a stone that remembered roads but not eyes, Xanathar's people chasing the same scent, and a warning not to bring the matter to the Portal because there were too many ears. The runner responded to this by plugging his ears and entering the spiritual state known as "absolutely certain I am about to die."
+
+Davy returned and did a brave bit of emergency resealing. It was fine, if by "fine" one means "probably convincing unless anyone looks closely or notices the little corner of paper caught under the cap." The runner gave up enough to say the tube was meant for Yellowspire in the Castle Ward, then took it back and ran.
+
+The Watch arrived soon after, led by Hustus Staget, who seemed less delighted than one might hope to find familiar adventurers standing near another pile of bodies. Elior tried to make the legal case for self-defense. Staget remained professionally skeptical. Elra, helpfully and quietly, smoothed some of the sharp edges. Aladeen answered questions with all the clarity of a man who would prefer not to answer questions. Staget eventually left with his paperwork problem mostly contained and a sincere request that Trollskull please stop becoming a destination for bodies.
+
+Thugby, meanwhile, proved to be mostly a red herring. A terrified, sweaty, previously violent red herring, but a red herring all the same. He claimed to have been keeping his nose clean and offered one recent job: guarding a carriage from a North Ward villa to the Castle Ward and back. Possibly interesting. Possibly nothing. In Waterdeep, those are often the same sentence.
+
+The next day began almost normally. Lillian handled breakfast and morning tea. Tally delivered three wooden bucklers for Nat, Jenks, and Squiddly. The children, unfortunately, were not around to receive them.
+
+Near sunset, Jenks and Squiddly burst into Trollskull filthy, frantic, and terrified. Nat had been grabbed near the alley by men with flying-snake tattoos after the children followed a black flying snake through the streets. A second snake soon dropped a note: bring the runner, the tube, the message, and every copy to Yellowspire by moonrise on Ches 21. Tell the Watch, and Nat would pay first.
+
+The party went looking for Oren Fallow.
+
+Elra tried to help from Blackstaff Tower with magic, but a name, a description, and Davy's heroic sketch of "a dude, probably" were not enough for a clean scry. The party sent Remallia the paper bird, and Harper help came back in the form of a silver raven: Oren had a room at the Sleeping Wench on Snail Street.
+
+Before that answer arrived, the Yawning Portal provided its own texture. Yagra did not appreciate people asking about Zhentarim business. Bonnie, more usefully, remembered enough to point the party toward Snail Street. At the Sleeping Wench, Aladeen asked the sort of question one asks when pretending to owe a dangerous man money, and learned Oren was upstairs.
+
+Jonathan kicked in the door. Oren tried to go out the window. Jonathan caught him by the ankle. Aladeen once again solved the fleeing-runner problem with magic, and Oren found himself smiling through tears while following Jonathan. This is not friendship, but it is logistics.
+
+The party brought Oren back to Trollskull, tied him up, rested, and then walked into Yellowspire at moonrise with the runner, the tube, and the original message.
+
+Yellowspire was an old yellowed tower in the Castle Ward, and inside it was worse than old stone. Black hand symbols marked the walls: signs of Bane, lord of tyranny. A priestess named Amath received them, heard Oren's panicked explanation, and decided that now that she had the runner, the tube, and the message, she had everything she needed.
+
+Then she ordered everyone else killed.
+
+The fight was tight, ugly, and full of bad stairs. Aladeen shot Amath and kept healing people through the chaos. Elior hit her with a vicious burst of ice magic before she locked him in place with a spell. Jonathan held the front as best he could while poison and divine stubbornness competed for space in his body. Davy picked targets from cover with the calm efficiency of someone who belongs behind a crossbow. Broethuul brought out the storm in his rapier and started putting holes in Banite acolytes.
+
+Amath, badly hurt, fled downstairs to report what happened. A smoke-wreathed, red-eyed panther bounded into the fight and began chewing on the paralyzed Elior, which is poor manners even by cult standards. Davy shot it down. Oren broke free and bolted into the city, badly wounded but still moving. The party found a permanent teleportation circle below, but Amath was already gone.
+
+Nat was upstairs.
+
+Broethuul found her bound and gagged, held by another acolyte with a knife. The negotiation went badly. Nat tried to struggle free. The acolyte stabbed her and tried to run. Broethuul stopped her with one clean, storm-bright thrust of the rapier. Aladeen healed Nat before the moment could become worse, and the party cut her free.
+
+By the time they returned to Trollskull, Jenks and Squiddly were beside themselves with relief. Nat was signing faster than anyone could keep up. The kitchen staff, who had not known these children long but had apparently known them long enough, were close to tears. Trollskull had survived its first gang attack, its first hostage crisis, and its first very pointed reminder that opening a tavern does not make the rest of Waterdeep pause politely outside.
+
+The next morning felt, for one brief and dangerous moment, almost normal.
+
+Then the room went white.
+
+The windows shattered inward. The boom hit a heartbeat later. Everyone was thrown to the floor as a massive detonation rattled Trollskull Alley.
+
+And that is where we left it: Trollskull open, Nat home, the message still dangerous, and something outside powerful enough to turn a quiet morning into broken glass.

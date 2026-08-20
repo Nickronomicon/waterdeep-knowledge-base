@@ -1,7 +1,7 @@
 ---
 type: meta
 status: active
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -37,6 +37,8 @@ source_paths:
   - ../raw/notes/dm-planning/session-14/notes.md
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json
   - ../raw/stats.md
   - ../raw/notes/technical-notes.md
 tags:
@@ -70,7 +72,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 11 | `../raw/notes/dm-planning/session-11/outline.md`; transcript sources | Dinner menu, rat interruption, Underbough hire/no-hire, Willifort/Tissina loan delivery. | Ingested into [[Sessions/Session 11 - 2026-06-25]]. Actual play reached dinner, rats, hidden sewer passage, and Dorgar's seance with Lif; Underbough hiring and loan delivery/signing slid forward. |
 | 12 | `../raw/notes/dm-planning/session-12/outline.md`; `force-grey.md`; `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`; transcript sources | Loan signing, renovation montage, possible smuggler's-passage combat, Force Grey bronze-dragon mission, Amberleaf handout. | Ingested into [[Sessions/Session 12 - 2026-07-09]]. Actual play resolved Fala/Lif, Underbough hiring, loan signing, renovation time skips, the Drowned Lantern fight, Zelifarn, Broethuul's Amberleaf Dispatch, and Frewn's counter-ad. Smuggler's-passage combat and Tissina Khyret did not enter transcript truth. |
 | 13 | `../raw/notes/dm-planning/session-13/outline.md`; `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`; `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json`; [[Prep/Session Prep - 2026-07-23]]; [[Objects/Trollskull Hiring Applications]]; [[Objects/Zhent Runner Message Tube]] | Trollskull grand opening, guest list, two-phase opening structure, hiring/staffing choices, petty Frewn rumor/shill pressure, optional Zhentarim-Xanathar street-war interruption, and business-result rolls. | Ingested into [[Sessions/Session 13 - 2026-07-23]]. Actual play hired Lillian, Mosp, Ryba, and Patric; opened Trollskull on Ches 19; used Frewn's planted anti-ghost complaint; brought in Elra, Renaer, Floon, Volo, Threestrings, and a deniable silver raven; triggered the street-war fight; recovered but did not open the sealed tube; and brought Thugby upstairs. Fireball remains fixed for Ches 22. |
-| 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md`; [[Prep/Session Prep - 2026-08-06]]; [[Objects/Yellowspire Demand Note]] | Opening-night fallout from Trollskull's grand opening, Zhent runner interrogation, Hustus Staget and Watch response, tube-opened Yellowspire retaliation, tube-unopened Harper monster contingency, and Ches 22 Fireball cliffhanger. | Prepared but not yet ingested. Distinguish actual tube handling, runner fate, Thugby resolution, any urchin kidnapping, and whether Fireball starts or ends the session. |
+| 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md`; `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`; `../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json`; [[Prep/Session Prep - 2026-08-06]]; [[Objects/Zhent Runner Message Tube]]; [[Objects/Yellowspire Demand Note]] | Opening-night fallout from Trollskull's grand opening, Zhent runner interrogation, Hustus Staget and Watch response, tube-opened Yellowspire retaliation, tube-unopened Harper monster contingency, and Ches 22 Fireball cliffhanger. | Ingested into [[Sessions/Session 14 - 2026-08-06]]. Actual play opened and revealed the tube, released and later recaptured Oren, resolved Thugby as a red herring with a Cragspear carriage lead, used Elra/Remallia support to find Oren, rescued Nat from Yellowspire, left Amath and Oren escaped, and ended on the Fireball sensory cliffhanger. |
 
 ## Major Prep Threads To Track
 
@@ -98,7 +100,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 9 | `../raw/notes/handouts/s9-Maxeene-info.md`; `../raw/notes/handouts/s9-thalosmere-archive-report.md` | Maxeene, Remallia, Harpers, and House Thalosmere reveal tracking. |
 | 12 | `../raw/notes/handouts/s12-the-amberleaf-dispatch.md` | Revealed privately to Broethuul by Zelifarn; ingested into [[Objects/The Amberleaf Dispatch]] and [[Threads/Broethuul and the Autumn Court]]. |
 | 13 | [[Objects/Trollskull Hiring Applications]]; [[Objects/Zhent Runner Message Tube]] | Hiring packet was used and led to Lillian, Mosp, Ryba, and Patric being hired. Message tube was recovered during the street-war interruption but remains unopened and unrevealed. |
-| 14 | [[Objects/Yellowspire Demand Note]]; [[Objects/Zhent Runner Message Tube]] if opened | Demand note is conditional on the party opening the runner tube and Zhentarim retaliation targeting Nat or the urchins. |
+| 14 | [[Objects/Yellowspire Demand Note]]; [[Objects/Zhent Runner Message Tube]] | Both were revealed in session 14. The demand note targeted Nat; the tube message remains in party hands after Yellowspire. |
 
 ## Transcript Pass Checklist
 

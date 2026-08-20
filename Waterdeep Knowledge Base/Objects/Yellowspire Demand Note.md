@@ -1,13 +1,14 @@
 ---
 type: object
-status: prepared
-revealed: false
-revealed_session:
-updated: 2026-08-06
+status: revealed
+revealed: true
+revealed_session: 14
+updated: 2026-08-20
 source_paths:
   - Prep/Session Prep - 2026-08-06.md
   - ../raw/notes/dm-planning/session-14/outline.md
   - ../raw/notes/dm-planning/session-14/notes.md
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - object
@@ -19,7 +20,14 @@ tags:
 
 # Yellowspire Demand Note
 
-Conditional player-facing handout for session 14 if the party opens [[Objects/Zhent Runner Message Tube]] and the Zhentarim retaliate by taking [[People/NPCs/Nat]].
+Player-facing handout revealed in [[Sessions/Session 14 - 2026-08-06]] after the party opened [[Objects/Zhent Runner Message Tube]] and the Zhentarim retaliated by taking [[People/NPCs/Nat]].
+
+## Session 14 Outcome
+
+- Dropped by a black flying snake after Jenks and Squiddly reported Nat had been grabbed by flying-snake-marked men.
+- Established the runner's table name as [[People/NPCs/Oren Fallow]].
+- Sent the party to [[Places/Yellowspire]] at moonrise on Ches 21.
+- Led to the Yellowspire fight, Nat's rescue, [[People/NPCs/Amath Sercent|Amath Sercent's]] escape, and Oren's escape.
 
 ## Ready-To-Post Handout
 
@@ -27,19 +35,20 @@ The note is written on cheap gray paper and wrapped around a black feather. The 
 
 > You broke a seal that was not yours.
 >
-> Bring Orryn Fallow, alive enough to answer questions.
+> Bring Oren Fallow, alive enough to answer questions.
 >
 > Bring the tube, the message, and every copy your clever hands made.
 >
 > Yellowspire, Castle Ward. Moonrise, Ches 21.
 >
-> Come as owners, not as heroes. Tell the Watch and the silent girl pays first.
+> Don't come as heroes, come as owners.
+>
+> Tell the Watch and the silent girl pays first.
 
 ## DM Notes
 
-- Use Orryn Fallow as the runner's name unless the table establishes a different one.
-- If all three urchins are taken, change the final line to "the children pay first."
-- The threat is meant to force urgency and reveal Yellowspire as a Zhentarim-linked outpost, not to guarantee harm to Nat.
+- Prep used Orryn Fallow, but session 14 established Oren Fallow.
+- The threat forced urgency and revealed Yellowspire as a Zhentarim-linked Banite outpost.
 - The note should feel like Manshoon-aligned Zhentarim pressure, leaving Davil/Yagra's exact relationship uncertain.
 
 ## Sources
@@ -47,3 +56,4 @@ The note is written on cheap gray paper and wrapped around a black feather. The 
 - [[Prep/Session Prep - 2026-08-06]]
 - `../raw/notes/dm-planning/session-14/outline.md`
 - `../raw/notes/dm-planning/session-14/notes.md`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

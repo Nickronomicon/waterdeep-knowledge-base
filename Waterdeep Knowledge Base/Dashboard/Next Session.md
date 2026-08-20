@@ -1,9 +1,10 @@
 ---
 type: dashboard
 status: active
-updated: 2026-08-06
+updated: 2026-08-20
 source_paths:
-  - Prep/Session Prep - 2026-08-06.md
+  - Sessions/Session 14 - 2026-08-06.md
+  - Dashboard/Current Campaign State.md
 tags:
   - waterdeep
   - dashboard
@@ -12,17 +13,18 @@ tags:
 
 # Next Session
 
-Active prep: [[Prep/Session Prep - 2026-08-06]]
+Active prep needed: session 15 Fireball aftermath.
 
-Session 14 begins on the evening/night of Ches 19, 1492 DR, upstairs at [[Places/Trollskull Manor]] with the magically compelled Zhentarim-adjacent runner, [[People/NPCs/Thugby]], and the unopened [[Objects/Zhent Runner Message Tube]]. The intended session endpoint is the Ches 22 Fireball in [[Places/Trollskull Alley]].
+Next play begins on mid-morning Ches 22, 1492 DR, inside [[Places/Trollskull Manor]] immediately after the Fireball outside shattered the new windows and threw the party to the floor. No casualty count, cause, Dalakhar, Urstul, Stone, nimblewright, or Watch response has been revealed at the table yet.
 
 ## Run Priorities
 
-- Resolve the runner, Thugby, sealed tube, and [[People/NPCs/Hustus Staget|Staget's]] Watch response.
-- Use Yellowspire retaliation if the tube is opened.
-- Use a compact Harper monster mission if the tube remains sealed.
-- End with the Fireball cliffhanger.
+- Resolve immediate PC/staff/urchin/Lif reactions to the blast.
+- Establish casualties, injuries, bystanders, blast center, and first visible clues.
+- Bring in Watch/emergency response without skipping player triage choices.
+- Fold in Yellowspire fallout only after the Fireball opening has room to breathe.
 
 ## Sources
 
-- [[Prep/Session Prep - 2026-08-06]]
+- [[Sessions/Session 14 - 2026-08-06]]
+- [[Dashboard/Current Campaign State]]

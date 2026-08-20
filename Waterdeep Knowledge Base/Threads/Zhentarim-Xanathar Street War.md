@@ -1,7 +1,7 @@
 ---
 type: thread
 status: active
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - thread
@@ -34,8 +35,10 @@ The party has stepped into an open conflict between the [[Factions/Zhentarim]] a
 - The arson attack at [[Places/Thomril & Sons Cartage]] involved at least one flying-snake-tattooed attacker and may have been an attempt to kill or expose Maxeene as a spy.
 - In session 12, a Xanathar-linked salvage crew with a gazer tried to steal the party's water-breathing potions at [[Places/Drowned Lantern]] before they could reach [[People/NPCs/Zelifarn]].
 - In session 13, a bloodied Zhentarim-adjacent runner fled into [[Places/Trollskull Manor]] during the grand opening, pursued by Xanathar-linked attackers and a gazer.
-- The pursuers tried to take or stop the runner's sealed message tube. A cutter briefly stole it, but the party killed him and recovered the unopened [[Objects/Zhent Runner Message Tube]].
-- The runner remains alive and magically compelled to stay near Jonathan at the end of the session.
+- The pursuers tried to take or stop the runner's sealed message tube. A cutter briefly stole it, but the party killed him and recovered [[Objects/Zhent Runner Message Tube]], which remained unopened until session 14.
+- In session 14, the runner was named [[People/NPCs/Oren Fallow]]. The party opened the message, revealing a living gnome/Stone/Neverember/Portal trail with Xanathar's people on the same scent.
+- Hostile Zhentarim retaliated by kidnapping [[People/NPCs/Nat]] and forcing a [[Places/Yellowspire]] exchange.
+- Yellowspire revealed a Banite/Manshoon-aligned Zhentarim pressure point; [[People/NPCs/Amath Sercent]] and Oren both escaped, while the party retained the message.
 - The gazer's final state is uncertain: Davy shot it hard as it retreated over a roof, but the transcript does not confirm whether it died or escaped.
 
 ## Working Read
@@ -46,7 +49,7 @@ Session 8 suggests at least one Zhentarim-aligned operation is now trying to bui
 
 Session 12 adds a separate Xanathar-linked opportunist layer in the harbor: a salvage crew learned enough about the dragon rumors and the Blackstaff-provided potions to try for Zelifarn's supposed hoard. One cutpurse and the crew boss escaped, so the faction may learn the party is working Gray Hands business again.
 
-Session 13 brings the conflict directly to Trollskull's front door. The runner's flying-snake seal and the Xanathar-linked gazer make the fight look like another piece of the same information war, but the sealed message remains unopened and the party has not yet sorted whether this runner belongs to Davil's circle, another Zhentarim cell, or something more dangerous.
+Session 13 brought the conflict directly to Trollskull's front door. Session 14 confirmed the tube was about the Stone trail and that the hostile Yellowspire branch is likely Manshoon-aligned or at least willing to invoke Manshoon. This still does not prove Davil/Yagra's role; the opened message's `D.` and `Y.` could be a true lead or a dangerous coincidence.
 
 ## Sources
 
@@ -56,3 +59,4 @@ Session 13 brings the conflict directly to Trollskull's front door. The runner's
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

@@ -7,7 +7,7 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
@@ -27,6 +27,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - pc
@@ -197,6 +198,14 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Worked opening service as an unobtrusive busboy or cater-waiter.
 - Shot at the gazer during the opening-night fight and landed a hard shot as it retreated over a roof; whether it died or escaped is uncertain.
 - Noticed and intercepted the silver-raven message likely sent by Remallia.
+
+## Session 14 Table-Facing Notes
+
+- Bought a forgery kit from a late-night Market contact for 15 gp.
+- Resealed [[Objects/Zhent Runner Message Tube]] well enough for a casual glance, but left a visible paper corner caught under the cap.
+- Helped ask around for [[People/NPCs/Oren Fallow]] at the Yawning Portal; Bonnie's lead pointed toward Snail Street.
+- Hid and fought from cover at [[Places/Yellowspire]], killing a Banite acolyte with a crossbow shot and later dropping the infernal panther.
+- Took a long shot at fleeing Oren as he escaped Yellowspire, wounding him but not stopping him.
 
 ## Background and Arc Notes
 

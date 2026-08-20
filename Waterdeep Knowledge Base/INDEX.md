@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 13 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 14 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 13; sessions 2 through 13 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 14; sessions 2 through 14 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Structural adventure reference ingest has begun with active Remix overview, timeline, revelation, outpost, response-team, Eye heist, Golorr artifact, and original-adventure overview pages.
 - Raw sources live outside the vault in `../raw/` and are read-only.
@@ -89,6 +89,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 11 | 2026-06-25 | `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt` | `../raw/json_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.json` | Ingested |
 | Session 12 | 2026-07-09 | `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt` | `../raw/json_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.json` | Ingested |
 | Session 13 | 2026-07-23 | `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt` | `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json` | Ingested |
+| Session 14 | 2026-08-06 | `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt` | `../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json` | Ingested |
 
 ### Non-Campaign or Unclassified Sources
 
@@ -125,6 +126,7 @@ As pages are created, maintain these sections:
   - [[Sessions/Session 11 - 2026-06-25]]
   - [[Sessions/Session 12 - 2026-07-09]]
   - [[Sessions/Session 13 - 2026-07-23]]
+  - [[Sessions/Session 14 - 2026-08-06]]
 
 ### Player Characters
 
@@ -211,6 +213,8 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Ryba]]
 - [[People/NPCs/Patric Nivka]]
 - [[People/NPCs/Hammond Craddock]]
+- [[People/NPCs/Oren Fallow]]
+- [[People/NPCs/Amath Sercent]]
 
 Verify spelling and table-specific details against transcripts before treating any page as stable.
 
@@ -265,6 +269,8 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/Steam and Steel]]
 - [[Places/Drowned Lantern]]
 - [[Places/Deepwater Harbor]]
+- [[Places/Yellowspire]]
+- [[Places/The Sleeping Wench]]
 
 ### Objects, Clues, and Obligations
 
@@ -321,7 +327,7 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Make a git commit for the completed initial wiki build.
-2. Run [[Prep/Session Prep - 2026-08-06]] at the table, then ingest session 14 afterward.
+2. Prepare the session 15 Fireball aftermath from the Ches 22 cliffhanger.
 3. Ingest the Ches 22 Fireball aftermath and expand the Gralhund/Nimblewright investigation prep as its own follow-up arc.
 4. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
 5. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.

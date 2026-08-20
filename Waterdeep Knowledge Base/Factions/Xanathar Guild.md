@@ -1,7 +1,7 @@
 ---
 type: faction
 status: active
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -12,6 +12,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - ../raw/notes/handouts/s6-cargo-chit.md
   - ../raw/notes/handouts/s6-note-fragment.md
 tags:
@@ -39,7 +40,8 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - In session 8, [[People/NPCs/Maxeene]] reported that [[People/NPCs/Davil Starsong]] and [[People/NPCs/Yagra Stonefist]] discussed hiring spies to locate Xanathar Guild hideouts.
 - In session 12, a salvage crew at [[Places/Drowned Lantern]] tried to steal the party's water-breathing potions to pursue a dragon hoard; one dead cutpurse carried a crude copied Xanathar symbol.
 - In session 13, Xanathar-linked attackers and a gazer pursued a Zhentarim-adjacent runner into [[Places/Trollskull Manor]] during the grand opening.
-- The party killed the attackers outside Trollskull and recovered the unopened [[Objects/Zhent Runner Message Tube]] they were trying to take or suppress.
+- The party killed the attackers outside Trollskull and recovered the [[Objects/Zhent Runner Message Tube]] they were trying to take or suppress.
+- Session 14 revealed the tube message says Xanathar's people were on the same trail as the Zhentarim: a living gnome, the Stone, and missing eyes. One of their floating watchers had seen the gnome near the north-side alleys before losing him.
 
 ## Known Clues
 
@@ -65,6 +67,7 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - Will the escaped Drowned Lantern cutpurse or magically dismissed salvage boss report the party's harbor mission?
 - Did the opening-night gazer escape and report Trollskull's involvement?
 - Why did Xanathar-linked attackers want the runner or the sealed tube?
+- Did the watcher mentioned in the opened tube message survive long enough to report the gnome or Trollskull lead?
 
 ## Sources
 
@@ -77,5 +80,6 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - `../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
 - `../raw/notes/handouts/s6-cargo-chit.md`
 - `../raw/notes/handouts/s6-note-fragment.md`

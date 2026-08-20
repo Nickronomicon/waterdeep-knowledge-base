@@ -1,9 +1,10 @@
 ---
 type: thread
 status: active
-updated: 2026-07-11
+updated: 2026-08-20
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - ../raw/Dragon-Heist-Remix.pdf
   - Reference/Dragon Heist Remix Overview.md
   - Reference/Remix Revelation Lists.md
@@ -25,12 +26,15 @@ The Remix uses similar machinery under the name Grand Game / Neverember's Enigma
 - Introduced in [[Sessions/Session 09 - 2026-05-07]] when [[People/NPCs/Remallia Haventree]] heard the party's report on [[Objects/Scrap of Note]] and the [[People/NPCs/Maxeene]] information.
 - Remallia treated the combination of criminal factions, the Stone, and possible noble references as a warning sign that another Great Game might be starting.
 - The party knows the concept at a high level: nobles may treat the competition as entertainment or social maneuvering, while bodies still end up in the streets.
+- In session 14, the party opened the Zhent runner tube. Its message tied a living gnome, old Neverember channels, the Stone remembering the road but not the eyes, Xanathar watchers, the lord's son, and the Portal together.
+- The Fireball has now triggered at Trollskull, moving the Great Game from clue frame into the active blast-investigation phase, though the table has not yet learned the cause or Stone/nimblewright details.
 
 ## Current Inputs
 
 - [[Objects/Scrap of Note]] names the Stone, X, Z, Lady B, and R.
 - Maxeene's rock gnome lead involves a lord's carriage, a red-haired well-dressed man, and talk of a stone.
 - [[Factions/Zhentarim]] and [[Factions/Xanathar Guild]] are already active in a visible street war.
+- [[Objects/Zhent Runner Message Tube]] is now revealed and points toward the same gnome/Stone/Neverember trail as the coming Fireball investigation.
 - [[Factions/Cassalanters]], the Gralhunds, and other noble households have entered the campaign's social field through the opera.
 - [[Reference/Dragon Heist Remix Overview]] now provides the DM-facing structural map for how faction outposts, response teams, and Eye heists can make this thread operational.
 
@@ -41,10 +45,12 @@ The Remix uses similar machinery under the name Grand Game / Neverember's Enigma
 - Who is "R" in the note?
 - How much does Remallia know beyond what she told the party?
 - When should the table-facing phrase "Great Game" broaden into the Remix's full Grand Game structure?
+- How much of the opened tube message should point the party toward Davil/Yagra, and how much should remain ambiguous until after the Fireball scene?
 
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
 - `../raw/Dragon-Heist-Remix.pdf`
 - [[Reference/Dragon Heist Remix Overview]]
 - [[Reference/Remix Revelation Lists]]

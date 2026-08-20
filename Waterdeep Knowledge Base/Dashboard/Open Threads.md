@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-08-06
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -29,6 +29,7 @@ source_paths:
   - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - Dashboard/Current Campaign State.md
   - Dashboard/Faction Clocks.md
   - ../raw/notes/handouts/s6-cargo-chit.md
@@ -48,21 +49,19 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 
 ### Hot Next Session
 
-- Interrogate or otherwise resolve the Zhentarim-adjacent runner from opening night.
-- Decide whether to open, hide, deliver, copy, or bargain with [[Objects/Zhent Runner Message Tube]].
-- Question [[People/NPCs/Thugby]] about the opera ambush, Thomril arson, and whoever keeps hiring him.
-- Handle the Watch response to bodies outside [[Places/Trollskull Manor]] on opening night.
-- Start using [[Dashboard/Trollskull Operations]] for every tenday business roll.
-- Post operating hours and settle early staff routines for Trollskull.
-- Respond to [[People/NPCs/Emmet Frewn|Frewn's]] planted anti-ghost complaint without making him the main plot.
-- Decide whether to secure, monitor, or use [[Places/Trollskull Smuggler's Passage]].
+- Open immediately on the Fireball aftermath outside [[Places/Trollskull Manor]] on Ches 22, 1492 DR.
+- Establish casualties, injuries, missing people, blast location, and what the PCs can see in the first seconds after the boom.
+- Preserve reveal boundaries until discovered: no automatic Dalakhar, Urstul, Stone, nimblewright, or faction explanation before the party earns it.
+- Handle emergency response: party triage, staff/urchin safety, Lif's reaction, neighbors, Watch arrival, and crowd panic.
+- Decide what Fireball damage does to Trollskull's newly installed windows and the first tenday business track in [[Dashboard/Trollskull Operations]].
+- Track fallout from [[Places/Yellowspire]]: [[People/NPCs/Amath Sercent]] escaped to report to Manshoon, [[People/NPCs/Oren Fallow]] escaped wounded, and [[Objects/Zhent Runner Message Tube]] remains with the party.
+- Decide whether to secure, monitor, or use [[Places/Trollskull Smuggler's Passage]] amid the new chaos.
 - Track whether [[People/PCs/Broethuul]] shares any part of [[Objects/The Amberleaf Dispatch]].
-- Prepare for Ches 22, 1492 DR, when the Fireball is planned to enter play.
 
 ### Active Background Pressure
 
 - [[Factions/Xanathar Guild]] may learn about the [[Places/Drowned Lantern]] / [[People/NPCs/Zelifarn]] mission from survivors, and the opening-night gazer may have escaped.
-- [[Factions/Zhentarim]] remains split or opaque, with Davil/Yagra's spy effort separate from the violent actors seen so far and the new runner/tube unresolved.
+- [[Factions/Zhentarim]] remains split or opaque: Davil/Yagra's spy effort may be separate from the hostile Banite/Manshoon-linked Yellowspire cell that kidnapped Nat.
 - [[Factions/Harpers]] and [[Factions/Gray Hands]] both have reasons to value Trollskull as the party's base.
 - [[Factions/Cassalanters]] now hold the tavern debt.
 - [[Threads/Great Game]] is still a frame, not yet a fully visible chase.
@@ -92,11 +91,11 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
 | [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
-| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Open as of Ches 19 | Current loan cash is 637 gp after repairs and opening-day accounting; post hours, manage staff, secure the sewer passage, handle first-interest pressure, and use [[Dashboard/Trollskull Operations]] for tenday rolls. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Open as of Ches 19; Fireball damage pending | Current loan cash is 637 gp after repairs and opening-day accounting; windows just shattered from the Ches 22 blast; post hours, manage staff, secure the sewer passage, handle first-interest pressure, and use [[Dashboard/Trollskull Operations]] for tenday rolls. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
 | [[People/NPCs/Lif]] and the haunting | Whole party | Contacted, cooperative | Lif wants Trollskull restored, can clean/serve drinks, cannot leave the manor, and Fala is researching his limits. |
 | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Frewn has used anti-ghost posters and a planted opening-day complaint; keep pressure petty, deniable, and long-tail. |
-| [[Factions/Harpers]] / [[People/NPCs/Mirt]] / [[People/NPCs/Remallia Haventree]] | Whole party | Active faction track | Trollskull is open and received deniable silver-raven congratulations; party has [[Objects/Remallia's Paper Bird]] and quiet support. |
+| [[Factions/Harpers]] / [[People/NPCs/Mirt]] / [[People/NPCs/Remallia Haventree]] | Whole party | Active faction track | Trollskull is open and received deniable silver-raven congratulations; party used [[Objects/Remallia's Paper Bird]] for help finding Oren after Nat was kidnapped. |
 | [[Objects/Opera Invitation from Mirt]] | Whole party | Resolved as invitation; fallout active | Mirt meeting happened; watcher and ambush followed immediately after Box C. |
 | [[People/NPCs/Vajra Safahr]] / [[Factions/Gray Hands]] | Whole party | Active patron/test | Deepwater Harbor dragon report delivered; Elra attended the opening in personal capacity and signaled favorable Force Grey standing. |
 | [[Places/Fish Street Warehouse]] / [[Objects/Dockside Transfer Receipt]] / [[Objects/Loose It Then Leave Note Fragment]] | Whole party | Active clue trail | Trace three ironbound crates, redacted ownership, and the receipt address; exact address/name not captured in session 6 transcript. |
@@ -104,7 +103,7 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Places/Book Wyrm's Treasure]] / [[Objects/Borrowed Monster Books]] | Whole party | Active obligation | Return Rishaal's books; translate the older Draconic volume if useful. |
 | [[Factions/Cassalanters]] / [[Places/Cassalanter Villa]] | Whole party | Loan signed | [[Objects/Cassalanter Loan]] is active; first interest begins after opening. Track debt pressure, patron leverage, and Davy's private Cassalanter misgivings. |
 | [[Objects/Scrap of Note]] / Stone clue | Whole party | Active mystery | Decode X, Z, Lady B, R, "third eye," and how the note connects to the watcher/ambush. |
-| [[People/NPCs/Mr Jones]] and Castle Ward ambush | Whole party | Aftermath active | [[People/NPCs/Thugby]] was released/intimidated, reappeared with the Thomril arson crew, escaped, and then accidentally attended Trollskull's opening. |
+| [[People/NPCs/Mr Jones]] and Castle Ward ambush | Whole party | Aftermath active | [[People/NPCs/Thugby]] was released/intimidated, reappeared with the Thomril arson crew, escaped, accidentally attended Trollskull's opening, and then claimed in session 14 that he was mostly staying clean. |
 | [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | Whole party, especially Elior | New social lead | Festival ships in port; Zardoz expects citywide attention. |
 | [[People/NPCs/Maxeene]] / [[Places/Thomril & Sons Cartage]] | Whole party | Active consequence | Maxeene survived, her report reached Remallia, Thomril & Sons burned, the stablemaster is likely dead, and no Watch report is captured yet. |
 | [[People/NPCs/Davil Starsong]] / [[People/NPCs/Yagra Stonefist]] | Whole party | New faction lead | Maxeene overheard them discussing spies to locate Xanathar Guild hideouts; determine whether this cell is foe, ally, or separate Zhentarim splinter. |
@@ -119,8 +118,9 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Places/Trollskull Smuggler's Passage]] | Whole party | Newly discovered security threat | Determine who opened the latched sewer-side door, then seal, secure, exploit, or monitor the route. |
 | [[People/NPCs/Zelifarn]] / [[Places/Deepwater Harbor]] | Whole party, especially Broethuul | New Gray Hands contact | Keep the bronze dragon discreet, decide whether to visit him, and monitor harbor faction attention. |
 | [[Objects/The Amberleaf Dispatch]] | [[People/PCs/Broethuul]] | Revealed privately | Broethuul-only clue tying the wrong-water door, Starfern claim, Stone/Eye, Crommor horn, and House of Coin and Smile. |
-| [[Objects/Zhent Runner Message Tube]] | Whole party | Recovered, unopened | Opening-night sealed tube tied to a Zhentarim-adjacent runner and Xanathar-linked pursuers; next-session pressure object. |
-| Ches 22 Fireball | Whole party | Planned next arc trigger | Fireball is scheduled for Ches 22, three days after Trollskull's grand opening, unless player action meaningfully redirects the setup. |
+| [[Objects/Zhent Runner Message Tube]] | Whole party | Opened and retained | Message revealed the gnome/Stone/Neverember/Portal trail; currently retained by Elior after Yellowspire. |
+| [[Places/Yellowspire]] / [[People/NPCs/Amath Sercent]] / [[People/NPCs/Oren Fallow]] | Whole party | Active fallout | Nat rescued, but Amath escaped to report to Manshoon and Oren escaped wounded. |
+| Ches 22 Fireball | Whole party | Triggered; investigation not begun | Fireball has gone off outside Trollskull. Cause, casualties, Dalakhar, Stone, Urstul, nimblewright, and Watch procedure are unrevealed table truth. |
 
 ## Immediate Follow-Up
 
@@ -128,6 +128,6 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue next play from the evening/night of Ches 19, 1492 DR, just after Trollskull's opening-night street-war interruption.
-- Track the runner, Thugby, sealed tube, Watch response, first regular tenday business result, staff routines, posted hours, Frewn's next petty move, Fala's Lif research, smuggler's-passage security, and whether Broethuul shares the Amberleaf Dispatch.
+- Continue next play from mid-morning Ches 22, 1492 DR, immediately after the Fireball sensory cliffhanger.
+- Track Fireball casualties, the first crime-scene clues, Watch response, Trollskull damage, first regular tenday business result, staff routines, posted hours, Frewn's next petty move, Fala's Lif research, smuggler's-passage security, Yellowspire fallout, and whether Broethuul shares the Amberleaf Dispatch.
 - Use [[Dashboard/Current Campaign State]] and [[Dashboard/Faction Clocks]] as the starting point for weekly prep.

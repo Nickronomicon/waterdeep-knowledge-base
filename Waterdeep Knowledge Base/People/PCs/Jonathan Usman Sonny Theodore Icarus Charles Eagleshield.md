@@ -9,7 +9,7 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
@@ -27,6 +27,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - pc
@@ -214,6 +215,14 @@ Cantrips:
 - Held the front line during the opening-night street-war fight with Wrathful Smite and divine force.
 - Killed the final fleeing cutter after the cutter stole the runner's sealed tube.
 - Remained attached to the compelled runner at session end, making Jonathan central to the next interrogation scene.
+
+## Session 14 Table-Facing Notes
+
+- Released the opening-night runner from the stand-behind-Jonathan compulsion once the party had him upstairs.
+- Recognized the Vondel Street carriage-guard lead from Thugby's story as tied to House Cragspear.
+- Kicked open [[People/NPCs/Oren Fallow|Oren's]] room at [[Places/The Sleeping Wench]] and caught him by the ankle as he tried to dive out the window.
+- Tied Oren up back at Trollskull with Davy's help before the Yellowspire exchange.
+- At [[Places/Yellowspire]], served as a front-line barrier, cast Shield of Faith and Divine Favor, forced open the basement teleportation-circle room, and took poison magic during the fight.
 
 ## Background and Arc Notes
 

@@ -7,7 +7,7 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
@@ -26,6 +26,7 @@ source_paths:
   - ../raw/notes/handouts/s12-the-amberleaf-dispatch.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - pc
@@ -198,6 +199,14 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Deferred [[People/NPCs/Hammond Craddock|Hammond Craddock's]] beverage upsell until the tavern's next order.
 - Gave [[People/NPCs/Laraelra Harsard|Elra Harsard]] a feather and briefly drew her into feather-tickle nonsense before she restored control of the exchange.
 - Fought in the opening-night street-war incident, took a heavy hit from the bruiser, and killed the prone lead attacker with his rapier.
+
+## Session 14 Table-Facing Notes
+
+- Mostly avoided the opening-night interrogation and went to his room.
+- Made another feather-tickle attempt at Elra after the Watch questioning; she Dimension Doored away after keeping composure.
+- Fought at [[Places/Yellowspire]] with Rite of the Storm active, killing a Banite acolyte and wounding the infernal panther.
+- Struck [[People/NPCs/Oren Fallow]] as Oren fled but did not stop him.
+- Found [[People/NPCs/Nat]] upstairs, tried to negotiate with the hostage-holding acolyte, then killed the acolyte with a storm-lit rapier strike after Nat was stabbed.
 
 ## Background and Arc Notes
 

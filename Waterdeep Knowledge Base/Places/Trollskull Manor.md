@@ -1,7 +1,7 @@
 ---
 type: place
 status: open
-updated: 2026-08-06
+updated: 2026-08-20
 source_paths:
   - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/dm-planning/session-3/prep-notes.md
@@ -16,6 +16,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - place
@@ -50,7 +51,9 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - [[People/NPCs/Lif]] uses a chalkboard to write "Welcome" daily and has indicated that he cannot leave the manor.
 - Opening-day business results were rolled at the table. After repairs and two good performance/business rolls, the Skullduggers had 637 gp left from the original 2,000 gp Cassalanter loan.
 - Recurring tenday business rolls, costs, modifiers, and ledger entries are tracked in [[Dashboard/Trollskull Operations]].
-- The evening of opening was interrupted by a Zhentarim-Xanathar street-war fight outside the tavern; the party recovered an unopened [[Objects/Zhent Runner Message Tube]] and ended with a magically compelled runner and [[People/NPCs/Thugby]] upstairs.
+- The evening of opening was interrupted by a Zhentarim-Xanathar street-war fight outside the tavern.
+- By session 14, the party opened and retained [[Objects/Zhent Runner Message Tube]], rescued [[People/NPCs/Nat]] from [[Places/Yellowspire]], and returned to Trollskull late on Ches 21.
+- On mid-morning Ches 22, a Fireball detonated outside in Trollskull Alley, shattering the tavern's newly installed windows inward. No further damage/casualty details are table-revealed yet.
 
 ## Known Facts
 
@@ -168,6 +171,17 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Thugby accidentally attended the opening and was persuaded upstairs by Aladeen.
 - The session ended upstairs with Thugby, the runner, and the unopened message tube ready for immediate follow-up.
 
+## Session 14 Developments
+
+- The party opened the runner's sealed tube upstairs at Trollskull and later retained the message after the Yellowspire fight.
+- [[People/NPCs/Hustus Staget]] investigated the opening-night bodies; [[People/NPCs/Laraelra Harsard|Elra]] helped keep the Watch questioning controlled.
+- [[People/NPCs/Thugby]] was questioned over a drink and released.
+- [[People/NPCs/Lillian Haekin]] began setting up morning tea and breakfast service on Ches 20.
+- [[People/NPCs/Tally Fellbranch]] delivered the three wooden training bucklers for Nat, Jenks, and Squiddly.
+- Nat was kidnapped near Trollskull on Ches 20 after the urchins followed a black flying snake, then was rescued from Yellowspire and brought home late on Ches 21.
+- The staff and urchins were visibly relieved by Nat's return.
+- The next morning, the Fireball outside Trollskull shattered the newly installed windows and threw the party to the floor.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
@@ -181,7 +195,8 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - How will the party handle customers addressing or ordering from Lif?
 - How will Frewn escalate after his planted anti-ghost complaint?
 - What will the Watch make of bodies outside Trollskull on opening night?
-- Will the party open, deliver, hide, or bargain with the sealed Zhent runner tube?
+- What will the Fireball do to business operations, repairs, staff morale, and the first regular tenday roll?
+- How will the party handle the now-opened Zhent runner tube and Yellowspire fallout?
 
 ## Sources
 
@@ -198,3 +213,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

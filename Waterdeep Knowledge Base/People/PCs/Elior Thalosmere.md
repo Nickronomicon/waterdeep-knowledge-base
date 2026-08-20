@@ -7,7 +7,7 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Elior-level-3.pdf
@@ -27,6 +27,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - pc
@@ -224,6 +225,15 @@ Other listed magic:
 - Helped smooth Broxley Fairkettle's inspection and other opening-day social pressure.
 - Opened the street-war fight with Ice Knife and later used Thunderwave to kill or disrupt attackers.
 - Took a serious hit while moving through the fight but remained part of the crowd-facing spectacle afterward.
+
+## Session 14 Table-Facing Notes
+
+- Analyzed the opened tube message's handwriting and concluded the writer was practical, hurried, and probably not noble or highly educated.
+- Tried to find a backward-reading code in the message and briefly pursued the "left maple shoe" joke as if it were a clue.
+- Spoke with [[People/NPCs/Hustus Staget]] outside Trollskull and failed to fully sell the legal self-defense framing.
+- Showed or recounted the tube message to Renaer and Floon; Renaer reacted strongly to old Neverember references.
+- Carried [[Objects/Zhent Runner Message Tube]] to [[Places/Yellowspire]] and still had the Zhent-stamped tube after the fight.
+- Badly injured [[People/NPCs/Amath Sercent]] with an empowered second-level Ice Knife, then was paralyzed by Hold Person and mauled by the infernal panther before being healed.
 
 ## Background and Arc Notes
 

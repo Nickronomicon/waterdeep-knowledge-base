@@ -1,7 +1,7 @@
 ---
 type: faction
 status: active
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/dm-planning/session-4/vajra_recruitment.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -10,6 +10,7 @@ source_paths:
   - ../raw/notes/dm-planning/session-12/force-grey.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - faction
@@ -30,6 +31,7 @@ The Gray Hands are [[People/NPCs/Vajra Safahr|Vajra Safahr's]] irregular agents,
 - Their probationary status remains active; in session 12 Vajra sent them to investigate [[People/NPCs/Zelifarn]], a bronze dragon in [[Places/Deepwater Harbor]].
 - The party reported Zelifarn as non-hostile and received five spare [[Objects/Force Grey Water Breathing Potions]] from [[People/NPCs/Laraelra Harsard]].
 - In session 13, Elra attended Trollskull Manor's opening in a personal capacity and signaled that the party's work has been noticed favorably.
+- In session 14, Elra quietly helped manage Staget's Watch response at Trollskull and attempted to scry Oren Fallow after Nat was kidnapped. The scry attempt was inconclusive due to weak target familiarity, but she promised to keep looking.
 
 ## Terms As Explained
 
@@ -58,6 +60,11 @@ Jonathan recognized Force Grey as an old heroic tradition. Vajra framed the Gray
 - Her presence reinforced the party's position as useful irregulars and pointed forward to future city-scale trust.
 - The visit should not be framed as suspicion about the party's completed harbor work.
 
+## Session 14 Support
+
+- Elra spoke privately with [[People/NPCs/Hustus Staget]] during the opening-night Watch response.
+- She attempted a short-notice scry for [[People/NPCs/Oren Fallow]] after the party came to Blackstaff Tower with Nat missing, but did not get a reliable location.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-4/vajra_recruitment.md`
@@ -67,3 +74,4 @@ Jonathan recognized Force Grey as an old heroic tradition. Vajra framed the Gray
 - `../raw/notes/dm-planning/session-12/force-grey.md`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

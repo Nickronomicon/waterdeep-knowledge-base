@@ -1,7 +1,7 @@
 ---
 type: faction
 status: active
-updated: 2026-07-25
+updated: 2026-08-20
 source_paths:
   - ../raw/notes/dm-planning/session-6/lightsinger_theater.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
@@ -10,6 +10,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
 tags:
   - waterdeep
   - faction
@@ -31,6 +32,7 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - Remallia gave the party [[Objects/Remallia's Paper Bird]] for one-use contact with her or Mirt, [[Objects/Remallia's Fala Credit Note]] for emergency medicine, and guidance to get [[Places/Trollskull Manor]] open as an information-gathering tavern.
 - As of session 13, Trollskull is open, making Remallia's tavern-as-listening-post advice operational.
 - A silver raven delivered an unsigned congratulatory note during the opening, likely from Remallia or her network, keeping Harper support deniable.
+- The party used Remallia's paper bird in session 14 after Nat was kidnapped. Remallia replied by silver raven with [[People/NPCs/Oren Fallow|Oren Fallow's]] location at [[Places/The Sleeping Wench]], enabling the rescue path to [[Places/Yellowspire]].
 
 ## Terms As Explained
 
@@ -56,7 +58,7 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - Does the watcher at Box C know the party accepted Harper pins?
 - What will Remallia and Mirt do with the Maxeene report, Scrap of Note, and Thugby lead?
 - Did the attackers at [[Places/Thomril & Sons Cartage]] know Maxeene specifically was the Harper spy?
-- When should the party use the one-use paper bird, and how much should they say?
+- How will Remallia follow up now that the one-use paper bird has been spent and the party hit Yellowspire?
 - What useful rumors does Trollskull produce now that the tavern is actually open?
 
 ## Sources
@@ -68,3 +70,4 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

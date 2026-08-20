@@ -15,6 +15,18 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-08-20] ingest | Session 14
+
+- Ingested [[Sessions/Session 14 - 2026-08-06]] from the new session 14 transcript plus session 14 prep/handout context.
+- Covered the opened [[Objects/Zhent Runner Message Tube]], Oren Fallow's release and recapture, Staget's Watch response, Thugby's red-herring questioning and Cragspear carriage lead, Nat's kidnapping, Remallia/Elra support, the Sleeping Wench lead, Yellowspire, Amath Sercent's escape, Nat's rescue, Oren's escape, and the Ches 22 Fireball cliffhanger.
+- Created [[People/NPCs/Oren Fallow]], [[People/NPCs/Amath Sercent]], [[Places/Yellowspire]], and [[Places/The Sleeping Wench]].
+- Updated [[AGENTS]], PC pages, [[Places/Trollskull Manor]], [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], [[Dashboard/Faction Clocks]], [[Dashboard/Next Session]], [[Dashboard/Trollskull Operations]], [[Dashboard/Player-Facing Synopsis]], [[Timeline/Campaign Timeline]], key NPC/faction/thread/object pages, [[Meta/Raw Source Inventory]], [[Meta/DM Prep Source Map]], and [[INDEX]].
+- Preserved reveal boundaries: Fireball has occurred only as a sensory cliffhanger; no cause, casualty count, Dalakhar, Urstul, Stone, nimblewright, or Watch response has been table-revealed yet.
+
+Follow-up:
+
+- Prepare session 15 from the immediate Fireball aftermath, including casualties, named-neighbor impact, crime-scene clues, Watch arrival, Trollskull damage/accounting, and how Yellowspire fallout resumes after the explosion.
+
 ## [2026-08-06] prep | Session 14 Fireball ending revision
 
 - Revised [[Prep/Session Prep - 2026-08-06]] so session 14 ends on the sensory Fireball explosion only, with no cause, casualty count, Dalakhar, Urstul, Stone, nimblewright, or Watch explanation revealed before the cut.
