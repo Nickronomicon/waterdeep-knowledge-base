@@ -15,6 +15,17 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-08-20] prep | Session 15 Fireball aftermath
+
+- Created [[Prep/Session Prep - 2026-08-20]] for the immediate Fireball rescue, Fala casualty, Squiddly rescue clock, Urstul/Dalakhar crime scene, Watch arrival, Renaer reveal, nimblewright owner investigation, Davin Crommor substitution, Zord decision, Dripping Dagger response-team contingency, and Cassalanter plea trigger.
+- Preserved Remix continuity over contradictory original-adventure details: the Gralhund nimblewright takes the Stone, Urstul remains onsite briefly, and the House of Inspired Hands has neither the culprit nor a detector.
+- Updated [[Dashboard/Next Session]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], and [[INDEX]].
+- Sources read included `../raw/notes/dm-planning/session-15/notes.md`, `../raw/Dragon-Heist-Remix.pdf` Parts 1, 5C, and 5D, `../raw/waterdeep_dragon_heist/03.Fireball.md`, original NPC/stat references, session 14, and active campaign dashboards.
+
+Follow-up:
+
+- Run session 15 from the Ches 22 blast, then ingest the actual rescue outcomes, casualty state, evidence custody, witness accounts, owner leads, Zord knowledge, Crommor pressure, and any Cassalanter contact.
+
 ## [2026-08-20] ingest | Session 14
 
 - Ingested [[Sessions/Session 14 - 2026-08-06]] from the new session 14 transcript plus session 14 prep/handout context.

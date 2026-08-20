@@ -76,6 +76,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 12 | `../raw/notes/dm-planning/session-12/outline.md`; `../raw/notes/dm-planning/session-12/force-grey.md` | Ingested into [[Sessions/Session 12 - 2026-07-09]] and [[Meta/DM Prep Source Map]]. Actual play used the loan/renovation and Force Grey harbor material, while the smuggler's-passage combat stayed unused. |
 | Session 13 | `../raw/notes/dm-planning/session-13/outline.md` | Used for [[Prep/Session Prep - 2026-07-23]] and ingested into [[Sessions/Session 13 - 2026-07-23]]. Actual play opened Trollskull on Ches 19, hired staff, used petty Frewn shill pressure, triggered the street-war interruption, recovered the sealed tube, and kept Fireball deferred to Ches 22. |
 | Session 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md` | Used for [[Prep/Session Prep - 2026-08-06]], [[Objects/Yellowspire Demand Note]], and [[Sessions/Session 14 - 2026-08-06]]. Actual play opened the tube, used Yellowspire retaliation, rescued Nat, and ended on the Ches 22 Fireball cliffhanger. |
+| Session 15 | `../raw/notes/dm-planning/session-15/notes.md` | Used for [[Prep/Session Prep - 2026-08-20]] with the Remix as the primary investigation structure and original Chapter 3 as support. Awaiting play/transcript. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 
