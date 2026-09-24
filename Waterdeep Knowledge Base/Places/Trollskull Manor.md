@@ -1,7 +1,7 @@
 ---
 type: place
 status: open
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/dm-planning/session-3/prep-notes.md
@@ -17,6 +17,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - place
@@ -53,7 +54,11 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Recurring tenday business rolls, costs, modifiers, and ledger entries are tracked in [[Dashboard/Trollskull Operations]].
 - The evening of opening was interrupted by a Zhentarim-Xanathar street-war fight outside the tavern.
 - By session 14, the party opened and retained [[Objects/Zhent Runner Message Tube]], rescued [[People/NPCs/Nat]] from [[Places/Yellowspire]], and returned to Trollskull late on Ches 21.
-- On mid-morning Ches 22, a Fireball detonated outside in Trollskull Alley, shattering the tavern's newly installed windows inward. No further damage/casualty details are table-revealed yet.
+- On mid-morning Ches 22, a Fireball detonated outside in Trollskull Alley, shattering the tavern's newly installed windows inward.
+- During session 15, Trollskull's front room became an emergency triage space for Fireball victims.
+- [[People/NPCs/Fala Lefaliir]] is dead, [[People/NPCs/Squiddly]] survived after being rescued from burning debris, and [[People/NPCs/Lif]] reacted violently to news of Fala's death.
+- The Watch questioned witnesses in the tavern and arrested [[People/NPCs/Urstul Floxin]] from the triage area.
+- [[People/PCs/Broethuul]] hid [[Objects/Broken Necklace of Fireballs]] in his room; [[People/PCs/Davy]] has [[People/NPCs/Dalakhar|Dalakhar's]] pouch of five gemstones.
 
 ## Known Facts
 
@@ -182,6 +187,15 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - The staff and urchins were visibly relieved by Nat's return.
 - The next morning, the Fireball outside Trollskull shattered the newly installed windows and threw the party to the floor.
 
+## Session 15 Developments
+
+- The party rushed out immediately after the Fireball and used Trollskull as the anchor for rescue and triage.
+- Jonathan checked the basement and smuggler's passage for signs of intrusion and found no obvious disturbance.
+- Trollskull staff responded quickly: Ryba helped bring the injured inside, the cooks boiled water and tore cloth for bandages, and Patric ran to find the Watch.
+- Lif asked what happened and whether Fala was okay; after Broethuul told him Fala was dead, Lif threw the chalkboard and rattled the bar's glassware.
+- Saeth Cromley questioned witnesses in the tavern and recognized Urstul Floxin.
+- The tavern now has shattered windows, possible repair costs, immediate neighborhood relief expectations, and a first-tenday business roll likely affected by how the party handles the aftermath.
+
 ## Open Questions
 
 - Was the magistrate transfer completed offscreen?
@@ -197,6 +211,9 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - What will the Watch make of bodies outside Trollskull on opening night?
 - What will the Fireball do to business operations, repairs, staff morale, and the first regular tenday roll?
 - How will the party handle the now-opened Zhent runner tube and Yellowspire fallout?
+- Will Broethuul keep or reveal the hidden broken necklace of fireballs?
+- Will Davy's gemstone theft become a Watch or witness problem?
+- How does Lif's grief over Fala reshape tavern operations?
 
 ## Sources
 
@@ -214,3 +231,4 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
 - `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`

@@ -1,7 +1,7 @@
 ---
 type: meta
 status: current
-updated: 2026-08-20
+updated: 2026-09-24
 source_commit: 6fad85b plus current raw working tree
 tags:
   - waterdeep
@@ -10,18 +10,18 @@ tags:
 
 # Raw Source Inventory
 
-Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 14 planning notes and transcripts. Raw sources were read and classified only; no files under `../raw/` were edited.
+Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 15 planning notes and transcripts. Raw sources were read and classified only; no files under `../raw/` were edited.
 
 ## Summary
 
-`../raw/` currently contains 218 files:
+`../raw/` currently contains 221 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 55 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 56 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
-| `.txt` | 13 | Text transcripts for Waterdeep sessions 2-14 |
-| `.json` | 13 | JSON transcripts for Waterdeep sessions 2-14 |
+| `.txt` | 14 | Text transcripts for Waterdeep sessions 2-15 |
+| `.json` | 14 | JSON transcripts for Waterdeep sessions 2-15 |
 | `.png` | 101 | Original adventure images and maps |
 | `.jpg` | 30 | Original adventure images and maps |
 
@@ -76,7 +76,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 12 | `../raw/notes/dm-planning/session-12/outline.md`; `../raw/notes/dm-planning/session-12/force-grey.md` | Ingested into [[Sessions/Session 12 - 2026-07-09]] and [[Meta/DM Prep Source Map]]. Actual play used the loan/renovation and Force Grey harbor material, while the smuggler's-passage combat stayed unused. |
 | Session 13 | `../raw/notes/dm-planning/session-13/outline.md` | Used for [[Prep/Session Prep - 2026-07-23]] and ingested into [[Sessions/Session 13 - 2026-07-23]]. Actual play opened Trollskull on Ches 19, hired staff, used petty Frewn shill pressure, triggered the street-war interruption, recovered the sealed tube, and kept Fireball deferred to Ches 22. |
 | Session 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md` | Used for [[Prep/Session Prep - 2026-08-06]], [[Objects/Yellowspire Demand Note]], and [[Sessions/Session 14 - 2026-08-06]]. Actual play opened the tube, used Yellowspire retaliation, rescued Nat, and ended on the Ches 22 Fireball cliffhanger. |
-| Session 15 | `../raw/notes/dm-planning/session-15/notes.md` | Used for [[Prep/Session Prep - 2026-08-20]] with the Remix as the primary investigation structure and original Chapter 3 as support. Awaiting play/transcript. |
+| Session 15 | `../raw/notes/dm-planning/session-15/notes.md` | Used for [[Prep/Session Prep - 2026-08-20]] and [[Sessions/Session 15 - 2026-08-20]]. Actual play covered the Fireball rescue, Fala's death, Squiddly's rescue, Dalakhar/Renaer reveal, Urstul's Watch custody, the nimblewright clue, and the Sea Maidens Fair endpoint; retcon-vulnerable because the session was abbreviated and Aladeen's player was absent. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 
@@ -105,7 +105,7 @@ These are record copies of player-facing or player-targeted handouts. The vault 
 
 ## Session Transcripts
 
-Recorded Waterdeep transcripts exist for sessions 2-14:
+Recorded Waterdeep transcripts exist for sessions 2-15:
 
 | Session | Text Path | JSON Path | Ingest Status |
 |---|---|---|---|
@@ -122,6 +122,7 @@ Recorded Waterdeep transcripts exist for sessions 2-14:
 | 12 | `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt` | `../raw/json_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.json` | Ingested into [[Sessions/Session 12 - 2026-07-09]] |
 | 13 | `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt` | `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json` | Ingested into [[Sessions/Session 13 - 2026-07-23]] |
 | 14 | `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt` | `../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json` | Ingested into [[Sessions/Session 14 - 2026-08-06]] |
+| 15 | `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt` | `../raw/json_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.json` | Ingested into [[Sessions/Session 15 - 2026-08-20]]; JSON source is empty; endpoint is retcon-vulnerable |
 
 Important caveat from `../raw/notes/technical-notes.md`: transcript speaker labels are unreliable and should not be treated as stable evidence of who spoke.
 
@@ -151,8 +152,8 @@ Original adventure markdown files:
 
 ## Recommended Ingest Order
 
-1. Prepare the session 15 Fireball aftermath from the Ches 22 cliffhanger.
-2. Expand active adventure-reference pages into prep cards for the Fireball investigation, Gralhund Villa, nimblewright leads, faction outposts, or Eye heists as the next session requires.
+1. Confirm in session 16 whether the table keeps the session 15 Sea Maidens Fair endpoint or rewinds part of the abbreviated Fireball aftermath.
+2. Expand active adventure-reference pages into prep cards for Zord, Gralhund Villa, nimblewright leads, faction outposts, or Eye heists as the next session requires.
 3. Continue ingesting active handouts/clue objects as they arise during session ingest.
 4. Add quick references for Waterdeep wards, law, faction missions, and frequently used NPC/stat lookups as active prep requires them.
 5. Periodically lint the vault for stale facts, missing links, orphan pages, and unresolved threads.

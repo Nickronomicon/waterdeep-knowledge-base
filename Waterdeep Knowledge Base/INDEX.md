@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 14 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 15 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 14; sessions 2 through 14 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 15; sessions 2 through 15 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Structural adventure reference ingest has begun with active Remix overview, timeline, revelation, outpost, response-team, Eye heist, Golorr artifact, and original-adventure overview pages.
 - Raw sources live outside the vault in `../raw/` and are read-only.
@@ -91,6 +91,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 12 | 2026-07-09 | `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt` | `../raw/json_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.json` | Ingested |
 | Session 13 | 2026-07-23 | `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt` | `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json` | Ingested |
 | Session 14 | 2026-08-06 | `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt` | `../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json` | Ingested |
+| Session 15 | 2026-08-20 | `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt` | `../raw/json_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.json` | Ingested; retcon-vulnerable endpoint |
 
 ### Non-Campaign or Unclassified Sources
 
@@ -128,6 +129,7 @@ As pages are created, maintain these sections:
   - [[Sessions/Session 12 - 2026-07-09]]
   - [[Sessions/Session 13 - 2026-07-23]]
   - [[Sessions/Session 14 - 2026-08-06]]
+  - [[Sessions/Session 15 - 2026-08-20]]
 
 ### Player Characters
 
@@ -216,6 +218,13 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Hammond Craddock]]
 - [[People/NPCs/Oren Fallow]]
 - [[People/NPCs/Amath Sercent]]
+- [[People/NPCs/Dalakhar]]
+- [[People/NPCs/Urstul Floxin]]
+- [[People/NPCs/Saeth Cromley]]
+- [[People/NPCs/Barnibus Blastwind]]
+- [[People/NPCs/Martem Trec]]
+- [[People/NPCs/Davin Crommor]]
+- [[People/NPCs/Bojentra Summertaen]]
 
 Verify spelling and table-specific details against transcripts before treating any page as stable.
 
@@ -236,6 +245,7 @@ Create pages under `Factions/`. Expected major pages:
 - [[Factions/Fellowship of Innkeepers]]
 - [[Factions/Order of the Gauntlet]]
 - [[Factions/Emerald Enclave]]
+- [[Factions/Watchful Order of Magists and Protectors]]
 
 ### Places
 
@@ -272,6 +282,7 @@ Create pages under `Places/`. Expected early pages:
 - [[Places/Deepwater Harbor]]
 - [[Places/Yellowspire]]
 - [[Places/The Sleeping Wench]]
+- [[Places/House of Inspired Hands]]
 
 ### Objects, Clues, and Obligations
 
@@ -306,6 +317,7 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Trollskull Hiring Applications]]
 - [[Objects/Zhent Runner Message Tube]]
 - [[Objects/Yellowspire Demand Note]]
+- [[Objects/Broken Necklace of Fireballs]]
 
 ### Timeline
 
@@ -328,8 +340,8 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Make a git commit for the completed initial wiki build.
-2. Run session 15 from [[Prep/Session Prep - 2026-08-20]].
-3. Ingest the Ches 22 Fireball aftermath and expand the Gralhund/nimblewright investigation prep as its own follow-up arc.
+2. Confirm whether session 16 rewinds any part of [[Sessions/Session 15 - 2026-08-20]] after the abbreviated session and Aladeen's absence.
+3. Expand the Gralhund/nimblewright investigation prep as its own follow-up arc once the Zord/Sea Maidens Fair direction is confirmed.
 4. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
 5. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.
 6. Expand structural Remix pages into more detailed prep cards as the party approaches Fireball, Gralhund Villa, and the Eye heists.

@@ -1,12 +1,13 @@
 ---
 type: place
 status: active
-updated: 2026-07-11
+updated: 2026-09-24
 source_paths:
   - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - place
@@ -39,9 +40,22 @@ The alley has lively evening foot traffic and a communal feel. People gather out
 
 The alley reacts quickly to danger. By the time the party returned from the Dock Ward, neighbors already knew something had happened. Fala and Tally checked on the group, offered practical help and drink, and shared neighborhood history. Vincent and Rishaal also proved useful, though in very different professional lanes.
 
+## Session 15 Fireball
+
+On Ches 22, a Fireball detonated in the middle of Trollskull Alley. It killed eleven people, including [[People/NPCs/Fala Lefaliir]], four halfling street musicians, and [[People/NPCs/Dalakhar]]. It also injured many bystanders, shattered Trollskull Manor's windows, damaged [[Places/Corellon's Crown]], and turned the alley into a Watch-controlled crime scene.
+
+Important witness/evidence points:
+
+- The blast appears to have targeted Dalakhar and the two men pursuing him.
+- A red-clad nimblewright threw the explosive bead from a rooftop, searched Dalakhar, and fled east.
+- [[People/NPCs/Martem Trec]] recovered the [[Objects/Broken Necklace of Fireballs]] near a rain barrel before giving it to Broethuul.
+- [[People/NPCs/Vincent Trench]] shielded the identity of a higher-class woman who witnessed the rooftop throw.
+- [[People/NPCs/Saeth Cromley]] and [[People/NPCs/Barnibus Blastwind]] took over the investigation after City Guard cordoned the alley.
+
 ## Sources
 
 - `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`

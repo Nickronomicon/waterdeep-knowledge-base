@@ -1,7 +1,7 @@
 ---
 type: npc
-status: active
-updated: 2026-07-11
+status: alive-injured
+updated: 2026-09-24
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -11,6 +11,8 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - npc
@@ -26,6 +28,7 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 
 - Living in Trollskull Manor with [[People/NPCs/Nat]] and [[People/NPCs/Jenks]] after the party gave them a spare room.
 - Wants to help with the manor and learn to fight.
+- Survived the Ches 22 Fireball after being trapped under burning cart debris; healed by [[People/PCs/Aladeen]] but still concussed and disoriented.
 
 ## Session 4
 
@@ -72,6 +75,20 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 - Returned later with scratches and bruises.
 - Saw the Cassalanter gold chest and took it as confirmation that adventuring pays.
 
+## Session 14
+
+- Burst into Trollskull with Jenks after Nat was kidnapped by flying-snake-marked men.
+- Helped explain the kidnapping and the black flying snake that led the children into danger.
+- Was overjoyed when Nat returned from Yellowspire.
+
+## Session 15
+
+- Was trapped under a burning cart and awning after the Fireball.
+- [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]] lifted the debris while [[People/PCs/Davy]], Nat, and Jenks pulled Squiddly out.
+- Aladeen used Healing Word to wake him.
+- He survived but remained confused and likely concussed.
+- Track whether he has lingering trauma from nearly dying and from watching Fala and other alley neighbors die.
+
 ## Sources
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
@@ -82,3 +99,5 @@ Squiddly is a skinny tiefling urchin with an eyepatch, a toy bow, and a great de
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`

@@ -9,7 +9,7 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
@@ -28,6 +28,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - pc
@@ -224,6 +225,16 @@ Cantrips:
 - Tied Oren up back at Trollskull with Davy's help before the Yellowspire exchange.
 - At [[Places/Yellowspire]], served as a front-line barrier, cast Shield of Faith and Divine Favor, forced open the basement teleportation-circle room, and took poison magic during the fight.
 
+## Session 15 Table-Facing Notes
+
+- Lifted burning cart wreckage so Davy, Nat, and Jenks could pull [[People/NPCs/Squiddly]] free.
+- Checked the basement and [[Places/Trollskull Smuggler's Passage]] for signs that someone used the passage during the blast; found nothing disturbed.
+- Helped treat Fireball victims in Trollskull's improvised triage.
+- Partly healed the badly burned man later identified as [[People/NPCs/Urstul Floxin]].
+- Physically forced Urstul back into a seat when he tried to leave, worsening his pain before later healing improved the burns.
+- Made the key Arcana connection that the attacker descriptions pointed to a nimblewright.
+- Suggested pursuing [[People/NPCs/Zardoz Zord]] through the Sea Maidens Fair because of the Luskan nimblewright connection.
+
 ## Background and Arc Notes
 
 Jonathan was born into House Eagleshield under signs interpreted as celestial blessing. He was raised to believe he was chosen and that he must prove worthy: law before leisure, justice before comfort, and the city as both inheritance and burden.
@@ -257,6 +268,8 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 
 ## Uncertainties
 

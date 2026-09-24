@@ -7,7 +7,7 @@ class: Bard
 subclass: College of Eloquence
 species: Human
 background: Entertainer
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
@@ -26,6 +26,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - pc
@@ -234,6 +235,15 @@ Cantrips:
 - Cast Suggestion on [[People/NPCs/Oren Fallow]] at [[Places/The Sleeping Wench]], forcing him to smile and follow Jonathan while the party recovered him.
 - Shot [[People/NPCs/Amath Sercent]] with a crossbow at [[Places/Yellowspire]], inspired Elior, mocked the infernal panther, and healed both allies and Nat.
 
+## Session 15 Table-Facing Notes
+
+Aladeen's player was absent for this abbreviated session, so these actions were lightly piloted and may be retconned or replayed in session 16.
+
+- Used Healing Word to revive [[People/NPCs/Squiddly]] after the party pulled him from burning debris.
+- Stayed with [[People/NPCs/Tally Fellbranch]] after Fala's death and tried, awkwardly, to console him.
+- Gathered witness information around the alley and returned with nimblewright-owner leads, including [[People/NPCs/Davin Crommor]] of House Crommor.
+- Helped smooth the party's inquiry at [[Places/Sea Maidens Fair]], where workers pointed them toward Captain Fergus.
+
 ## Background and Arc Notes
 
 Aladeen witnessed the public disaster now remembered as [[Threads/Crommor Incident|the Crommor Incident]]. He did not belong among the nobles gathered for Laeral Silverhand's ascension, but he was close enough to see Anastasia Crommor fall, hear the ceremonial bugle break, and hear her accuse Victoro Cassalanter.
@@ -248,6 +258,7 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - Track [[Threads/Aladeen and the Crommor Collapse|Aladeen's responsibility for the Crommor Collapse]] and whether he chooses to help the city hear a different version of the story.
 - Connect Aladeen's Waterdeep street upbringing to known neighborhoods, contacts, or rivals.
 - Determine whether House Crommor or its enemies still consider Aladeen useful, culpable, or dangerous.
+- Confirm with Aladeen's player whether the session 15 piloted choices stand, especially witness-gathering, the House Crommor lead, and the Sea Maidens Fair approach.
 
 ## Sources
 
@@ -267,6 +278,8 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 
 ## Uncertainties
 

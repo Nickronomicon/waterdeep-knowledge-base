@@ -7,7 +7,7 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
@@ -27,6 +27,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - pc
@@ -208,6 +209,17 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Struck [[People/NPCs/Oren Fallow]] as Oren fled but did not stop him.
 - Found [[People/NPCs/Nat]] upstairs, tried to negotiate with the hostage-holding acolyte, then killed the acolyte with a storm-lit rapier strike after Nat was stabbed.
 
+## Session 15 Table-Facing Notes
+
+- Scanned the Fireball scene for attackers or suspicious witnesses and identified the likely target cluster around [[People/NPCs/Dalakhar]].
+- Brought the dangerous-looking burned man later identified as [[People/NPCs/Urstul Floxin]] into Trollskull for healing rather than letting him leave.
+- Told [[People/NPCs/Lif]] that [[People/NPCs/Fala Lefaliir]] had died, triggering Lif's violent grief response.
+- Questioned a higher-class witness protected by [[People/NPCs/Vincent Trench]] and learned the attacker looked like a puppet-like wood-and-metal man on the rooftops.
+- Followed the rooftop trail with Elior and questioned [[People/NPCs/Martem Trec]].
+- Identified [[Objects/Broken Necklace of Fireballs]] and took it from Martem, then deceived him into omitting it from his Watch statement.
+- Hid the necklace in his room; it has two active fireball beads remaining.
+- Tried to intimidate and later feather-tickle Urstul before Cromley recognized and arrested him.
+
 ## Background and Arc Notes
 
 Broethuul emerged into Waterdeep through the harbor, near Umberlee's Cache, after fleeing the destruction of the Starfern keep. Since then, he has been aware of strange fate-currents around the harbor and the mortal city.
@@ -224,6 +236,7 @@ In session 12, the Amberleaf Dispatch reframed Broethuul's arrival as planted ra
 - How does the Order of the Faeslayer function in play, and what does it imply about Broethuul's enemies?
 - Why did Broethuul sense contractual distortion around the Crommor Incident, and does that connect to the Cassalanters?
 - Will Broethuul share the Amberleaf Dispatch, and can he find the wrong-water door again?
+- Will Broethuul reveal the hidden broken necklace of fireballs, and what happens if the Watch discovers he concealed evidence?
 
 ## Sources
 
@@ -244,6 +257,8 @@ In session 12, the Amberleaf Dispatch reframed Broethuul's arrival as planted ra
 - `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 
 ## Uncertainties
 

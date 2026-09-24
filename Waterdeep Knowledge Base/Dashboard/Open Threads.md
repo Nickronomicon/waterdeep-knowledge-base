@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -30,6 +30,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - Dashboard/Current Campaign State.md
   - Dashboard/Faction Clocks.md
   - ../raw/notes/handouts/s6-cargo-chit.md
@@ -49,13 +50,12 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 
 ### Hot Next Session
 
-- Open immediately on the Fireball aftermath outside [[Places/Trollskull Manor]] on Ches 22, 1492 DR.
-- Establish casualties, injuries, missing people, blast location, and what the PCs can see in the first seconds after the boom.
-- Preserve reveal boundaries until discovered: no automatic Dalakhar, Urstul, Stone, nimblewright, or faction explanation before the party earns it.
-- Handle emergency response: party triage, staff/urchin safety, Lif's reaction, neighbors, Watch arrival, and crowd panic.
-- Decide what Fireball damage does to Trollskull's newly installed windows and the first tenday business track in [[Dashboard/Trollskull Operations]].
+- Confirm whether session 16 continues from [[Places/Sea Maidens Fair]] or rewinds part of [[Sessions/Session 15 - 2026-08-20]] because session 15 was abbreviated and [[People/PCs/Aladeen]]'s player was absent.
+- If continuing, begin with Captain Fergus and the attempt to reach [[People/NPCs/Zardoz Zord]] about Luskan nimblewrights.
+- If rewinding, replay only the retcon-sensitive edges: Aladeen's social choices, Watch/evidence custody, and the decision to leave Trollskull for the Sea Maidens Fair.
+- Track Fireball aftermath already established: [[People/NPCs/Fala Lefaliir]] is dead, [[People/NPCs/Squiddly]] survived, [[People/NPCs/Dalakhar]] is dead and identified, [[People/NPCs/Urstul Floxin]] is in Watch custody, [[Objects/Broken Necklace of Fireballs]] is hidden by Broethuul, and Davy has Dalakhar's gemstone pouch.
+- Decide what Fireball damage does to Trollskull's windows, relief work, staff morale, and the first tenday business track in [[Dashboard/Trollskull Operations]].
 - Track fallout from [[Places/Yellowspire]]: [[People/NPCs/Amath Sercent]] escaped to report to Manshoon, [[People/NPCs/Oren Fallow]] escaped wounded, and [[Objects/Zhent Runner Message Tube]] remains with the party.
-- Decide whether to secure, monitor, or use [[Places/Trollskull Smuggler's Passage]] amid the new chaos.
 - Track whether [[People/PCs/Broethuul]] shares any part of [[Objects/The Amberleaf Dispatch]].
 
 ### Active Background Pressure
@@ -91,7 +91,7 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Threads/Floon Rescue]] | Whole party | Resolved as rescue; reward fallout active | Floon is alive; Volo offered Trollskull Manor instead of cash. |
 | [[Threads/Zhentarim-Xanathar Street War]] | Whole party | Active, visible | Underworld pressure, public violence, sewer hideout fallout. |
 | [[Threads/Neverember Cache and Renaer's Locket]] | Whole party, especially [[People/NPCs/Renaer Neverember]] | Active mystery | Dragon cache spine, locket compartment, magical paper. |
-| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Open as of Ches 19; Fireball damage pending | Current loan cash is 637 gp after repairs and opening-day accounting; windows just shattered from the Ches 22 blast; post hours, manage staff, secure the sewer passage, handle first-interest pressure, and use [[Dashboard/Trollskull Operations]] for tenday rolls. |
+| [[Places/Trollskull Manor]] / [[Objects/Trollskull Manor Deed]] / [[Objects/Cassalanter Loan]] | Whole party | Open as of Ches 19; Fireball damage active | Current loan cash is 637 gp after repairs and opening-day accounting; windows are shattered, front room served as Fireball triage, Fala's death has shaken the alley, and repairs/relief choices may affect the first tenday roll in [[Dashboard/Trollskull Operations]]. |
 | [[People/NPCs/Nihiloor]] and the portal pedestal | Whole party | Active mystery | Xanathar escalation, mind flayer escape route, eye-symbol technology. |
 | [[People/NPCs/Lif]] and the haunting | Whole party | Contacted, cooperative | Lif wants Trollskull restored, can clean/serve drinks, cannot leave the manor, and Fala is researching his limits. |
 | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | Whole party | Active rivalry | Frewn has used anti-ghost posters and a planted opening-day complaint; keep pressure petty, deniable, and long-tail. |
@@ -104,7 +104,7 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Factions/Cassalanters]] / [[Places/Cassalanter Villa]] | Whole party | Loan signed | [[Objects/Cassalanter Loan]] is active; first interest begins after opening. Track debt pressure, patron leverage, and Davy's private Cassalanter misgivings. |
 | [[Objects/Scrap of Note]] / Stone clue | Whole party | Active mystery | Decode X, Z, Lady B, R, "third eye," and how the note connects to the watcher/ambush. |
 | [[People/NPCs/Mr Jones]] and Castle Ward ambush | Whole party | Aftermath active | [[People/NPCs/Thugby]] was released/intimidated, reappeared with the Thomril arson crew, escaped, accidentally attended Trollskull's opening, and then claimed in session 14 that he was mostly staying clean. |
-| [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | Whole party, especially Elior | New social lead | Festival ships in port; Zardoz expects citywide attention. |
+| [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | Whole party, especially Elior | Active nimblewright lead | Party went to the Dock Ward to ask about Zord after identifying the Fireball attacker as a Luskan-style nimblewright; session 15 ended before speaking with Captain Fergus. |
 | [[People/NPCs/Maxeene]] / [[Places/Thomril & Sons Cartage]] | Whole party | Active consequence | Maxeene survived, her report reached Remallia, Thomril & Sons burned, the stablemaster is likely dead, and no Watch report is captured yet. |
 | [[People/NPCs/Davil Starsong]] / [[People/NPCs/Yagra Stonefist]] | Whole party | New faction lead | Maxeene overheard them discussing spies to locate Xanathar Guild hideouts; determine whether this cell is foe, ally, or separate Zhentarim splinter. |
 | Rock gnome Stone lead | Whole party | New mystery lead | Maxeene remembered a rock gnome following a lord's carriage and a well-dressed red-haired man while talking about a stone. |
@@ -120,7 +120,10 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Objects/The Amberleaf Dispatch]] | [[People/PCs/Broethuul]] | Revealed privately | Broethuul-only clue tying the wrong-water door, Starfern claim, Stone/Eye, Crommor horn, and House of Coin and Smile. |
 | [[Objects/Zhent Runner Message Tube]] | Whole party | Opened and retained | Message revealed the gnome/Stone/Neverember/Portal trail; currently retained by Elior after Yellowspire. |
 | [[Places/Yellowspire]] / [[People/NPCs/Amath Sercent]] / [[People/NPCs/Oren Fallow]] | Whole party | Active fallout | Nat rescued, but Amath escaped to report to Manshoon and Oren escaped wounded. |
-| Ches 22 Fireball | Whole party | Triggered; investigation not begun | Fireball has gone off outside Trollskull. Cause, casualties, Dalakhar, Stone, Urstul, nimblewright, and Watch procedure are unrevealed table truth. |
+| Ches 22 Fireball | Whole party | Active investigation | Eleven dead, including Fala and Dalakhar; red-clad nimblewright used a necklace of fireballs, searched Dalakhar, and fled east; Renaer identified Dalakhar; Urstul is in Watch custody; Stone theft remains inferred/DM-facing rather than directly revealed. |
+| [[Objects/Broken Necklace of Fireballs]] | [[People/PCs/Broethuul]] | Hidden evidence | Two live beads remain. Broethuul concealed it from Martem's Watch statement and hid it in his room. |
+| [[People/NPCs/Dalakhar]] / [[People/NPCs/Renaer Neverember]] | Whole party | Active mystery | Dalakhar came to Trollskull to meet Renaer with something valuable for Dagult Neverember, then was killed and searched by the nimblewright. |
+| [[People/NPCs/Davin Crommor]] / House Crommor nimblewright | Whole party, especially [[People/PCs/Davy]] | New lead | Aladeen's witness-gathering found House Crommor as a nimblewright owner lead; approach carefully because of Davy's secret identity. |
 
 ## Immediate Follow-Up
 
@@ -128,6 +131,6 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Create NPC pages for Anastasia Crommor, Davin Crommor, and relevant noble houses once they appear in session summaries.
 - Track [[Objects/The Crommor Warning]] as unrevealed to Davy until it enters play.
 - Track any player-facing reveal metadata when handout-derived facts become known outside their target audience.
-- Continue next play from mid-morning Ches 22, 1492 DR, immediately after the Fireball sensory cliffhanger.
-- Track Fireball casualties, the first crime-scene clues, Watch response, Trollskull damage, first regular tenday business result, staff routines, posted hours, Frewn's next petty move, Fala's Lif research, smuggler's-passage security, Yellowspire fallout, and whether Broethuul shares the Amberleaf Dispatch.
+- Continue next play from the Sea Maidens Fair endpoint unless the table rewinds session 15.
+- Track Captain Fergus/Zord, remaining nimblewright-owner leads, Watch custody of Urstul, Trollskull damage, first regular tenday business result, staff routines, posted hours, Frewn's next petty move, Fala's death/Corellon's Crown fallout, Lif's grief, smuggler's-passage security, Yellowspire fallout, and whether Broethuul shares the Amberleaf Dispatch or hidden necklace.
 - Use [[Dashboard/Current Campaign State]] and [[Dashboard/Faction Clocks]] as the starting point for weekly prep.

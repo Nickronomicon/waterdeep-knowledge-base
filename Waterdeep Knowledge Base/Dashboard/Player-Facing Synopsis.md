@@ -2,7 +2,7 @@
 type: dashboard
 status: active
 audience: players
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -20,6 +20,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -34,6 +35,7 @@ source_paths:
   - Sessions/Session 12 - 2026-07-09.md
   - Sessions/Session 13 - 2026-07-23.md
   - Sessions/Session 14 - 2026-08-06.md
+  - Sessions/Session 15 - 2026-08-20.md
 tags:
   - waterdeep
   - synopsis
@@ -521,3 +523,35 @@ Then the room went white.
 The windows shattered inward. The boom hit a heartbeat later. Everyone was thrown to the floor as a massive detonation rattled Trollskull Alley.
 
 And that is where we left it: Trollskull open, Nat home, the message still dangerous, and something outside powerful enough to turn a quiet morning into broken glass.
+
+## Session 15
+
+Broken glass was only the beginning.
+
+The party staggered out of Trollskull into smoke, screams, and a crater in the street. Corellon's Crown had taken a brutal hit. Tally and his apprentices were already clawing through the rubble, where only Fala's hand and sleeve could be seen. Across the way, Nat and Jenks were screaming Squiddly's name while trying to drag him from under burning cart wreckage.
+
+Priorities became very simple, very quickly.
+
+Jonathan lifted the burning cart. Davy and the children hauled Squiddly clear. Aladeen's magic dragged the little tiefling back into the world, bruised, concussed, and bewildered, but alive. Davy smothered the worst of the fire before it could spread. Elior blasted rubble away from Fala with a thunderwave, but healing magic found nothing left to heal. Fala Lefaliir was gone.
+
+Trollskull became a field hospital almost immediately. Ryba and the staff pulled the injured inside. The cooks boiled water and tore cloth for bandages. Patric ran for the Watch. Lif, trapped inside the manor, could only ask what had happened. When Broethuul told him Fala was dead, the chalk snapped, the board flew, the glasses rattled, and the bar went terribly still.
+
+The dead included Fala, four halfling street musicians, several servants, two rough-looking men, and a rock gnome near the center of the blast. That gnome mattered.
+
+Elior read the shape of the explosion and recognized Fireball magic, probably from above. Broethuul scanned the alley and picked out suspicious details through the chaos. The rock gnome seemed to have been running toward Trollskull with two dangerous men behind him. Someone had searched his body after the blast. Davy, while organizing the dead gnome's belongings with extremely selective civic spirit, pocketed a pouch of gemstones. Unfortunately, someone saw.
+
+Witnesses began filling in the rest. A woman speaking with Vincent Trench saw a man-sized puppet of wood and metal on the rooftops, dressed brightly, with a big hat and a carved beard. It threw something, and then the street exploded. A boy named Martem, hiding behind a rain barrel after watching his musician friends die, saw the same construct jump down, limp through the street, search the gnome, and flee. He also found the thing that had fallen nearby: a broken necklace of fireballs with two beads still on it. Broethuul identified it, took it, and quietly encouraged Martem not to mention that part to the Watch.
+
+The Watch arrived in force. Saeth Cromley took statements while Barnibus Blastwind followed the same magical trail Elior had already noticed. A badly burned man the party had pulled into Trollskull's triage tried very hard to leave. Jonathan strongly disagreed. The man claimed he was only shopping for books, but he had seen the mechanical attacker too. Cromley later recognized him as Urstul Floxin and had him taken away for questioning.
+
+Then Renaer arrived.
+
+He had not come because of the explosion. He had come because he was supposed to meet a gnome at Trollskull Manor. When he saw the body, he knew him: Dalakhar, an agent of Dagult Neverember. Dalakhar had once followed Renaer on Dagult's behalf, then vanished for weeks. Now he had sent word that he was carrying something valuable for Dagult, could not deliver it, and needed Renaer's help.
+
+The message from the Zhent tube suddenly sounded much less theoretical.
+
+Putting the witness accounts together, the party named the attacker: a nimblewright, a wood-and-metal automaton of the sort wealthy Waterdhavians have recently been buying as fashionable servants and guards. Leads surfaced quickly. The Temple of Gond had shown nimblewrights in a recent parade. A member of the Watchful Order owned one. House Crommor had bought one. And the design seemed Luskan, which brought one flamboyant name back onto the table: Zardoz Zord of the Sea Maidens Fair.
+
+So, with Trollskull Alley still under Watch control and the city counting its dead, the party followed the nimblewright trail to the Dock Ward. The Sea Maidens Fair was in full swing near the ships: stalls, performers, sailors, carnival noise, and enough spectacle to make tragedy feel briefly like it belonged to another ward. Zord's flagship, the Eyecatcher, sat out in the harbor, while the dockside ships and workers offered the next step: talk to Captain Fergus of the Hellraiser.
+
+And that is where we left it: Fala dead, Squiddly alive, Dalakhar named, a nimblewright on the run, evidence quietly pocketed, and the Skullduggers standing at the Sea Maidens Fair with questions for Zardoz Zord.

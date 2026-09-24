@@ -1,7 +1,7 @@
 ---
 type: npc
 status: active
-updated: 2026-07-25
+updated: 2026-09-24
 source_paths:
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -11,6 +11,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - npc
@@ -36,6 +37,7 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - When asked by chalkboard whether he can leave the manor, Lif indicated no.
 - During the grand opening, Lif became one of Trollskull's signature features, rapidly serving drinks, arranging mugs, and responding through chalkboard cues.
 - Customers still need an obvious ordering convention or sign explaining how to address an invisible bartender.
+- In session 15, Lif learned Fala died in the Fireball and reacted with violent grief, then went silent.
 
 ## Session 11 Seance
 
@@ -64,6 +66,14 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - Lif worked behind the bar with [[People/NPCs/Mosp]], serving drinks quickly and theatrically.
 - Lif tried to prevent Mosp from giving at least one customer a deeply questionable surprise drink.
 - [[People/NPCs/Rishaal the Page-Turner]] left a twine-wrapped booklet tagged "For Lif" on the bar.
+
+## Session 15 Developments
+
+- Lif was inside Trollskull during the Fireball because he cannot leave the manor.
+- His chalkboard had fallen off the wall; he righted it and asked what happened.
+- When Broethuul said Fala had died, Lif froze, snapped the chalk, threw the chalkboard across the room, rattled all the glasses and bottles in the front room, and then went still.
+- Broethuul suggested Lif might be able to talk to Fala now, but Lif gave no response.
+- Track whether Lif becomes withdrawn, angry, more protective, or newly focused on death and haunting after Fala's death.
 
 ## Session 10 Signs
 
@@ -101,6 +111,7 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - How much does Lif know about recent intrusions if he cannot always communicate?
 - What did Rishaal leave for Lif, and can it improve communication or service?
 - What customer-facing system will let patrons order from Lif without confusion?
+- What does Fala's death do to Lif emotionally and supernaturally?
 
 ## Sources
 
@@ -112,3 +123,4 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`

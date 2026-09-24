@@ -7,7 +7,7 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
@@ -28,6 +28,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - pc
@@ -207,6 +208,17 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Hid and fought from cover at [[Places/Yellowspire]], killing a Banite acolyte with a crossbow shot and later dropping the infernal panther.
 - Took a long shot at fleeing Oren as he escaped Yellowspire, wounding him but not stopping him.
 
+## Session 15 Table-Facing Notes
+
+- Helped Nat and Jenks pull [[People/NPCs/Squiddly]] from beneath burning cart debris after Jonathan lifted the cart.
+- Smothered the largest oil-fed fire in the alley.
+- Shook down [[People/NPCs/Emmet Frewn]] for information, but Frewn appeared to have only a minor scrape and no useful witness account.
+- Helped inspect the blast center and found the folded "Trollskull mid-morning" note among [[People/NPCs/Dalakhar|Dalakhar's]] loose belongings.
+- Took Dalakhar's pouch of five gemstones with a poor sleight-of-hand result; a civilian saw the theft.
+- Hid from the Watch after its arrival and rejoined the party conversation from the shadows.
+- Went with the party to [[Places/Sea Maidens Fair]] and bought grilled mackerel for 2 sp.
+- The Fireball investigation produced [[People/NPCs/Davin Crommor]] as a nimblewright-owner lead, creating a direct route toward Davy's private Crommor thread.
+
 ## Background and Arc Notes
 
 Davy is secretly Anastasia Crommor, daughter of House Crommor. During Laeral Silverhand's 1489 DR ascension ceremony, Anastasia was chosen to present a ceremonial bugle to the new Open Lord. She fell before reaching Laeral, the bugle broke, and she publicly accused Victoro Cassalanter of tripping her. Whether Cassalanter directly caused the fall remains intentionally complicated, but the public result was clear: Anastasia became the center of a scandal that helped ruin her house.
@@ -225,6 +237,8 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - Track Davy's current relationship to [[People/NPCs/Dorgar]], Myrkul, Kelemvor, Bonnie, and Threestrings now that Dorgar has entered table-facing play.
 - Connect Davy's tools and forgery/thievery profile to actual table behavior.
 - Decide when and how Aladeen, Jonathan, or Laeral might learn who Davy really is.
+- Track whether the bystander who saw Davy take Dalakhar's gemstones becomes a legal, blackmail, or reputation problem.
+- Track how Davy handles the Davin Crommor nimblewright lead.
 
 ## Sources
 
@@ -246,6 +260,8 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 
 ## Uncertainties
 

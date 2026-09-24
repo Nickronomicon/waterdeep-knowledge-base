@@ -1,9 +1,9 @@
 ---
 type: dashboard
 status: active
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
-  - Sessions/Session 14 - 2026-08-06.md
+  - Sessions/Session 15 - 2026-08-20.md
   - Dashboard/Current Campaign State.md
   - Prep/Session Prep - 2026-08-20.md
 tags:
@@ -14,20 +14,21 @@ tags:
 
 # Next Session
 
-Active prep: [[Prep/Session Prep - 2026-08-20]].
+Active prep: post-Session 15 follow-up from [[Prep/Session Prep - 2026-08-20]] and [[Sessions/Session 15 - 2026-08-20]].
 
-Next play begins on mid-morning Ches 22, 1492 DR, inside [[Places/Trollskull Manor]] immediately after the Fireball outside shattered the new windows and threw the party to the floor. No casualty count, cause, Dalakhar, Urstul, Stone, nimblewright, or Watch response has been revealed at the table yet.
+Next play probably begins around noon Ches 22, 1492 DR, at [[Places/Sea Maidens Fair]], with the party about to speak with Captain Fergus to reach [[People/NPCs/Zardoz Zord]] about Luskan nimblewrights. However, session 15 was abbreviated and [[People/PCs/Aladeen]]'s player was absent, so be ready to rewind part of the Fireball investigation if the table wants to replay it.
 
 ## Run Priorities
 
-- Save [[People/NPCs/Squiddly]] before his short rescue clock expires.
-- Recover [[People/NPCs/Fala Lefaliir]] and let their death reshape the alley.
-- Use the pre-Watch window for [[People/NPCs/Urstul Floxin]], Dalakhar, and immediate witnesses.
-- Bring in Barnibus Blastwind, Saeth Cromley, and [[People/NPCs/Renaer Neverember]].
-- Launch the Remix nimblewright investigation toward owners, Davin Crommor, and [[People/NPCs/Zardoz Zord]].
+- First five minutes out of character: confirm whether to keep the Sea Maidens Fair endpoint or rewind any Session 15 choices.
+- If continuing: run Captain Fergus, access to Zord or the Eyecatcher, and what the party asks about nimblewright sales.
+- If rewinding: focus only on retcon-sensitive pieces, not the whole rescue again.
+- Track hidden evidence: [[Objects/Broken Necklace of Fireballs]] with Broethuul and Dalakhar's gemstone pouch with Davy.
+- Track consequences of [[People/NPCs/Urstul Floxin]] being in Watch custody, not escaped.
+- Bring Fala's death, Lif's grief, Squiddly's trauma, and Trollskull repair/triage choices back onstage before the party gets too far from the alley.
 
 ## Sources
 
-- [[Sessions/Session 14 - 2026-08-06]]
+- [[Sessions/Session 15 - 2026-08-20]]
 - [[Dashboard/Current Campaign State]]
 - [[Prep/Session Prep - 2026-08-20]]

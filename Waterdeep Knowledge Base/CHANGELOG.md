@@ -15,6 +15,19 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-09-24] ingest | Session 15
+
+- Ingested [[Sessions/Session 15 - 2026-08-20]] from the session 15 transcript and session 15 prep, preserving the user's caveat that the session was abbreviated, [[People/PCs/Aladeen]]'s player was absent, and session 16 may rewind or replay parts of the endpoint.
+- Covered the Fireball rescue, [[People/NPCs/Squiddly]]'s survival, [[People/NPCs/Fala Lefaliir|Fala's]] death, [[People/NPCs/Lif|Lif's]] grief response, Trollskull triage, [[People/NPCs/Dalakhar]]'s identification by [[People/NPCs/Renaer Neverember]], [[People/NPCs/Urstul Floxin|Urstul's]] Watch custody, [[Objects/Broken Necklace of Fireballs]], [[People/PCs/Davy|Davy's]] gemstone theft, nimblewright owner leads, and the move to [[Places/Sea Maidens Fair]] to reach [[People/NPCs/Zardoz Zord]].
+- Created pages for [[Objects/Broken Necklace of Fireballs]], [[People/NPCs/Dalakhar]], [[People/NPCs/Urstul Floxin]], [[People/NPCs/Saeth Cromley]], [[People/NPCs/Barnibus Blastwind]], [[People/NPCs/Martem Trec]], [[People/NPCs/Davin Crommor]], [[People/NPCs/Bojentra Summertaen]], [[Places/House of Inspired Hands]], and [[Factions/Watchful Order of Magists and Protectors]].
+- Updated PC pages, [[People/NPCs/Fala Lefaliir]], [[People/NPCs/Squiddly]], [[People/NPCs/Lif]], [[People/NPCs/Renaer Neverember]], [[People/NPCs/Zardoz Zord]], [[Places/Trollskull Manor]], [[Places/Trollskull Alley]], [[Places/Sea Maidens Fair]], [[Factions/City Watch]], [[Factions/Bregan D'aerthe]], [[Threads/Great Game]], [[Objects/Zhent Runner Message Tube]], active dashboards, [[Timeline/Campaign Timeline]], [[Dashboard/Player-Facing Synopsis]], [[Meta/Raw Source Inventory]], [[Meta/DM Prep Source Map]], [[AGENTS]], and [[INDEX]].
+- Sources read included `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`, empty `../raw/json_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.json`, `../raw/notes/dm-planning/session-15/notes.md`, [[Prep/Session Prep - 2026-08-20]], recent dashboards, and affected entity pages.
+
+Follow-up:
+
+- Begin session 16 by confirming whether the table continues from Captain Fergus at the Sea Maidens Fair or rewinds part of session 15 for Aladeen's player.
+- Track hidden evidence and legal risk: Broethuul's necklace, Davy's gemstones, Urstul's custody, Fala's body/Corellon's Crown, Trollskull repairs/relief, Lif's grief, and the Zord/nimblewright trail.
+
 ## [2026-08-20] prep | Session 15 Fireball aftermath
 
 - Created [[Prep/Session Prep - 2026-08-20]] for the immediate Fireball rescue, Fala casualty, Squiddly rescue clock, Urstul/Dalakhar crime scene, Watch arrival, Renaer reveal, nimblewright owner investigation, Davin Crommor substitution, Zord decision, Dripping Dagger response-team contingency, and Cassalanter plea trigger.

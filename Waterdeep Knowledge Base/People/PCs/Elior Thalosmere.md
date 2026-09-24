@@ -7,7 +7,7 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Elior-level-3.pdf
@@ -28,6 +28,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - pc
@@ -235,6 +236,17 @@ Other listed magic:
 - Carried [[Objects/Zhent Runner Message Tube]] to [[Places/Yellowspire]] and still had the Zhent-stamped tube after the fight.
 - Badly injured [[People/NPCs/Amath Sercent]] with an empowered second-level Ice Knife, then was paralyzed by Hold Person and mauled by the infernal panther before being healed.
 
+## Session 15 Table-Facing Notes
+
+- Used Thunderwave to clear rubble from [[People/NPCs/Fala Lefaliir]] after pulling [[People/NPCs/Tally Fellbranch]] and the apprentices back.
+- Tried to heal Fala and realized there was no life left to receive it.
+- Identified the blast as Fireball magic, likely thrown or cast from an elevated position.
+- Investigated the blast center and concluded [[People/NPCs/Dalakhar]] had been running toward Trollskull while two thugs pursued him.
+- Found that Dalakhar's pockets had been searched after the explosion.
+- Climbed to the likely rooftop origin with Broethuul and helped trace the attacker's route.
+- Read the session 14 tube message back to [[People/NPCs/Renaer Neverember]], connecting the "gnome" to Dalakhar.
+- Spoke with Renaer about Dagult Neverember and why Dalakhar wanted the meeting.
+
 ## Background and Arc Notes
 
 Elior is at the Yawning Portal as field research for House Thalosmere, not by accident. His family monitors irregularities: strange magic, displaced prophecy, inconsistent souls, and political incidents that resolve too cleanly. His spinal scar is a diagnostic instrument as much as a divine mark.
@@ -273,6 +285,8 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
+- `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 
 ## Uncertainties
 

@@ -3,13 +3,14 @@ type: object
 status: opened-recovered
 revealed: true
 revealed_session: 14
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - Prep/Session Prep - 2026-07-23.md
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - ../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - object
@@ -33,6 +34,7 @@ Conditional player-facing handout prepared for session 13. The party recovered t
 - The party opened the tube in [[Sessions/Session 14 - 2026-08-06]], read the message aloud while Oren plugged his ears, and Davy resealed it with a visible paper corner still caught under the cap.
 - The party gave the tube back to Oren, then recovered it from him at [[Places/The Sleeping Wench]].
 - [[People/PCs/Elior Thalosmere]] still had the Zhentarim-stamped scroll tube and message after [[Places/Yellowspire]].
+- In session 15, Elior read the message back to [[People/NPCs/Renaer Neverember]], and Renaer agreed it now sounded like the gnome was [[People/NPCs/Dalakhar]].
 
 ## Ready-To-Post Handout
 
@@ -58,6 +60,7 @@ The message is written on a narrow strip of cheap paper, rolled tight enough to 
 - "The lord's son" is Renaer Neverember.
 - "A new house" can imply Trollskull Manor without proving anyone had already targeted it.
 - Session 14 table truth established that the message is now revealed to the party and has been discussed with Renaer and Floon.
+- Session 15 table truth connected the message to Dalakhar and the Fireball. The party has not yet directly confirmed the Stone was what the nimblewright took.
 - The transcript mangles one phrase as "old never-under chant"; keep "old Neverember channels" as the intended note text unless the table says otherwise.
 
 ## Sources
@@ -67,3 +70,4 @@ The message is written on a narrow strip of cheap paper, rolled tight enough to 
 - `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json`
 - `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
 - `../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`

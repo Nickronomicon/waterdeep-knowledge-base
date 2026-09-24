@@ -1,7 +1,7 @@
 ---
 type: meta
 status: active
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -36,6 +36,8 @@ source_paths:
   - ../raw/notes/dm-planning/session-14/outline.md
   - ../raw/notes/dm-planning/session-14/notes.md
   - ../raw/notes/dm-planning/session-15/notes.md
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
+  - ../raw/json_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.json
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
@@ -74,7 +76,7 @@ When a session transcript is processed, pair it with the row below. Promote only
 | 12 | `../raw/notes/dm-planning/session-12/outline.md`; `force-grey.md`; `../raw/notes/handouts/s12-the-amberleaf-dispatch.md`; transcript sources | Loan signing, renovation montage, possible smuggler's-passage combat, Force Grey bronze-dragon mission, Amberleaf handout. | Ingested into [[Sessions/Session 12 - 2026-07-09]]. Actual play resolved Fala/Lif, Underbough hiring, loan signing, renovation time skips, the Drowned Lantern fight, Zelifarn, Broethuul's Amberleaf Dispatch, and Frewn's counter-ad. Smuggler's-passage combat and Tissina Khyret did not enter transcript truth. |
 | 13 | `../raw/notes/dm-planning/session-13/outline.md`; `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`; `../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json`; [[Prep/Session Prep - 2026-07-23]]; [[Objects/Trollskull Hiring Applications]]; [[Objects/Zhent Runner Message Tube]] | Trollskull grand opening, guest list, two-phase opening structure, hiring/staffing choices, petty Frewn rumor/shill pressure, optional Zhentarim-Xanathar street-war interruption, and business-result rolls. | Ingested into [[Sessions/Session 13 - 2026-07-23]]. Actual play hired Lillian, Mosp, Ryba, and Patric; opened Trollskull on Ches 19; used Frewn's planted anti-ghost complaint; brought in Elra, Renaer, Floon, Volo, Threestrings, and a deniable silver raven; triggered the street-war fight; recovered but did not open the sealed tube; and brought Thugby upstairs. Fireball remains fixed for Ches 22. |
 | 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md`; `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`; `../raw/json_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.json`; [[Prep/Session Prep - 2026-08-06]]; [[Objects/Zhent Runner Message Tube]]; [[Objects/Yellowspire Demand Note]] | Opening-night fallout from Trollskull's grand opening, Zhent runner interrogation, Hustus Staget and Watch response, tube-opened Yellowspire retaliation, tube-unopened Harper monster contingency, and Ches 22 Fireball cliffhanger. | Ingested into [[Sessions/Session 14 - 2026-08-06]]. Actual play opened and revealed the tube, released and later recaptured Oren, resolved Thugby as a red herring with a Cragspear carriage lead, used Elra/Remallia support to find Oren, rescued Nat from Yellowspire, left Amath and Oren escaped, and ended on the Fireball sensory cliffhanger. |
-| 15 | `../raw/notes/dm-planning/session-15/notes.md`; [[Prep/Session Prep - 2026-08-20]]; Remix Parts 1, 5C, and 5D; original Chapter 3 support | Fireball rescue and casualty state, Urstul/Dalakhar crime scene, Watch and Renaer, nimblewright owner investigation, Davin Crommor substitution, Zord fork, Cassalanter trigger, and Dripping Dagger response-team contingency. | Prep ready; after play, distinguish actual casualties, evidence custody, owner leads, Crommor reveals, Zord knowledge, and Cassalanter contact from unused branches. |
+| 15 | `../raw/notes/dm-planning/session-15/notes.md`; `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`; `../raw/json_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.json`; [[Prep/Session Prep - 2026-08-20]]; Remix Parts 1, 5C, and 5D; original Chapter 3 support | Fireball rescue and casualty state, Urstul/Dalakhar crime scene, Watch and Renaer, nimblewright owner investigation, Davin Crommor substitution, Zord fork, Cassalanter trigger, and Dripping Dagger response-team contingency. | Ingested into [[Sessions/Session 15 - 2026-08-20]]. Actual play covered the immediate rescue, Fala's death, Squiddly's rescue, Trollskull triage, witness accounts, hidden necklace, Davy's gemstones, Renaer/Dalakhar, Urstul's arrest, nimblewright owner leads, and the Sea Maidens Fair approach to Captain Fergus. Cassalanter contact, Dripping Dagger, most owner follow-ups, and Gralhund trail remain unused. Endpoint may be rewound because the session was abbreviated and Aladeen's player was absent. |
 
 ## Major Prep Threads To Track
 

@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: active
-updated: 2026-08-20
+updated: 2026-09-24
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -17,6 +17,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - timeline
@@ -28,7 +29,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 
 ## Current Endpoint
 
-The latest ingested table state is mid-morning Ches 22, 1492 DR, immediately after the Fireball cliffhanger outside [[Places/Trollskull Manor]]. The party has not yet investigated the blast or learned casualties, cause, Dalakhar, Urstul, Stone, or nimblewright details.
+The latest ingested table state is around noon Ches 22, 1492 DR, at [[Places/Sea Maidens Fair]], where the party is about to seek [[People/NPCs/Zardoz Zord]] through Captain Fergus after identifying the Fireball attacker as a nimblewright. This endpoint is retcon-vulnerable because session 15 was abbreviated and [[People/PCs/Aladeen]]'s player was absent.
 
 ## Session Chronology
 
@@ -48,6 +49,7 @@ The latest ingested table state is mid-morning Ches 22, 1492 DR, immediately aft
 | [[Sessions/Session 12 - 2026-07-09]] | 2026-07-09 | Ches 6-16, 1492 DR | Party tells Fala about Lif, hires the Underboughs, signs the Cassalanter loan, renovates Trollskull through major time skips, completes a Gray Hands mission in Deepwater Harbor, meets Zelifarn, receives Broethuul's Amberleaf Dispatch, and ends three days before opening with Frewn counter-advertising. |
 | [[Sessions/Session 13 - 2026-07-23]] | 2026-07-23 | Ches 16-19, 1492 DR | Party hires Lillian, Mosp, Ryba, and Patric, opens Trollskull Manor as the Skullduggers on Ches 19, handles Frewn's planted anti-ghost complaint, receives opening guests and faction signals, defeats Xanathar-linked attackers pursuing a Zhentarim-adjacent runner, recovers an unopened sealed message tube, and ends with the runner and Thugby upstairs. |
 | [[Sessions/Session 14 - 2026-08-06]] | 2026-08-06 | Ches 19-22, 1492 DR | Party opens and reads the Zhent runner tube, handles Staget's Watch response with Elra nearby, questions and releases Thugby, releases then hunts down Oren Fallow, uses Remallia's paper bird, rescues Nat from Yellowspire, fights Banite Zhentarim and an infernal panther, loses Amath and Oren as escapees, returns to Trollskull, and ends as the Fireball detonates outside on Ches 22. |
+| [[Sessions/Session 15 - 2026-08-20]] | 2026-08-20 | Ches 22, 1492 DR | Party rescues Squiddly from burning debris, confirms Fala died in the blast, turns Trollskull into triage, identifies Dalakhar as the dead rock gnome coming to meet Renaer, learns a red-caped nimblewright used a necklace of fireballs and searched Dalakhar, sees Urstul Floxin arrested by Cromley, conceals the broken necklace and gemstone pouch, gathers nimblewright owner leads, and heads to the Sea Maidens Fair to reach Zardoz. |
 
 ## Date Anchors
 
@@ -58,6 +60,7 @@ The latest ingested table state is mid-morning Ches 22, 1492 DR, immediately aft
 - Session 12 begins on Ches 6, skips to Ches 12 for the harbor mission, and ends on the morning of Ches 16.
 - Session 13 covers final opening prep, skips to the grand opening on Ches 19, and ends that evening or night.
 - Session 14 begins around midnight after the Ches 19 opening, moves through Nat's kidnapping on Ches 20, Yellowspire at moonrise on Ches 21, and ends with the Fireball blast at mid-morning on Ches 22.
+- Session 15 begins immediately after the Ches 22 Fireball and reaches roughly noon the same day at the Sea Maidens Fair; this endpoint may be revised if session 16 rewinds.
 
 ## Open Chronology Questions
 
@@ -77,8 +80,10 @@ The latest ingested table state is mid-morning Ches 22, 1492 DR, immediately aft
 - Whether the opening-night gazer escaped after Davy's shot.
 - What Oren does after escaping Yellowspire badly wounded.
 - Where Amath's teleportation circle leads and what she reports to Manshoon.
-- How the Watch records the opening-night bodies outside Trollskull and the Fireball outside the same tavern three days later.
-- Who is dead, injured, or missing after the Ches 22 Fireball.
+- Whether session 16 keeps the Sea Maidens Fair endpoint or rewinds parts of session 15.
+- How the Watch records the opening-night bodies outside Trollskull and the Fireball outside the same tavern three days later, especially after arresting Urstul in Trollskull's triage room.
+- Whether the Watch later discovers Broethuul's hidden necklace evidence or Davy's gemstone theft.
+- Whether the Stone theft becomes table-confirmed through Renaer, Zord, Urstul, or later Gralhund investigation.
 
 ## Sources
 
@@ -96,3 +101,4 @@ The latest ingested table state is mid-morning Ches 22, 1492 DR, immediately aft
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`
 - `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`

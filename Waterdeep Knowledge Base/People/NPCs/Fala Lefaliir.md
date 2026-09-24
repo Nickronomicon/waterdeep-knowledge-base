@@ -1,7 +1,7 @@
 ---
 type: npc
-status: active
-updated: 2026-07-11
+status: dead
+updated: 2026-09-24
 source_paths:
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -9,6 +9,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
+  - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
 tags:
   - waterdeep
   - npc
@@ -21,13 +22,22 @@ Fala Lefaliir is the wood elf herbalist who runs [[Places/Corellon's Crown]] in 
 
 ## Current Role
 
-- Friendly neighbor to the party.
-- Wants Trollskull Manor restored because the whole alley is named after it and benefits from its revival.
-- Keeps aromatics, herbs, and potions.
+- Fala died in the Ches 22 Fireball aftermath when [[Places/Corellon's Crown]] collapsed onto them.
+- Before their death, Fala was a friendly neighbor to the party and a quiet support contact for medicine, herbs, and Lif research.
 - Confirmed in session 6 to have some magical ability, used practically and subtly.
 - In session 9, [[People/NPCs/Remallia Haventree]] gave the party [[Objects/Remallia's Fala Credit Note]], which they can show Fala if they need medicine and cannot pay immediately.
 - In session 11, [[People/NPCs/Lif]] told the party that Fala might know more about strengthening or understanding him, and asked them to tell Fala that Lif sends his regards.
 - In session 12, the party delivered Lif's message. Fala remembered Lif fondly, agreed to research his ghostly limits, and later helped Trollskull's renovation with herbs and a note for Lif.
+- In session 15, Elior cleared rubble from Fala with Thunderwave and tried healing them, but there was no life left to receive the magic.
+
+## Session 15 Death
+
+- Fala was found under collapsed masonry at Corellon's Crown after the Fireball.
+- [[People/NPCs/Tally Fellbranch]] and apprentices were digging for them when the party emerged from Trollskull.
+- Elior's Thunderwave moved the rubble but also tumbled Fala's body clear.
+- Healing magic confirmed Fala was already dead.
+- When [[People/NPCs/Lif]] learned Fala had died, he snapped the chalk, threw the chalkboard, rattled glassware throughout the bar, and went silent.
+- Corellon's Crown's current state, Fala's body arrangements, and who inherits or tends the shop remain unresolved.
 
 ## Session 4
 
@@ -73,3 +83,4 @@ Fala Lefaliir is the wood elf herbalist who runs [[Places/Corellon's Crown]] in 
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_11_2026-06-25_18-18-12.txt`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`
+- `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
