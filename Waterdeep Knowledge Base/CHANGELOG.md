@@ -15,6 +15,18 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-09-24] prep | Session 16 Aladeen rewind and response teams
+
+- Created [[Prep/Session Prep - 2026-09-24]] from `../raw/notes/dm-planning/session-16/notes.md`, focusing on an Aladeen spotlight replay of the Session 15 Fireball investigation, retcon boundaries, witness/NPC cards, and rejoining the party timeline.
+- Added branch prep for [[Places/Sea Maidens Fair]]/Captain Fergus, [[Places/House of Inspired Hands]], [[People/NPCs/Davin Crommor]], Dripping Dagger backtracking, and staying at [[Places/Trollskull Manor]].
+- Added a response-team/generic encounter menu for Xanathar watchers, Manshoon Zhent cleanup/extraction, Bregan soft intercept, Watch pressure, Trollskull opportunists, and Frewn social pressure.
+- Revised the Session 16 quick encounter menu into a Foundry loadout table with encounter compositions and map suggestions.
+- Updated [[Dashboard/Next Session]], [[INDEX]], [[Meta/DM Prep Source Map]], and [[Meta/Raw Source Inventory]].
+
+Follow-up:
+
+- After session 16, ingest which Session 15 facts changed: [[People/NPCs/Urstul Floxin|Urstul's]] custody or escape, [[Objects/Broken Necklace of Fireballs]] custody, Davy's gemstones, investigation direction, any response team deployed, and any Zord/Gralhund reveal.
+
 ## [2026-09-24] ingest | Session 15
 
 - Ingested [[Sessions/Session 15 - 2026-08-20]] from the session 15 transcript and session 15 prep, preserving the user's caveat that the session was abbreviated, [[People/PCs/Aladeen]]'s player was absent, and session 16 may rewind or replay parts of the endpoint.

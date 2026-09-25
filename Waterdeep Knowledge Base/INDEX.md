@@ -45,6 +45,7 @@ Core dashboards are active for weekly use. Add or revise prep-facing dashboards 
 - [[Prep/Session Prep - 2026-07-23]] - Session 13 Trollskull grand opening prep; used for the Ches 19 opening, with Fireball deferred to Ches 22.
 - [[Prep/Session Prep - 2026-08-06]] - Session 14 fallout prep; runner, Watch, tube branch, Yellowspire/Harper contingency, and Ches 22 Fireball cliffhanger.
 - [[Prep/Session Prep - 2026-08-20]] - Session 15 Fireball aftermath; Squiddly rescue, Fala casualty, crime scene, Watch/Renaer, nimblewright owners, Zord, and Dripping Dagger contingencies.
+- [[Prep/Session Prep - 2026-09-24]] - Session 16 Aladeen-focused rewind of Session 15 Fireball investigation, retcon boundaries, witness cards, branch leads, response teams, and generic encounter/map prep.
 
 ## Source Inventory
 
@@ -101,7 +102,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 - `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], [[Dashboard/Player-Facing Synopsis]], and [[Meta/DM Prep Source Map]].
 - `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
 - `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
-- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, and 15; scaffolded into session pages, prep pages, and [[Meta/DM Prep Source Map]].
+- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, and 16; scaffolded into session pages, prep pages, and [[Meta/DM Prep Source Map]].
 - `../raw/notes/handouts/` - record copies of session-0 backstory handouts, in-game clue handouts, and other player-facing documents.
 - See [[Meta/Raw Source Inventory]] for the detailed classified source map.
 

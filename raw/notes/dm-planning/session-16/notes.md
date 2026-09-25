@@ -1,0 +1,5 @@
+# Moving backwards a little bit
+This session starts out with Aladeen as the star of the show. We're going to rewind time and roleplay through his actions during the fireball investigation. We'll start after the scene is mostly stabilized: Squiddly is out from under the burning wreckage, Fala's fate is revealed. I'll take him through his investigation and who he talks to. I'm allowing a certain amount of retcon to take place, like potentially the fate of Urstul Floxin, or maybe their investigation direction not going directly to the Sea Maiden's Faire.
+
+# Getting back into it.
+We've been away from the table for a month now, due to other obligations. I want to get the party back into the swing of things, which obviously means encounter. That's kinda hard to set up ahead of time because I don't know which threads they will end up tugging. I need a few response teams ready and some generic Maps loaded up in foundry.

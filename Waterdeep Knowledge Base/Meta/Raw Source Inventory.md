@@ -10,15 +10,15 @@ tags:
 
 # Raw Source Inventory
 
-Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 15 planning notes and transcripts. Raw sources were read and classified only; no files under `../raw/` were edited.
+Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 16 planning notes. Raw sources were read and classified only; no files under `../raw/` were edited.
 
 ## Summary
 
-`../raw/` currently contains 221 files:
+`../raw/` currently contains 222 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 56 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 57 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
 | `.txt` | 14 | Text transcripts for Waterdeep sessions 2-15 |
 | `.json` | 14 | JSON transcripts for Waterdeep sessions 2-15 |
@@ -77,6 +77,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 13 | `../raw/notes/dm-planning/session-13/outline.md` | Used for [[Prep/Session Prep - 2026-07-23]] and ingested into [[Sessions/Session 13 - 2026-07-23]]. Actual play opened Trollskull on Ches 19, hired staff, used petty Frewn shill pressure, triggered the street-war interruption, recovered the sealed tube, and kept Fireball deferred to Ches 22. |
 | Session 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md` | Used for [[Prep/Session Prep - 2026-08-06]], [[Objects/Yellowspire Demand Note]], and [[Sessions/Session 14 - 2026-08-06]]. Actual play opened the tube, used Yellowspire retaliation, rescued Nat, and ended on the Ches 22 Fireball cliffhanger. |
 | Session 15 | `../raw/notes/dm-planning/session-15/notes.md` | Used for [[Prep/Session Prep - 2026-08-20]] and [[Sessions/Session 15 - 2026-08-20]]. Actual play covered the Fireball rescue, Fala's death, Squiddly's rescue, Dalakhar/Renaer reveal, Urstul's Watch custody, the nimblewright clue, and the Sea Maidens Fair endpoint; retcon-vulnerable because the session was abbreviated and Aladeen's player was absent. |
+| Session 16 | `../raw/notes/dm-planning/session-16/notes.md` | Used for [[Prep/Session Prep - 2026-09-24]]. Focuses on replaying session 15's Fireball investigation for Aladeen, retcon boundaries, response teams, and generic encounter/map prep. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 
