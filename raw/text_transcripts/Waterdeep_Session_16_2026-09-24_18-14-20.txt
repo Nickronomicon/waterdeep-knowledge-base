@@ -1,0 +1,2730 @@
+[SPEAKER_01]: recording is going so it's been a while since we've been here you and i yeah um don't know if it makes a difference but i did watch most of the last uh session quite recently
+[SPEAKER_04]: Like, just leading up to this.
+[SPEAKER_01]: Okay, okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Okay, so you know kind of where things were.
+[SPEAKER_01]: Yep, we did triage.
+[SPEAKER_01]: Yep.
+[SPEAKER_04]: Started doing investigations, following some clues.
+[SPEAKER_01]: Yes, so Squidly was saved.
+[SPEAKER_01]: Vala did not make it.
+[SPEAKER_04]: Lyft was all pissed off and hasn't come back yet.
+[SPEAKER_01]: Yep, so actually where I wanted to start...
+[SPEAKER_01]: we'll do a little bit of a time rewind here, and I want to see, like, how Aladin handles it, starting kind of right after the scene stabilizes.
+[SPEAKER_01]: So, like, uh... Um... Squidly's out, and conscious, and okay.
+[SPEAKER_01]: Still concussed, but gonna make it.
+[SPEAKER_01]: Elior has already thunder waved the rubble away, and we've discovered that Fala died in the initial explosion.
+[SPEAKER_01]: So it's chaos still, but kind of nothing immediately pressing, right?
+[SPEAKER_01]: Nobody's about to bleed out or burn to death.
+[SPEAKER_04]: Yeah.
+[SPEAKER_01]: So kind of, and I mentioned this before in the chat that like, we may end up retconning a little bit, because to be honest, I don't know that everybody even knows where we left off.
+[SPEAKER_01]: We'll see.
+[SPEAKER_01]: So the alley's in chaos.
+[SPEAKER_01]: uh there are injured people everywhere um troll school the front room is beginning to set up as a triage um because if you look at the alley map it's close to but a little sheltered away from from the blast um your windows are shattered but it doesn't appear to have caught fire or taken any damage there's actually very little fire
+[SPEAKER_01]: The explosion was more of a concussion than a fire.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: What else at a start?
+[SPEAKER_01]: Like I said, the streets full of smoke, broken glass, wounded neighbors.
+[SPEAKER_01]: The watch is on its way.
+[SPEAKER_01]: Not here yet.
+[SPEAKER_01]: And so...
+[SPEAKER_01]: Let's get some appropriate music for this, I think.
+[SPEAKER_02]: If I even have any.
+[SPEAKER_01]: My tension music sounds too much like pirates chasing each other.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Yeah, so it's the first kind of moment where you can look around and see what's going on.
+[SPEAKER_01]: Your other party members have split up a little bit to all start seeing what they can see.
+[SPEAKER_01]: It looks like Berthul and Elior are...
+[SPEAKER_01]: I think right now they're both climbing a wall to get a better vantage point.
+[SPEAKER_01]: Davy...
+[SPEAKER_01]: fucked off the way Davey does, just disappeared.
+[SPEAKER_01]: Jonathan ran downstairs to check the cellar, afraid that, you know, the action up top was prelude to an incursion from below.
+[SPEAKER_01]: Someone was talking to people as well.
+[SPEAKER_01]: Oh no, that's right, that's right.
+[SPEAKER_01]: Grothul's climbing and Elior hasn't climbed up there yet.
+[SPEAKER_01]: He's walking around bugging a few people and checking out the scene.
+[SPEAKER_01]: so that's what everyone else is doing what are you doing right now um so everything's like everyone that's hurt is like good like everyone that's been severely hurt has been either stabilized or is no longer with us okay
+[SPEAKER_01]: There are still many injured, I believe, we'll say, feels like a dozen right now.
+[SPEAKER_01]: I know what the total count is, but you probably don't at this point.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: So, yeah, I want to know what happened, and so I'm going to look for, like...
+[SPEAKER_04]: I guess I want to look for people to talk to, so I guess...
+[SPEAKER_04]: start with the perception of, like, who's around?
+[SPEAKER_04]: Particularly if there's anyone that's, like, alone?
+[SPEAKER_04]: Like, yeah, I just want to talk to people.
+[SPEAKER_01]: Please give me the first roll in, like, five weeks.
+[SPEAKER_01]: A perception check.
+[SPEAKER_05]: Okay.
+[SPEAKER_01]: Oh, oh, hang on.
+[SPEAKER_01]: Am I not logged in as the GM over here?
+[SPEAKER_01]: I couldn't see you roll.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: You did a private roll.
+[SPEAKER_01]: I can't actually see.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Why not?
+[SPEAKER_01]: Nope, still can't see it.
+[SPEAKER_01]: Give me one sec.
+[SPEAKER_01]: I let this instance sit and run for five minutes.
+[SPEAKER_04]: Oh, public roll.
+[SPEAKER_04]: OK, I got it.
+[SPEAKER_04]: I got it.
+[SPEAKER_01]: Oh, you got it?
+[SPEAKER_01]: OK.
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: That's better.
+[SPEAKER_01]: 11.
+[SPEAKER_01]: So, I mean, mostly you see your friends and neighbors, right?
+[SPEAKER_01]: Rashal is out here.
+[SPEAKER_01]: Rashal the Page-Turner, the dragonborn that owns the bookshop.
+[SPEAKER_01]: He is a ways away from the blast.
+[SPEAKER_01]: Sitting.
+[SPEAKER_01]: Doesn't appear injured, but appears quite dazed.
+[SPEAKER_01]: Of course, Froon is out and about and already running his mouth, because that's what he does.
+[SPEAKER_01]: Tali, you remember Tali was trying to dig Fala out of the rubble.
+[SPEAKER_01]: Now that Fala's body's been kind of pulled out, Tali is...
+[SPEAKER_01]: standing there, not doing much, but his hands keep balling into fists at his side.
+[SPEAKER_01]: Of course, the three children are there.
+[SPEAKER_01]: Nat, as quiet as ever, since she doesn't speak.
+[SPEAKER_01]: Squidly
+[SPEAKER_01]: quiet like never before because he's concussed and Jinx is talking enough, like fear talking, enough to make up the difference.
+[SPEAKER_01]: You see Tench, Vincent Tench, the PI, is standing outside of his shop with a kind of posh looking woman you've never seen before.
+[SPEAKER_01]: Let's see, with an 11.
+[SPEAKER_01]: there is a little boy kind of over by like there's a kind of a rain barrel over here uh he's kind of ducked down beside it crying uh and there is a guy you haven't seen before looks vaguely suspicious um but also looks pretty badly burned is um
+[SPEAKER_01]: on his way out of the alley all right so that's what you take in gotcha uh so i know some of the some of our party has already interacted with some of these folks do i play like i don't know what's happening there or yeah so so here here's the thing play it exactly how your character would
+[SPEAKER_01]: And if we end up kind of retconning everything, we will make it all, I'll make it all gel in the end.
+[SPEAKER_01]: It's fine.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Overall on the scene, I would obviously start with, I have an affliction for street rats.
+[SPEAKER_04]: So it's going to be one checking in on our kids, making sure that they're okay.
+[SPEAKER_04]: Then the kid by the rain barrel.
+[SPEAKER_04]: And then after that, it would either be,
+[SPEAKER_04]: the shady dude if he's not gone, followed by the P.I.
+[SPEAKER_04]: guy.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So, you've, kind of before this, you've already established that the kids are okay.
+[SPEAKER_01]: I mean, maybe in shock, probably very shook up, but physically, you know, you actually already, I think, cast Healing Word on Squidly.
+[SPEAKER_01]: And so he's probably the healthiest of anyone in the alley right now because I think he's only got four hit points to begin with.
+[SPEAKER_04]: I mean, I want to make, like, when I gave that order now, the order is to go talk to them and ask them what happened.
+[SPEAKER_04]: Like, what did they see?
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: So you're checking in with them.
+[SPEAKER_01]: Jinx is talking a mile a minute.
+[SPEAKER_01]: You know, he doesn't.
+[SPEAKER_01]: know what happened, but it was a big boom and couldn't believe it.
+[SPEAKER_01]: It's probably an attack.
+[SPEAKER_01]: It's probably the Red Wizards of Thay.
+[SPEAKER_01]: The Thayans have probably got together with Om and they're marching on us.
+[SPEAKER_01]: Or maybe it was a dragon.
+[SPEAKER_01]: It could have been a dragon.
+[SPEAKER_01]: Just throwing out wild theory after wild theory.
+[SPEAKER_01]: Squidly is gazed
+[SPEAKER_01]: concussed, actually.
+[SPEAKER_01]: His eyes are having a hard time kind of focusing.
+[SPEAKER_01]: But he does say that... Let's see.
+[SPEAKER_01]: What does Squidly remember?
+[SPEAKER_01]: He keeps saying something about...
+[SPEAKER_01]: He was wearing red.
+[SPEAKER_01]: He's wearing red.
+[SPEAKER_01]: He had something red on.
+[SPEAKER_01]: And I don't know.
+[SPEAKER_01]: You've been concussed before, right?
+[SPEAKER_04]: Yeah.
+[SPEAKER_01]: That weird fog and fixation, right?
+[SPEAKER_01]: He's obviously trying to say something, but he can't quite get his words out.
+[SPEAKER_01]: But he's very focused on somebody was wearing red.
+[SPEAKER_01]: Nat is kind of signing back and forth between them.
+[SPEAKER_01]: But Jinx is going too fast to translate, and Squidly's not much help there either.
+[SPEAKER_04]: OK. Yeah, the kids are obviously like, they have a bad memory.
+[SPEAKER_04]: I know my perception is that they're just, kids, OK, move on.
+[SPEAKER_04]: To the other kid by the rain barrel.
+[SPEAKER_04]: Like, first ask him if he's okay and then what he's seen.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: So the kid by the barrel, you come over and he's just absolutely bawling about his
+[SPEAKER_01]: friends any points and you see there are a few kind of twisted bodies in the street it it looks like the remains of a group of musicians some halflings that you remember had set up and were playing in the alley that morning they were busking basically
+[SPEAKER_01]: and the boy is sobbing over them, calling them his friends.
+[SPEAKER_04]: I will start the conversation just summarizing to move faster.
+[SPEAKER_04]: Sure.
+[SPEAKER_04]: Asking him who his friends were, how he knew them, you know,
+[SPEAKER_04]: Like, does he, like, basically I want to know, like, is he just some kid on the street?
+[SPEAKER_04]: Or does he have, like, a family or someone that can take care of him?
+[SPEAKER_04]: Like, whether it was his parents or what the deal is.
+[SPEAKER_04]: Like, I just want to make sure that, like, he's not an orphan now.
+[SPEAKER_01]: The boy's name is Marson.
+[SPEAKER_01]: When you mention his parents, he gets real scared.
+[SPEAKER_01]: Because he knows they're going to be worried.
+[SPEAKER_01]: But he is a North Ward citizen who was down here to watch the halflings perform.
+[SPEAKER_01]: His parents knew he was here, but they're not with him.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: I'm going to just encourage him to go to like, I see people walking into the tavern and like, we've got people obviously getting set up in there.
+[SPEAKER_01]: Yeah, your whole waitstaff has, most of your waitstaff has kind of jumped in and they're running a triage out of your program.
+[SPEAKER_04]: Yeah, so I'm going to tell them, like, hey, if you need help or whatever, go over there.
+[SPEAKER_04]: They'll help you out.
+[SPEAKER_04]: Tell them I sent you.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: But what about them?
+[SPEAKER_01]: And he points to the dead halflings again.
+[SPEAKER_04]: The Watch will be here soon to take care of them and help them.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So between talking to the kids and talking to Marsim, you look over to where you saw the kind of suspicious guy, and I hope my recollection holds up.
+[SPEAKER_01]: I believe Elior has confronted him at this point.
+[SPEAKER_01]: As he's trying to leave the alley, you see Elior is...
+[SPEAKER_01]: kind of blocking his his exit and talking to him uh yeah i'm gonna go back him up and see what he's learning uh he's not learning much the guy doesn't want to say anything but he is pretty obviously in a lot of pain um
+[SPEAKER_01]: It looks like the singed clothes are perhaps more than singed.
+[SPEAKER_01]: They might actually be burnt onto him at this point.
+[SPEAKER_01]: But Elior is convincing him to go back to the tavern, because that's where medical help's gonna come, and that they'll get him sorted.
+[SPEAKER_01]: The guy's a little dazed, but mostly with it.
+[SPEAKER_01]: And through his incredible force of personality, Elior convinces the man to head into Trollskull to wait for medical.
+[SPEAKER_04]: I'm going to trust the rest of the party to do their thing.
+[SPEAKER_04]: My priority is like,
+[SPEAKER_04]: talking to people before they leave and while everything's still fresh in their mind.
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: And so I'm going to go back to that PI guy.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Tench is standing outside his building, which I believe is this one.
+[SPEAKER_01]: Oh, right.
+[SPEAKER_01]: This map doesn't have all the interiors.
+[SPEAKER_01]: Sorry, it's one of these two.
+[SPEAKER_01]: This is Sproon's place, and this is Tench's office.
+[SPEAKER_04]: Okay, and this is our place over here, right?
+[SPEAKER_01]: And this is us over here.
+[SPEAKER_01]: Okay, yeah.
+[SPEAKER_01]: So Tench is standing out here, and he's quietly talking to the...
+[SPEAKER_01]: I described the woman as posh-looking, but she's not... She's trying not to be.
+[SPEAKER_01]: She's
+[SPEAKER_01]: she's dressing her version of down to be out here.
+[SPEAKER_01]: Um, kind of like, like she's slumming it a little bit, uh, or trying to, to fit in the way she thinks commoners look, dress and act, uh, which means she's only got like six pieces of very expensive jewelry on, uh, and, uh, only her cloak is made of, of the finest materials, uh,
+[SPEAKER_01]: her clothes are, uh, very new, um, but maybe more appropriate for what someone on the street would wear.
+[SPEAKER_01]: She's obviously never worn them before today.
+[SPEAKER_04]: Uh, gonna ask, uh, who's your friend here?
+[SPEAKER_01]: Uh, Tinch looks over at her and looks back, says, um,
+[SPEAKER_01]: This is a client.
+[SPEAKER_04]: I take the hint and just kind of move on to what I want.
+[SPEAKER_04]: And that is, what did you guys see around?
+[SPEAKER_04]: What did you see before it happened?
+[SPEAKER_04]: Or did you see what happened?
+[SPEAKER_01]: Tinch, a more measured man, kind of takes a deep breath and thinks for a moment.
+[SPEAKER_01]: And the woman just opens her mouth and starts going.
+[SPEAKER_01]: Talking about...
+[SPEAKER_01]: a crazy puppet on the roof, uh, threw something.
+[SPEAKER_01]: Then there was an explosion.
+[SPEAKER_01]: Then the puppet was gone.
+[SPEAKER_01]: Clearly we are under attack by puppets.
+[SPEAKER_04]: Can you describe the puppet?
+[SPEAKER_01]: Uh, and actually she, she can give a pretty oddly specific description.
+[SPEAKER_01]: Um,
+[SPEAKER_01]: She mentions that it was man-sized, looked to be carved of wood and metal, was wearing a red cloak.
+[SPEAKER_01]: And about that time, Tench adds in that it wasn't a puppet because there weren't any strings.
+[SPEAKER_01]: It had a hat, a very, very large hat.
+[SPEAKER_01]: white or at least a very bright color, carved beard, white clothes.
+[SPEAKER_01]: And it did throw something towards the street.
+[SPEAKER_01]: And after the explosion, it visited the blast site before fleeing east.
+[SPEAKER_04]: What did it do at the blast site?
+[SPEAKER_01]: Well, I couldn't see from here.
+[SPEAKER_01]: It looked like it bent over one of the bodies.
+[SPEAKER_01]: and then ran.
+[SPEAKER_04]: Can you point out which body?
+[SPEAKER_01]: And he points to the only dead gnome almost at the epicenter of the blast.
+[SPEAKER_04]: I'd go investigate that gnome then.
+[SPEAKER_01]: Davy is there looking over the body as well.
+[SPEAKER_01]: I would like you to give me another perception check.
+[SPEAKER_01]: Oh man, I have to look back on our logs.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Oh, that's a solid check.
+[SPEAKER_01]: And Hannah didn't roll that great.
+[SPEAKER_01]: You absolutely see Davey pocket a pouch of something.
+[SPEAKER_01]: He pulled it out
+[SPEAKER_01]: Took a look inside and then tried to quietly make it disappear and for the first time ever was not his usual graceful self.
+[SPEAKER_01]: Very obviously swiped something from the body.
+[SPEAKER_01]: You weren't the only one to notice.
+[SPEAKER_01]: Davey makes eye contact with a bystander a little ways away and like turns and moves.
+[SPEAKER_04]: I make a mental note of that, and I will follow up on that later.
+[SPEAKER_04]: So Davey left?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: As soon as Davey got spotted doing whatever he was doing, he put his head down and took off.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: Keeping up with my previous plan, I'm going to assume that I can
+[SPEAKER_04]: talk to Davey about what they found later.
+[SPEAKER_04]: I want to see who else is around that might have seen stuff.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Were you going to check out the body at all?
+[SPEAKER_04]: I mean, I want to go in that direction to see, but I'm going to assume that, like, yes, I would walk towards the body and see what's up.
+[SPEAKER_01]: It's a rock gnome.
+[SPEAKER_01]: It's not one that you recognize.
+[SPEAKER_01]: But you will recall there has been, throughout this campaign, noise about a gnome.
+[SPEAKER_01]: And I guess we'll mostly leave it at that.
+[SPEAKER_01]: The pockets have been rifled, for sure.
+[SPEAKER_01]: One of the pockets is inside out.
+[SPEAKER_01]: There's a few bits and pieces of personal belongings on the street there.
+[SPEAKER_01]: There are two other bodies next to him, not too far from him.
+[SPEAKER_01]: Human.
+[SPEAKER_01]: In real bad shape.
+[SPEAKER_01]: But you can make out flying snake tattoos on at least one of them.
+[SPEAKER_01]: Could be both, but the parts are kind of mixed together.
+[SPEAKER_04]: Gotcha.
+[SPEAKER_04]: How's that rock gnome's face look?
+[SPEAKER_01]: Pretty trashed, but identifiable to the point that you don't know him.
+[SPEAKER_01]: Yeah, can I take a look around as to who else is around in the alley now that I haven't talked to?
+[SPEAKER_01]: Yeah, and actually about this time, the watch is already cordoned off the street and you are hearing
+[SPEAKER_01]: the kind of larger procession of the guards showing up and specifically oh no I'm going to forget their names so Froon is still about and talking loudly about how this is probably all you guys fault this is probably more gang violence that
+[SPEAKER_01]: you obviously brought to the alley.
+[SPEAKER_01]: And into that enters, I want to say, Crowley and Blast Wind are their names.
+[SPEAKER_01]: I shouldn't have split this up between two different sheets of notes.
+[SPEAKER_01]: I have last week's and this week's.
+[SPEAKER_01]: Yes, so Seth Cromley appears to be the sergeant in charge.
+[SPEAKER_01]: Actually, sorry, you wouldn't know Cromley because you met the other guy.
+[SPEAKER_01]: He was the staget.
+[SPEAKER_01]: So there's a watch sergeant who's obviously in charge of the scene.
+[SPEAKER_01]: Part of the Watch attempting to establish order, making sure that people aren't messing with bodies, things like that, and beginning the process of collecting evidence.
+[SPEAKER_01]: With him is a... We'll say more studious type.
+[SPEAKER_01]: Some sort of book-learned individual, sage, sorcerer, mage.
+[SPEAKER_01]: Sorry, not sorcerer.
+[SPEAKER_01]: Wizard, something like that.
+[SPEAKER_01]: who is wearing the giant seal of the Order of Protectors and Magists, which is like the most official wizards of the city, appears to be along for the ride on this particular investigation.
+[SPEAKER_04]: And whereas- How does that relate to the Black Staff power or whatever?
+[SPEAKER_01]: They are two very separate entities.
+[SPEAKER_01]: and they don't always get along.
+[SPEAKER_01]: But they're part of the official city one, and the other one is just... Yeah, so if there was a magical arm of the Lords Alliance, it would be the Guild of Protectors and Magists.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: They...
+[SPEAKER_01]: Most likely, this guy would be like the equivalent of...
+[SPEAKER_01]: Local police calling in the feds, I guess?
+[SPEAKER_01]: He's going to be some sort of magical arcane investigator type.
+[SPEAKER_01]: Wait.
+[SPEAKER_01]: Might even have a picture of these guys.
+[SPEAKER_04]: I'm going to... Again, I just want to learn about what happened.
+[SPEAKER_04]: And so I'm going to...
+[SPEAKER_04]: go and like, not fake help, but like go and tend to people strategically near wherever they're talking and basically try to eavesdrop in on what they're learning and saying.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: So that, I flashed a picture for you.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: That is your investigative team right now.
+[SPEAKER_01]: So you are just kind of like wandering, listening, helping out where you can with your ears open.
+[SPEAKER_01]: Let's call this one investigation since you're kind of taking your time to do it.
+[SPEAKER_01]: Woof.
+[SPEAKER_01]: five total uh you are hearing some wild theories they might make for some like pretty good ballads and stories later but which of them are true right you've heard uh the wizards of fey possibly a dragon uh the uh under attack by um uh diabolical puppets um
+[SPEAKER_01]: an opening salvo from Neverwinter, and this is actually a civil war amongst the Lord's Alliance, and the Lord Nevermember's gonna come back and march on the city.
+[SPEAKER_01]: Like, crazy theories.
+[SPEAKER_01]: No way to pick out which ones are worth a damn.
+[SPEAKER_01]: But, even with a role like that, you are seeing some kind of
+[SPEAKER_01]: recurring themes it seems most people agree that there is some sort of puppetry involved um it's always either a mechanical man or a living puppet or something like that appears to be the culprit okay um
+[SPEAKER_04]: Is there...
+[SPEAKER_04]: I guess a couple of open questions.
+[SPEAKER_04]: So I've got a rough description of seemingly what did it.
+[SPEAKER_04]: It was some kind of explosion.
+[SPEAKER_04]: That rock gnome was definitely the target because multiple people have like rifled through that like,
+[SPEAKER_05]: Well, one of them was yours.
+[SPEAKER_04]: Yeah, one of them was Davey.
+[SPEAKER_04]: So, definitely the question is, who is the Rock Gnome?
+[SPEAKER_01]: And also the Zen Term are probably involved.
+[SPEAKER_01]: Judging by the tattoos, yeah.
+[SPEAKER_04]: Um...
+[SPEAKER_04]: What's the damage to our building, to the tavern, the manor?
+[SPEAKER_01]: The manor is in pretty good shape, actually.
+[SPEAKER_01]: If you look at the map, it's a waste from the crater.
+[SPEAKER_01]: Most of your ground floor windows are shattered, and the ones that aren't are cracked.
+[SPEAKER_01]: It looks like, for certain, you're going to have to replace some glass.
+[SPEAKER_01]: But the building itself seems pretty sturdy.
+[SPEAKER_01]: It's probably going to be okay.
+[SPEAKER_01]: I mean, you're not a mason or a playster, so... Yeah, no.
+[SPEAKER_04]: I mean, that corner right there closest to the blast is my window.
+[SPEAKER_01]: It's up, though, right?
+[SPEAKER_01]: You're on the second floor.
+[SPEAKER_04]: Yeah, I'm on the second floor.
+[SPEAKER_01]: Yeah, it's...
+[SPEAKER_01]: The second floor survived mostly unscathed.
+[SPEAKER_01]: It's almost as if there's a...
+[SPEAKER_01]: 30-foot radius on the Fireball spell.
+[SPEAKER_01]: Almost like that.
+[SPEAKER_04]: Can I get an update on, like, where's the rest of the party?
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: About this time, you notice that Elior has climbed... Actually...
+[SPEAKER_01]: Elior's on his way down, apparently having climbed up to the top of a building that Rathul was also on.
+[SPEAKER_01]: Uh, Rathul is talking to Martim.
+[SPEAKER_01]: Uh... Let's see, Elior's climbing back down.
+[SPEAKER_01]: Uh, Davy is who knows where.
+[SPEAKER_01]: Uh, and I believe at this point, Justice is, like, doing some, like, wandering help.
+[SPEAKER_01]: kind of in front of the tavern, like whoever needs what.
+[SPEAKER_05]: Okay.
+[SPEAKER_01]: I feel like I've gained as much information as I'm going to find.
+[SPEAKER_01]: So actually, it's shortly after the watch shows up and kind of establishes the scene...
+[SPEAKER_01]: Renaer makes his way through the cordon.
+[SPEAKER_01]: Kind of loudly protesting until they let him through.
+[SPEAKER_01]: Might have to name drop a little bit.
+[SPEAKER_01]: But you can see Renaer over by the tavern talking to the sergeant and Elior.
+[SPEAKER_04]: Yeah, I want to go here.
+[SPEAKER_04]: I want to share what I think I've picked up and...
+[SPEAKER_04]: Figure out what the hell Renair's doing here.
+[SPEAKER_01]: Okay, so as you walk up, you can hear Renair kind of finishing his talk.
+[SPEAKER_01]: I'm going to have to paraphrase because I don't remember exactly what I said.
+[SPEAKER_01]: Yes, he knows who the gnome is.
+[SPEAKER_01]: The gnome worked for his father, the Lord Neverrember.
+[SPEAKER_01]: And
+[SPEAKER_01]: Rhaenyra was on his way here to meet him.
+[SPEAKER_01]: At his request, no idea what it's about.
+[SPEAKER_04]: I would...
+[SPEAKER_04]: So this is literally just the last thing I listen to.
+[SPEAKER_04]: Yeah, I would follow Elior's line of, well, we gotta go talk to your dad now.
+[SPEAKER_05]: Mm-hmm.
+[SPEAKER_01]: uh planning immediately planning a trip to uh to neverwinter how far is it it's a couple weeks oh yeah maybe not uh how fast do water dragons move uh a lot quicker uh how long can you hold your breath
+[SPEAKER_01]: About as long as an underwater breathing spell.
+[SPEAKER_01]: Renair, he made a big deal about he'll stay here and do what he can, but he's not going to talk to his father.
+[SPEAKER_01]: And he had come here to basically tell Delacar as much that he has nothing to do with his father.
+[SPEAKER_01]: Yeah, okay.
+[SPEAKER_01]: He does point out that...
+[SPEAKER_01]: this gnome being an agent of the Neverrembor was an agent in this city.
+[SPEAKER_01]: As in, Dalekar didn't come from Neverwinter.
+[SPEAKER_01]: Dalekar's been here for a while.
+[SPEAKER_01]: He'd been following Rhaenyra around.
+[SPEAKER_04]: Yeah, I want to go cash in some checks at this point.
+[SPEAKER_04]: There's no point in having all these contacts without ever using them.
+[SPEAKER_04]: This is, I feel like, a serious incident in the city.
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: I'd want to go talk to our Blackstaff Wizard friends and be like, yo, portal me to, what is it, Neverwinter?
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: Portal me there.
+[SPEAKER_04]: I got some fucking people to talk to.
+[SPEAKER_01]: Well, that's the plan that I would propose to the team.
+[SPEAKER_01]: I see.
+[SPEAKER_01]: So, probably could.
+[SPEAKER_01]: The Blackstaff
+[SPEAKER_01]: Maybe, maybe not.
+[SPEAKER_01]: Would have teleportation circles to major cities, probably.
+[SPEAKER_01]: That is something that you could go ask them about.
+[SPEAKER_01]: But if it's also a major deal with the city, that is maybe not something they'd send you on.
+[SPEAKER_04]: Yeah, I guess I, I mean, we have information and I'd want to share with the black staff and be like, like either let us go and talk or if you're going to go send someone or you're going to get involved into this, then like, like read us in when you know what's up.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So is that where you're headed now or are you just proposing this to the, to Elior and Renninger?
+[SPEAKER_01]: Uh,
+[SPEAKER_04]: It's not a four-way split, but I know they go down to the docks or whatever the fuck.
+[SPEAKER_01]: No, they don't have to.
+[SPEAKER_01]: It's fine.
+[SPEAKER_01]: Yeah, no, I'm gonna... We can come together after this and decide what we're actually doing.
+[SPEAKER_04]: Yeah, I'd wanna...
+[SPEAKER_04]: I think our strongest bet is figuring out what's up with that rock gnome.
+[SPEAKER_04]: I know there's the whole nimble right thing, and I think that's probably worth checking out, too.
+[SPEAKER_04]: But rather than go chasing random stuff, I think I want to use our networks.
+[SPEAKER_04]: I want to go talk to the staff, loop them in on what's just happened and the clues and see what their stance is on all this and if they want to help or if they're putting resources towards it or where we can go from there.
+[SPEAKER_04]: I don't want to go chasing.
+[SPEAKER_04]: random shit.
+[SPEAKER_04]: We've got resources, I want to use them.
+[SPEAKER_01]: Our connections.
+[SPEAKER_01]: For sure.
+[SPEAKER_01]: So we start with the Blackstaff.
+[SPEAKER_01]: So it's not a long trip to the tower, which, like I said, you can take it upon yourself to kind of do that while the party is still figuring stuff out.
+[SPEAKER_01]: Well,
+[SPEAKER_04]: I wouldn't just go, I would, because there's a bunch of shit I don't know either.
+[SPEAKER_04]: Like, what was in that, like, something was in that, like, Davey took some shit from that rock gnome.
+[SPEAKER_04]: I'm guessing that they've sussed out other information, because, like, they weren't just cramming on roofs for no reason.
+[SPEAKER_01]: So, I would stick with them to find out.
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: Just, Brothel was totally climbing the roof for no reason.
+[SPEAKER_01]: Yeah, but Elior never would do work for no reason.
+[SPEAKER_01]: Also true.
+[SPEAKER_01]: Okay, we'll mark that down as a potential path when the group is back together.
+[SPEAKER_01]: Go talk to Blackstaff.
+[SPEAKER_01]: You do have other contacts as well, right?
+[SPEAKER_01]: You're in good with the Harpers.
+[SPEAKER_01]: Or at least on your way to in good with the Harpers.
+[SPEAKER_01]: You've done some work for them.
+[SPEAKER_04]: Yeah, by knowing the connection to Neverwinter, I'm a little bit more keen on the Blackstaff, but if the Blackstaff is not interested in what's going on here or isn't going to put resources towards it, then I'd go to the Harpers.
+[SPEAKER_01]: So keep in mind that the Blackstaff is a Waterdeep-focused faction, right?
+[SPEAKER_01]: The Blackstaff is there to keep Waterdeep safe.
+[SPEAKER_01]: The Harpers are a Sword Coast faction.
+[SPEAKER_01]: of which the Harpers and Waterdeep are essentially a cell.
+[SPEAKER_01]: So the Harpers are a network up and down the coast.
+[SPEAKER_01]: The Harpers would have people in Waterdeep as well, but they probably wouldn't have teleportation circles.
+[SPEAKER_04]: Yeah, but if I go to the Harpers, are they just going to be like, oh, we'll send a letter and then have to wait weeks?
+[SPEAKER_01]: I mean, if you go to the Harpers and they do anything, they would probably never tell you one way or another.
+[SPEAKER_01]: Okay, well, yeah.
+[SPEAKER_01]: I mean, it's how it operates, right?
+[SPEAKER_01]: It operates almost like terrorist cells.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Like as fucked up as that sounds.
+[SPEAKER_04]: Yeah, I get it.
+[SPEAKER_04]: No, like the Firefly cells in Last of Us or whatever.
+[SPEAKER_04]: Yeah, anyway.
+[SPEAKER_04]: So, yeah, start with the...
+[SPEAKER_04]: my suggestion of the group is going to be start with the harp start with the black staff um get them looped in see what they want to do uh if we're not happy with what's going on there then head over to the harpers okay uh let's see is there kind of anything else we need to take care of
+[SPEAKER_01]: Uh, did you want to speak with the Popo at all?
+[SPEAKER_04]: Uh, no, I mean, that was my tall tales.
+[SPEAKER_04]: I'm happy to get my information from like, I've listened in to what I can and I know I can get more information from the rest of the party.
+[SPEAKER_01]: Uh, okay.
+[SPEAKER_01]: Uh, all right.
+[SPEAKER_04]: So while they're talking to me, so.
+[SPEAKER_01]: I mean, they're working their way through and I'm sure they will get to you eventually.
+[SPEAKER_01]: Because they're going to talk to everyone who is here.
+[SPEAKER_04]: I mean, we were inside, so not much that I can share.
+[SPEAKER_04]: Sure.
+[SPEAKER_04]: And I'm not going to be forthcoming with anything that I've learned independently.
+[SPEAKER_01]: Because if we've learned anything, don't speak the kind of.
+[SPEAKER_01]: Um,
+[SPEAKER_04]: I'm going to tell them that I saw a, like, if it was an automaton, I'm going to tell them I saw, like, the exact opposite.
+[SPEAKER_01]: Are you really?
+[SPEAKER_04]: If they talk to me.
+[SPEAKER_01]: So, you are going to have your turn in the barrel, so we can get that out of the way right now.
+[SPEAKER_01]: The sergeant introduces himself as Saith Cromley.
+[SPEAKER_01]: Um...
+[SPEAKER_01]: He wants to get a statement.
+[SPEAKER_01]: So what do you tell him?
+[SPEAKER_04]: We saw the... We saw the snake...
+[SPEAKER_04]: I saw the snake tattoos on those guys, right?
+[SPEAKER_04]: Next to the rock gnome?
+[SPEAKER_04]: The snake... Are they the ones with the floating eyes?
+[SPEAKER_04]: No.
+[SPEAKER_01]: Nope.
+[SPEAKER_01]: That would be the other faction.
+[SPEAKER_01]: The snakes are the Zenturum.
+[SPEAKER_01]: The floating eyes are Xanathar's Guild.
+[SPEAKER_01]: Do they have any kind of creatures or...
+[SPEAKER_01]: Zentrum?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I mean, they use flying snakes usually as messengers.
+[SPEAKER_01]: A flying snake is how you got the letter to know to go rescue Nat a bunch of sessions back.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_05]: Yeah, no.
+[SPEAKER_04]: I was inside, didn't see anything.
+[SPEAKER_04]: Came out and started helping people.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Which is not untrue.
+[SPEAKER_01]: So don't roll deception.
+[SPEAKER_01]: Roll persuasion.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Weird.
+[SPEAKER_01]: The bard can persuade.
+[SPEAKER_01]: Kralmi takes down the info in his little book along with everyone else and thanks you for your time and moves along.
+[SPEAKER_04]: I'm going to ask him before he leaves.
+[SPEAKER_04]: I'm going to try to persuade him to tell me what he's learned so far.
+[SPEAKER_01]: Well, that's a much harder check.
+[SPEAKER_01]: Please go ahead and roll persuasion again.
+[SPEAKER_01]: For a total of... 19 total!
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: Crumbly snaps his book shut and says, our findings will come out in due time.
+[SPEAKER_01]: Odds are you'll hear about it in the broadsheets before we make an official announcement.
+[SPEAKER_01]: What I want you to know, not to worry.
+[SPEAKER_01]: You'll be safe here.
+[SPEAKER_01]: We're going to take care of this.
+[SPEAKER_01]: You don't have to worry about your establishment or your home.
+[SPEAKER_01]: We're keeping a good eye on things.
+[SPEAKER_01]: The man will give you nothing.
+[SPEAKER_02]: Brush it off and go back to the party.
+[SPEAKER_01]: By the way, that persuasion check wasn't to get information from him.
+[SPEAKER_01]: That was to not make him suspicious of you.
+[SPEAKER_01]: because you just asked like a lead investigator about his case okay uh all right i think that about catches everything uh give me one more investigation check for like the second round of listening in on folks while we're waiting that's better uh 13 for a what's total 15
+[SPEAKER_01]: uh okay this this starts to unlock some more you're starting to hear some kind of themes emerging right uh you already had the the kind of puppet theme which at this point if you've talked to the rest of the group i think between some arcana checks we've we've narrowed it down to this is a nimble right uh they've been seen around the city um so you're pretty sure it was a nimble right
+[SPEAKER_01]: You seem to have a decent description to go on, right?
+[SPEAKER_01]: Tenshi's description was pretty dead on.
+[SPEAKER_01]: Red cape, big hat, carved beard.
+[SPEAKER_01]: Dressed rather brightly.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: What else?
+[SPEAKER_01]: People were talking about where they had seen other nimble rights like that.
+[SPEAKER_01]: Oh, no.
+[SPEAKER_01]: Now I need to see...
+[SPEAKER_01]: I rolled on a table last time and gave away, like, three locations of nimble rights, and I want to use the same ones.
+[SPEAKER_04]: That's fine.
+[SPEAKER_04]: I'm under the perception that I'm going to assume that they're quite expensive.
+[SPEAKER_01]: They should be.
+[SPEAKER_01]: And that there have been so many in the city is weird.
+[SPEAKER_01]: Because, like...
+[SPEAKER_01]: It appears the nobles are buying them up like they're the next coolest thing.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: So on top of the other clues folks got last time, where is my session?
+[SPEAKER_04]: You mentioned four different nobles or groups or thing.
+[SPEAKER_04]: Are any of those groups have a flag or symbolism that are red?
+[SPEAKER_05]: Red.
+[SPEAKER_01]: I actually don't know.
+[SPEAKER_01]: Let me look real quick.
+[SPEAKER_01]: Watchful Order of Magus and Protectors.
+[SPEAKER_01]: I remember...
+[SPEAKER_01]: kind of what their symbol looks like, but I don't remember if there were colors.
+[SPEAKER_01]: No.
+[SPEAKER_01]: There's nothing that specifically would tie the color red to the watchful order.
+[SPEAKER_01]: Because Bajentra Summertain is a member of the Order.
+[SPEAKER_01]: It was mentioned that she had one.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: House of Cromer.
+[SPEAKER_01]: House of Cromer, which you obviously know.
+[SPEAKER_01]: They helped make you famous.
+[SPEAKER_01]: It's not strong, but their crest has a red component.
+[SPEAKER_05]: Here, I'll drop it in handouts if I can find my handouts channel.
+[SPEAKER_01]: So like I said, it's got a red component, but it's not specifically red.
+[SPEAKER_01]: The other one you heard mentioned had them is the Temple of Gond.
+[SPEAKER_01]: They put on the parade.
+[SPEAKER_01]: They had nimble rights in the parade of Salune's chalice, which had just happened a few days ago.
+[SPEAKER_01]: Gond.
+[SPEAKER_01]: uh specifically the temples the uh the name of the temple of gond in water deep is the house of inspired hands and i don't have any info on like what colors or anything like i don't yeah that's fine i'm
+[SPEAKER_01]: If any of them had... Mostly blue.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And then the last one was because Elior recognized that it was of Luskan make.
+[SPEAKER_01]: The only Luskan that you really knew.
+[SPEAKER_05]: Oh, wait.
+[SPEAKER_01]: Someone else you ran into...
+[SPEAKER_01]: recently an NPC you ran into was also from the north but since I can't remember it obviously you can't remember it the only one that really stands out is Zardoz Zord whom you met at the opera when you went there to meet Mert he was there with a semi-famous actress on his arm flamboyant sea captain
+[SPEAKER_01]: he's got a flotilla currently in the harbor.
+[SPEAKER_04]: Yeah, if that's the case, then it's... Yeah, here's our resources.
+[SPEAKER_04]: So, Blackstaff, then Harpers.
+[SPEAKER_04]: Because if these things are, if every noble family's got one, trying to chase those down, I think, is going to be not productive.
+[SPEAKER_05]: Uh...
+[SPEAKER_01]: Only, I wouldn't say it's every noble family, but a lot of them.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Enough that it's too much to go door to door asking.
+[SPEAKER_05]: We're not in position to do that anyway.
+[SPEAKER_02]: The, what is it?
+[SPEAKER_01]: The Harpers or the staff can do a much better job.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Also, I'm assuming that I found out about the fireball necklace.
+[SPEAKER_01]: I don't know, Brothul.
+[SPEAKER_01]: Did you find out about the fireball necklace that you, I believe, have hidden in your room right now?
+[SPEAKER_02]: I mean, I've neglected to tell anybody about it.
+[SPEAKER_01]: That's what I thought.
+[SPEAKER_01]: If that's the case, then we don't have jack shit.
+[SPEAKER_01]: In which case... You know, what you know is that it was a Nimblewright
+[SPEAKER_01]: the blast was a fireball.
+[SPEAKER_01]: You don't know anything about a necklace.
+[SPEAKER_01]: But Elior was able to discern that via Arcana.
+[SPEAKER_01]: You know that there is a rock gnome that worked for Rhaenyra's father was coming to meet him about something.
+[SPEAKER_01]: uh you kind of made more sense of the note that was in this interim case um through elior talking to renair uh if you remember the note i think it's still in handouts yeah i remember i yep earlier read the whole thing and yeah yep yep uh sure seems like the gnome they're talking about is that was not dead now is yep um
+[SPEAKER_01]: Nobody's put together who D and Y are yet.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: What else?
+[SPEAKER_01]: Before Veneer leaves, I would have asked him, how's the new digs looking?
+[SPEAKER_01]: How's the new digs looking?
+[SPEAKER_04]: Yeah, because he got a new place, right?
+[SPEAKER_04]: Isn't that what he talked about?
+[SPEAKER_04]: No.
+[SPEAKER_01]: The note said it looks like he has a new house, and he was confused the first time.
+[SPEAKER_01]: you told him that?
+[SPEAKER_01]: Because he didn't.
+[SPEAKER_01]: He's been staying in the same townhome that he's been in for years at this point.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: That makes me suspicious of Rene because I'm like, where else have you been going?
+[SPEAKER_04]: And someone else thinks it's a new house.
+[SPEAKER_04]: So is he seeing a new lady?
+[SPEAKER_01]: The rest of your team also asked about this.
+[SPEAKER_01]: And thought that maybe it's because he's been coming here for drinks instead of to the portal.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: House isn't necessarily house.
+[SPEAKER_04]: Got it?
+[SPEAKER_01]: Right.
+[SPEAKER_01]: It's called a pub because it's short for public house.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: I think...
+[SPEAKER_01]: I think that is mostly you caught up.
+[SPEAKER_01]: Hi, everybody.
+[SPEAKER_01]: I see you've all kind of trickled back in.
+[SPEAKER_01]: Oh, Dane's not here.
+[SPEAKER_01]: Is Dane coming?
+[SPEAKER_02]: He did not post anything for or against, so he may need a reminder.
+[SPEAKER_02]: I would guess no at this point, considering what he's been doing, but
+[SPEAKER_05]: Well, we'll see if he pops in while we do this.
+[SPEAKER_01]: So I don't know how much of that you all picked up, but we just kind of recapped all the clues you had so far.
+[SPEAKER_01]: I believe last time you were headed down
+[SPEAKER_01]: A bunch of you guys wanted to go down to the docks to try and look up Zardoz because he is also from Luskan, which is where these nimble rites appear to be made.
+[SPEAKER_01]: Aladin is suggesting that first you go to the Blackstaff Tower and maybe update Vajra Safar or hopefully have her update you.
+[SPEAKER_01]: on why someone lit off a fireball in your alley, and then possibly get in touch with Romalia Havantry, your Harper contact, about can they do something, should they do something.
+[SPEAKER_01]: At some point my music died.
+[SPEAKER_01]: so does anyone need any more recap from two lifetimes ago the last time we were all here so yeah there was big fireball big fireball we saved a bunch of people there was some interrogation with that one guy
+[SPEAKER_01]: Yep, a little bit.
+[SPEAKER_01]: Up until he got arrested.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Bala Lafalier died.
+[SPEAKER_01]: Lith went all poltergeist, shook the house, and then went silent.
+[SPEAKER_01]: Your kids are safe.
+[SPEAKER_00]: Right, right, yeah, you almost killed a kid.
+[SPEAKER_01]: It was up to you.
+[SPEAKER_01]: It was entirely in your hands.
+[SPEAKER_01]: You did well.
+[SPEAKER_02]: Oh, right.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Good thing it wasn't like a combat role, or, you know, he'd be dead right now.
+[SPEAKER_00]: And then, yeah, so we were...
+[SPEAKER_00]: We were going to investigate...
+[SPEAKER_00]: I think you just said this part.
+[SPEAKER_00]: I'm sorry.
+[SPEAKER_01]: Last time you decided that since you recognized that the nimble rights around town were of Luskan make, that the only person you knew in town from Luskan was a ship captain that you had met a few days... a few ten days before...
+[SPEAKER_01]: at the opera when you met Mert.
+[SPEAKER_01]: He introduced himself.
+[SPEAKER_00]: Okay, yeah.
+[SPEAKER_00]: I remember everything now.
+[SPEAKER_00]: Thank you.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Also, Froon is busy talking shit to anyone who will listen that this is clearly your fault.
+[SPEAKER_01]: You're the problem.
+[SPEAKER_01]: you should be excommunicated from the alley.
+[SPEAKER_01]: He is loudly explaining this to Barnabas Blastwind, the investigative mage who is checking out the crime scene.
+[SPEAKER_04]: As we're walking to wherever we're walking, I'm going to very loudly...
+[SPEAKER_04]: talk about how I've definitely seen those two dead goons drinking beer, the ones with the snake tattoos, drinking beers at Froon's place regularly.
+[SPEAKER_01]: Loudly?
+[SPEAKER_01]: To the street in general?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: One might say performatively?
+[SPEAKER_04]: Yeah.
+[SPEAKER_01]: Give me a performance check.
+[SPEAKER_04]: No, it's a deception.
+[SPEAKER_01]: I think this one's performance.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Besides, it's in your wheelhouse, because, I mean, you're a bard.
+[SPEAKER_01]: What was the total?
+[SPEAKER_01]: Fifteen.
+[SPEAKER_01]: Fifteen?
+[SPEAKER_01]: Oh, because, yeah, you only have a plus five to performance.
+[SPEAKER_05]: Yeah.
+[SPEAKER_01]: Okay, let's see.
+[SPEAKER_01]: What is the DC on that?
+[SPEAKER_01]: I wrote something down.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: you definitely uh a few people like start like muttering to themselves right about Froon um and you you definitely kind of like catch Barnabas's attention like it listen he he moves away from Froon talking in his ear like looks at you kind of nods and writes something in his book
+[SPEAKER_01]: um prune also notices this and appears to be kind of pissed off and is just even laying it on thicker than ever uh and you can see that uh the mage is kind of like like trying to like shoe a fly right he's trying to work and this loudmouth bartender keeps yapping in his ear
+[SPEAKER_01]: OK.
+[SPEAKER_01]: So do you guys want to go straight to the harbor?
+[SPEAKER_01]: Do you want to go to the harbor via Blackstaff Tower?
+[SPEAKER_01]: This is our chance to kind of, well, it doesn't help when one comes back and the other disappears.
+[SPEAKER_01]: Yeah, I have no idea what you're talking about.
+[SPEAKER_01]: He didn't respond or anything.
+[SPEAKER_01]: That's fine.
+[SPEAKER_01]: If he's taking care of business, I'd rather him do that.
+[SPEAKER_02]: What was your question?
+[SPEAKER_02]: So what would we want to actually do then?
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: So Aladin suggested that you kind of call in some of your contacts right now, which you could go and do that first and then still go to the harbor to talk to the ship captain.
+[SPEAKER_01]: Or you can go to Blackstaff Tower, find some way to get in touch with Rumalia Hoventry and get the Harpers involved too.
+[SPEAKER_01]: What's everyone's opinion on how to play this?
+[SPEAKER_03]: I think Black Death Tower makes sense.
+[SPEAKER_03]: I feel like we have a better chance at a lead there.
+[SPEAKER_03]: I don't know if this ship captain
+[SPEAKER_03]: Do we know if he has anything to do with, like, artificing, or is it just like, oh, you're from this small town, do you know this guy?
+[SPEAKER_01]: All you know about him is that he's a big flashy ship captain who said he was in from Luskan.
+[SPEAKER_01]: Yeah, I mean, I do think that's a weird word.
+[SPEAKER_03]: Okay, following in that case.
+[SPEAKER_03]: But yeah, I think the Blackstaff Tower makes sense as a place to start.
+[SPEAKER_02]: Yeah, that sounds good to me.
+[SPEAKER_02]: I'll send it.
+[SPEAKER_02]: Anyone else?
+[SPEAKER_02]: Yeah, happy to go there.
+[SPEAKER_02]: For selfish reasons.
+[SPEAKER_02]: Selfish reasons.
+[SPEAKER_02]: I don't know about that.
+[SPEAKER_02]: I don't know about that at all.
+[SPEAKER_02]: You need to pay more attention to who I've been talking to in Rabar.
+[SPEAKER_04]: Uh-huh.
+[SPEAKER_04]: That's fair.
+[SPEAKER_04]: What time of the day is it?
+[SPEAKER_01]: At this point...
+[SPEAKER_01]: noon-ish.
+[SPEAKER_01]: Uh, so, I mean, this was, like, mid to late morning when the fireball lit off, and, like, a lot happened, but it was all in a pretty compact period of time.
+[SPEAKER_01]: Uh, it took at most 30 minutes for Watch to completely lock down the scene, which, you know, before the era of cars and cell phones is ridiculously fast.
+[SPEAKER_04]: I'm gonna...
+[SPEAKER_04]: Say we cut through the market and also just grab a bite on the go.
+[SPEAKER_01]: For sure.
+[SPEAKER_01]: For sure.
+[SPEAKER_01]: Gotta keep your energy up.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So...
+[SPEAKER_01]: Sorry, I had like seven different scenarios and oddly enough, Blackstaff wasn't one of them today.
+[SPEAKER_04]: But that... You're lucky that the...
+[SPEAKER_01]: the watch came in at one point i was like thinking oh i want to rally a uh revenge mob to go attack the uh uh attack the what the snake gang hideout oh the well you you do know about a zenturum hideout whether or not they're still there yeah um yeah uh
+[SPEAKER_01]: ginning up a mob would have been actually pretty awesome.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Not out of the options yet.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: Tom had a desk mishap.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So, oh, no wonder I couldn't find it.
+[SPEAKER_01]: I've been scrolling through last week's notes the whole time.
+[SPEAKER_05]: Sorry, let me look real quick.
+[SPEAKER_01]: Okay, got it.
+[SPEAKER_01]: Got what I'm looking for.
+[SPEAKER_01]: So, middle of the day, make your way towards the tower.
+[SPEAKER_01]: Stop and get a bite to eat through the market.
+[SPEAKER_01]: Keep your strength up.
+[SPEAKER_01]: Buy the buy.
+[SPEAKER_01]: Anybody in Foundry, double check that you are long-rested minus.
+[SPEAKER_01]: Justice did a bunch of healing.
+[SPEAKER_01]: And...
+[SPEAKER_01]: Aladin, you are down one spell slot for a healing word.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: And I think justice blew through all of your lay on hands points.
+[SPEAKER_00]: No, I only did one.
+[SPEAKER_01]: You only did one?
+[SPEAKER_01]: Because you had to keep healing the guy who was burnt.
+[SPEAKER_00]: I think I only gave him the one HP, and then he was knocked the fuck out, and then I think Elior helped him the second time.
+[SPEAKER_01]: Oh, maybe that's it.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: I forgot about that.
+[SPEAKER_00]: Nice.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: Oh yeah, that's... By the way, you did catch that guy's last name when the sergeant recognized him because he called him Mr. Floxen.
+[SPEAKER_01]: Hmm.
+[SPEAKER_01]: But nobody else got anything useful out of him.
+[SPEAKER_01]: But he's currently in the Watch's care.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: And assuming Dane does not show up, it's not like Illior has any fondness for wizards and towers anyway.
+[SPEAKER_01]: When you approach the tower, being members of Force Grey and all, the doors swing out open to welcome you.
+[SPEAKER_01]: And if you remember back to your first trip through the tower, it was like...
+[SPEAKER_01]: a lot of wild nonsense right weird things happening this that the other you're climbing stairs the wrong direction the windows showed places that weren't never or weren't uh water deep um halls that apparently went on endlessly and wrapped around uh things like that it's so much more pedestrian this time like it's
+[SPEAKER_01]: It's almost disappointing because it was such an Alice in Wonderland moment the last time that you open these doors and they are basically 20 feet of hallway to the door you remember as being Vaja Safar's main office.
+[SPEAKER_01]: None of the weirdness to enjoy.
+[SPEAKER_01]: Apparently it's a show put on for first timers.
+[SPEAKER_01]: So as you enter the tower, the doors creak shut behind you, and as you approach Vajra's door, before you can knock or lay a hand on it or anything, it swings open, and Vajra is there sitting behind her large desk that still seems somehow small in this large room.
+[SPEAKER_01]: As the doors open, she says to the party, I would ask you what brings you to the tower in broad daylight, but I think I might already know.
+[SPEAKER_04]: Good, then what are we going to do about it?
+[SPEAKER_01]: Well, what can we do about it?
+[SPEAKER_01]: Let's...
+[SPEAKER_01]: Cool what we know.
+[SPEAKER_01]: I know that a fireball went off in Troll School Alley barely an hour ago.
+[SPEAKER_04]: Beyond that... We're going to fill her in about the Nimble Rite and then the rock gnome that we know is related to Never Ember's dad.
+[SPEAKER_04]: and the two snake guys that were with him and gonna suggest that we uh portal up to never winter to have a chat so when when you mention when lord never ember's name comes up uh you can see vajra's face stiffen like
+[SPEAKER_01]: whatever she thought she was going to do that morning, it didn't involve kind of this level of grand politics.
+[SPEAKER_01]: She says, what do you know about Rhaenyra's father?
+[SPEAKER_04]: Not enough, apparently.
+[SPEAKER_04]: Uh...
+[SPEAKER_04]: We know he used to be the leader here, he went up there, he was corrupt, he's loved there now.
+[SPEAKER_01]: He was chased out of Waterdeep.
+[SPEAKER_01]: He is universally reviled in Waterdeep, and it's amazing that the people love Renaer as much as they do, considering who his dad is.
+[SPEAKER_01]: Goes to show that Renaer
+[SPEAKER_01]: must be a truly good person or an amazing actor to kind of win the people over as he has.
+[SPEAKER_01]: Vajra sits back down at her desk and says, excuse me one moment.
+[SPEAKER_01]: And she writes a quick note on a piece of paper.
+[SPEAKER_01]: And you've seen this trick before, right?
+[SPEAKER_01]: Folds it up, lets it go.
+[SPEAKER_01]: And the bird, paper bird...
+[SPEAKER_01]: flies off, does a loop around the office and exits out through one of the top windows.
+[SPEAKER_01]: She says if the Lord Neverimber is involved, then Lord Silverhand, who is the open lord of Waterdeep currently, needs to be informed right away.
+[SPEAKER_01]: Because I will happily fight
+[SPEAKER_01]: Wizards, demons, denizens of the outer dark.
+[SPEAKER_01]: But politics, man.
+[SPEAKER_01]: That's the stuff that'll get you killed.
+[SPEAKER_04]: Well, I want to keep spreading our network.
+[SPEAKER_04]: And can you make an introduction?
+[SPEAKER_04]: And we'll fill them in.
+[SPEAKER_01]: To the open Lord of Waterdeep?
+[SPEAKER_04]: Yeah.
+[SPEAKER_01]: I need you to make a persuasion check.
+[SPEAKER_01]: It's like you went from selling beers in a pub on the streets of London to asking if you can meet King Henry V.
+[SPEAKER_01]: What'd we get?
+[SPEAKER_01]: 20.
+[SPEAKER_01]: Dirty 20?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Am I?
+[SPEAKER_02]: It's fine.
+[SPEAKER_01]: Fair enough.
+[SPEAKER_01]: I can ask.
+[SPEAKER_01]: I can say I will definitely give her the source of the information, but if she wants to meet with you, it will be entirely up to her.
+[SPEAKER_01]: I have her ear, I have her confidence, but she is her own person.
+[SPEAKER_01]: Fair enough.
+[SPEAKER_01]: In the meantime, some of your other leads.
+[SPEAKER_01]: Let's... Let's let the Closed Council decide how to deal with Lord Neverember, if this is the case.
+[SPEAKER_01]: If he's involved in this, then you're talking about the possibility of an open attack from one of the cities on the Sword Coast against another.
+[SPEAKER_01]: I do not think he would be so foolish, but if that's what it comes to, then this is beyond even my pay grade.
+[SPEAKER_01]: I mean, I'm not implying that
+[SPEAKER_04]: he attacked his own man.
+[SPEAKER_04]: I'm saying that his man was on one of an errand for him and someone else attacked him.
+[SPEAKER_04]: So I want to know what that errand was.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: And I'm saying we move delicately because if this could start even a cold war between the two cities,
+[SPEAKER_01]: That is trouble that nobody needs.
+[SPEAKER_01]: So, let the politicians do the politicking.
+[SPEAKER_01]: In the meantime, you mentioned the nimble rights.
+[SPEAKER_01]: Who's selling nimble rights these days?
+[SPEAKER_01]: Selling?
+[SPEAKER_01]: I don't have...
+[SPEAKER_01]: solid records of where they are getting them, but they have shown up throughout the city, no more so than at the Temple of Gond.
+[SPEAKER_01]: The House of Inspired Hands has several.
+[SPEAKER_01]: It seems they started up as a fashion, and then suddenly became a lot more affordable.
+[SPEAKER_01]: And so they're almost...
+[SPEAKER_01]: not fashionable again.
+[SPEAKER_01]: This happened quickly, in a matter of a week or two.
+[SPEAKER_01]: But it went from noble houses in the town showing off their new nimble right servants to every minor noble had the means to get a hold of it.
+[SPEAKER_01]: So whoever's selling them is selling them cheaply.
+[SPEAKER_01]: Now, before they flooded the market,
+[SPEAKER_01]: and she turns and pulls out a book um that the pages kind of slowly turn on their own and like fill with writing as they're turning kind of as she gets to the end of one page it automatically turns and starts writing at the top of the next
+[SPEAKER_01]: She says, other than the Nimblewright scene at the House of Gond... Let's see.
+[SPEAKER_01]: One of the early purchasers, only a few of the noble houses, a few of them set the trend, a few of them tried to follow, and then the floodgates opened.
+[SPEAKER_01]: So, some of the early buyers were...
+[SPEAKER_01]: I always forget this name.
+[SPEAKER_01]: The High Up Lady of the Order of Magus and Protectors.
+[SPEAKER_01]: Uh, Belgentra Summertain.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: I believe Lord Deslinter was one of the early owners, as was Davin Cromer, the House of Cromer.
+[SPEAKER_01]: The City Armory does own one, but they bought it much later.
+[SPEAKER_01]: And that's about it.
+[SPEAKER_01]: These are only marked in my book because they were of note at the time when nimble rights were less common.
+[SPEAKER_01]: Since then, it'd be like marking down which noble houses bought a new tea kettle.
+[SPEAKER_01]: If it were me, I would start
+[SPEAKER_01]: with one of the kind of early adopters of the fashion.
+[SPEAKER_01]: And that might tell you the source, who's been selling these.
+[SPEAKER_01]: I don't know if the seller produces anything.
+[SPEAKER_01]: Could be a dead end.
+[SPEAKER_01]: That's a wild goose chase.
+[SPEAKER_01]: Could be a wild goose chase.
+[SPEAKER_01]: There's two.
+[SPEAKER_04]: If there are this many houses that have them, like, I don't think it's useful.
+[SPEAKER_04]: It's actually because with the red cloak, we don't have any better description.
+[SPEAKER_01]: So we don't have the actual one.
+[SPEAKER_01]: You do have a pretty good description of him.
+[SPEAKER_01]: Tinch was able to describe him pretty well.
+[SPEAKER_01]: Huh.
+Hmm.
+[SPEAKER_01]: So here's the thing, nimble rights are bespoke, right?
+[SPEAKER_01]: They don't come off of a factory line.
+[SPEAKER_01]: Each one is like handcrafted, and they are all quite distinct from each other.
+[SPEAKER_04]: All right, I'd add it to the list.
+[SPEAKER_04]: I'm going to suggest it's to the party that we run this.
+[SPEAKER_04]: Well, it does not seem that the black staff wants to get that involved in the one lead politics to politics.
+[SPEAKER_04]: So let's go loop in the Harpers.
+[SPEAKER_01]: That part, yes.
+[SPEAKER_01]: Zavadri Safar is going to hand off the Never Ember business to Leryl Silverhand.
+[SPEAKER_01]: But she's giving you what she knows right now.
+[SPEAKER_01]: Doesn't mean she's going to stop there, right?
+[SPEAKER_01]: This is just what she's collected so far.
+[SPEAKER_01]: Yeah, I mean, it's not going to proceed further with us.
+[SPEAKER_01]: Probably not.
+[SPEAKER_01]: but she will begin gathering information, and if there's something that she finds that you guys can do, can help with, she will let you know.
+[SPEAKER_01]: If more and more stuff points back to Neverwinter, that's gonna be council business.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: I'm gonna tell her that we're gonna look, see if we can track down the person who sold the, uh,
+[SPEAKER_04]: the Nimble Rite, but as soon as we get outside, I'm going to go to the group right after, like, we'll do that right after we talk to the Harpers.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Uh... Lady Hoventry gave one of you a means to contact her.
+[SPEAKER_01]: Is that right?
+[SPEAKER_04]: Yeah, I think Berthuel's got a piece of paper.
+[SPEAKER_01]: Rathul, do you have the paper bird?
+[SPEAKER_01]: But isn't the house nearby?
+[SPEAKER_01]: Yes, but she also asked that you don't come to the villa.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: Because she's not supposed to be a harper.
+[SPEAKER_01]: Mostly she has contact view.
+[SPEAKER_01]: When she needs to get a hold of you, she sent the silver raven.
+[SPEAKER_01]: And then she gave you a paper bird to get a hold of her should the need arise.
+[SPEAKER_01]: Or you can
+[SPEAKER_01]: go to Ol' Brinta Villa?
+[SPEAKER_04]: I'm gonna guess that none of us are really that presentable at the moment, so.
+[SPEAKER_02]: But I assume somebody in our party has it, right?
+[SPEAKER_02]: But I'm actually not sure it was me.
+[SPEAKER_02]: Yes.
+[SPEAKER_02]: But we have a way to.
+[SPEAKER_01]: Yes, she gave one of you a paper bird, which is a fairly quick way to communicate with someone.
+[SPEAKER_01]: Not quite a text, more like an email.
+[SPEAKER_04]: Oh, I have a paper bird in my inventory.
+[SPEAKER_04]: Oh, you have.
+[SPEAKER_04]: Write a message, 50 words or fewer, on the parchment, speak the creature's name, magically folds and flies over.
+[SPEAKER_04]: Yeah, so I'm willing to do my best to synthesize what's happened.
+[SPEAKER_01]: In 50 words?
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Fireball attack, Trolls Gull Alley, number dead, including Rock Gnome, associated with, I never remember.
+[SPEAKER_01]: Eight dead, 11 wounded.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Attacker is a nimble right who threw a fireball.
+[SPEAKER_04]: Yeah, I don't know.
+[SPEAKER_04]: What else have we got?
+[SPEAKER_01]: New phone.
+[SPEAKER_01]: Who this?
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I think that's a pretty good combo.
+[SPEAKER_01]: Probably gets the point across, just in case.
+[SPEAKER_01]: Save enough room to sign it.
+[SPEAKER_04]: I'm going to suggest Berthoul sign it.
+[SPEAKER_01]: Well, you just put the skullduggers on there.
+[SPEAKER_04]: Oh yeah, that works too.
+[SPEAKER_00]: All right.
+[SPEAKER_01]: I'm looking through my list of maps and not finding what I want.
+[SPEAKER_01]: Sorry, give me a sec, guys.
+[SPEAKER_01]: Okay, so you fill that out, kind of fold up the paper bird and send it on its way.
+[SPEAKER_01]: I thought I had a map for this.
+[SPEAKER_04]: Side note, if we can rewind a bit.
+[SPEAKER_04]: When we're going through the market, can I buy like a med kit?
+[SPEAKER_04]: A med kit?
+[SPEAKER_01]: yeah yeah so bandages stuff to we've got wounded people back there and i want to bring back supplies to help those people bandages antiseptic i don't know whatever yeah uh you're talking about a healer's kit which is uh easily easily acquired uh cost you about five gold
+[SPEAKER_04]: Five gold?
+[SPEAKER_04]: That's a week's worth of... Oh, damn.
+[SPEAKER_01]: Five gold gets you ten uses.
+[SPEAKER_01]: As an action, you can use the kit to stabilize somebody who is unconscious and making death saves.
+[SPEAKER_01]: Basically, if you're proficient with the kit,
+[SPEAKER_01]: you don't have to make a wisdom check to try and stabilize somebody.
+[SPEAKER_01]: Is anybody here proficient with a medicine kit or a healer's kit?
+[SPEAKER_00]: I don't know.
+[SPEAKER_00]: Maybe?
+[SPEAKER_00]: Where would that be?
+[SPEAKER_01]: I always forget what proficiency is.
+[SPEAKER_01]: Oh, on Foundry?
+[SPEAKER_01]: That's actually a good question.
+[SPEAKER_01]: I'm not very good with Foundry.
+[SPEAKER_01]: I'm guessing it would be under Features, maybe?
+[SPEAKER_01]: Unless it's under Details.
+[SPEAKER_01]: Well, I know how to check.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Where does it say Thieves' Tools on Davies?
+[SPEAKER_01]: Because it's in the same category.
+[SPEAKER_03]: Oh, yeah.
+[SPEAKER_03]: It's under... Tools is under Skills.
+[SPEAKER_03]: So I'm not proficient, but if you give me a second to short rest, I can be.
+[SPEAKER_01]: Oh, because you can switch up?
+[SPEAKER_03]: Yeah.
+[SPEAKER_01]: Sick.
+[SPEAKER_04]: I mean, we don't need it at the moment, but for later, yeah.
+[SPEAKER_01]: Looks like Justice is only proficient in playing cards.
+[SPEAKER_00]: Fuck yeah.
+[SPEAKER_01]: And Davey's got Thieves' Tools and your Forgery kit.
+[SPEAKER_01]: Which has been wildly successful so far.
+[SPEAKER_00]: I love that John is fucking stupid, but he's really...
+[SPEAKER_00]: He's a savant at poker.
+[SPEAKER_00]: That's probably why he is, actually.
+[SPEAKER_01]: Yeah, I was going to say, you can't tell if he's bluffing because he can't tell if he's bluffing.
+[SPEAKER_00]: It's like, God, I mean, this has been done a million times, but it's like the idiot sitting at the table going all in on the other guy.
+[SPEAKER_00]: Like, oh, wait, no, this is a JoJo episode.
+[SPEAKER_00]: Hannah, do you know what I'm talking about?
+[SPEAKER_01]: This is a real-life Nick episode.
+[SPEAKER_01]: when another kid named Nick, Nick Devaney went all in against my pair of pocket aces on a seven deuce off suit.
+[SPEAKER_00]: Did he fucking scare you too hard?
+[SPEAKER_01]: No, I, I was like, I'm sitting on, on, on rocket.
+[SPEAKER_01]: So I went all in first, but he was down to me and him in this tournament.
+[SPEAKER_01]: And he's like, you want to see something stupid?
+[SPEAKER_01]: I was like, yeah, sure.
+[SPEAKER_01]: He calls me, flips it over.
+[SPEAKER_01]: 7-2 off suit.
+[SPEAKER_01]: I flip mine over.
+[SPEAKER_01]: I'm like, you are an idiot.
+[SPEAKER_01]: And then catches a 7 on the flop and catches a 2 on the river.
+[SPEAKER_01]: And I'm like, Nick, I'll kill you.
+[SPEAKER_01]: I will bury your body somewhere.
+[SPEAKER_01]: They'll never find you ever again.
+[SPEAKER_00]: Yeah, there's an episode of JoJo where, long story short, they're doing a poker game.
+[SPEAKER_00]: The main character...
+[SPEAKER_00]: bets without looking at the cards at all eventually going all in and the guy that they are in a fight with more or less like just fucking dies from stress because he's so wigged the fuck out and how this dude is just straight faced just betting all in without having looked at his cards once and he just like strokes the fuck out it's very funny nice
+[SPEAKER_04]: I'm looking at my special traits tab and it says I have the observant feat, which provides a plus five to passive perception and investigation.
+[SPEAKER_01]: Yeah, I do that.
+[SPEAKER_01]: You don't...
+[SPEAKER_01]: Passive perception, you don't know when I'm rolling against your passive perception.
+[SPEAKER_01]: Think of it as like a DC check I make
+[SPEAKER_01]: to see if you guys are picking things up.
+[SPEAKER_04]: Gotcha, okay.
+[SPEAKER_01]: But I didn't know that you had observant, which hasn't really changed much yet, but I will remember that.
+[SPEAKER_01]: Yeah, okay.
+[SPEAKER_01]: But doesn't it list out in your passive perception?
+[SPEAKER_04]: My perception right now is just a plus zero.
+[SPEAKER_04]: That's why I was like, wait.
+[SPEAKER_01]: Yeah, yeah, yeah, it is a, because that's if you're actively rolling.
+[SPEAKER_04]: Yeah, yeah, got it.
+[SPEAKER_01]: Where does it even list your passives on this?
+[SPEAKER_00]: Nope, that's not it.
+[SPEAKER_01]: Because on D&D Beyond, you have a little box that has all your passive stuff.
+[SPEAKER_01]: I don't even see it on here.
+[SPEAKER_01]: Huh, interesting.
+[SPEAKER_01]: I guess I will have to research that on Foundry.
+[SPEAKER_01]: But if I roll against your passive perception, I'll probably just pull it up in D&D Beyond because that's where I know where everything is still.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So...
+[SPEAKER_01]: I know some of you just got started, but I need to take a bio break.
+[SPEAKER_01]: So we take like 10 minutes and meet back.
+Nope.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: See you in 10.
+[SPEAKER_01]: Sorry, my kids started talking to me.
+[SPEAKER_02]: Don't they know that children should be neither seen nor heard?
+[SPEAKER_01]: That's right.
+[SPEAKER_01]: I keep trying to explain it to them.
+[SPEAKER_04]: All right.
+[SPEAKER_01]: Man, I'm gone for barely a month, and I just don't remember how to use Foundry.
+[SPEAKER_02]: It'd be like that.
+[SPEAKER_00]: It's got to be friendlier ways to do things.
+[SPEAKER_01]: Bet he can get Claude to write me one.
+[SPEAKER_01]: Do you mind if I use some company tokens to write a better...
+[SPEAKER_02]: I mean, we don't have that account anymore.
+[SPEAKER_02]: Aww.
+[SPEAKER_02]: Well, at least we're not paying for it.
+[SPEAKER_04]: Nick, what do you need tokens for?
+[SPEAKER_01]: To write a better foundry.
+[SPEAKER_05]: Oh.
+[SPEAKER_05]: Oh.
+[SPEAKER_01]: Because, like, I've got this map here, and it let me drag a tile onto it, but as soon as the tile's there, it's locked in place, and, like, I can't touch it because it's locked, but I can't, like, select it to unlock it.
+[SPEAKER_01]: And there's probably, like, hover and press some fucking magic hotkey, but, like, I can't find a button on the side that is unlock tile controls.
+[SPEAKER_01]: And it makes me want to punch something.
+[SPEAKER_01]: Because this definitely has a lot of features, right?
+[SPEAKER_01]: As VTTs go, it's pretty great and super expensive.
+[SPEAKER_04]: Is Foundry open source?
+[SPEAKER_01]: I don't think so.
+[SPEAKER_01]: Might be.
+[SPEAKER_01]: I had to pay for a license, but there might still be source on top of it.
+[SPEAKER_01]: I see what the problem is, I think.
+[SPEAKER_02]: Sorry, I heard some dog rumblings, and I was like, what the hell?
+[SPEAKER_02]: Oh, that's not good.
+[SPEAKER_02]: She's now fully doing the dog thing of barking when she hears noise outside.
+[SPEAKER_01]: Oh, yeah, yeah, yeah.
+[SPEAKER_02]: It's been four months, and now it's finally here.
+[SPEAKER_01]: Yeah, it's...
+[SPEAKER_01]: I still haven't fully broke Lucy of that.
+[SPEAKER_02]: Yeah, she's able to calm down.
+[SPEAKER_02]: Except when there's a cat, it sounds like.
+[SPEAKER_02]: Well, because there's a cat.
+[SPEAKER_02]: You're so worked up.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: So, what were we doing?
+[SPEAKER_04]: We sent a letter to...
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: To Lady...
+[SPEAKER_04]: Picked up a healing kit.
+[SPEAKER_01]: Picked up a healing kit.
+[SPEAKER_01]: I see what the problem is.
+[SPEAKER_01]: Whoever wrote this map put a fucking layer over the top of it that is like a perma layer.
+[SPEAKER_01]: And it's at a heightened elevation and it's locked in place, so anything I click on just clicks on that layer, even though they did a full screen layer for like three cutouts in a corner.
+[SPEAKER_01]: Cool, cool, cool.
+[SPEAKER_01]: This is fine.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: anyway so you sent that out and you are waiting to hear back which don't know how long that could take say that again i said which you don't know how long that could take uh what could take i'm sorry i was there was noise i couldn't hear
+[SPEAKER_01]: To hear back from the letter you just sent.
+[SPEAKER_01]: Understood.
+[SPEAKER_01]: She should get it pretty close to right away.
+[SPEAKER_01]: So you wait.
+[SPEAKER_01]: On your way back,
+[SPEAKER_01]: You are getting close to Troll School Manor.
+[SPEAKER_01]: Passing through the part of the North Ward that the Salunes Procession, one of the parades a few days ago, had gone through.
+[SPEAKER_01]: Looks like the street cleaners had been at it, but it's still... We'll call it...
+[SPEAKER_01]: strewn with all sorts of things.
+[SPEAKER_01]: Sorry, hang on.
+[SPEAKER_01]: Still trying to fuck with this map.
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: And you see coming from the kind of direction of the alley what appears to be
+[SPEAKER_01]: members of the watch uh escorting um for lack of a better term a paddy wagon and as they're passing over kind of a bridge spot on the street you can see that that wagon has been stopped there are
+[SPEAKER_01]: looks like three kind of thuggish looking individuals blocking the road and as you get closer you recognize some of the guards that had been investigating the alley were escorting what appears to be a prisoner of some sort
+[SPEAKER_01]: and they are in the middle of being waylaid.
+[SPEAKER_04]: Do we recognize any of the guards by name?
+[SPEAKER_01]: By name?
+[SPEAKER_01]: No.
+[SPEAKER_01]: It's definitely not either Cromley or Barnabas Blastwind, the mage,
+[SPEAKER_01]: But they were, at least two of them there, were definitely members of the Watch that you saw kind of helping canvas the area.
+[SPEAKER_04]: I want to very loudly ask, did you catch the guys that bombed Pro Skull Alley?
+[SPEAKER_01]: uh so you're like shouting this to the to the standoff happening on a bridge oh wait who are they having a standoff with this that's what i'm saying there was like three like thugs who have stood in front of this wagon ah oh i missed all that that didn't come through
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Sorry.
+[SPEAKER_01]: I guess that's me with split attention.
+[SPEAKER_02]: No, I think it was bad transcription.
+[SPEAKER_02]: But yeah, now I want to react more.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: That's why I'm like, you guys just going to let this happen?
+[SPEAKER_02]: Yeah, this is fine.
+[SPEAKER_02]: Just let them murder him.
+[SPEAKER_02]: It's great.
+[SPEAKER_02]: No, I want to start sneaking up behind the thugs.
+[SPEAKER_01]: excellent give me a stealth roll so the the three thugs kind of have their backs to you uh probably not gonna cut it uh anybody else doing anything um
+[SPEAKER_04]: I want to position closer because I want to...
+[SPEAKER_04]: Wait, did I get... Man, I forgot what I got.
+[SPEAKER_04]: Trying to think what would be...
+[SPEAKER_01]: Is suggestion only on one person?
+[SPEAKER_01]: I think so.
+[SPEAKER_01]: As a target?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I think you can cast it at a higher level later, but I don't think you have enough.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Is one of them look like the leader or is there one that's doing the talking?
+[SPEAKER_01]: Absolutely.
+[SPEAKER_01]: There is one.
+[SPEAKER_01]: There are two really like dumb thuggy looking guys in the back.
+[SPEAKER_01]: And there's a slightly smaller, we'll say gentleman up front who is not, none of them have drawn weapons, but he is clearly attempting to convince the guards to basically walk away.
+[SPEAKER_01]: Walk away from the wagon, and nothing bad has to happen here.
+[SPEAKER_04]: Do they have any kind of... Can I see any tattoos on any of these guys?
+[SPEAKER_01]: Not from the back.
+[SPEAKER_01]: Yeah, fuck it.
+[SPEAKER_01]: Jonathan, you want to go just whack that guy on the head?
+[SPEAKER_01]: Knock him out?
+[SPEAKER_01]: Let me show you what you're all dealing with.
+[SPEAKER_05]: So you guys...
+[SPEAKER_02]: There's no token.
+[SPEAKER_02]: I cannot see anything.
+[SPEAKER_01]: That's right, I have to drop your token.
+[SPEAKER_02]: There is no token.
+[SPEAKER_01]: Yep.
+[SPEAKER_02]: Oh, this is nice.
+[SPEAKER_02]: Okay, great.
+[SPEAKER_01]: Wait, Ares, am I not seeing something?
+[SPEAKER_01]: You will in a second.
+[SPEAKER_01]: I have to drop your token just fucking one at a time.
+[SPEAKER_05]: Hurry!
+[SPEAKER_01]: Hurry!
+[SPEAKER_01]: So, this crossing is up one level.
+[SPEAKER_02]: Yeah, this is a bridge.
+[SPEAKER_01]: This is a bridge.
+[SPEAKER_01]: So you're down here, headed this way.
+[SPEAKER_01]: They're coming from this way, so you would be headed up the steps and off and on your way towards Trollskull.
+[SPEAKER_02]: Yeah, so who are you wanting me to hit?
+[SPEAKER_04]: I was going to tell you to hit the leader guy, but...
+[SPEAKER_01]: I don't know what you guys can see.
+[SPEAKER_01]: Let me see what you can see.
+[SPEAKER_04]: I don't know if we have a way to get up there, really.
+[SPEAKER_01]: Yep, you can.
+[SPEAKER_01]: Actually, hang on.
+[SPEAKER_01]: Let me move Brofool up and Aladin up a little, and you should be able to see everybody on the bridge.
+[SPEAKER_04]: We don't have Fog of War.
+[SPEAKER_04]: We can just see the whole map.
+[SPEAKER_01]: No, but you couldn't see the units.
+[SPEAKER_01]: These two guys?
+[SPEAKER_01]: These two guys?
+[SPEAKER_01]: I don't know why they gave them dragon icons.
+[SPEAKER_01]: They're supposed to be the guards.
+[SPEAKER_01]: Okay, sorry.
+[SPEAKER_01]: Then I'm...
+[SPEAKER_01]: I know.
+[SPEAKER_01]: So these are the thug types.
+[SPEAKER_01]: Why can't I move?
+[SPEAKER_01]: This is the leader.
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: Why can't you move?
+[SPEAKER_01]: No, no.
+[SPEAKER_02]: It's not letting me WASD.
+[SPEAKER_02]: Am I fucking stupid?
+[SPEAKER_02]: Don't answer that.
+[SPEAKER_01]: This is how I felt a minute ago, when, like, everything I clicked on, it's like, you can't, it's locked.
+[SPEAKER_02]: Yeah, well, is there, like, a lock button?
+[SPEAKER_02]: Like, I feel, I feel really fucking dumb right now.
+[SPEAKER_04]: Do you have your token selected?
+[SPEAKER_00]: Yeah.
+[SPEAKER_04]: On the top left.
+[SPEAKER_00]: I can move you.
+[SPEAKER_00]: Token controls.
+[SPEAKER_00]: Let me maybe turn that off and then on again.
+[SPEAKER_02]: There, yeah, what the fu- Okay, that was 100% not me.
+[SPEAKER_02]: Yeah, okay.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah, the only guy I see is this guy.
+[SPEAKER_01]: So, let me move you.
+[SPEAKER_01]: back to where you yep there you go now you should if you move up north a little bit you should be able to see everybody on the bridge i still only see those two guys really because when i click on your token to get your view i can see a total of five people on the bridge do we need to leave and then like come back because yeah i i only see those two
+[SPEAKER_04]: Yeah, you should probably try that.
+[SPEAKER_02]: This is busted as hell.
+[SPEAKER_02]: Yeah, let me... Well, I was going to say I'll be right back.
+[SPEAKER_02]: It's not like I'm going anywhere.
+[SPEAKER_01]: Right, right, right.
+[SPEAKER_01]: Claude, write me a better foundry.
+[SPEAKER_02]: I bet this wouldn't happen if it wasn't written in fucking JavaScript.
+[SPEAKER_05]: Yeah.
+[SPEAKER_02]: I'm just playing.
+[SPEAKER_02]: There's one reason to be salty.
+[SPEAKER_02]: Sure.
+[SPEAKER_02]: It seems the dog is awakening.
+[SPEAKER_02]: He's been so sleepy.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Okay, yeah, cool.
+[SPEAKER_02]: So it just was completely fucking busted.
+[SPEAKER_02]: I can see everyone now.
+[SPEAKER_02]: So this is the captain guy.
+[SPEAKER_02]: Now, I was seeing cursors go in there, and I was like, I don't see shit.
+[SPEAKER_02]: Y'all are crazy.
+[SPEAKER_02]: Now I'm just... Fucking lying to me?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Hmm.
+[SPEAKER_02]: And what is this little house?
+[SPEAKER_01]: It's a wagon.
+[SPEAKER_01]: It's a paddy wagon.
+[SPEAKER_02]: Oh, paddy wagon.
+[SPEAKER_02]: Like knick-knack paddywhack.
+[SPEAKER_01]: Hey, that is our word.
+[SPEAKER_01]: You can't use that word.
+[SPEAKER_01]: Jesus Christ, Nick.
+Ha ha ha!
+[SPEAKER_02]: Jesus Christ.
+[SPEAKER_02]: We want to enter the paddy wagon.
+[SPEAKER_02]: We would like to give the dog a bone.
+[SPEAKER_01]: Well, maybe.
+[SPEAKER_01]: Like I said, those two guards are escorting said wagon from the direction of Trollskull Manor.
+[SPEAKER_01]: And they have been stopped by three thugs on the bridge telling them to leave the wagon.
+[SPEAKER_01]: go away, and nobody dies here today.
+[SPEAKER_02]: There's two thugs and a leader, right?
+[SPEAKER_01]: Two thugs and a leader.
+[SPEAKER_01]: And the dragon icons are guards.
+[SPEAKER_01]: I don't know why they're dragon icons.
+[SPEAKER_01]: Their character sheets are not.
+[SPEAKER_02]: It's all right.
+[SPEAKER_02]: I think we all get the picture, I think.
+[SPEAKER_02]: Yeah, I mean, assuming everyone else is as caught up as me, that was just a nightmare trying to make sense of this with Foundry.
+[SPEAKER_01]: um drop in my little observer character and see if i can move around this map correctly i tell you what there is something i can do yeah what's that i've got this sweet little spell called ward away
+[SPEAKER_02]: And I can hurl a disorienting magical force towards one creature within range, which is 60 feet.
+[SPEAKER_02]: Makes a constitution saving throw.
+[SPEAKER_02]: And on a failed save, the target takes 2d4 force damage.
+[SPEAKER_02]: Its speed is halved.
+[SPEAKER_02]: And until on its next turn, it can only take an action or a bonus action, but not both.
+[SPEAKER_02]: On a successful save, they only take half as much damage.
+[SPEAKER_02]: So... What I'm wondering, and I don't know if this is like a sort of, you know, house rules situation here, but in my mind, a disorienting magical force that does force damage...
+[SPEAKER_02]: Uh-huh.
+[SPEAKER_02]: There's a reasonable chance that that would push him off the bridge.
+[SPEAKER_01]: Wait.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Show me.
+[SPEAKER_01]: What's the spell called?
+[SPEAKER_01]: Ward away.
+[SPEAKER_04]: Doesn't Dane have that thing he used to move the rubble?
+[SPEAKER_04]: Do we use that to bump them all off?
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: Oh, yeah.
+[SPEAKER_02]: Thunderburst or whatever.
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: Oh, that's Dane.
+[SPEAKER_01]: That's what he said.
+[SPEAKER_02]: Yeah, Dane could... Oh, I guess, yeah, I mean, if someone wants to pilot Elior, Elior could do that.
+[SPEAKER_02]: Yeah, it's a little dangerous because it's a radius, so if it did push people off, it might get the guards.
+[SPEAKER_01]: So... Vordaway...
+[SPEAKER_01]: It's disorienting in that it is a concussive blast, but it's inward, not outward.
+[SPEAKER_01]: It's like your inner ear gets popped.
+[SPEAKER_01]: They can't, their movement gets slowed down.
+[SPEAKER_02]: Are you sure about that?
+[SPEAKER_02]: Because it says I hurl a disorienting magical force toward one creature within range.
+[SPEAKER_01]: Uh-huh, uh-huh.
+[SPEAKER_01]: And it causes their, you disorient them, which reduces their speed to half until the start of your next turn.
+[SPEAKER_01]: And it can only take an action or a bonus action, but not both.
+[SPEAKER_02]: Judge.
+[SPEAKER_02]: Someone get a judge.
+[SPEAKER_02]: I'm overruling this.
+[SPEAKER_01]: And that's on a failed save.
+[SPEAKER_02]: Then, yeah, I got nothing realistically.
+[SPEAKER_02]: I mean, yeah.
+[SPEAKER_02]: I mean, we could all fucking sprint up there and I could start body checking people, but...
+[SPEAKER_02]: Actually, I don't even think we have a meaningful way... To get up there?
+[SPEAKER_02]: To spray... Yeah, shit, I don't even know how we would get up there right now.
+[SPEAKER_02]: There's stairs.
+[SPEAKER_02]: There's stairs, but they don't seem like they lead to that level.
+[SPEAKER_01]: No, there's an access ladder here?
+[SPEAKER_02]: Oh.
+[SPEAKER_01]: Is there one over here?
+[SPEAKER_04]: No, but there's stairs down here.
+[SPEAKER_01]: think so and yeah those stairs they go up to a short level uh but this you you can so this this tarp this tarped over spot uh you can attempt to make an athletics or acrobatics to climb that all right i mean so you can try and get up here or you can bottleneck through this little access ladder here and i think those were the only two kind of entrances to that top level
+[SPEAKER_00]: Yeah, I mean, I don't feasibly have any ranged abilities, so I could sprint up there.
+[SPEAKER_02]: If we are down to just start clowning, I can do that, provided our generous DM says that I could probably get up there without... Can Jonathan boost some of us up there?
+[SPEAKER_01]: So this is... To get to the very top here, it's 20 feet.
+[SPEAKER_04]: Oh, two stories, okay.
+[SPEAKER_04]: Well, we know Brathul can climb buildings, right?
+[SPEAKER_01]: Yeah, like, it's not a hard climb, but it's... Other than the ladder, there's no, like...
+[SPEAKER_01]: Intentional access up there.
+[SPEAKER_01]: So...
+[SPEAKER_01]: What does everyone want to do for kind of one beat before this escalates?
+[SPEAKER_02]: I mean, if I can, I'd like to try and make it up to the climb up the rubble, like the tarp.
+[SPEAKER_02]: I want to come up to where I'm coming from behind them, not where they're facing.
+[SPEAKER_02]: Gotcha.
+[SPEAKER_02]: So I would want to come up this direction.
+[SPEAKER_01]: Which is...
+[SPEAKER_01]: Hang on, let's see.
+[SPEAKER_01]: How far is that roughly?
+[SPEAKER_02]: It's like... 60 feet.
+[SPEAKER_02]: I've got...
+[SPEAKER_02]: If you want to roll and whether or not I could make it in time...
+[SPEAKER_01]: I mean, no, you could take off at a sprint.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: And roughly get there, but like...
+[SPEAKER_01]: There's no stealth or anything about it.
+[SPEAKER_01]: You are sprinting in your armored self with intention.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Fuck it, we ball.
+[SPEAKER_02]: Yeah, alright, what do I gotta roll to get up the tarp?
+[SPEAKER_01]: Fuck it, we ball indeed.
+[SPEAKER_01]: We will... Well, while he's doing that... We'll worry about that on your turn.
+[SPEAKER_04]: While he's working on that, can't me and Davey take
+[SPEAKER_04]: shots with our crossbows?
+[SPEAKER_01]: They are currently unaware of you, so I will let you both take a surprise attack if you want.
+[SPEAKER_04]: So I think for a fool, you start climbing up the side of the wall.
+[SPEAKER_04]: Jonathan's going to go sprinting around.
+[SPEAKER_04]: And me and Davey are lobbing arrows.
+[SPEAKER_01]: And I guess I am Jägering Elior?
+[SPEAKER_01]: I'm not very good with his ship.
+[SPEAKER_04]: Let me see.
+[SPEAKER_04]: Do we see if they have any weapons on them?
+[SPEAKER_01]: Oh yeah, they are clearly armed and their hands are on their weapons, but they have not drawn them yet.
+[SPEAKER_04]: But they are...
+[SPEAKER_01]: They're CQB weapons, but they're not ranged.
+[SPEAKER_01]: From what you can see, actually, let me double check.
+[SPEAKER_01]: The two guys in the back, you can see that they do have pretty fucking big crossbows.
+[SPEAKER_01]: It's kind of strapped to their back, but their hands are on a gnarly looking mace.
+[SPEAKER_01]: The guy up front,
+[SPEAKER_01]: Looks like he...
+[SPEAKER_01]: I mean, it's kind of hard to see through the thugs and through the bridge, but it looks like he might have a short bow, kind of like yours on him.
+[SPEAKER_01]: But his hand is on a sword.
+[SPEAKER_04]: I'm good with it.
+[SPEAKER_04]: We can run under the bridge for cover because they can't shoot underneath it.
+[SPEAKER_01]: Very true.
+[SPEAKER_01]: Both the guards...
+[SPEAKER_01]: have spears, so their weapons are effectively always drawn.
+[SPEAKER_01]: Okay, let's do it.
+Alright.
+[SPEAKER_01]: Devi, are you in on that plan?
+[SPEAKER_03]: Let's say yes, but I want to be hidden.
+[SPEAKER_01]: Naturally.
+[SPEAKER_01]: Roll a stealth check.
+[SPEAKER_01]: yeah yeah all right davey davey blaine over here does his street magic act and disappears in plain sight uh let me look up elior's thunder wave spell uh 15 foot cube originating from you
+[SPEAKER_01]: So he has to be up next to him to drop it.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: And he's too low to push them up in the air from underneath the bridge.
+[SPEAKER_01]: So... Elior is going to have to sit back and play ranged, or he's going to have to get in close if he wants to shove him off the bridge.
+[SPEAKER_01]: I'm going to put him...
+[SPEAKER_01]: next to Aladin for now.
+[SPEAKER_04]: Well, my plan is going to be to shoot at the leader guy.
+[SPEAKER_01]: Yep.
+[SPEAKER_04]: And then run this way to draw their attention over here, hopefully.
+[SPEAKER_01]: We'll let you do the shoot before we all roll for initiative.
+[SPEAKER_04]: Yeah, and then... Just like we let Jonathan do the run before... Yeah, because I want their attention in the opposite direction when Jonathan comes up behind him.
+[SPEAKER_04]: Gotcha.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: We'll move you back to your spot.
+[SPEAKER_01]: Dave, are you good where you're at?
+[SPEAKER_03]: This is a great question.
+[SPEAKER_03]: Are they crossing to the left or to the right?
+[SPEAKER_03]: I've been in the puppy zone.
+[SPEAKER_01]: The cart is attempting to head west.
+[SPEAKER_01]: Okay.
+Okay.
+[SPEAKER_01]: and has been stopped, and so the thugs are facing east.
+[SPEAKER_03]: Okay, let's see.
+[SPEAKER_03]: I am presuming that I am within firing distance.
+[SPEAKER_01]: Easily.
+[SPEAKER_03]: Yeah, okay, yeah, I'll stay here, that's fine.
+[SPEAKER_01]: Hey, stop it!
+[SPEAKER_01]: And Brothul, where are you going to be to start this out?
+[SPEAKER_01]: You can see the discussion, if you can call it that, on the bridge is starting to get pretty heated.
+[SPEAKER_02]: Yeah let me ask you some quick questions about the surroundings.
+[SPEAKER_02]: Like these look like benches.
+[SPEAKER_01]: Yes they they look like they're temporary seating left over from the parade that have not been collected yet.
+[SPEAKER_02]: Okay what is this.
+[SPEAKER_01]: Oh it's it looks like a little like a vendor cart.
+[SPEAKER_01]: Looks like someone's selling flowers there.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And then this is an awning?
+[SPEAKER_01]: That is an awning.
+[SPEAKER_01]: Wooden awning.
+[SPEAKER_01]: Looks like a decent structure.
+[SPEAKER_01]: Probably shortens your climb by two or three feet.
+[SPEAKER_02]: Brothel is feeling acrobatic today.
+[SPEAKER_02]: Does he believe he could parkour from here to this to that?
+[SPEAKER_02]: Ooh.
+[SPEAKER_01]: Ooh.
+[SPEAKER_01]: Um...
+[SPEAKER_01]: i'm gonna say between your dangly arms and you being you that it is absolutely worth an acrobatics role to find out all right so i'll be i'll be heading this way to make an acrobatic all right uh go ahead and park yourself on the bench and then i believe everybody can now roll initiative wait don't i get to fire don't me and davey get to fire on that guy first
+[SPEAKER_01]: I just want to roll initiative order, and then we'll take our surprise turns.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Goddamn, I always forget.
+[SPEAKER_02]: How do I get... Where's the button to roll?
+[SPEAKER_02]: Is it on the...
+[SPEAKER_02]: It's on the top tab, far left, right under your character mugshot.
+[SPEAKER_02]: Thank you.
+[SPEAKER_00]: I'm such a fucking boomer about this shit, man.
+[SPEAKER_05]: Alright.
+[SPEAKER_01]: We have a turn order.
+[SPEAKER_01]: Aladin, take your surprise action.
+[SPEAKER_05]: Alright.
+[SPEAKER_01]: I will.
+[SPEAKER_01]: You're aiming at the leader?
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: OK.
+[SPEAKER_01]: Select target.
+[SPEAKER_01]: Wait, was that an attack route?
+[SPEAKER_01]: That looked like it was an 18 to hit.
+[SPEAKER_04]: Yeah.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: 18 will hit.
+[SPEAKER_01]: Roll your damage.
+[SPEAKER_01]: Total of five?
+[SPEAKER_01]: Can I press the Apply button?
+[SPEAKER_01]: I can.
+[SPEAKER_05]: Oops.
+[SPEAKER_05]: That didn't work.
+[SPEAKER_05]: I was doing my own thing.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Uh... Alligator...
+[SPEAKER_01]: Uh... Jonathan, I need, uh, probably an athletics roll from you.
+[SPEAKER_01]: I imagine it's not acrobatics.
+[SPEAKER_00]: Nah, athletics, for sure.
+[SPEAKER_00]: For sure.
+[SPEAKER_00]: Hoisting myself, man.
+[SPEAKER_00]: Oh, so good!
+[SPEAKER_00]: Yeah!
+[SPEAKER_00]: Fucking body that shit.
+[SPEAKER_02]: I don't give a fuck.
+[SPEAKER_01]: Yeah, no problem.
+[SPEAKER_01]: No problem.
+[SPEAKER_01]: Just reach up there, grab the top, and one hand already coming off of the edge as you pull yourself up over.
+[SPEAKER_04]: Nice.
+[SPEAKER_01]: So you will start combat up here.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: As soon as you come over the top, this person here, who you had not seen before...
+[SPEAKER_01]: Spots you and starts to shout a warning.
+[SPEAKER_04]: Oh, shit.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Who is next in initiative order?
+[SPEAKER_01]: Davey, take your shot.
+[SPEAKER_01]: Are you also aiming at the leader?
+[SPEAKER_03]: I'm also aiming at the leader.
+[SPEAKER_01]: Yep, yep, yep, yep.
+[SPEAKER_03]: Brutal.
+[SPEAKER_03]: I saw 19 for a minute.
+[SPEAKER_04]: Could I give... Oh, it's not going to make a difference.
+[SPEAKER_01]: I forgot to give my bardic inspiration.
+[SPEAKER_01]: No.
+[SPEAKER_01]: Yeah, that wouldn't help.
+[SPEAKER_01]: You don't get a bonus on surprise actions.
+[SPEAKER_01]: And yeah, one's a one.
+[SPEAKER_01]: All right, so...
+[SPEAKER_01]: you line up your shot uh but trying to thread the needle miss the thug hit the leader it ends up going wide arcs out over into the town somewhere uh and luckily you don't hear like a shout of pain in the distance that's good that's that went a lot better than i was expecting it's fine this is fine uh
+[SPEAKER_01]: The guards have noticed that shit started to immediately pop off and have readied their spears.
+[SPEAKER_01]: Oh, I never rolled initiative for Elior, because I don't know how to do that as a character.
+[SPEAKER_01]: What I do know, I'll just add him to the combat and roll from there.
+[SPEAKER_01]: Cool, cool, cool, cool.
+[SPEAKER_01]: So it is his turn.
+[SPEAKER_01]: I think Elior's, like, opening gambit, he loves that ice knife, doesn't he?
+[SPEAKER_04]: Yep.
+[SPEAKER_01]: He really does.
+[SPEAKER_01]: I've never played a sorcerer.
+[SPEAKER_01]: I'm not going to get into all the meta magic shit.
+[SPEAKER_01]: But ice knife, what is...
+[SPEAKER_01]: It's got an area effect, right?
+[SPEAKER_01]: I don't want to hit the guards.
+[SPEAKER_01]: Each creature within five feet.
+[SPEAKER_04]: Oh, yeah.
+[SPEAKER_04]: Aim for the two thugs.
+[SPEAKER_01]: You can aim for the nearest thug.
+[SPEAKER_01]: Yeah, which actually won't hit the leader at all because the leader is walked out ahead.
+[SPEAKER_04]: But he can hit both thugs, right?
+[SPEAKER_01]: He could hit the one and then the follow-on damage to both.
+[SPEAKER_01]: It is a ranged attack targeting that guy.
+[SPEAKER_01]: Let's see, 16 to hit, definitely.
+[SPEAKER_01]: definitely hits uh and then they have to make saves right oh i hate this i i i'm starting to really just kind of hate the foundry
+[SPEAKER_01]: Where do I find your spell save DC for characters?
+[SPEAKER_01]: Oh, I found it.
+[SPEAKER_01]: Spell DC is 13.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: It is a... Dex save DC 13.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: God, no wonder we're so fucking slow at this.
+[SPEAKER_01]: This shit is hard.
+[SPEAKER_01]: First one.
+[SPEAKER_01]: Did not save.
+[SPEAKER_01]: And, oh, the one I was going to name Thug C because I didn't want to name him Thug B. I accidentally left it as Thug B.
+[SPEAKER_01]: Different Thug B.
+[SPEAKER_01]: Also did not save.
+[SPEAKER_01]: Great.
+[SPEAKER_01]: So, Elior lines up
+[SPEAKER_01]: pulls his arm back and you see ice crystals kind of gather around his fist as he pulls back and as he throws it forward a sharp shard of ice with like little trailing blades behind it comes flying out and slams into the nearest thug it sticks for a second and then bursts out with all these
+[SPEAKER_01]: overly large icicle spikes drilling both the guy who was stuck with the knife and the man next to him.
+[SPEAKER_01]: For... What is the damage on Ice Knife?
+[SPEAKER_01]: It is a d10.
+[SPEAKER_01]: For a solid two points of damage to the first one.
+[SPEAKER_01]: And then I believe is it another...
+[SPEAKER_01]: And then 2d6.
+[SPEAKER_01]: I'll just go over here.
+[SPEAKER_01]: 2d6.
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: So the first one takes 10 points of damage.
+[SPEAKER_01]: And the second one takes 8.
+[SPEAKER_04]: Take that?
+[SPEAKER_01]: Yeah, yeah.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Now.
+[SPEAKER_01]: Brill Thule, give us your acrobatics check to get up.
+[SPEAKER_01]: 13.
+[SPEAKER_01]: You make it, but you kind of like
+[SPEAKER_01]: get a like a two-step running start and springboard off the bench onto the top of the flower cart and as your foot hits the top of the flower cart it like totally caves in the surface like it was not meant to carry a person's weight you managed to to still springboard off that and grab a hold of the awning and pull yourself
+[SPEAKER_01]: up to the top but you've absolutely a destroyed the the cart uh and b you are uh short a bonus action for this round uh so you have you've used your movement your bonus is gone uh and so it's you've got just an action left um i mean if i yeah perception that's really the only thing i can do at this point then
+[SPEAKER_02]: I will look around.
+[SPEAKER_01]: You will look around.
+[SPEAKER_01]: Yeah, the most obvious.
+[SPEAKER_01]: You see the person that started to shout a warning when she spotted Jonathan?
+[SPEAKER_01]: She was facing towards the cart and she turned her head when someone started to climb up.
+[SPEAKER_01]: And you can see that when she had turned her head,
+[SPEAKER_01]: She definitely has the flying snake tattoo.
+[SPEAKER_01]: It goes up the side of her neck.
+[SPEAKER_01]: I'm sorry, what was the total?
+[SPEAKER_01]: 14?
+[SPEAKER_01]: You can also see in through the little bars in the front of the paddy wagon, and you recognize a face poking out of it.
+[SPEAKER_01]: It's the burned guy that...
+[SPEAKER_01]: got arrested by the Watch.
+[SPEAKER_00]: Oh, the fellow we took into the... Oh, yeah.
+[SPEAKER_00]: Hell yeah.
+[SPEAKER_01]: And, like, he can't do much because he is locked up in a paddy wagon.
+[SPEAKER_01]: His hands aren't manacled, though, so that might have been an oversight on the Watch's part.
+[SPEAKER_01]: You can clearly see him gripping the box.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: And actually, I believe... it is his turn...
+[SPEAKER_01]: And he's not going to do anything except grip the bars harder.
+[SPEAKER_01]: Hasn't said a word, mostly just watching right now.
+[SPEAKER_01]: Aladin, it's your turn.
+[SPEAKER_04]: I'm going to use the bonus action first.
+[SPEAKER_04]: with Davey.
+[SPEAKER_04]: And be like, come on, I know you got this.
+[SPEAKER_01]: Let's take out the leader.
+[SPEAKER_01]: So Davey, that is a d6 of bardic inspiration for when you need it.
+[SPEAKER_04]: And I'm going to take another shot at the leader with my crossbow.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Roll it.
+[SPEAKER_04]: Ooh.
+[SPEAKER_04]: Can I use my Lucky?
+[SPEAKER_01]: You absolutely can.
+[SPEAKER_01]: Try that again.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: A total of 16?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: 16 hits.
+[SPEAKER_01]: the tremors of the universe realign for a moment and what could have happened did not wait why did that you rolled attack again damage there you go uh three total all right uh so the arrow
+[SPEAKER_01]: three points it doesn't like sink into him um but it cuts a stripe across one shoulder before flying forward and clattering across the way all right what else that was action and bonus you got a movement uh yeah i'm gonna
+[SPEAKER_01]: into the ladder?
+[SPEAKER_04]: Yep.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Or at least behind some cover.
+[SPEAKER_01]: I mean, that is the ladder up and down right there.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Jonathan, you are up.
+[SPEAKER_02]: Oh, boy.
+[SPEAKER_02]: I'm coming for that homie.
+[SPEAKER_02]: I'm coming to fuck him up.
+[SPEAKER_02]: All right, well, I don't like the look of this guy.
+[SPEAKER_02]: So I'm going to five.
+[SPEAKER_01]: Yeah, she's actually pretty gnarly looking.
+[SPEAKER_00]: 15.
+[SPEAKER_00]: I am going to, and just so I remember correctly, I can use my smites after I've confirmed I've made a hit, correct?
+[SPEAKER_01]: That is correct.
+[SPEAKER_01]: You don't have to commit ahead of time.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: Then, you know what I gotta do?
+[SPEAKER_01]: Yep, I think I do.
+[SPEAKER_00]: I'm smacking him.
+[SPEAKER_00]: Out comes the morning star.
+[SPEAKER_00]: That better fucking hit.
+[SPEAKER_00]: Damn, son!
+[SPEAKER_01]: I'm pretty sure that hits.
+[SPEAKER_01]: 22 total?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: That landed.
+[SPEAKER_02]: Okay, let me kick my smite.
+[SPEAKER_02]: Give me just one moment here.
+[SPEAKER_02]: 1d6.
+[SPEAKER_02]: 2d6.
+[SPEAKER_01]: Radiant damage, correct?
+[SPEAKER_02]: There's a few.
+[SPEAKER_02]: I have a few options.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Ooh, 2d8.
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: I'm going to...
+[SPEAKER_02]: I'm going to phone a friend and ask the crew, should they use Thunderous Smite, which is 2d6, and also if they don't succeed on a strength saving throw, they get pushed 10 feet away and have prone, which means they're certainly getting knocked off of this.
+[SPEAKER_01]: Oh, certainly.
+[SPEAKER_02]: Or I can hit them with the Divine Smite, which is just a straight up 2d8.
+[SPEAKER_04]: I like the first option.
+[SPEAKER_02]: Also, the caveat is Thunderous Smite will let out an audible thunder ring within 300 feet.
+[SPEAKER_01]: Well, I think if you're hoping for a surprise attack, that moment has passed.
+[SPEAKER_02]: Fuck it, we ball.
+[SPEAKER_02]: I'm going to use two spell slots.
+[SPEAKER_02]: So I get... Do whatever the fuck you want now.
+[SPEAKER_02]: The damage increases by... Yeah, so it would actually be 3d6.
+[SPEAKER_02]: So I will roll for damage there.
+[SPEAKER_01]: D8 for your Morningstar.
+[SPEAKER_01]: 3d6 for your Smite.
+[SPEAKER_01]: And then it's a save of some sort?
+[SPEAKER_02]: A strength saving throw.
+[SPEAKER_01]: Strength save.
+[SPEAKER_01]: Awesome.
+[SPEAKER_01]: I don't know what the DC is.
+[SPEAKER_01]: It's your spell save DC.
+[SPEAKER_01]: This lady looks a little sickly.
+[SPEAKER_01]: Looks like she's not very strong.
+[SPEAKER_01]: Wait, this takes...
+[SPEAKER_00]: I want to cast it at the... Oh, I guess do I not have... Why is it only letting me cast first level?
+[SPEAKER_00]: I have two spells.
+[SPEAKER_01]: You have two slots.
+[SPEAKER_01]: Can you...
+[SPEAKER_01]: It'll tell you if you can upcast the spell or not.
+[SPEAKER_02]: It's fine.
+[SPEAKER_02]: Yeah, okay.
+[SPEAKER_02]: So it's only 2d6.
+[SPEAKER_01]: Oh, is...
+[SPEAKER_01]: Sorry, which one is this?
+[SPEAKER_01]: It's the...
+[SPEAKER_02]: Oh wait, no, for each spell slot, level above 1.
+[SPEAKER_02]: Oh wait, no, but I don't have a lot, I don't, I understand.
+[SPEAKER_02]: Don't mind me, I don't have any level 2 spell slots.
+[SPEAKER_02]: So 2d6, which I'm going to roll now.
+[SPEAKER_01]: Do it.
+[SPEAKER_01]: Roll your, yep, and also roll your... Morningstar.
+[SPEAKER_02]: 12 damage.
+[SPEAKER_02]: Plus now they need to roll a strength save against my what again?
+[SPEAKER_01]: I'm pretty sure it's against your spell save DC, which is listed on your spell page in the top.
+[SPEAKER_01]: 12.
+[SPEAKER_01]: So, okay, so it's a DC 12 strength save.
+[SPEAKER_02]: Fail, fail, fail, fail, fail, fail, fail, fail.
+[SPEAKER_02]: Fuck you.
+[SPEAKER_01]: I'm glad I chose to roll that publicly.
+[SPEAKER_00]: Every time I try and do something funny.
+[SPEAKER_01]: It would have been, too.
+[SPEAKER_01]: But it still takes full damage, right?
+[SPEAKER_00]: Yeah, yeah, damage is still damage, so.
+[SPEAKER_01]: So it is 12 total?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: You should say this person looks like sickly and they're out here fucking withstanding a thunderous smite and getting smacked in the head with a fucking mace or morning star.
+[SPEAKER_01]: Morning star, yeah.
+[SPEAKER_01]: When I say frail and sickly, I mean twisted and corpse-like.
+[SPEAKER_01]: Hell yeah.
+[SPEAKER_01]: Yeah, she doesn't look like a good or happy person.
+[SPEAKER_01]: So that morning star, you give it one good loop, swing, and bring it down on top of her.
+[SPEAKER_01]: And when it hits, there's a giant kaboom.
+[SPEAKER_01]: Leaves and stuff get blown away from the area.
+[SPEAKER_01]: Litter on the ground shakes and rattles.
+[SPEAKER_01]: The windows rattle in the buildings near you.
+[SPEAKER_01]: And her eyes go crossed for a minute before coming back to focus directly on you.
+[SPEAKER_02]: Uh-oh.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: That's your move?
+[SPEAKER_02]: That is my move indeed.
+[SPEAKER_01]: Good turn.
+[SPEAKER_01]: Davey, you're up.
+[SPEAKER_01]: You missed with your shot.
+[SPEAKER_01]: I would like you to, just for my sake, roll your stealth again, and I want to see if you're still hidden or not.
+[SPEAKER_03]: Yeah, that's fair.
+[SPEAKER_01]: This is not an action or anything.
+[SPEAKER_01]: I just want to see what happened.
+[SPEAKER_01]: Total of... 12.
+[SPEAKER_01]: I mean, you feel comfortable that you're pretty well hidden there in the middle of the street.
+[SPEAKER_01]: Okay.
+[SPEAKER_03]: I will shoot at the leader again.
+[SPEAKER_03]: Yup.
+[SPEAKER_03]: 16 to hit.
+[SPEAKER_01]: I believe 16 hits, yes.
+[SPEAKER_03]: Nice.
+[SPEAKER_01]: However, you are not rolling sneak attack damage on this.
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: Three.
+[SPEAKER_01]: So, as you let loose with the bolt, it's like he hears it coming, and he turns around with his short sword to try and knock the bolt out of the way.
+[SPEAKER_01]: It doesn't quite make it.
+[SPEAKER_01]: It cuts a gash across his cheek.
+[SPEAKER_01]: That definitely takes those three points of damage.
+[SPEAKER_03]: Okay, and I'm guessing I should, I need to hide again.
+[SPEAKER_01]: Uh, bonus action, hide.
+[SPEAKER_01]: Yes, indeed.
+[SPEAKER_01]: Uh, do you want to do it there, or do you want to move first?
+[SPEAKER_03]: I'll move a little bit.
+[SPEAKER_03]: I will, let's see, duck behind that stall.
+[SPEAKER_01]: The half-crushed stall?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: With the growth wolf footprint in it?
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: Perfect.
+[SPEAKER_01]: Okay, roll it.
+[SPEAKER_01]: Uh, 15.
+Okay.
+[SPEAKER_01]: All right, you're pretty sure you are covered there.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Next up is the lady in front of Justice.
+[SPEAKER_01]: Oh, hey, look.
+[SPEAKER_01]: Dane showed up.
+[SPEAKER_01]: Or didn't show up.
+[SPEAKER_01]: Commented.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: So, that lady that you just racked with a thunderous sonic boom, kinda her eyes come back and focus on you and
+[SPEAKER_01]: They're definitely burning with anger, but there is more there than anger, right?
+[SPEAKER_01]: There is some sort of light in her eyes that makes you a little bit uncomfortable to look at.
+[SPEAKER_01]: And she says, Thunder, is it?
+[SPEAKER_01]: She raises her arms up like this and drops a giant
+[SPEAKER_01]: Kaboom!
+[SPEAKER_01]: In front of you.
+[SPEAKER_01]: I need you to make a con saving throw.
+[SPEAKER_01]: That's a e-justice.
+[SPEAKER_00]: I'm sorry, say that again?
+[SPEAKER_01]: I need you to make a con save.
+[SPEAKER_00]: Con save?
+[SPEAKER_00]: Yeah, I got that.
+[SPEAKER_00]: Sorry.
+[SPEAKER_00]: Con save.
+[SPEAKER_00]: Normal.
+[SPEAKER_00]: Fuck you.
+[SPEAKER_00]: Are you kidding me?
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: So, for the second time within like six seconds...
+[SPEAKER_01]: Roughly.
+[SPEAKER_01]: Another boom echoes through the area.
+[SPEAKER_01]: Oddly enough, just as loud as your boom, it also travels 300 feet.
+[SPEAKER_01]: So again, leaves are pushed out and you take...
+[SPEAKER_01]: I believe it is thunder damage.
+[SPEAKER_01]: There you go.
+[SPEAKER_01]: Six points of thunder damage, and I believe just like your spell, you get thrown back ten feet.
+[SPEAKER_02]: I just got fucking one-upped by a girl.
+[SPEAKER_01]: A crazy one.
+[SPEAKER_02]: That's bullshit, bro.
+[SPEAKER_01]: She hikes herself up over this edge and stands up behind the thugs.
+[SPEAKER_01]: I am so glad I had that spell prepared, because, like, it's too good.
+[SPEAKER_01]: Too good.
+[SPEAKER_01]: Okay, that's her turn.
+[SPEAKER_01]: Guard the first.
+[SPEAKER_01]: Seeing as how shit has popped off for real and it's time to earn their keep, attempts to skewer...
+[SPEAKER_01]: this man with a spear good lord a guard hit something uh rolled an 18 or four points of damage uh the guard says
+[SPEAKER_01]: Nah, we're getting this one home.
+[SPEAKER_01]: He jowls forward with that spear, cuts a stripe down the guy's ribs.
+[SPEAKER_01]: What are you guys talking about in general chat?
+[SPEAKER_02]: I don't know, man.
+[SPEAKER_02]: He's just saying shit.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: uh okay uh that is guard's turn he is not moving that is his position he will hold it next is the leader uh who finally gets a turn right he's been shot at multiple times stuck with a spear and he turns and he looks and he looks inside the the wagon there he says erstel i don't think you're worth this
+[SPEAKER_01]: And you hear from within the wagon, get me out and I'll make it worth this.
+[SPEAKER_01]: I believe he pretty much has to attack a guard in front of him.
+[SPEAKER_01]: So.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Short sword attack.
+[SPEAKER_01]: Oh wait, that's gonna hit.
+[SPEAKER_01]: And damage.
+[SPEAKER_01]: Gets a pretty good swing on the guard, right, over the top of that spear.
+[SPEAKER_01]: He kind of like puts one hand out to push the spear aside and swipes over the top, leaving a nasty gash right across the bridge of that guard's nose.
+[SPEAKER_01]: Uh, he then turns and casts... Oh, I don't like this, because... His spells aren't actually listed?
+[SPEAKER_01]: Like, I have to...
+[SPEAKER_01]: I have to look him up?
+[SPEAKER_01]: What is this?
+[SPEAKER_01]: What is this garbage?
+[SPEAKER_01]: I have to read in a book?
+[SPEAKER_01]: Ugh.
+[SPEAKER_01]: I'm not sure I know how to do that anymore.
+[SPEAKER_01]: So after that one swipe, he takes his other hand off the spear and gives it one of these at the other guard.
+[SPEAKER_01]: And you hear in this beautifully melodious voice, I don't think you want to be here.
+[SPEAKER_01]: And he's got to make a wisdom save.
+[SPEAKER_01]: Ooh, actually with advantage.
+[SPEAKER_01]: Because the fighting has started.
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Well, he rolled a seven and a four, so I don't think either of those are going to cut it.
+[SPEAKER_01]: The other guard kind of lowers his spear and puts his hand on his friend's shoulder and is like, man, we don't need to do this.
+[SPEAKER_01]: I mean, the guy in there, he's not worth this.
+[SPEAKER_01]: We should leave.
+[SPEAKER_01]: And that is...
+[SPEAKER_01]: the leader's turn all right thug the first uh is going to let's cut this corner properly that's 25 feet yep so bro fool where you've just climbed up on the awning there is now a very large man holding a very large mace like right over you um
+[SPEAKER_01]: What is his... Foundry, you are starting to really piss me off.
+[SPEAKER_01]: Does a... Nat 1 hit.
+Fuck!
+[SPEAKER_01]: So, despite being like...
+[SPEAKER_01]: almost like off guard, like you just climbed up a wall.
+[SPEAKER_01]: Sorry, you didn't climb up a wall, you like parkoured up a wall and almost lost your footing and this guy still doesn't manage to land a strike.
+[SPEAKER_01]: You feel bits of rock kind of blink off from the tile as he misses you and sinks the mace clean into the ground.
+[SPEAKER_01]: I don't believe he gets anything special.
+[SPEAKER_01]: Nope.
+[SPEAKER_01]: No, wait, wait, wait.
+[SPEAKER_01]: Does he get two attacks?
+[SPEAKER_01]: He does.
+[SPEAKER_04]: Second.
+[SPEAKER_04]: How does he magically get two attacks?
+[SPEAKER_01]: He gets two attacks per turn.
+[SPEAKER_04]: Level, dude.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: But does an eight hit?
+[SPEAKER_01]: I'm thinking not.
+[SPEAKER_02]: No.
+[SPEAKER_01]: uh yeah once you go up like usually level five for fighting classes you get two attacks per attack uh action uh if you go all the way to the top as a fighter i think you get four yeah fighters are wild if you go all the way to 20. and if you do a wheel you make it five yeah uh
+[SPEAKER_01]: All right, so neither swing manages to hit home, and I don't know if he is more mad at you or his mace at this point.
+[SPEAKER_01]: I'm a little disappointed with this dude, but...
+[SPEAKER_01]: It's a little embarrassing.
+[SPEAKER_01]: He's having an off day, all right?
+[SPEAKER_01]: We call it pulling a Jonathan.
+[SPEAKER_01]: That's not nice.
+[SPEAKER_02]: I thought we were friends.
+[SPEAKER_02]: I thought we were all nice to each other.
+[SPEAKER_01]: We are absolutely friends.
+[SPEAKER_01]: I come from that generation.
+[SPEAKER_01]: The one where...
+[SPEAKER_01]: The one that says mean things.
+[SPEAKER_01]: Yeah, the one that can only show affection by talking shit.
+[SPEAKER_01]: Let's see, the Charm Guard is up.
+[SPEAKER_01]: Yep, yep, yep, yep.
+[SPEAKER_01]: The Charm Guard is up.
+[SPEAKER_01]: He's not going to attack.
+[SPEAKER_01]: He's going to attempt to convince his friend that, like, it's not worth it.
+[SPEAKER_01]: Besides, these are our friends.
+[SPEAKER_01]: Why are we gonna fight our friends for some criminal, low-life piece of shit?
+[SPEAKER_01]: Which, he's got a shit charisma score, so like, borrowing a nat 20, which he did not get.
+[SPEAKER_01]: The other guard shakes his arm off his shoulder.
+[SPEAKER_01]: What in the hell is wrong with you?
+[SPEAKER_01]: uh next up is elior how many spell slots does this man have oh a lot more than i thought cool uh elior is going to reposition oh her elevation's all up
+[SPEAKER_01]: There we go.
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Can I get them both there?
+[SPEAKER_01]: Nope.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Since I can't launch a thunder wave, and everyone's pretty well spaced out, ooh, I don't want to hit the fool.
+[SPEAKER_01]: He's going to step up here and take aim at the other magic caster.
+[SPEAKER_01]: And this time we're going to throw an ice knife, but we're going to bump it up a level.
+[SPEAKER_01]: Because they're not my spell slots.
+[SPEAKER_01]: An 18 to hit.
+[SPEAKER_01]: It'll definitely hit.
+[SPEAKER_01]: And then she's got to make a save on dex.
+[SPEAKER_01]: Uh, an 11?
+[SPEAKER_01]: What is his... And his spell DC is 13.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Full damage.
+[SPEAKER_01]: The initial ice strike does 6 points of damage.
+[SPEAKER_01]: And then another 2d6.
+[SPEAKER_01]: And then after the ice shard bursts for an extra seven points of damage, she's looking bad, right?
+[SPEAKER_01]: For all the glib talk she gave about dishing back thunder between the first hit and the second one, she is hurting for certain.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Last move is Thug, who can't make it over to Jonathan, but can make it to Brothul.
+[SPEAKER_01]: Let's see if his buddy is a little bit better at his job.
+[SPEAKER_01]: First attack.
+[SPEAKER_01]: Uh, pretty sure the last guy rolled that, so that's an 8 to hit.
+[SPEAKER_01]: Second attack.
+[SPEAKER_02]: No dice.
+[SPEAKER_01]: Uh, 12 to hit.
+[SPEAKER_02]: No dice.
+[SPEAKER_01]: So, the second thug walks up to his buddy, laughing at him, says, let me show you how it's done.
+[SPEAKER_01]: And, like, takes two enormous swings at you.
+[SPEAKER_01]: And through your bugbear-like bendiness, you just kind of get out of the way both times.
+[SPEAKER_01]: And the mace continues to chip into the brickwork.
+[SPEAKER_01]: The first thug is kind of less mad at himself now.
+[SPEAKER_01]: Because apparently it's not just him.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Second turn.
+[SPEAKER_01]: Back to the top of initiative order.
+[SPEAKER_01]: Brothul, you're up.
+[SPEAKER_01]: These two idiots.
+[SPEAKER_01]: Oh, that second idiot actually had advantage because he was next to his idiot friend.
+[SPEAKER_01]: That's fine.
+[SPEAKER_01]: We'll do it next time.
+[SPEAKER_01]: These two idiots just tried to shorten you by about a foot.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: You said they're large humans, so they're still medium class, right?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: They're still classified as medium, but they're one good steak dinner from falling into the large category.
+[SPEAKER_02]: Okay, no, fair enough.
+[SPEAKER_02]: I shall attempt to stab this one.
+[SPEAKER_01]: Naturally.
+[SPEAKER_01]: I'm going to use a... Fuck, where was it?
+[SPEAKER_02]: I found it, and I used it, and then I didn't.
+[SPEAKER_01]: Blood Rite?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Breath of the Storm.
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: Yep, yep, yep.
+[SPEAKER_02]: That's a bonus action before I do this.
+[SPEAKER_02]: And so that should make me take 84.
+[SPEAKER_02]: So one damage.
+[SPEAKER_02]: Probably move through that.
+[SPEAKER_02]: And now I'll attack this dude.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Okay.
+[SPEAKER_01]: 11 for a total of 16.
+[SPEAKER_01]: Definitely hits.
+[SPEAKER_05]: Cool.
+[SPEAKER_02]: There's six, and he's going to take the extra D4.
+[SPEAKER_01]: Yep, yep.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Dirty.
+[SPEAKER_01]: That's... What do you got?
+[SPEAKER_01]: total of 13 yep oh right so this guy has been ice knives and then now skewered with a rapier he's having a bad day it's not it's not looking good for him he's
+[SPEAKER_01]: leaking from several holes uh but still standing uh any sort of repositioning anything you want to do i don't think i can move past any of them without invoking an attack of opportunity right you will at least one guy will have an attack of opportunity if you want to get around them because you'll have to go around the guy on the left which will give one to the guy on the right
+[SPEAKER_02]: Or I could drop to the ground below.
+[SPEAKER_01]: Or you could just drop back down.
+[SPEAKER_01]: It is a 20-foot drop, so you're going to have to make athletics or acrobatics to not take 2d6 fall damage.
+[SPEAKER_02]: Hmm.
+[SPEAKER_02]: You've got... No, I think I'll just stand my ground and hope that others can do things.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Guy in the cage.
+[SPEAKER_01]: Whom you will recall... Oh, I guess I can make him appear if I haven't done that already.
+[SPEAKER_01]: What just happened?
+[SPEAKER_01]: All my selections... Oh, cool.
+[SPEAKER_01]: I'm off the... Yeah, sure.
+[SPEAKER_01]: Sure, why not?
+[SPEAKER_01]: uh can't do much let's roll a strength check against those bars just off the off chance of no nope he's uh rattling at the bars but he can't seem to get out okay next up is aladin so you duck deck back down behind the ladder you've got angle on one thug and one leader
+[SPEAKER_04]: I'm trying to think how I can use Suggestion to take one of these guys out of the game.
+[SPEAKER_01]: If you cast Suggestion in mid-combat after you've started hurting them,
+[SPEAKER_01]: No, it's not like the charm spell.
+[SPEAKER_01]: He doesn't have advantage if you have hurt them.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Any suggestions?
+[SPEAKER_01]: 25 words to tell this guy?
+[SPEAKER_02]: I don't have anything in the chamber at the moment.
+[SPEAKER_02]: I say believe in yourself and the heart of the cards, and that's all you ever need.
+[SPEAKER_04]: Hold on.
+[SPEAKER_04]: OK.
+[SPEAKER_04]: I'm checking my weapons.
+[SPEAKER_04]: Like, if I tell him to come down by me and kneel on his feet,
+[SPEAKER_04]: facing away from me.
+[SPEAKER_04]: Or kneel on his knees and facing away from me.
+[SPEAKER_01]: And I'm not just like... Once he's done it, the suggestion's over.
+[SPEAKER_04]: Kneel on his feet, stay away from me for the next hour.
+[SPEAKER_04]: All right.
+[SPEAKER_04]: Can I not just like split his throat?
+[SPEAKER_01]: I mean, you'll get advantage on the attack, but as soon as you make an aggressive move against him, spell's broke.
+[SPEAKER_04]: Sure, but I just slid his throat.
+[SPEAKER_01]: Well, you get advantage on your attack roll.
+[SPEAKER_01]: As soon as you reach for him with a knife, all bets are off, and now he's fighting again.
+[SPEAKER_04]: Yeah, he's not going to see it coming because he's not facing away from me.
+[SPEAKER_04]: I'm not doing anything that's asking him to do anything that's of danger to him.
+[SPEAKER_04]: He's just making himself...
+[SPEAKER_01]: So it doesn't obviously deal damage to him or his allies, so he would probably do it.
+[SPEAKER_04]: Yes.
+[SPEAKER_01]: But as soon as you go for an attack, like I said, you get advantage because he's kneeling and not facing you, but you don't have any sort of sneak attack
+[SPEAKER_04]: That can do crazy damage, yeah.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Davey, do you have something that could do that?
+[SPEAKER_01]: Davey can do an extra d6 on a successful sneak attack.
+[SPEAKER_04]: Extra d6 of damage?
+[SPEAKER_03]: Yeah, but that's with my dagger, which is not as powerful as my crossbow.
+[SPEAKER_01]: Wait, you should get an extra d6 on a ranged sneak attack.
+[SPEAKER_01]: Oh no, you're right.
+[SPEAKER_03]: You're absolutely right.
+[SPEAKER_01]: Yeah, okay, cool.
+[SPEAKER_02]: Yeah, I think I'm carrying 5e.
+[SPEAKER_02]: It's just, you get it.
+[SPEAKER_02]: It's amazing.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: I was thinking it would also be Slitting Throat.
+[SPEAKER_01]: Rogues, man.
+[SPEAKER_01]: Alright, so there's no...
+[SPEAKER_01]: There's no sneak attack or anything perceivably that I could take him.
+[SPEAKER_01]: To kill the guy...
+[SPEAKER_01]: Not realistically.
+[SPEAKER_01]: I mean, you don't know what his health's at.
+[SPEAKER_01]: But there is no...
+[SPEAKER_01]: Suggestion is not an execution spell, right?
+[SPEAKER_01]: Suggestion is a get-the-guy-out-of-there spell.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: All right.
+[SPEAKER_05]: All right.
+[SPEAKER_02]: kneel before me down here and explain everything about what you're doing here and why you attacked Trollskull
+[SPEAKER_05]: Don't move till I say so.
+[SPEAKER_05]: That's 24.
+[SPEAKER_01]: So that's two suggestions.
+[SPEAKER_01]: Come down here and explain everything.
+[SPEAKER_05]: Don't move until I say so.
+[SPEAKER_01]: It's one activity.
+[SPEAKER_05]: Yeah.
+[SPEAKER_01]: I think you are putting way too much weight on this second level spell.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: I mean, the examples are things like leave and don't come back.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Trying to figure out if there's a way I can get information out of him.
+[SPEAKER_01]: Well, I mean, you could ask him to explain and he'll sit and explain himself until he's sufficiently explained.
+[SPEAKER_01]: But then he's back in the fight.
+[SPEAKER_05]: Okay.
+[SPEAKER_02]: Explain to me in the greatest detail possible why you attacked Trollskull Alley.
+[SPEAKER_02]: And what this guy has to do with it.
+[SPEAKER_02]: The guy in the...
+[SPEAKER_01]: Okay.
+[SPEAKER_04]: The prisoner, dude.
+[SPEAKER_01]: Yeah, we'll say it's magic.
+[SPEAKER_01]: Intention comes across.
+[SPEAKER_01]: Okay, what is your spell DC?
+[SPEAKER_05]: 13.
+[SPEAKER_05]: Yes.
+[SPEAKER_01]: So the spell goes off, and your magical words penetrate his psyche.
+[SPEAKER_01]: And he looks at you kind of confused.
+[SPEAKER_05]: Says, we didn't attack Trollskull.
+[SPEAKER_05]: And goes right back to it.
+[SPEAKER_01]: I also said why... Because this guy was at Trollskull.
+[SPEAKER_01]: The prisoner, no?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah, he was there.
+[SPEAKER_01]: You saw him.
+[SPEAKER_01]: Whether or not he knows he was there, I don't know.
+[SPEAKER_01]: He knows he was captured.
+[SPEAKER_01]: And he is bringing him loose.
+[SPEAKER_01]: But...
+[SPEAKER_01]: He didn't attack Trollskull.
+[SPEAKER_01]: At least as far as he is...
+[SPEAKER_01]: confidently aware of.
+[SPEAKER_05]: Okay.
+[SPEAKER_04]: I'm guessing they were there to spy on the meeting or fall over an air or whatever and there was another party involved.
+[SPEAKER_01]: Well, if he's still alive after this, you can ask again or burn another spell slot.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Then I'm going to use a
+[SPEAKER_01]: bardic inspiration jonathan are you still going i can't see up there he's yeah he's up there um he got knocked back by a thunder blast a little bit but i think it's still good yeah yeah i'm gonna say jonathan let's knock some heads um in hopes that he'll push those two guys off
+[SPEAKER_04]: But Bardic Inspiration for Jonathan.
+[SPEAKER_01]: Jonathan, you've got a d6 of Bardic Inspiration for the next ten minutes, should you need it on any d20 roll.
+[SPEAKER_02]: Hell yeah.
+[SPEAKER_01]: So...
+[SPEAKER_01]: Okay, is that your turn?
+[SPEAKER_01]: Uh... Oh, uh... Can I climb up the ladder and hide behind the wagon?
+[SPEAKER_01]: You may attempt to...
+[SPEAKER_01]: Yes, well, not hide, because you don't have any actions left, but your movement's still there.
+[SPEAKER_05]: Yeah.
+[SPEAKER_01]: Hold on, we'll have to, there you go.
+[SPEAKER_01]: Okay, ducked behind the wagon.
+[SPEAKER_01]: Gotcha.
+[SPEAKER_01]: Okay, so speaking of knocking heads, Justice, you're up.
+[SPEAKER_05]: Well, let's football tackle those guys off.
+[SPEAKER_01]: Yeah, you can do a running body check.
+[SPEAKER_01]: It'd be a contested strength, your athletics versus their... Would that be my action or would that just be part of my movement?
+[SPEAKER_01]: That would be your movement and action to body check them.
+[SPEAKER_01]: It would...
+[SPEAKER_04]: You need like 300 kick them.
+[SPEAKER_02]: This is water deep.
+[SPEAKER_01]: Yeah, if you have the charger feet, you can do it with your bonus action.
+[SPEAKER_01]: Or if you have shield master, you can show someone without running.
+[SPEAKER_02]: There's also shove in unarmed combat.
+[SPEAKER_02]: It's just a lot riskier.
+[SPEAKER_01]: Yeah, that's a...
+[SPEAKER_01]: I was going to say I would make it like a grapple.
+[SPEAKER_02]: Yeah, I mean, there's actually shove rules for it if you want.
+[SPEAKER_02]: They're basically the same as grapple, though.
+[SPEAKER_02]: You make an unarmed attack hit.
+[SPEAKER_02]: Once you hit, then there's a DC check.
+[SPEAKER_01]: Oh, yeah, yeah, yeah.
+[SPEAKER_01]: So, yeah, it's strength plus proficiency, right?
+[SPEAKER_02]: Yeah, it's basically the DC check is eight plus your strength plus your proficiency.
+[SPEAKER_02]: And if they fail, you can push them five feet, which means he would go right through me.
+[SPEAKER_02]: And that would still be an action?
+[SPEAKER_02]: Yeah, it's an attack action.
+[SPEAKER_01]: So he could run up right here if he wanted to and shove the guy off this way.
+[SPEAKER_01]: Yeah, that's true.
+[SPEAKER_01]: At 20 feet, you're looking at 2d6 fall damage.
+[SPEAKER_01]: And also, not up here anymore.
+[SPEAKER_02]: Yeah, it's not insignificant.
+[SPEAKER_02]: Yeah, alright.
+[SPEAKER_02]: 5, 10, 15, 20, 25...
+[SPEAKER_02]: Uh...
+[SPEAKER_02]: I'm gonna...
+[SPEAKER_01]: But, like, you could get the same effect, I think, with a Thunderous Smite that would deal damage if you didn't.
+[SPEAKER_02]: Yeah, that's what I'm gonna do.
+[SPEAKER_02]: I'm just gonna do the exact same thing I did before, so... Yep.
+[SPEAKER_02]: Are you fucking... No, Bardic... Can I Bardic Inspiration that shit?
+[SPEAKER_01]: You can, but at the best, it will bring you to a seven.
+[SPEAKER_01]: Actually, no, because I think a one is still a one no matter what.
+[SPEAKER_01]: Ah.
+[SPEAKER_02]: What does Bardic Inspiration do again?
+[SPEAKER_01]: I thought it was a reroll.
+[SPEAKER_01]: No, that's his luck ability.
+[SPEAKER_01]: Well, I know lucky.
+[SPEAKER_04]: You just add the d6, so if you're close but not over, it can bump you over.
+[SPEAKER_02]: Cool.
+[SPEAKER_02]: Well, I guess I will go fuck myself then.
+[SPEAKER_01]: So you run up behind him to body check him off the edge of this building or off the edge of this causeway.
+[SPEAKER_01]: And he kind of steps back into you, interrupts your flow.
+[SPEAKER_01]: Luckily, neither of you go tumbling off the edge.
+[SPEAKER_01]: Is there a bonus you'd like to make?
+[SPEAKER_02]: I don't really think I have a bonus.
+[SPEAKER_01]: I think yours are all keyed towards a successful attack.
+[SPEAKER_02]: That's really going to do much.
+[SPEAKER_01]: You can Shield of Faith somebody.
+[SPEAKER_01]: You can give somebody plus two AC.
+[SPEAKER_02]: Yeah, I'm going to save it for now.
+[SPEAKER_01]: For sure.
+[SPEAKER_01]: OK.
+[SPEAKER_01]: Davey, you're up.
+[SPEAKER_01]: All right, I will keep shooting at the leader.
+[SPEAKER_01]: Keep shooting at the leader.
+[SPEAKER_01]: I have to remember all the way back.
+[SPEAKER_01]: I don't remember what your stealth rule was.
+[SPEAKER_01]: It's been a minute.
+[SPEAKER_01]: Can't I search chat?
+[SPEAKER_01]: Stealth tech.
+[SPEAKER_01]: What's a 15?
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Take your shot at the leader.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I'm so mad.
+[SPEAKER_01]: 16 to hit.
+[SPEAKER_01]: 16 will hit.
+[SPEAKER_01]: I...
+[SPEAKER_01]: Don't remember the rules.
+[SPEAKER_01]: It's meets it, beats it, and it's whoever's rolling, right?
+[SPEAKER_01]: Sorry, what?
+[SPEAKER_01]: For a tied score, whoever's rolling if they tie wins, right?
+[SPEAKER_01]: Meets it, beats it?
+[SPEAKER_05]: I think so.
+[SPEAKER_01]: I think so?
+[SPEAKER_01]: So I'm going to say add your sneak attack damage to this.
+[SPEAKER_05]: Sorry, my dog keeps yelling.
+[SPEAKER_03]: What was that?
+[SPEAKER_01]: I'm going to say add your sneak attack damage to this shot.
+[SPEAKER_03]: Oh, nice.
+[SPEAKER_03]: Hell yeah.
+[SPEAKER_03]: Alright.
+[SPEAKER_03]: I will roll damage and I will add a d6.
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: 15.
+[SPEAKER_01]: Finally.
+[SPEAKER_01]: Woof.
+[SPEAKER_01]: So for all the shots and stabs that have missed this man, we finally have one that lands its mark.
+[SPEAKER_01]: The bolt sinks in and you see his face tighten in some serious pain.
+[SPEAKER_01]: Before it was a facade.
+[SPEAKER_01]: Now the situation started to get to him.
+[SPEAKER_01]: Okay.
+[SPEAKER_03]: I'm gonna duck just on the other side of the bridge and hide over here.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Another stealth check.
+[SPEAKER_05]: Yes.
+[SPEAKER_05]: 22.
+[SPEAKER_01]: Davey does his disappearing act yet again.
+[SPEAKER_01]: hiding amongst the rubble so they know you're there somewhere but they don't know where they're nice okay uh that's your turn yes that is her turn she is dealing with dog stuff yep all good is the mage
+[SPEAKER_01]: Let's see.
+[SPEAKER_01]: Jonathan there.
+[SPEAKER_01]: Davy somewhere.
+[SPEAKER_01]: Rofu there.
+[SPEAKER_01]: There.
+[SPEAKER_05]: Here.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Let me double check.
+[SPEAKER_02]: I am thinking of the right spell.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: So...
+[SPEAKER_01]: The mage, starting to feel like the battles may be turning, basically says, to hells with this, walks over, raises her hand up like this in a fan shape, and a bunch of colors...
+[SPEAKER_01]: erupt from her fingertips bright shining magical variegated colors and slam both guards full in the face so i roll i haven't cast this since like i don't know how long
+[SPEAKER_01]: starting with him mine is moving on to him so those the shining light pattern blasts out and both guards are immediately blinded
+[SPEAKER_01]: the their site has been stolen uh from a color spray i haven't been able to cast color spray since like fifth grade uh fucking illusionist spells man yeah right right never never use it uh they're all just kind of like reeling
+[SPEAKER_01]: And she steps past one guard up on the wagon and says, Agorn, are you coming?
+[SPEAKER_01]: And that is her turn.
+[SPEAKER_01]: The guard who was blinded and is very hurt.
+[SPEAKER_04]: Wait, when you say guard, are you talking about the guys between Jonathan and Bertholdt?
+[SPEAKER_04]: Or the guards with the spears.
+[SPEAKER_01]: The guards with the spears.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So you just hear this happening on the other side of the wagon from you.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: What?
+[SPEAKER_01]: Here we go.
+[SPEAKER_01]: Can't see.
+[SPEAKER_01]: You can't see and automatically fail.
+[SPEAKER_01]: Any ability check?
+[SPEAKER_01]: Attack rolls against you have advantage, and your attack rolls have disadvantage.
+[SPEAKER_01]: So the guard that's standing up here with this guy lashes out blindly with his spear because he can't see anything.
+[SPEAKER_01]: You can see the rising sense of panic on his face.
+[SPEAKER_01]: His eyes unfocused, staring at sudden darkness.
+[SPEAKER_01]: I'm going to do a normal attack roll, but then I'm going to roll d4 high-low and see who he's aiming at.
+[SPEAKER_01]: Oh, it doesn't matter.
+[SPEAKER_01]: He rolled a seven, and I didn't even do disadvantage.
+[SPEAKER_01]: OK.
+[SPEAKER_01]: So he swipes around wildly with his spear, but he can't see, and he can't land anything.
+[SPEAKER_01]: That is his turn.
+[SPEAKER_01]: Uh, the leader guy says, yes, I suppose.
+[SPEAKER_05]: Uh, let me double check.
+[SPEAKER_01]: Did I just totally miss where that mage lady came from?
+[SPEAKER_01]: She dropped a thunder spell on Jonathan.
+[SPEAKER_01]: Was that the same one that was up here?
+[SPEAKER_01]: Yeah, she's... She... On her first turn, she walked towards the middle of the bridge.
+[SPEAKER_01]: And then she walked the rest of the way.
+[SPEAKER_01]: Okay, all right.
+[SPEAKER_01]: And jumped up on the wagon.
+[SPEAKER_04]: Okay, that was the same one that was over here, okay.
+[SPEAKER_04]: She went out of my view, and I guess I thought she died.
+[SPEAKER_04]: Sorry.
+[SPEAKER_01]: Yeah, no, you just... You couldn't see her through the wagon.
+[SPEAKER_05]: Let's give it one more roll.
+[SPEAKER_02]: Yes, that'll hit.
+[SPEAKER_02]: I'm sure I'm targeting the guard.
+[SPEAKER_02]: Not Brothul.
+[SPEAKER_01]: talk about having just what you need narratively.
+[SPEAKER_01]: The man she dressed as Aegorn says, yes, I suppose I am.
+[SPEAKER_01]: And his arm flicks out with that short sword and slices open the blind and flailing guard's neck.
+[SPEAKER_01]: And he immediately drops.
+[SPEAKER_05]: And is out of the fight.
+[SPEAKER_01]: And with that, he steps over the body.
+[SPEAKER_01]: Jumps up on top of the cart.
+[SPEAKER_01]: Somebody with a character sheet in front of him, because he doesn't have this skill listed.
+[SPEAKER_01]: Is the skill for animal handling check wisdom?
+[SPEAKER_05]: Yes, it is.
+[SPEAKER_05]: Let's do it.
+[SPEAKER_05]: Okay.
+[SPEAKER_01]: He steps up on the buckboard, picks up the reins, gives him a slap, and him and the mage take off
+[SPEAKER_01]: Can I not move people with a multi-select?
+[SPEAKER_01]: What the fuck, Foundry?
+[SPEAKER_01]: Oh, cool.
+[SPEAKER_01]: I can move the people, but not the cart.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: That's 35, 40, 45, 55, 60.
+[SPEAKER_01]: Jonathan, I need you to make a dex save.
+[SPEAKER_01]: Oh, great.
+[SPEAKER_01]: It's not a hard decent.
+[SPEAKER_01]: Great.
+[SPEAKER_01]: So you throw yourself out of the way as this cart comes rambling across the causeway there.
+[SPEAKER_01]: Hooray!
+[SPEAKER_01]: And they are not gone, but headed off screen.
+[SPEAKER_01]: And I still don't know why I can't move the fucking cart.
+[SPEAKER_01]: Oh, because it's not a unit.
+[SPEAKER_01]: It's a tile.
+[SPEAKER_01]: Sure.
+[SPEAKER_01]: Sure, sure, sure.
+[SPEAKER_01]: Why not?
+[SPEAKER_02]: Okay.
+[SPEAKER_01]: That's their turn.
+[SPEAKER_01]: This idiot thug gets his second chance at life against Brothul.
+[SPEAKER_01]: Does a... Oh, please fucking tell me that.
+[SPEAKER_05]: 15 hits.
+[SPEAKER_05]: Me?
+[SPEAKER_02]: Brothul.
+[SPEAKER_02]: Oh, Brothul.
+[SPEAKER_02]: I think so.
+[SPEAKER_02]: My AC is 15.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: 15 hits.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Take... Ha!
+[SPEAKER_01]: Solid three points of damage.
+[SPEAKER_02]: Ow.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: There's more where that came from.
+[SPEAKER_01]: Does a nat 20 hit?
+[SPEAKER_02]: Does a nat 20?
+[SPEAKER_02]: Yes.
+[SPEAKER_01]: Take another eight.
+[SPEAKER_01]: As the first swing clips you, knocks you off balance, and the second one strikes home right in the middle of your gut, doubles you over.
+[SPEAKER_01]: This is the man you just poked with a rapier, by the way.
+[SPEAKER_01]: Uh...
+[SPEAKER_02]: Who's also been shot by a crossbow.
+[SPEAKER_02]: I imagine he's pretty ornery right now.
+[SPEAKER_01]: Oh, yeah.
+[SPEAKER_01]: He is hurt and pissed and hurt and angry.
+[SPEAKER_01]: Oh, I forgot the dex save for the blind guard.
+[SPEAKER_01]: Oh, who automatically fails because it's a dex save on a blind man.
+[SPEAKER_01]: Let me roll that damage for him real quick.
+[SPEAKER_01]: Where did my... Oh, I accidentally drugged the guard along with us.
+[SPEAKER_01]: Which is probably right.
+[SPEAKER_01]: He probably got drugged a few feet as that cart rumbles over the top of him.
+[SPEAKER_01]: But... Total 10 points of damage?
+[SPEAKER_01]: Oh yeah, that's a body.
+[SPEAKER_05]: Nope, sorry.
+[SPEAKER_05]: I deaded the wrong guy.
+[SPEAKER_05]: Disga.
+[SPEAKER_01]: So both members of the City Watch are dead.
+[SPEAKER_01]: One slashed open and the other trampled underneath horse hooves and cartwheels.
+[SPEAKER_01]: Turns out guards don't have good stats.
+[SPEAKER_01]: Elior.
+[SPEAKER_01]: Can probably get a shot in on people fleeing.
+[SPEAKER_05]: Can move there for 20.
+[SPEAKER_05]: Oh yeah, easily.
+[SPEAKER_02]: What's he got left in the bag, though?
+[SPEAKER_01]: Can't Thunder Wave them.
+[SPEAKER_01]: Can Ice Knife one and get both?
+[SPEAKER_01]: Let's do that.
+[SPEAKER_05]: Make sure I'm targeting the right guy.
+[SPEAKER_01]: Why?
+[SPEAKER_01]: Well, I had the wrong guy.
+[SPEAKER_01]: Oh, I was targeting the dead guard body again.
+[SPEAKER_01]: Doesn't matter.
+[SPEAKER_01]: Rolled a six total.
+[SPEAKER_01]: The ice knife goes wide and explodes like a frosty firework over the sky.
+[SPEAKER_01]: Wait.
+[SPEAKER_01]: No.
+[SPEAKER_01]: Even on a miss.
+[SPEAKER_01]: I think I still get the area effect.
+[SPEAKER_01]: Dane would know if he were here.
+[SPEAKER_01]: Hit or miss, the shard then explodes.
+[SPEAKER_01]: The firework goes off closer to the ground than expected.
+[SPEAKER_01]: Aiming at both of them for two dose six.
+[SPEAKER_01]: Oops, that's one.
+[SPEAKER_01]: That's two.
+[SPEAKER_01]: Sixes!
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Oh, shit.
+[SPEAKER_01]: 12 points of damage.
+[SPEAKER_01]: Yeah, man.
+[SPEAKER_01]: Hell yeah.
+[SPEAKER_01]: uh it doesn't get it done but that explosion was not pretty oh yep uh what about the mage oh does not get it done but when that icy burst goes off that mage is barely hanging on looking rough all right good shooting elior
+[SPEAKER_01]: I believe that leaves just the last thug.
+[SPEAKER_01]: Who also missed Brothul explosively on his turn.
+[SPEAKER_01]: So, attack the first.
+[SPEAKER_01]: Oh, I thought I was going to roll a 2 again for a minute.
+[SPEAKER_01]: 17 to hit.
+[SPEAKER_05]: That on me?
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: Yeah.
+[SPEAKER_01]: Four.
+[SPEAKER_01]: Five points of damage with his mace.
+[SPEAKER_01]: Then... Oh, nope.
+[SPEAKER_01]: Well, I rolled one.
+[SPEAKER_01]: We'll roll the other.
+[SPEAKER_01]: 15 to hit, which I think already does.
+[SPEAKER_01]: Yep.
+[SPEAKER_01]: For another... 4 points of damage.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: So, 2 more chunky pieces of iron bouncing off of your hide and bones as they're just standing atop this wall attempting to batter you off the edge.
+[SPEAKER_01]: uh with that though on his turn uh rothul you have an attack of opportunity coming because he is going to step away and stand near jonathan take your attack of opportunity if you would like i would like
+[SPEAKER_01]: Brothel gets it.
+[SPEAKER_01]: He's stepping into your range.
+[SPEAKER_01]: But you would also like if he got it.
+[SPEAKER_05]: 21 will definitely, definitely hit.
+[SPEAKER_01]: I was going to say, do you still get the Blood Rite?
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: 14 points.
+Oof.
+[SPEAKER_01]: Not looking hot.
+[SPEAKER_01]: Did not expect to take that much heat from a rapier as he walked away.
+[SPEAKER_01]: But he's leaving a trail of blood across the road there as he stands threateningly in Jonathan's space.
+[SPEAKER_01]: And with that, we are in our third round with BroFool.
+[SPEAKER_02]: I'm going to try to take out this dude in front of me.
+[SPEAKER_05]: Yeah, for sure.
+[SPEAKER_05]: That'll hit.
+[SPEAKER_05]: Pop up damage thing.
+[SPEAKER_02]: I hate it when it does this.
+[SPEAKER_01]: I probably need a bigger instance.
+[SPEAKER_01]: That might be half of our trouble.
+[SPEAKER_01]: there it is 10 uh plus so 12 total yep i think yep it's gonna sink them so you reach out and run the thug clean through which leads to i want to use the reaction finally
+[SPEAKER_02]: He's actually got someone he can take at five feet and hit.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I think you've got to roll it, Nick.
+[SPEAKER_02]: I have to roll it?
+[SPEAKER_02]: Yeah, I don't think I can roll for the token.
+[SPEAKER_02]: But it's just a standard attack against this dude.
+[SPEAKER_02]: So he'll move right here, and then he'll attack him.
+[SPEAKER_01]: Five feet, and he can hit.
+[SPEAKER_01]: So tell us what just happened.
+[SPEAKER_01]: Tell us what this looks like.
+[SPEAKER_02]: Basically, what it's going to look like is as he starts falling to the ground, I will probably glow a little bit with my Rite of...
+[SPEAKER_02]: I can't remember what the fuck that thing is called.
+[SPEAKER_01]: Rite of the Storm.
+[SPEAKER_01]: Crimson Rite, Rite of the Storm.
+[SPEAKER_02]: No, this is...
+[SPEAKER_02]: So the Rite of the Storm is what I'm using for the extra damage.
+[SPEAKER_02]: This is actually going to be the...
+[SPEAKER_02]: Red of the Equinox.
+[SPEAKER_01]: That's right.
+[SPEAKER_01]: So I'm going to glow... An autumnal glow.
+[SPEAKER_02]: Yeah, I'm going to glow like moonlight for a second.
+[SPEAKER_02]: And then you will see his blood glow the same way while I'm glowing.
+[SPEAKER_02]: And then he'll, instead of falling, stagger over here and attack.
+[SPEAKER_02]: And then he dies.
+[SPEAKER_01]: And I'll look glowing that way.
+[SPEAKER_01]: I...
+[SPEAKER_01]: i want you to roll uh sorry does he take a standard action attack or just make one attack because he takes two per turn that's a great question let me read it i don't know is it an attack action or just a attack great question blood hunter class tell me
+[SPEAKER_05]: Crimson Ride.
+[SPEAKER_05]: Not that one.
+[SPEAKER_05]: This is a curse.
+[SPEAKER_05]: Blood Curse of the Fallen Puppet.
+[SPEAKER_02]: One weapon attack.
+[SPEAKER_02]: Not an attack action.
+[SPEAKER_01]: Roll a d20 for me.
+[SPEAKER_01]: That's going to hit.
+[SPEAKER_01]: That is for sure going to hit.
+[SPEAKER_01]: So roll a d6 plus two.
+[SPEAKER_01]: Yes.
+[SPEAKER_01]: Ha!
+[SPEAKER_01]: Yes!
+[SPEAKER_01]: Full damage.
+[SPEAKER_01]: So eight points of damage to this man.
+[SPEAKER_01]: Absolutely unexpected.
+[SPEAKER_01]: So you guys all... Oops, wrong number.
+[SPEAKER_01]: You guys all see this, right?
+[SPEAKER_01]: Brothul runs a man through, and as that man starts to fall and the light leave his eyes and instead travels into the blood that's been seeping out of him, and he glows and stands back upright, it doesn't do quite a shamble.
+[SPEAKER_01]: It's less zombie and more animate than that.
+[SPEAKER_01]: But he turns around woodenly,
+[SPEAKER_01]: picks his mace up, and conks his friend over the head with it.
+[SPEAKER_01]: And then I believe he collapses to the ground.
+[SPEAKER_02]: Very dead.
+[SPEAKER_01]: The glow leaving him.
+[SPEAKER_01]: The blood oddly dark, like it had dried in the two seconds it took him to turn around and be his buddy, but no longer moving.
+[SPEAKER_04]: Wait, so Berthul has some weird crazy shit that, like, when he kills someone, that he can, like, control them through his blood to attack someone else within five feet?
+[SPEAKER_01]: Berthul's got some weird crazy shit.
+[SPEAKER_02]: Yes, that would be accurate.
+[SPEAKER_01]: That's wild.
+[SPEAKER_02]: I just haven't killed anybody yet.
+[SPEAKER_02]: It's fucking crazy.
+[SPEAKER_04]: Right?
+[SPEAKER_04]: Oh, yeah.
+[SPEAKER_04]: I was like, why have I not seen this before?
+[SPEAKER_01]: Well, you have.
+[SPEAKER_01]: You have, but there was no one, like, near enough.
+[SPEAKER_01]: Because he's only got, like, a five-foot radius.
+[SPEAKER_01]: So it only happens when, like, you're fighting...
+[SPEAKER_04]: He's got to kill someone, and they've got to be in range of another person.
+[SPEAKER_01]: Yeah.
+Yeah.
+[SPEAKER_02]: The weird thing, though, is the thing I've been waiting for is if you kill somebody with a loaded crossbow, they still get their loaded crossbow range, right?
+[SPEAKER_04]: Yeah.
+[SPEAKER_02]: But I just haven't managed to do that.
+[SPEAKER_04]: Can you chain this attack?
+[SPEAKER_04]: What if the person you kill is then near another person?
+[SPEAKER_02]: Yes, if you are high enough level to have multiple rights.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: That's wild.
+[SPEAKER_01]: Not yet.
+[SPEAKER_02]: Yeah, but I mean, like, a level 20 blood hunter could, like, you know, find a bunch of kobolds and be like, ha ha.
+[SPEAKER_00]: Bop, bop, bop, bop, bop.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Like, the victim would just die.
+[SPEAKER_01]: Cool.
+[SPEAKER_01]: Next turn is the prisoner in the cart who has gone from hanging out at the front bars watching everything to watching the back bars as this cart is exiting the scene and can't do much.
+[SPEAKER_01]: Aladin, it is your turn.
+[SPEAKER_01]: I have advantage on this mage dude at the bottom, right?
+[SPEAKER_01]: You have what?
+[SPEAKER_01]: Advantage, because I'm 20 feet higher.
+[SPEAKER_01]: There's nobody down there except Davey.
+[SPEAKER_01]: Oh, that's Davey.
+[SPEAKER_01]: Shit, sorry.
+[SPEAKER_01]: You're 70 feet away from the two people driving the cart, and there's a cart between you and them.
+[SPEAKER_01]: And you are 60 feet away from the guy in the back of the cart.
+[SPEAKER_01]: It wasn't really done anything.
+[SPEAKER_01]: Like, to contribute to the battle.
+[SPEAKER_01]: He's probably done all sorts of shit.
+[SPEAKER_01]: Where'd my music go forever ago?
+[SPEAKER_01]: Why is it doing this to me?
+[SPEAKER_05]: Fuck you, Pandora.
+[SPEAKER_01]: All right, so what are we doing, Aladin?
+[SPEAKER_04]: Trying to figure... What's the movement speed on the cart?
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: 60 per turn for the first turn, but now that the horses are up to speed, I think it's 120.
+[SPEAKER_04]: Oh, shit.
+[SPEAKER_04]: Okay, so we're about to lose them.
+[SPEAKER_01]: Yeah, they're about gonzo.
+[SPEAKER_04]: So I could move... 30 feet.
+[SPEAKER_01]: You can move 30.
+[SPEAKER_04]: Why is it not letting me move?
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: Oh, it might be, hang on, it might be because I forgot to, yep, set your elevation when you went up the ladder.
+[SPEAKER_01]: Try it now.
+[SPEAKER_04]: Wait.
+[SPEAKER_04]: How far can I, oh, okay.
+[SPEAKER_01]: Uh, yeah.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: And then that leaves me... 35 feet.
+[SPEAKER_04]: Shite.
+[SPEAKER_04]: All right, so I'm not within suggestion range.
+[SPEAKER_01]: Yep, 120 feet per turn.
+[SPEAKER_04]: Is one of them driving the cart?
+[SPEAKER_01]: Certainly.
+[SPEAKER_01]: You can't see which one it is.
+[SPEAKER_01]: All you know is the cart like disappeared behind you and now there's two dead guards on the bridge.
+[SPEAKER_01]: Like you were hiding behind it and it just went and was gone.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: I'm going to cast Sleep.
+[SPEAKER_01]: Sleep?
+[SPEAKER_04]: Sleep, yes.
+[SPEAKER_04]: In between them, so that they both fall asleep.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Let me... What is the...
+[SPEAKER_01]: It's a five-foot sphere, is that right?
+[SPEAKER_04]: Yeah, I'm seeing if it's worth it for me to cast it at a higher level, but I don't think there is.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: OK, yeah, I'm just going to cast Sleep between them, like right there.
+[SPEAKER_01]: OK, so I believe this is a hit point based, or is it a save?
+[SPEAKER_04]: No, it's a DC 13 wisdom save.
+[SPEAKER_01]: DC 13 wisdom save.
+[SPEAKER_04]: And I'm going to use a lucky or unlucky for them.
+[SPEAKER_01]: For which one?
+[SPEAKER_04]: Whoever just rolled that 20.
+[SPEAKER_01]: OK.
+[SPEAKER_00]: I've got...
+[SPEAKER_04]: Yeah, I used one earlier, so goddammit.
+[SPEAKER_01]: OK. Screw your dice.
+[SPEAKER_01]: Now the second one.
+[SPEAKER_01]: OK.
+[SPEAKER_01]: So somebody on that cart.
+[SPEAKER_01]: incapacitated all you have to be is in range yep they have to if they take damage if someone wakes them up they have to repeat the save on the next turn or go unconscious they are currently just incapacitated
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Do you have a bonus action you want to take?
+[SPEAKER_01]: Um... Yeah, I'm gonna do a healing on Brathul.
+[SPEAKER_04]: Healing ward.
+[SPEAKER_01]: Healing ward?
+[SPEAKER_01]: Okay.
+[SPEAKER_05]: Roll it.
+[SPEAKER_05]: Um...
+[SPEAKER_01]: Rathul, take eight points of healing.
+[SPEAKER_01]: And what is your song to soothe his wounds?
+[SPEAKER_01]: Or whatever.
+[SPEAKER_01]: What's your word?
+[SPEAKER_04]: Rise up, my friend.
+[SPEAKER_04]: We're not done with this fight yet.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Jonathan, you are up.
+[SPEAKER_01]: You have a thug who just got cracked over the skull, but it's still standing right in your face.
+[SPEAKER_01]: And this cart is like whizzing past.
+[SPEAKER_01]: But if you're quick enough, you could catch up to it.
+[SPEAKER_00]: Is there one driver?
+[SPEAKER_01]: There are two people on the cart.
+[SPEAKER_00]: One of whom is asleep.
+[SPEAKER_01]: One of them is incapacitated and will be asleep next turn if they fail their save again.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: I'm going to whip out a Compelled Duel on them.
+[SPEAKER_00]: On whoever is not asleep.
+[SPEAKER_04]: Nice.
+[SPEAKER_01]: What...
+[SPEAKER_01]: What is the rule on Compelled Doom?
+[SPEAKER_00]: It's a bonus action.
+[SPEAKER_00]: I have to have concentration.
+[SPEAKER_00]: And a creature I can see within range, which is 30 feet, makes a wisdom save.
+[SPEAKER_00]: On failed save, target has disadvantage against attack rolls other than me.
+[SPEAKER_00]: And it can't move to a space that's more than 30 feet away.
+[SPEAKER_01]: Okay, so you can see...
+[SPEAKER_01]: The one person, it's that mage.
+[SPEAKER_01]: You can see her kind of around the edge of the cart.
+[SPEAKER_01]: I don't think you can see the driver.
+[SPEAKER_01]: Let me see.
+[SPEAKER_02]: There's still...
+[SPEAKER_02]: Does it...
+[SPEAKER_01]: I'm looking.
+[SPEAKER_01]: I can see... Where's my...
+[SPEAKER_00]: I mean, I guess either way, what I can do is... Like, it is a bonus action.
+[SPEAKER_05]: Uh-huh.
+[SPEAKER_02]: So I think I would want to try that, and if that fails, then I'm going to try and jump onto the cart.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: So if I need to move to put them in view, I'll do it.
+[SPEAKER_01]: Okay, yeah.
+[SPEAKER_01]: You'll probably have to get up to, like... Come on, fucker.
+[SPEAKER_01]: Here?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: By there, you can see, yeah.
+[SPEAKER_01]: This mage is slumped over.
+[SPEAKER_01]: This guy's got the reins, and he is pushing him hard.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: I'm going to compel him to duel me.
+[SPEAKER_01]: Compel him to duel you.
+[SPEAKER_01]: Sorry, what did you say the save was?
+[SPEAKER_01]: Wisdom.
+[SPEAKER_01]: Wisdom save.
+[SPEAKER_01]: DC 12.
+[SPEAKER_01]: I'm going to roll this one public, just like all the others.
+[SPEAKER_02]: Fuck you.
+[SPEAKER_02]: All right, well, I'm jumping on the cart.
+[SPEAKER_01]: Fat fucking chance.
+[SPEAKER_01]: Awesome.
+[SPEAKER_01]: Give me an acrobatics.
+[SPEAKER_02]: Acrobatics?
+[SPEAKER_01]: Yeah, you're trying to land yourself on a moving vehicle.
+[SPEAKER_02]: I don't like that.
+[SPEAKER_01]: DC's 12.
+[SPEAKER_01]: It's not hard.
+[SPEAKER_01]: It's maybe hard.
+[SPEAKER_04]: Use that bardic inspiration, bro.
+[SPEAKER_04]: Yeah, you got a D6.
+[SPEAKER_04]: A d6 instead of a dc12.
+[SPEAKER_01]: Yeah, you're right.
+[SPEAKER_01]: You're right.
+[SPEAKER_01]: You got to roll a six.
+[SPEAKER_01]: You got to roll a seven.
+[SPEAKER_01]: Because he's got a minus one to his dex.
+[SPEAKER_00]: All right.
+[SPEAKER_00]: You know what?
+[SPEAKER_00]: Was that my action?
+[SPEAKER_01]: No, it was your move.
+[SPEAKER_01]: You've had your bonus.
+[SPEAKER_01]: You've had your move.
+[SPEAKER_00]: You still have an action.
+[SPEAKER_01]: He's been hit, right?
+[SPEAKER_01]: Who's been hit?
+[SPEAKER_01]: They've both been hit, for sure.
+[SPEAKER_00]: All right, I'm going to do the only thing I think I can do.
+[SPEAKER_00]: Uh-huh.
+[SPEAKER_00]: I'm going to hit him with a Toll the Dead.
+[SPEAKER_01]: Ooh, I love this cantrip.
+[SPEAKER_01]: What does this do?
+[SPEAKER_01]: More damage if you're injured.
+[SPEAKER_01]: It's like my favorite cleric cantrip, and paladins also get it.
+[SPEAKER_01]: It's also a save, right?
+[SPEAKER_02]: It is also a Wisdom DC save.
+[SPEAKER_01]: Same.
+[SPEAKER_01]: 12.
+[SPEAKER_01]: Fuck yeah.
+[SPEAKER_01]: No dice.
+[SPEAKER_01]: Hit him with it.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Solid.
+[SPEAKER_00]: Uh... Is that everything it would do?
+[SPEAKER_00]: Yeah, okay.
+[SPEAKER_01]: Yeah, it's just actually...
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Nope.
+[SPEAKER_01]: That's the wrong direction.
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: so there's this loud boom of a funeral bell and you see the driver stiffen up and then lean down and snap the reins hard uh still standing but not by much uh i think that was everything yeah um yeah
+[SPEAKER_01]: Davey, you are up.
+[SPEAKER_01]: You are their last hope before they're gonzo, and you are 20 feet below them on a wall.
+[SPEAKER_01]: Got any special moves?
+[SPEAKER_01]: Is Davey dealing with puppy problems?
+[SPEAKER_01]: Oh.
+[SPEAKER_01]: Oh.
+[SPEAKER_00]: Yeah, here, let me just hang on.
+[SPEAKER_00]: Welcome to hell.
+[SPEAKER_03]: Can you hear me?
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: Hey, can you guys hear me?
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: Okay, cool.
+[SPEAKER_03]: Sorry, my headphones stopped working.
+[SPEAKER_01]: Ah, gotcha.
+[SPEAKER_01]: Uh, so you are the last chance before they exit out of there because they'll be gone before Elior's turn rolls around.
+[SPEAKER_01]: However, you are at the base of a 20-foot wall and can't quite see them.
+[SPEAKER_01]: Do you got anything you can pull out to get a clear shot?
+[SPEAKER_03]: Hmm, I do have, um, hunting action dash.
+[SPEAKER_03]: Could I use that to climb up?
+[SPEAKER_01]: Uh...
+[SPEAKER_01]: If you can make the athletics check to get up this tarp, then yes.
+[SPEAKER_03]: All right, I will try my best.
+[SPEAKER_01]: I am certain you can.
+[SPEAKER_01]: I am less certain that you can.
+[SPEAKER_03]: I'm going to use didn't.
+[SPEAKER_03]: I got bardic inspiration, right?
+[SPEAKER_01]: You do.
+[SPEAKER_01]: You do.
+[SPEAKER_01]: Yeah, you're within range.
+[SPEAKER_01]: Go for it.
+[SPEAKER_01]: That was not quite enough.
+[SPEAKER_01]: It's a DC 11 to climb the tarp.
+[SPEAKER_01]: Okay, so you race over here to the tarp and you try and climb up and the tarp started to like come loose.
+[SPEAKER_01]: And so as you pull on it, it's starting to come down and you can't get a purchase.
+[SPEAKER_01]: um what is the angle and you have a lot of movement left right because uh you've got cutting action dash that gives you what 60 total that sounds right yeah so like you've got what was that uh 35 35 feet left so let me draw a ray real quick just to see
+[SPEAKER_01]: So I haven't done any sort of Pythagorean bullshit in my head in a while.
+[SPEAKER_01]: Sitting up on top of a cart like that... You could probably run down here towards the bottom and take like a long shot to hit the mage.
+[SPEAKER_01]: I'll try that out.
+[SPEAKER_01]: Who is incapacitated?
+[SPEAKER_01]: What is your max range?
+[SPEAKER_03]: Let's see if I can find that information easily.
+[SPEAKER_01]: Should just be on the barrow in your sheet.
+[SPEAKER_01]: 320 is the max.
+[SPEAKER_01]: You can still take the shot, but you have disadvantage.
+[SPEAKER_03]: Okay, it's 80.
+[SPEAKER_03]: 320 is the max.
+[SPEAKER_01]: Okay, but to be honest, she's incapacitated, which would mean you'd have advantage, so I think it just cancels out anyway, and I think it's only like 60-ish.
+[SPEAKER_01]: We'll say straight roll.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: You probably... Yeah.
+[SPEAKER_01]: Yes!
+[SPEAKER_01]: Roll it.
+[SPEAKER_01]: Now we need the damage.
+[SPEAKER_03]: Seven.
+[SPEAKER_03]: Seven.
+[SPEAKER_01]: Oh, that'll do it.
+[SPEAKER_01]: That mage is done for.
+[SPEAKER_03]: Bye-bye.
+[SPEAKER_01]: So as the cart is kind of like rolling away and the mage is between the damage she's already taken and being rolled to sleep, her head rocks to one side and an arrow arcs up out from the plaza and finds just like a soft spot and sinks in.
+[SPEAKER_01]: the mage is done for.
+[SPEAKER_01]: Nice.
+[SPEAKER_01]: Does the other guy have any conditions?
+[SPEAKER_01]: Is he bleeding?
+[SPEAKER_01]: No?
+[SPEAKER_01]: I don't think anybody cast anything with conditions.
+[SPEAKER_04]: What is that icon on him?
+[SPEAKER_01]: Is there an icon on him?
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Looks like a bleeding icon.
+[SPEAKER_01]: bloodied uh it means he's he's taken a decent beating but like he's not like bleeding out or anything uh he is not dripping blood that we can follow uh i mean certainly but like this cart is i mean we can do the math later but it's uh it's 120 feet per six seconds um
+[SPEAKER_04]: Yeah, we ain't catching up, basically.
+[SPEAKER_01]: Yeah, yeah, yeah.
+[SPEAKER_01]: I mean, you've heard some names, and it's not going to be just you hunting for them when this little prisoner escort doesn't show up.
+[SPEAKER_01]: Odds are these people are fleeing underground.
+[SPEAKER_01]: Speaking of which, with the mage out, the driver is up next.
+[SPEAKER_01]: Whom you heard dressed as Aegorn.
+[SPEAKER_01]: so that's a hundred twenty feet down the way and they are officially the fuck out of there so with that we went kind of long tonight sorry about that I think we'll wrap up here you've got some clues to chase down and
+[SPEAKER_01]: The Zenurim are in the thick of everything.
+[SPEAKER_01]: You've got some nimble rights.
+[SPEAKER_01]: You need to find out who has the one you're after, where they're coming from.
+[SPEAKER_01]: There's been a prison break on somebody who was arrested on your premise.
+[SPEAKER_01]: Which is a point in your favor with the watch.
+[SPEAKER_01]: You all desperately tried to stop and came really fucking close.
+[SPEAKER_04]: Was there no one else in this alley that saw any of this go down?
+[SPEAKER_01]: No, I think that's probably why this alley was the ambush.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: But definitely more member of the Zhent room, which means the guy that was in your...
+[SPEAKER_01]: in your tavern is connected to them in some fashion.
+[SPEAKER_01]: Either he isn't or he's wanted by them.
+[SPEAKER_01]: He didn't seem unhappy to see them, so do with that what you will.
+[SPEAKER_01]: And we will start in next week with the aftermath.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Good job, guys.
+[SPEAKER_01]: Way to get back to it.
+[SPEAKER_01]: We really did it.
+[SPEAKER_01]: I didn't intend you to win the fight.
+[SPEAKER_01]: came very close like i need to it's so low levels man it's so like hit or miss yeah it's because the the dice rolls basically make all of it up we just don't have high enough bonuses yet so it's really hard to figure out that that difficulty level
