@@ -7,8 +7,9 @@ class: Bard
 subclass: College of Eloquence
 species: Human
 background: Entertainer
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -237,12 +238,26 @@ Cantrips:
 
 ## Session 15 Table-Facing Notes
 
-Aladeen's player was absent for this abbreviated session, so these actions were lightly piloted and may be retconned or replayed in session 16.
+Aladeen's player was absent for this abbreviated session, so these actions were lightly piloted. Session 16 replayed and superseded them where noted.
 
 - Used Healing Word to revive [[People/NPCs/Squiddly]] after the party pulled him from burning debris.
 - Stayed with [[People/NPCs/Tally Fellbranch]] after Fala's death and tried, awkwardly, to console him.
 - Gathered witness information around the alley and returned with nimblewright-owner leads, including [[People/NPCs/Davin Crommor]] of House Crommor.
-- Helped smooth the party's inquiry at [[Places/Sea Maidens Fair]], where workers pointed them toward Captain Fergus.
+- Helped smooth the party's inquiry at [[Places/Sea Maidens Fair]], where workers pointed them toward Captain Fergus; Session 16 later removed this Sea Maidens visit from table truth.
+
+## Session 16 Table-Facing Notes
+
+- Replayed the Fireball aftermath with his player present.
+- Checked on Nat, Jenks, and Squiddly; Squiddly remained concussed and fixated on someone wearing red.
+- Comforted a crying boy named Martem near the dead halfling musicians and directed him toward Trollskull's triage.
+- Questioned Vincent Trench and Vincent's high-class client, getting the key description of the red-cloaked, bright-hatted wood-and-metal attacker.
+- Saw Davy pocket a pouch from Dalakhar's body and noticed Davy had also been seen by another civilian.
+- Gave Cromley a limited statement: he was inside, came out after the blast, and helped people.
+- Publicly implied that the dead flying-snake thugs had been seen drinking at Frewn's, distracting Barnibus from Frewn's anti-Trollskull accusations.
+- Redirected the party away from the retconned Sea Maidens Fair visit and toward Blackstaff Tower, then Remallia.
+- Asked Vajra for an introduction to Laeral Silverhand and sent Remallia a paper-bird report signed by the Skullduggers.
+- Bought a healer's kit for 5 gp after the Fireball.
+- Used crossbow fire, Bardic Inspiration, Suggestion, Sleep, and Healing Word during Agorn's extraction of Urstul.
 
 ## Background and Arc Notes
 
@@ -258,7 +273,8 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - Track [[Threads/Aladeen and the Crommor Collapse|Aladeen's responsibility for the Crommor Collapse]] and whether he chooses to help the city hear a different version of the story.
 - Connect Aladeen's Waterdeep street upbringing to known neighborhoods, contacts, or rivals.
 - Determine whether House Crommor or its enemies still consider Aladeen useful, culpable, or dangerous.
-- Confirm with Aladeen's player whether the session 15 piloted choices stand, especially witness-gathering, the House Crommor lead, and the Sea Maidens Fair approach.
+- Track Aladeen knowing that Davy took Dalakhar's pouch and whether he confronts Davy about it.
+- Track whether Aladeen's counter-rumor against Frewn creates Watch, guild, or neighborhood blowback.
 
 ## Sources
 

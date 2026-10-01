@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-07-11
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/notes/dm-planning/session-4/vajra_recruitment.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
@@ -42,6 +43,15 @@ Vajra Safahr is the Blackstaff of Waterdeep. She summoned the party to [[Places/
 - Knew Aladeen as the jester known for mocking the Crommors.
 - Told Elior to tell his uncle she would return something borrowed before another fortnight passed.
 - Knew of the party's aid to Renaer and Floon, and warned that Waterdeep's eyes were now on them.
+
+## Session 16 Fireball Report
+
+- Received the party at [[Places/Blackstaff Tower]] after the Fireball instead of letting them continue directly to [[Places/Sea Maidens Fair]].
+- Heard that Dalakhar was tied to Dagult Neverember, that the attacker was a nimblewright, and that flying-snake thugs were dead near the gnome.
+- Immediately sent a paper bird to [[People/NPCs/Laeral Silverhand]] because possible Dagult/Neverwinter involvement made the matter political at the highest level.
+- Told the party that Laeral would decide whether to meet them.
+- Identified early nimblewright owners/sources to check: [[Places/House of Inspired Hands]], [[People/NPCs/Bojentra Summertaen]], Lord Deslinter, [[People/NPCs/Davin Crommor]], and later the City Armory.
+- Emphasized that nimblewrights are bespoke and the culprit's distinct appearance may identify its owner or source.
 
 ## Open Questions
 

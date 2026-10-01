@@ -7,8 +7,9 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Elior-level-3.pdf
   - ../raw/notes/handouts/s0-elior-backstory.md
@@ -246,6 +247,12 @@ Other listed magic:
 - Climbed to the likely rooftop origin with Broethuul and helped trace the attacker's route.
 - Read the session 14 tube message back to [[People/NPCs/Renaer Neverember]], connecting the "gnome" to Dalakhar.
 - Spoke with Renaer about Dagult Neverember and why Dalakhar wanted the meeting.
+
+## Session 16 Table-Facing Notes
+
+- Dane was mostly absent, so Elior was lightly piloted during the later group scene.
+- Supported the decision to go to Blackstaff Tower and remained part of the party report to Vajra.
+- Used Ice Knife repeatedly during Agorn's extraction of Urstul, injuring thugs, Agorn, and the Zhent spellcaster as the wagon fled.
 
 ## Background and Arc Notes
 

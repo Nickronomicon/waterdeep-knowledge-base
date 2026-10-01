@@ -1,8 +1,9 @@
 ---
 type: npc
 status: dead
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - Prep/Session Prep - 2026-08-20.md
 tags:
@@ -24,6 +25,11 @@ Dalakhar was a male rock gnome agent of Dagult Neverember. He was killed in the 
 - His pockets were searched after the blast by the red-clad nimblewright.
 - [[People/PCs/Davy]] took a pouch of five gemstones from his loose belongings.
 - A folded note among his effects read: "Trollskull mid-morning."
+
+## Session 16 Confirmation
+
+- The Session 16 replay confirmed Aladeen saw Davy pocket a pouch from Dalakhar's body.
+- Renaer again identified Dalakhar as a Waterdeep-based agent of Dagult Neverember, not someone newly arrived from Neverwinter.
 
 ## Session 15 Reveal
 

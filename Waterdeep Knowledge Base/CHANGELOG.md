@@ -15,6 +15,18 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-10-01] ingest | Session 16
+
+- Ingested [[Sessions/Session 16 - 2026-09-24]] from the session 16 transcript and session 16 prep, with the user-confirmed retcon that the Session 15 [[Places/Sea Maidens Fair]] visit never happened.
+- Created [[People/NPCs/Agorn Fuoco]] for the table-revealed Zhent extraction leader who escaped with [[People/NPCs/Urstul Floxin]].
+- Updated [[Sessions/Session 15 - 2026-08-20]] to mark the Sea Maidens Fair endpoint as retconned and preserve only the stable Fireball facts.
+- Updated active dashboards, [[Timeline/Campaign Timeline]], [[Dashboard/Player-Facing Synopsis]], [[Meta/DM Prep Source Map]], [[Meta/Raw Source Inventory]], [[INDEX]], and affected NPC/faction/object/PC pages for Blackstaff Tower, Remallia, Laeral, Urstul's extraction, and hidden-evidence state.
+- Sources read included `../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt`, empty `../raw/json_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.json`, `../raw/notes/dm-planning/session-16/notes.md`, [[Prep/Session Prep - 2026-09-24]], [[Sessions/Session 15 - 2026-08-20]], and affected entity/dashboard pages.
+
+Follow-up:
+
+- Start session 17 with the Watch wagon ambush aftermath: dead guards, surviving attackers if any, Agorn/Urstul's escape route, Watch reaction, and Remallia/Laeral/Vajra follow-up.
+
 ## [2026-09-24] prep | Session 16 Aladeen rewind and response teams
 
 - Created [[Prep/Session Prep - 2026-09-24]] from `../raw/notes/dm-planning/session-16/notes.md`, focusing on an Aladeen spotlight replay of the Session 15 Fireball investigation, retcon boundaries, witness/NPC cards, and rejoining the party timeline.

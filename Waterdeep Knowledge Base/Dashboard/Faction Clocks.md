@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/notes/dm-planning/session-3/prep-notes.md
@@ -12,6 +12,7 @@ source_paths:
   - Reference/Remix Response Teams.md
   - Reference/Remix Faction Outposts.md
   - Reference/Remix Revelation Lists.md
+  - Sessions/Session 16 - 2026-09-24.md
   - Sessions/Session 15 - 2026-08-20.md
   - Dashboard/Open Threads.md
 tags:
@@ -22,7 +23,7 @@ tags:
 
 # Faction Clocks
 
-Working DM-facing escalation dashboard after [[Sessions/Session 15 - 2026-08-20]]. These clocks are not strict mechanics; they are a quick way to decide what pressure moves next when the party spends time, runs Trollskull, ignores leads, makes noise, or exposes new information.
+Working DM-facing escalation dashboard after [[Sessions/Session 16 - 2026-09-24]]. These clocks are not strict mechanics; they are a quick way to decide what pressure moves next when the party spends time, runs Trollskull, ignores leads, makes noise, or exposes new information.
 
 Use [[Reference/Dragon Heist Remix Overview]], [[Reference/Remix Faction Outposts]], and [[Reference/Remix Response Teams]] when a clock triggers a concrete move.
 
@@ -44,12 +45,12 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 | Frewn Countermove | [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]] | 3/6 | Frewn has used posters and a planted complaint against undead service, but remains deniable. | Trollskull succeeds publicly, Lif becomes famous, party humiliates Frewn, Frewn loses customers. | Frewn attempts sharper sabotage, poaching, planted rumors, or guild complaints. |
 | Cassalanter Leverage | [[Factions/Cassalanters]] | 4/8 | Loan signed and Trollskull opened; interest pressure now begins. | Payments come due, party asks for more help, Davy/Crommor clues surface, Cassalanters visit publicly. | Cassalanters call in social leverage, invite deeper entanglement, or protect their secrets. |
 | Xanathar Attention | [[Factions/Xanathar Guild]] | 6/8 | Party has hit a sewer hideout, grell asset, gazer surveillance, harbor salvage crew, opening-night pursuers, and opened a message saying Xanathar's people are on the same gnome/Stone scent. | Drowned Lantern survivors report, the opening-night gazer escaped, party follows the Fireball trail, party returns to sewers. | Xanathar assigns a deliberate response team or escalates surveillance at Trollskull. |
-| Zhentarim Split Pressure | [[Factions/Zhentarim]] | 8/8 | The party opened the tube, rescued Nat from Yellowspire, killed Banite acolytes, kept the message, left both Amath and Oren alive, and helped place [[People/NPCs/Urstul Floxin]] in Watch custody after the Fireball. Davil/Yagra's relationship remains unclear. | Party contacts Davil/Yagra, Amath reports to Manshoon, Oren reports or is hunted, Watch questions Urstul, Fireball exposes the Stone trail. | The party must distinguish Doom Raider overtures from hostile Manshoon/Banite Zhentarim actors under pressure; reset after the next concrete Zhent move. |
-| Harper Trust | [[Factions/Harpers]] | 6/6 | Trollskull is open as a potential listening post; the party spent Remallia's paper bird to find Oren and rescue Nat. | Party gains useful gossip, protects witnesses quietly, exposes Harper ties, reports Yellowspire/Fireball. | Remallia/Mirt offer a higher-stakes Harper lead or support package; reset with a concrete ask. |
-| Gray Hands Trust | [[Factions/Gray Hands]] | 5/6 | Grell and Zelifarn assignments completed; Elra's opening visit and Staget intervention cemented favorable notice. | Party keeps Blackstaff business discreet, avoids Watch scandals, handles city threats cleanly, reports Yellowspire or Fireball. | Vajra gives a more sensitive assignment or formalizes trust/renown. |
-| City Watch Attention | [[Factions/City Watch]] | 6/6 | Staget handled bodies outside Trollskull on opening night; Cromley and Barnibus now handled the Fireball, took over Trollskull's triage witnesses, and arrested Urstul from inside the tavern. | Watch connects Castle Ward, Thomril & Sons, Fish Street, Drowned Lantern, Yellowspire, Trollskull incidents, hidden evidence, or Davy's gemstone theft. | Watch interview, legal summons, or Staget-style warning becomes unavoidable; reset after the next Watch consequence. |
+| Zhentarim Split Pressure | [[Factions/Zhentarim]] | 8/8 | The party opened the tube, rescued Nat from Yellowspire, killed Banite acolytes, kept the message, left both Amath and Oren alive, helped place [[People/NPCs/Urstul Floxin]] in Watch custody after the Fireball, and then fought but failed to stop [[People/NPCs/Agorn Fuoco]] from extracting Urstul. Davil/Yagra's relationship remains unclear. | Party contacts Davil/Yagra, Amath reports to Manshoon, Oren reports or is hunted, Watch questions Urstul, Fireball exposes the Stone trail. | The next concrete Zhent move has happened: Agorn extracted Urstul and killed two Watch guards. Reset after the party/Watch fallout clarifies whether Manshoon, Davil, or another Zhent actor surfaces next. |
+| Harper Trust | [[Factions/Harpers]] | 6/6 | Trollskull is open as a potential listening post; the party used Remallia contact channels for Oren/Nat and has now sent Remallia a Fireball/Neverember/nimblewright report. | Party gains useful gossip, protects witnesses quietly, exposes Harper ties, reports Yellowspire/Fireball. | Remallia/Mirt offer a higher-stakes Harper lead or support package; reset with a concrete ask. |
+| Gray Hands Trust | [[Factions/Gray Hands]] | 6/6 | Grell and Zelifarn assignments completed; Elra's opening visit and Staget intervention cemented favorable notice; the party reported the Fireball/Neverember angle directly to Vajra. | Party keeps Blackstaff business discreet, avoids Watch scandals, handles city threats cleanly, reports Yellowspire or Fireball. | Vajra gives a more sensitive assignment or formalizes trust/renown. |
+| City Watch Attention | [[Factions/City Watch]] | 8/8 | Staget handled bodies outside Trollskull on opening night; Cromley and Barnibus handled the Fireball and arrested Urstul from inside the tavern; Agorn's team then killed two Watch guards and extracted Urstul while the party intervened. | Watch connects Castle Ward, Thomril & Sons, Fish Street, Drowned Lantern, Yellowspire, Trollskull incidents, hidden evidence, or Davy's gemstone theft. | Watch interview, legal summons, or Staget-style warning becomes unavoidable; reset after the next Watch consequence. |
 | Stone / Great Game | [[Threads/Great Game]] | 7/8 | The tube message tied the gnome, Stone, eyes, Neverember channels, Xanathar watchers, and Trollskull; Fireball killed Dalakhar and revealed a nimblewright stole something from him. | Party pursues X/Z/Lady B/R, Broethuul shares Amberleaf, follows Zord, House Crommor, House of Inspired Hands, or Gralhund leads. | The Grand Game moves into an overt chase, faction heist, or Gralhund-facing crisis. |
-| Bregan D'aerthe Entry | [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | 3/6 | Zardoz is socially introduced; the party has now gone to the Sea Maidens Fair because the Fireball attacker appears to be a Luskan-built nimblewright. | Party follows Zardoz, asks sailors about nimblewrights, tries to reach the Eyecatcher, harbor activity grows, Zelifarn draws ship attention. | Jarlaxle's people actively test, recruit, misdirect, or steal from the party. |
+| Bregan D'aerthe Entry | [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | 2/6 | Zardoz is socially introduced and remains a Luskan nimblewright lead, but the session 15 Sea Maidens Fair visit was retconned and has not happened. | Party follows Zardoz, asks sailors about nimblewrights, tries to reach the Eyecatcher, harbor activity grows, Zelifarn draws ship attention. | Jarlaxle's people actively test, recruit, misdirect, or steal from the party. |
 | Autumn Door | [[Threads/Broethuul and the Autumn Court]] | 2/6 | Amberleaf Dispatch revealed privately; wrong-water door is now an active concept. | Broethuul shares/investigates, visits Zelifarn, seeks the harbor threshold, Stone/Eye clues surface. | A fey messenger, threshold scene, or Starfern claimant consequence enters play. |
 
 ## Immediate Trigger Menu
@@ -70,7 +71,7 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 
 - Keep player-facing summaries free of unrevealed private content, especially [[Objects/The Crommor Warning]] and [[Objects/The Amberleaf Dispatch]].
 - The Remix/Grand Game layer should inform faction moves, but transcript truth controls what has actually been revealed.
-- Add, split, or retire clocks once the Zord/Gralhund/Stone chase stabilizes after the possible session 16 rewind.
+- Add, split, or retire clocks as the post-retcon nimblewright trail stabilizes after the Session 16 Blackstaff/Remallia/Urstul-extraction branch.
 - Trollskull Opening retired after session 13; use Trollskull Operations for ongoing business pressure.
 - Harper Trust is effectively full after the paper-bird rescue; convert it into a concrete Remallia follow-up or reset it after the next Harper scene.
 
@@ -85,5 +86,6 @@ For 8-step clocks, use the same logic with a little more room for the Grand Game
 - [[Reference/Remix Faction Outposts]]
 - [[Reference/Remix Response Teams]]
 - [[Reference/Remix Revelation Lists]]
+- [[Sessions/Session 16 - 2026-09-24]]
 - [[Sessions/Session 15 - 2026-08-20]]
 - [[Dashboard/Open Threads]]

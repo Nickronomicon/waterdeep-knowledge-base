@@ -1,12 +1,13 @@
 ---
 type: faction
 status: active
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
 tags:
   - waterdeep
   - faction
@@ -46,9 +47,17 @@ The City Watch is Waterdeep's civic law-enforcement presence.
 - Cromley recognized [[People/NPCs/Urstul Floxin]] among the injured and ordered him taken to the tower for further questioning by [[People/NPCs/Hustus Staget]].
 - The Watch remains at the Fireball scene for the rest of the day.
 
+## Session 16
+
+- Cromley took Aladeen's limited statement during the replayed Fireball investigation.
+- A Watch prisoner wagon carrying Urstul was intercepted by Agorn's Zhentarim extraction team on a raised street.
+- Two Watch guards died during the extraction, and Urstul escaped with Agorn.
+- The Watch now has a public daylight prison break tied to the Fireball suspect, with the party present as armed interveners rather than bystanders.
+
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`
 - `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`
 - `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
+- `../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt`

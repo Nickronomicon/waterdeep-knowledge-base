@@ -1,8 +1,10 @@
 ---
 type: dashboard
 status: active
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - Sessions/Session 16 - 2026-09-24.md
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/notes/dm-planning/session-16/notes.md
   - Prep/Session Prep - 2026-09-24.md
   - Sessions/Session 15 - 2026-08-20.md
@@ -16,27 +18,22 @@ tags:
 
 # Next Session
 
-Active prep: [[Prep/Session Prep - 2026-09-24]].
+Active prep needed: Session 17 aftermath of [[Sessions/Session 16 - 2026-09-24]].
 
-Next play begins by rewinding part of [[Sessions/Session 15 - 2026-08-20]] for [[People/PCs/Aladeen]], starting after [[People/NPCs/Squiddly]] is safe and [[People/NPCs/Fala Lefaliir|Fala's]] death is known. Once Aladeen's choices establish what changed, collapse back into the shared timeline and follow the party's chosen lead.
-
-Default endpoint if nothing changes: noon Ches 22, 1492 DR, at [[Places/Sea Maidens Fair]], with the party about to speak with Captain Fergus to reach [[People/NPCs/Zardoz Zord]] about Luskan nimblewrights.
+Next play begins early afternoon Ches 22, 1492 DR, immediately after [[People/NPCs/Agorn Fuoco]] escaped with the Watch wagon carrying [[People/NPCs/Urstul Floxin]]. The party is near the raised street/bridge ambush site, not at [[Places/Sea Maidens Fair]]. The Sea Maidens Fair endpoint from Session 15 was retconned and never happened.
 
 ## Run Priorities
 
-- First five minutes out of character: name the retcon boundary and explain that tonight starts as an Aladeen spotlight replay, not a full reset.
-- Give Aladeen three broad investigation/social actions before Cromley and Barnibus fully control the scene.
-- Confirm changed facts: necklace custody, Davy's gemstones, Urstul custody or escape, witness list, and first investigation direction.
-- If continuing to Sea Maidens Fair: run Captain Fergus, access to Zord or the Eyecatcher, and what the party asks about nimblewright sales.
-- If the table needs action: deploy one response team from [[Prep/Session Prep - 2026-09-24#Response Teams And Generic Encounters]].
-- Track hidden evidence: [[Objects/Broken Necklace of Fireballs]] with Broethuul and Dalakhar's gemstone pouch with Davy.
-- Track consequences of [[People/NPCs/Urstul Floxin]] being in Watch custody, not escaped.
-- Bring Fala's death, [[People/NPCs/Lif|Lif's]] grief, Squiddly's trauma, and Trollskull repair/triage choices back onstage before the party gets too far from the alley.
+- Open on the wagon-extraction aftermath: dead Watch guards, dead Zhent spellcaster, dead or wounded thugs, and whether any attacker remains present.
+- Decide how quickly Watch reinforcements arrive and how the party explains that they tried to stop the breakout.
+- Track public/legal fallout: two Watch guards dead, Urstul gone, party present with weapons out.
+- Deliver or queue [[People/NPCs/Remallia Haventree|Remallia's]] response to the paper bird.
+- Track [[People/NPCs/Vajra Safahr|Vajra]]/[[People/NPCs/Laeral Silverhand|Laeral]] reaction to the Neverember angle.
+- Keep the nimblewright leads live: [[Places/House of Inspired Hands]], [[People/NPCs/Zardoz Zord]], [[People/NPCs/Bojentra Summertaen]], [[People/NPCs/Davin Crommor]], Lord Deslinter, and the City Armory.
+- Track hidden evidence: [[Objects/Broken Necklace of Fireballs]] with Broethuul and Dalakhar's gemstone pouch with Davy. Aladeen now also saw Davy pocket the pouch.
 
 ## Sources
 
-- `../raw/notes/dm-planning/session-16/notes.md`
-- [[Prep/Session Prep - 2026-09-24]]
-- [[Sessions/Session 15 - 2026-08-20]]
+- `../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt`
+- [[Sessions/Session 16 - 2026-09-24]]
 - [[Dashboard/Current Campaign State]]
-- [[Prep/Session Prep - 2026-08-20]]

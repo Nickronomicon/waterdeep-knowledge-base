@@ -3,8 +3,9 @@ type: object
 status: held-by-party
 revealed: true
 revealed_session: 15
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - Prep/Session Prep - 2026-08-20.md
 tags:
@@ -32,6 +33,11 @@ The broken necklace of fireballs is the physical evidence left near the rooftop 
 - Strongly supports that the Fireball was caused by an item thrown from the roof, not necessarily by a caster standing in the alley.
 - Connects Martem's witness account to Elior's Arcana reconstruction and the rooftop trail.
 - If discovered later, it may create legal trouble because it is both evidence and live magical ammunition.
+
+## Session 16 Status
+
+- Broethuul still had not told the party or Watch about the necklace during the Aladeen replay.
+- Aladeen did not learn about the necklace in session 16.
 
 ## Open Questions
 

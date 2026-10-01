@@ -1,7 +1,7 @@
 ---
 type: faction
 status: active
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
@@ -38,7 +38,7 @@ Bregan D'aerthe is Jarlaxle Baenre's drow mercenary/intelligence network. At the
 
 - If the party follows Zardoz, asks about ships, investigates nimblewrights, or returns to Zelifarn, use [[Reference/Remix Eye Heists]] and [[Reference/Remix Faction Outposts]].
 - If the Stone / Great Game clock advances through harbor activity, Bregan D'aerthe can notice the party before the party notices them.
-- Session 15 ended at the Sea Maidens Fair before the party spoke with Captain Fergus or Zord.
+- The abbreviated Session 15 branch reached the Sea Maidens Fair before the party spoke with Captain Fergus or Zord, but Session 16 retconned that visit. Current table truth: the Zord/Bregan D'aerthe lead is still available but not yet pursued after the Fireball.
 
 ## Sources
 

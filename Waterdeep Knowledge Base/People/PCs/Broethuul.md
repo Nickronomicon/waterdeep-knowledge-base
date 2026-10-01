@@ -7,8 +7,9 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
   - ../raw/notes/character-sheets/Broethuul-expanded.md
@@ -219,6 +220,13 @@ Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faes
 - Identified [[Objects/Broken Necklace of Fireballs]] and took it from Martem, then deceived him into omitting it from his Watch statement.
 - Hid the necklace in his room; it has two active fireball beads remaining.
 - Tried to intimidate and later feather-tickle Urstul before Cromley recognized and arrested him.
+
+## Session 16 Table-Facing Notes
+
+- Still concealed the broken necklace of fireballs and did not tell Aladeen, the party, or the Watch about it.
+- Parkoured up to the bridge using a bench, flower cart, and awning, destroying the flower cart in the process.
+- Spotted the Zhent spellcaster's flying-snake tattoo and saw Urstul inside the Watch wagon.
+- Used Rite of the Storm and Blood Curse of the Fallen Puppet during the wagon fight, killing one thug and forcing the corpse to strike another attacker before collapsing.
 
 ## Background and Arc Notes
 

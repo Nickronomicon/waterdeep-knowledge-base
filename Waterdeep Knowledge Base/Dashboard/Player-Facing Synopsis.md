@@ -2,7 +2,7 @@
 type: dashboard
 status: active
 audience: players
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -21,6 +21,7 @@ source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - Sessions/Session 01 - 2026-02-15.md
   - Sessions/Session 02 - 2026-02-22.md
   - Sessions/Session 03 - 2026-03-01.md
@@ -552,6 +553,23 @@ The message from the Zhent tube suddenly sounded much less theoretical.
 
 Putting the witness accounts together, the party named the attacker: a nimblewright, a wood-and-metal automaton of the sort wealthy Waterdhavians have recently been buying as fashionable servants and guards. Leads surfaced quickly. The Temple of Gond had shown nimblewrights in a recent parade. A member of the Watchful Order owned one. House Crommor had bought one. And the design seemed Luskan, which brought one flamboyant name back onto the table: Zardoz Zord of the Sea Maidens Fair.
 
-So, with Trollskull Alley still under Watch control and the city counting its dead, the party followed the nimblewright trail to the Dock Ward. The Sea Maidens Fair was in full swing near the ships: stalls, performers, sailors, carnival noise, and enough spectacle to make tragedy feel briefly like it belonged to another ward. Zord's flagship, the Eyecatcher, sat out in the harbor, while the dockside ships and workers offered the next step: talk to Captain Fergus of the Hellraiser.
+Those leads were enough to point the table toward the docks for a moment, but that path was rewound next session. The important end state was not the fair; it was the evidence: Fala dead, Squiddly alive, Dalakhar named, a nimblewright on the run, evidence quietly pocketed, and several possible owner or source leads waiting.
 
-And that is where we left it: Fala dead, Squiddly alive, Dalakhar named, a nimblewright on the run, evidence quietly pocketed, and the Skullduggers standing at the Sea Maidens Fair with questions for Zardoz Zord.
+
+## Session 16
+
+After a long real-world pause, the table rewound to the smoke and broken glass of Trollskull Alley so Aladeen could actually stand in the moment instead of inheriting a piloted version of himself. Squiddly was alive, Fala was not, the tavern was filling with wounded neighbors, and the Watch had not quite finished turning the alley into a crime scene.
+
+Aladeen did what Aladeen does best: talked to people while pretending not to be investigating quite as hard as he was. The urchins were shaken, with Squiddly stuck on one detail: red. A grieving boy near the dead halfling musicians was sent toward the tavern for help. Vincent Trench and a very poorly disguised high-class client described the attacker as a man-sized wood-and-metal figure in bright clothes, a red cloak, a large pale hat, and a carved beard. It threw something, the street exploded, and then it searched the dead gnome.
+
+At that dead gnome, Aladeen saw Davy pocket a pouch and also saw that someone else noticed. This is the sort of thing that tends to become tomorrow's problem, which is very convenient until tomorrow arrives.
+
+Renaer arrived and identified the gnome as Dalakhar, an agent of his father, Dagult Neverember. Dalakhar had been in Waterdeep already and had asked to meet Renaer at Trollskull about something valuable. Renaer, still very much uninterested in being dragged into Dagult's business, had come to tell him no. The dead flying-snake tattooed men near Dalakhar suggested the Zhentarim had also been interested.
+
+Rather than head straight for the docks and Zardoz Zord, the party changed course. The Sea Maidens Fair lead remains alive, but that visit never happened. Instead, they went to Blackstaff Tower. Vajra Safahr already knew there had been a Fireball, but not the full shape of it. Once Dagult Neverember entered the story, she stiffened, sent a paper bird to Laeral Silverhand, and warned that Neverwinter politics were the sort of thing that gets people killed without ever rolling initiative. She also gave the party a list of useful nimblewright leads: the House of Inspired Hands, Bojentra Summertaen, Lord Deslinter, Davin Crommor, the City Armory, and the uncomfortable fact that nimblewrights had recently become much cheaper and much more common.
+
+The Skullduggers then sent a paper bird to Remallia Haventree: Fireball at Trollskull, dead and wounded, rock gnome tied to Neverember, nimblewright attacker. On the way back, healer's kit in hand, they found the next crisis already in progress. A Watch prisoner wagon had been stopped on a raised street by armed Zhentarim. Inside was the burned man from Trollskull: Urstul Floxin.
+
+The party attacked. Aladeen and Davy fired from range. Jonathan climbed up behind the attackers and brought thunder to a woman who answered with thunder of her own. Elior's ice knives burst across the bridge. Broethuul parkoured up a flower cart, ruined it, and later made a dead thug rise just long enough to club his friend before collapsing again. Two Watch guards died in the chaos. The Zhent spellcaster died too. But the leader, addressed as Agorn, got the reins, drove the wagon away, and escaped with Urstul despite the party coming very close to stopping him.
+
+So the session ended not at the Sea Maidens Fair, but in the aftermath of a daylight prison break: dead Watch guards, dead Zhents, Urstul gone, Agorn named, and the Fireball investigation now tangled with the Blackstaff, the Harpers, Laeral Silverhand, and a very active Zhentarim cleanup crew.

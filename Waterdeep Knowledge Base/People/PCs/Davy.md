@@ -7,8 +7,9 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
   - ../raw/notes/handouts/s0-davy-backstory.md
@@ -216,8 +217,14 @@ Davy is a level 3 human Phantom rogue with a noble background. The sheet present
 - Helped inspect the blast center and found the folded "Trollskull mid-morning" note among [[People/NPCs/Dalakhar|Dalakhar's]] loose belongings.
 - Took Dalakhar's pouch of five gemstones with a poor sleight-of-hand result; a civilian saw the theft.
 - Hid from the Watch after its arrival and rejoined the party conversation from the shadows.
-- Went with the party to [[Places/Sea Maidens Fair]] and bought grilled mackerel for 2 sp.
+- The retconned branch sent the party to [[Places/Sea Maidens Fair]] and included Davy buying grilled mackerel for 2 sp; Session 16 removed that visit from table truth.
 - The Fireball investigation produced [[People/NPCs/Davin Crommor]] as a nimblewright-owner lead, creating a direct route toward Davy's private Crommor thread.
+
+## Session 16 Table-Facing Notes
+
+- Aladeen saw Davy pocket Dalakhar's pouch and also saw that another civilian noticed.
+- Took hidden crossbow shots during the Urstul extraction fight, badly wounding Agorn and killing the Zhent spellcaster as she fled on the wagon.
+- Tried to climb after the wagon but the tarp gave way, forcing a long ranged shot instead.
 
 ## Background and Arc Notes
 

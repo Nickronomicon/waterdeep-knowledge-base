@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-08-20
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
@@ -35,6 +36,12 @@ Remallia Haventree, also known as the Widow Ulbrinter, is a secluded Waterdhavia
 - Likely sent an unsigned silver-raven congratulations to Trollskull's grand opening, keeping Harper support deniable.
 - Received the party's one-use paper bird in session 14 when Nat was kidnapped and the party needed to find [[People/NPCs/Oren Fallow]].
 - Replied by silver raven with Oren's location: a room at [[Places/The Sleeping Wench]] on Snail Street in the Dock Ward.
+
+## Session 16 Contact
+
+- The party sent Remallia a paper bird after reporting the Fireball to [[People/NPCs/Vajra Safahr]].
+- The message identified a Fireball attack in Trollskull Alley, dead and wounded, a rock gnome tied to Dagult Neverember, and a nimblewright attacker.
+- The message was signed from the Skullduggers. Her response has not yet occurred on screen.
 
 ## Thalosmere Archive Context
 

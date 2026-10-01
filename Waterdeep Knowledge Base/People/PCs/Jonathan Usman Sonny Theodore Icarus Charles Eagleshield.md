@@ -9,8 +9,9 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
   - ../raw/notes/handouts/s0-jonathan-backstory.md
@@ -233,7 +234,15 @@ Cantrips:
 - Partly healed the badly burned man later identified as [[People/NPCs/Urstul Floxin]].
 - Physically forced Urstul back into a seat when he tried to leave, worsening his pain before later healing improved the burns.
 - Made the key Arcana connection that the attacker descriptions pointed to a nimblewright.
-- Suggested pursuing [[People/NPCs/Zardoz Zord]] through the Sea Maidens Fair because of the Luskan nimblewright connection.
+- Suggested pursuing [[People/NPCs/Zardoz Zord]] through the Sea Maidens Fair because of the Luskan nimblewright connection; Session 16 later retconned the actual Sea Maidens visit and sent the party to Blackstaff Tower instead.
+
+## Session 16 Table-Facing Notes
+
+- Joined the party's decision to go to Blackstaff Tower instead of the retconned Sea Maidens Fair endpoint.
+- Climbed onto the raised bridge behind Agorn's extraction team.
+- Hit the Zhent spellcaster with Thunderous Smite; she answered with thunder magic and knocked him back.
+- Tried to body-check a thug off the bridge and later attempted Compelled Duel on Agorn as the wagon fled.
+- Hit Agorn with Toll the Dead, nearly stopping the escape.
 
 ## Background and Arc Notes
 

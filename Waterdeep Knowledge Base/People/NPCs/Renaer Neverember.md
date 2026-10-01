@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-09-24
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
@@ -35,6 +36,12 @@ Renaer Neverember is the son of Dagult Neverember, the disgraced former Open Lor
 - Heard or reviewed the opened Zhent runner message in session 14 and was visibly uneasy about old Neverember references.
 - Inferred that "the Portal" likely meant the Yawning Portal and that the warning not to bring the message there implied the sender or recipient frequents it.
 - Arrived after the Ches 22 Fireball because he was supposed to meet [[People/NPCs/Dalakhar]] at Trollskull; identified Dalakhar's body and explained Dalakhar's connection to Dagult Neverember.
+
+## Session 16 Retcon Replay
+
+- During the replayed Fireball aftermath, Renaer again identified Dalakhar and explained that Dalakhar was a Waterdeep-based agent of Dagult Neverember.
+- Renaer emphasized that Dalakhar did not come from Neverwinter for this meeting; he had already been in the city.
+- Renaer remained unwilling to contact Dagult or become involved in his father's business.
 
 ## What Renaer Knows
 

@@ -1,8 +1,9 @@
 ---
 type: npc
-status: watch-custody
-updated: 2026-09-24
+status: escaped
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - Prep/Session Prep - 2026-08-20.md
 tags:
@@ -14,7 +15,7 @@ tags:
 
 # Urstul Floxin
 
-Urstul Floxin is a dangerous-looking burned man who survived the Ches 22 Fireball in [[Places/Trollskull Alley]]. In session 15, he was recognized by [[People/NPCs/Saeth Cromley]] and arrested by the [[Factions/City Watch]].
+Urstul Floxin is a dangerous-looking burned man who survived the Ches 22 Fireball in [[Places/Trollskull Alley]]. He was recognized by [[People/NPCs/Saeth Cromley]] and arrested by the [[Factions/City Watch]], but [[People/NPCs/Agorn Fuoco]] and a Manshoon-Zhentarim team extracted him from the Watch wagon in [[Sessions/Session 16 - 2026-09-24]].
 
 ## Current Status
 
@@ -23,7 +24,9 @@ Urstul Floxin is a dangerous-looking burned man who survived the Ches 22 Firebal
 - Tried to leave the tavern triage area; Jonathan physically forced him back into a seat.
 - Identified the attacker as a mechanical figure that searched the short guy's body and fled east.
 - Recognized by Cromley as "Mr. Floxin."
-- Arrested and taken to the tower for questioning; Cromley expected [[People/NPCs/Hustus Staget]] would want answers.
+- Arrested and loaded into a Watch prisoner wagon for questioning; Cromley expected [[People/NPCs/Hustus Staget]] would want answers.
+- Extracted from the Watch wagon by [[People/NPCs/Agorn Fuoco]] and a Manshoon-Zhentarim team before reaching custody.
+- During the extraction, told Agorn that if Agorn got him out, he would make it worth the risk.
 
 ## Table-Facing Claims
 
@@ -34,9 +37,11 @@ Urstul Floxin is a dangerous-looking burned man who survived the Ches 22 Firebal
 ## DM Notes
 
 - Prep indicates Urstul was following Dalakhar but did not take the Stone in this Remix continuity.
-- Unlike the prep's escape expectation, actual session 15 ended with Urstul in Watch custody.
+- Session 15 ended with Urstul in Watch custody, but session 16 changed his current status: he escaped via Agorn's extraction team.
+- Agorn's team and Urstul appeared mutually familiar enough that Urstul expected to bargain for rescue.
 
 ## Sources
 
 - `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 - [[Prep/Session Prep - 2026-08-20]]
+- [[Sessions/Session 16 - 2026-09-24]]

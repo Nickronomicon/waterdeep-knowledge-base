@@ -1,8 +1,9 @@
 ---
 type: faction
 status: active
-updated: 2026-08-20
+updated: 2026-10-01
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
@@ -38,6 +39,14 @@ The Zhentarim, also called the Black Network or "the Zhents" at the table, are a
 - Hostile Zhentarim retaliated by kidnapping [[People/NPCs/Nat]] and sending [[Objects/Yellowspire Demand Note]].
 - [[Places/Yellowspire]] proved to be a Banite Zhentarim outpost led by [[People/NPCs/Amath Sercent]] and tied explicitly to Manshoon by Amath's intended report.
 - Nat was rescued, but both Oren and Amath escaped; the party retained the tube/message.
+
+## Session 16 Escalation
+
+- [[People/NPCs/Urstul Floxin]] was arrested after the Fireball, but a Manshoon-aligned extraction team intercepted the Watch wagon carrying him.
+- The team included [[People/NPCs/Agorn Fuoco]], two large thugs, and a corpse-like spellcaster with a flying-snake tattoo.
+- The team killed two Watch guards and escaped with Urstul in the wagon.
+- The party killed the spellcaster and at least one thug, but Agorn and Urstul got away.
+- This confirms that the hostile Yellowspire/Manshoon side of the Zhentarim remains active after Nat's rescue and is willing to attack Watch custody in daylight.
 
 ## Open Questions
 
