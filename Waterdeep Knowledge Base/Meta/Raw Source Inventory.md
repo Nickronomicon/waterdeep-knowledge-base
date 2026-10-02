@@ -78,6 +78,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 14 | `../raw/notes/dm-planning/session-14/outline.md`; `../raw/notes/dm-planning/session-14/notes.md` | Used for [[Prep/Session Prep - 2026-08-06]], [[Objects/Yellowspire Demand Note]], and [[Sessions/Session 14 - 2026-08-06]]. Actual play opened the tube, used Yellowspire retaliation, rescued Nat, and ended on the Ches 22 Fireball cliffhanger. |
 | Session 15 | `../raw/notes/dm-planning/session-15/notes.md` | Used for [[Prep/Session Prep - 2026-08-20]] and [[Sessions/Session 15 - 2026-08-20]]. Stable actual play covered the Fireball rescue, Fala's death, Squiddly's rescue, Dalakhar/Renaer reveal, Urstul's Watch custody, and the nimblewright clue. The Sea Maidens Fair endpoint was retconned by Session 16. |
 | Session 16 | `../raw/notes/dm-planning/session-16/notes.md` | Used for [[Prep/Session Prep - 2026-09-24]] and [[Sessions/Session 16 - 2026-09-24]]. Actual play replayed Session 15's Fireball investigation for Aladeen, retconned the Sea Maidens Fair endpoint, went to Blackstaff/Remallia leads, and ended with Agorn's team extracting Urstul from Watch custody. |
+| Session 17 | `../raw/notes/dm-planning/session-17/notes.md` | Used for [[Prep/Session Prep - 2026-10-01]]. Focuses on a shortened session, player-facing heist structure, Watch wagon aftermath, Remallia's nimblewright clue, Zord/customer-list heist setup, and Cassalanter request fallback. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 

@@ -1,13 +1,14 @@
 ---
 type: reference
 status: active
-updated: 2026-07-11
+updated: 2026-10-01
 source_paths:
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/waterdeep_dragon_heist/05.Spring-Madness.md
   - ../raw/waterdeep_dragon_heist/06.Hell-of-a-Summer.md
   - ../raw/waterdeep_dragon_heist/07.Maestros-Fall.md
   - ../raw/waterdeep_dragon_heist/08.Winter-Wizardry.md
+  - ../raw/notes/dm-planning/session-17/notes.md
 tags:
   - waterdeep
   - reference
@@ -27,6 +28,12 @@ The Remix turns villain lairs into heist targets. The party should usually know 
 3. Conduct onsite surveillance.
 4. Do prep work: bribes, disguises, supplies, forged papers, alternate entrances, distraction plans.
 5. Run the operation. Failed checks should create complications, not instantly erase the plan.
+
+## Campaign Table Procedure
+
+For this campaign, prep work uses a flashback-style declaration. Before the operation, each PC names one skill, tool, or ability they are using to prepare. During the operation, when a matching obstacle appears, the player describes the prior prep and rolls the declared check. Good prep should create solutions, reduce consequences, or turn hard blocks into complications rather than forcing binary success/failure.
+
+DM note from [[Prep/Session Prep - 2026-10-01]]: roll strong prep descriptions with advantage, but present it at the table as a reward for the specific description rather than as a pre-announced rule.
 
 ## Targets
 
@@ -49,9 +56,9 @@ Use original adventure chapters for maps, NPC/stat references, and room-key base
 
 ## Current Campaign Fit
 
-- The party is not yet in the heist loop.
+- Session 17 is expected to introduce the player-facing heist loop before the party commits to an operation.
 - Zardoz, Zelifarn, and the Cassalanter loan mean two heist target networks already have soft social entry points.
-- The smuggler's passage and Xanathar harbor survivor can be used to put Xanathar infrastructure onstage before Fireball.
+- The most likely near-term score is Zord's nimblewright customer list; Cassalanter Villa, Xanathar infrastructure, and Kolat Towers remain later heist networks unless the table swerves.
 
 ## Sources
 

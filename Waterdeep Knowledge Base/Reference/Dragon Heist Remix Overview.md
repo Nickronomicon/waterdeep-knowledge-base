@@ -1,7 +1,7 @@
 ---
 type: reference
 status: active
-updated: 2026-07-11
+updated: 2026-10-01
 source_paths:
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/waterdeep_dragon_heist/00.Introduction.md
@@ -49,9 +49,9 @@ The current major players are:
 
 ## Campaign Alignment
 
-- The campaign is currently paused on the evening or night of Ches 19, after Trollskull's grand opening and before the Ches 22 Fireball trigger.
-- The Remix's Fireball and heavy Grand Game machinery have not fully triggered at the table yet.
-- The party already has several Remix-adjacent clues: [[Objects/Renaer's Locket]], [[Objects/Scrap of Note]], Maxeene's rock gnome lead, the Cassalanter loan, Zardoz exposure, the opened [[Objects/Zhent Runner Message Tube]], Yellowspire, and Broethuul's [[Objects/The Amberleaf Dispatch]].
+- The campaign is currently early afternoon Ches 22, 1492 DR, immediately after the Fireball investigation, Blackstaff/Remallia contact, and Agorn's extraction of Urstul from Watch custody.
+- The Fireball/Nimblewright pivot has triggered, but Gralhund Villa has not yet entered table truth. Session 17 prep begins moving the table into information gathering and possible heist planning.
+- The party already has several Remix-adjacent clues: [[Objects/Renaer's Locket]], [[Objects/Scrap of Note]], Maxeene's rock gnome lead, the Cassalanter loan, Zardoz exposure, the opened [[Objects/Zhent Runner Message Tube]], Yellowspire, Dalakhar's death, the red-cloaked nimblewright, and Broethuul's [[Objects/The Amberleaf Dispatch]].
 - Use transcript truth first. Remix material is future-facing structure until it appears in play.
 
 ## Related Reference

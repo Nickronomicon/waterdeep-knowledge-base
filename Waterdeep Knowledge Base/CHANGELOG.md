@@ -15,6 +15,18 @@ Use this format:
 
 Recommended `kind` values: `setup`, `ingest`, `prep`, `lint`, `query`, `refactor`, `decision`.
 
+## [2026-10-01] prep | Session 17 heist briefing and investigation prep
+
+- Created [[Prep/Session Prep - 2026-10-01]] for the shortened 3.5-hour Session 17, focused on the Watch wagon aftermath, heist-structure briefing, information gathering, Remallia's Luskan nimblewright clue, Zord/customer-list pressure, and Cassalanter request fallback.
+- Updated [[Dashboard/Next Session]] to point at the active Session 17 prep.
+- Updated [[Reference/Remix Eye Heists]] with the campaign-specific prep-work/flashback procedure from the Session 17 notes, and refreshed [[Reference/Dragon Heist Remix Overview]] so its campaign alignment is post-Fireball.
+- Updated [[INDEX]] with the new prep page and current backlog.
+- Sources read included `../raw/notes/dm-planning/session-17/notes.md`, [[Sessions/Session 16 - 2026-09-24]], [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], [[Dashboard/Faction Clocks]], [[Reference/Remix Eye Heists]], [[Reference/Remix Revelation Lists]], and relevant Cassalanter/Zardoz pages.
+
+Follow-up:
+
+- After Session 17, ingest whether the party pursued Zord, accepted the Cassalanter request, identified a heist score, declared prep skills, or learned the Gralhund/Stone leads.
+
 ## [2026-10-01] ingest | Session 16
 
 - Ingested [[Sessions/Session 16 - 2026-09-24]] from the session 16 transcript and session 16 prep, with the user-confirmed retcon that the Session 15 [[Places/Sea Maidens Fair]] visit never happened.
