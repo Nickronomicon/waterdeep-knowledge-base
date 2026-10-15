@@ -1,0 +1,1933 @@
+[SPEAKER_03]: okay so actually uh a bit of business before we get into where we left off um a little a little metagame talk uh sorry i'm already chuckling remember tasha from telify buddy from yeah well
+[SPEAKER_03]: she did not um she sent me a linkedin request and i was like fuck no i fucking hate you um but the mutual connection i have is john havens and i was like you thirsty little bitch
+[SPEAKER_04]: He's a CFO.
+[SPEAKER_04]: He was a CFO from there.
+[SPEAKER_04]: Like, every time I see a mutual connection coming from a woman, he's just, like, always on the thief.
+[SPEAKER_04]: And I'm like, your post-divorce life is... Yeah, I was going to say, dude, of course.
+[SPEAKER_03]: It's just I couldn't keep it enough funny that it's constantly they're coming in.
+[SPEAKER_03]: And John's always like, fuck, yeah, I don't really care.
+[SPEAKER_03]: Because I know he hates them professionally.
+[SPEAKER_03]: He doesn't care, though.
+[SPEAKER_03]: Sorry.
+[SPEAKER_03]: Oh, man.
+[SPEAKER_03]: That gave me a good belly laugh.
+[SPEAKER_03]: Okay, sorry.
+[SPEAKER_03]: Back to D&D.
+[SPEAKER_03]: All good.
+[SPEAKER_03]: Business.
+[SPEAKER_05]: Business, he says.
+[SPEAKER_03]: Table business.
+[SPEAKER_03]: All right.
+[SPEAKER_03]: So we're playing through Waterdeep Dragon Heist, right?
+[SPEAKER_03]: Which, as the name implies, is about heists.
+[SPEAKER_03]: So I actually wanted to go over heist structure a little bit before it becomes...
+[SPEAKER_03]: imminently relevant, right?
+[SPEAKER_03]: So, spoiler alert.
+[SPEAKER_03]: In Waterdeep Dragon Heist, you guys are going to go on some heists.
+[SPEAKER_03]: Like, that's... Yeah, right.
+[SPEAKER_03]: I know you're shocked.
+[SPEAKER_03]: I know.
+[SPEAKER_03]: So...
+[SPEAKER_03]: Since the beginning, there have already been hints dropping, right?
+[SPEAKER_03]: You guys have picked up on some of the background information that's going on.
+[SPEAKER_03]: But pretty soon, it's all going to start to come together and be relevant.
+[SPEAKER_03]: And so, when it comes to getting into the actual heist structure, the first step is kind of invisible, right?
+[SPEAKER_03]: It's the identifying the score.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: The who, what or where, whatever you're going after.
+[SPEAKER_03]: And that is constantly like building in the background.
+[SPEAKER_03]: But at some point you're going to realize that you're going to need to acquire something.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: If that is an object or an event or like a piece of information or something that may involve break in.
+[SPEAKER_03]: At that point, we kind of like activate an actual heist structure.
+[SPEAKER_03]: And so the other four steps are pretty clearly delineated and kind of lead in towards bonuses for the whole thing.
+[SPEAKER_03]: The heist itself operates like a cross between a dungeon crawl and a raid.
+[SPEAKER_03]: But the key thing is unlike wandering into a dungeon, you get to kind of prep for this.
+[SPEAKER_03]: So once you've identified whatever the score is,
+[SPEAKER_03]: you gotta spend a little time and effort collecting information, right?
+[SPEAKER_03]: And this might be a floor plan to a building, right?
+[SPEAKER_03]: Or maybe something about their defenses or who normally patrols the area, things like that.
+[SPEAKER_03]: It's an active research phase.
+[SPEAKER_03]: which means it's not exactly quiet you could attract the attention of whoever you're attempting to heist from or maybe rivals for the the same thing um because you're asking questions right once you've kind of gathered a certain amount of information uh i'm gonna give you like your own scene in foundry that's gonna have anything you've found
+[SPEAKER_03]: defensive emplacements, a basic floor plan, things like that, where you can start writing stuff down and planning out your heist.
+[SPEAKER_03]: After you gather information, the next step is on-site surveillance.
+[SPEAKER_03]: Look for opportunities to go check out the area.
+[SPEAKER_03]: Some of these will crop up on their own, some of them you will have to manufacture.
+[SPEAKER_03]: This part of the operation is a little louder, a little riskier.
+[SPEAKER_03]: You run the higher chance of attracting attention.
+[SPEAKER_03]: But whatever you find, I will use to update your planning map, right?
+[SPEAKER_03]: It might be a more detailed floor plan or it might be like a guard rotation schedule or whatever.
+[SPEAKER_03]: After that,
+[SPEAKER_03]: A really short phase is the preparation step.
+[SPEAKER_03]: I'm deviating from how this is run in normal D&D.
+[SPEAKER_03]: I'm going to introduce a little bit from Here Lies.
+[SPEAKER_03]: So during the prep phase, all you have to tell me is whatever skill or attribute or tool or whatever you're prepping.
+[SPEAKER_03]: You don't have to tell me how you're doing it.
+[SPEAKER_03]: You don't have to tell me exactly what it is.
+[SPEAKER_03]: Basically, I just want to know what stat you'll be rolling when you need it.
+[SPEAKER_03]: And so what happens is the last step will go into the operation where you are actually executing your plan, attempting to heist the thing.
+[SPEAKER_03]: And when you run across...
+[SPEAKER_03]: an obstacle, a complication, or whatever, that is when you get to cash in whatever you prepped.
+[SPEAKER_00]: Can you give us an example?
+[SPEAKER_03]: Yeah, so say you're gonna rob a bank, right?
+[SPEAKER_03]: You spend all this time scoping out the bank, and you see a floor plan, you see a vault location, all this, and you say, okay, prep phase, I am going to prepare my thieves tools.
+[SPEAKER_03]: Probably for vault cracking, but you never know.
+[SPEAKER_03]: uh that's that's gonna be my prep thing and then as the thing plays out there could be some sort of complication or obstacle right maybe the vault isn't the one you expected or maybe the it's the vault door itself is behind a locked cage so uh or maybe it's not even something related to locks so long as you can tell me why your thieves tools helped you out with this
+[SPEAKER_03]: Like you had to, maybe you had to scale down, the vault is like 20 feet underground, you had to scale down the side of a wall.
+[SPEAKER_03]: You're like, well, I happen to have rope in my thieves tools this time around.
+[SPEAKER_03]: And whatever it is, whatever you can justify, I will let you roll that skill you prepared.
+[SPEAKER_03]: Does that make sense?
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: This is basically... And we can only prepare one.
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: Yeah, it's like your one thing, like whatever you prepared for the heist,
+[SPEAKER_03]: And when you need it, you can use it.
+[SPEAKER_03]: So it's very much like how the skills work in Here Lies.
+[SPEAKER_03]: Other than I make you tell me what stat you're rolling ahead of time.
+[SPEAKER_03]: And yeah, and so that's it.
+[SPEAKER_03]: The heist plays out.
+[SPEAKER_03]: I mean, it's not a...
+[SPEAKER_03]: It's not like three failures and you're out, right?
+[SPEAKER_03]: It's...
+[SPEAKER_03]: this is very shadow run this is very blades in the dark too um with the whole clocks and flashbacks um but yes this is this is uh very much borrowed from shadow run's heist structure um yeah i just wanted to to kind of go over that so should you be attempting to heist something in the near future
+[SPEAKER_03]: There are phases and steps to go through, and of course I'll help you through each one when it happens.
+[SPEAKER_03]: I just didn't want to spring it on you when it did.
+[SPEAKER_03]: Anybody have any questions about that right now?
+[SPEAKER_00]: All right.
+[SPEAKER_03]: I should make a handout.
+[SPEAKER_03]: I'll maybe do that.
+[SPEAKER_03]: Okay, so where we left off, there was a bit of a retcon.
+[SPEAKER_03]: We didn't actually travel to the docks.
+[SPEAKER_03]: Instead, first, we went to call on two different contacts.
+[SPEAKER_03]: We visited Vajra Safar, who warned you about getting yourself involved with the Never Ember and the political ramifications for the entire city.
+[SPEAKER_03]: Uh, she passed the information on to Leryl Silverhand, the open lord of Waterdeep, and promised to contact you if she found anything to help out with the search.
+[SPEAKER_03]: Around the same time, you sent one of your paper birds to Romalia Hoventry, your contact at the Harpers, basically telling her briefly what she knew about the situation and asking for assistance.
+[SPEAKER_03]: You have not heard back at this point.
+[SPEAKER_03]: Uh,
+[SPEAKER_03]: On your way back, however, you stumbled into an ambush where some thuggish members with black snake tattoos, one of them apparently named Agorn, waylaid a prisoner cart that appears to have come from Trollskull Manor.
+[SPEAKER_03]: It was a close and bloody flight.
+[SPEAKER_03]: Two guards died.
+[SPEAKER_03]: Everybody
+[SPEAKER_03]: But Agorn and Ursula Floxen, who was in the prison transport, died.
+[SPEAKER_03]: All of you remain standing, but the cart has escaped, running at full tilt through the city.
+[SPEAKER_03]: Oh, I see a puppy dog.
+[SPEAKER_03]: Hi, puppy dog.
+[SPEAKER_03]: How are you, puppy dog?
+[SPEAKER_00]: Being a sweet little puppy dog, that's what.
+[SPEAKER_03]: Yeah, yeah.
+[SPEAKER_04]: So well behaved when we're all watching.
+[SPEAKER_03]: Oh yeah, like a kid.
+[SPEAKER_03]: For now.
+[SPEAKER_03]: So that's roughly where we left off.
+[SPEAKER_03]: You are waiting to hear if Bajra Safar knows anything else.
+[SPEAKER_03]: You are waiting to hear back from him while you're having tree.
+[SPEAKER_03]: You are standing amidst the carnage caused by...
+[SPEAKER_03]: what is probably Zentrum, ambushing City Watch, which appears to be an escalation.
+[SPEAKER_03]: Because up until this point, it had mostly been Zentrum and Xanathar's killing each other.
+[SPEAKER_03]: And while the Watch has gotten themselves involved, you don't remember hearing rumors of Watchmen killed.
+[SPEAKER_03]: However, this ambush seemed to take place in a section of the city that was conveniently empty, meaning probably the City Watch has not been notified.
+[SPEAKER_03]: Maybe, maybe not.
+[SPEAKER_03]: But as you stand there around the bodies, what is everybody doing?
+[SPEAKER_03]: I definitely need to loot the bodies.
+[SPEAKER_03]: Definitely need to loot the bodies.
+[SPEAKER_03]: Oh shit, I forgot to roll loot tables on them.
+[SPEAKER_03]: I can do that real quick.
+[SPEAKER_03]: Okay, let's see.
+[SPEAKER_03]: Are you looting the city watch too?
+[SPEAKER_03]: Oh.
+[SPEAKER_00]: That's unethical.
+[SPEAKER_03]: You said the bodies.
+[SPEAKER_03]: We're gonna start with the bad guys.
+[SPEAKER_03]: sure uh okay starting with uh oh no my map is all messed up where is everybody here we go starting with the thuggish folks uh each one is carrying a simple but very crude mace um not pretty to look at but definitely gets the job done uh between the two of them you find
+[SPEAKER_03]: 18 silver 3 copper uh oh and one of them still has a heavy crossbow the others was crushed by the cart so two shitty looking but fully effective maces uh one working heavy crossbow one
+[SPEAKER_03]: smashed heavy crossbow 18 silver three copper four this oh scary looking mage lady her body isn't here right somebody shot her on the cart as the cart was leaving davey did that uh so that's it it's just the two thugs now
+[SPEAKER_03]: Well, I'll yell to the group, found some pocket change, and then go check the other two.
+[SPEAKER_03]: The other two are in guard attire.
+[SPEAKER_03]: Let me see.
+[SPEAKER_03]: The one that got dragged over by the carriage.
+[SPEAKER_03]: Can't read that.
+[SPEAKER_03]: I got to use better dice, man.
+[SPEAKER_03]: Oh, that's a two.
+[SPEAKER_03]: He has the haft of a broken spear.
+[SPEAKER_03]: He's wearing his City Watch armor that appears to be mostly intact.
+[SPEAKER_03]: That stuff is like chain leather with a few small plate pieces here and there, so it survives smooshing quite well.
+[SPEAKER_03]: The other guard has his standard watch-issued spear and kit.
+[SPEAKER_03]: So armor and helmet.
+[SPEAKER_03]: Did you say one of them has chainmail?
+[SPEAKER_03]: Uh, it's watch mail.
+[SPEAKER_03]: So it's a combination of leather chain mail, small metal pieces, like elbow caps.
+[SPEAKER_03]: So not something you could inconspicuously wear.
+[SPEAKER_03]: No, it's very clearly a watch guard uniform.
+[SPEAKER_03]: Like, this is what they wear on duty.
+[SPEAKER_04]: Yeah, okay, so not taking that.
+[SPEAKER_03]: Oh, and...
+[SPEAKER_03]: If you're searching, if you're rifling their pockets... Oh, that's actually pretty good.
+[SPEAKER_00]: You get... Oh man, guards are poor.
+[SPEAKER_03]: Five silver and five copper.
+[SPEAKER_03]: And a bit of string.
+[SPEAKER_03]: So what's the total amount of silver and copper I should be adding?
+[SPEAKER_03]: If you're taking the guards' lunch money.
+[SPEAKER_03]: Then it is 23 silver, 8 copper.
+[SPEAKER_03]: 15.
+[SPEAKER_03]: And how much did the other ones have?
+[SPEAKER_03]: I still wasn't opening up.
+[SPEAKER_03]: No, I'm saying that was total for everybody.
+[SPEAKER_03]: All right, cool.
+[SPEAKER_03]: Just more pocket change.
+[SPEAKER_03]: Are you attempting to make it look like you didn't rifle their pockets?
+[SPEAKER_03]: No, I'm telling everybody.
+[SPEAKER_03]: that I'm taking and I'm commenting that it's more pocket change.
+[SPEAKER_03]: No, no, I know, but like when you search a body, it's pretty obvious when a body's been searched, their pockets are usually turned out, they've been moved around.
+[SPEAKER_03]: You're rifling bodies at a currently undiscovered crime scene is my point.
+[SPEAKER_03]: Yes, I will refurl the pockets then to make it look like I didn't take anything.
+[SPEAKER_03]: I would like you to make a sleight of hand check.
+[SPEAKER_03]: I'm not trying to hide it from the party.
+[SPEAKER_03]: I'm just trying to... No, I know.
+[SPEAKER_03]: But this is... D&D doesn't give me a lot of skills to pick from, but we're going to see how good you are at making them look undisturbed for the next person that stumbles across this scene.
+[SPEAKER_03]: 15.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Pretty good.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: uh it wasn't too hard especially with the guard that was dragged because i mean who knows what kind of shape and position he'd be in anyway um okay you have pilfered the contents of of everyone's pockets so what's the plan what next
+[SPEAKER_03]: Did we check the bodies for tattoos?
+[SPEAKER_03]: You saw the flying black snake tattoo kind of on the neck of the mage.
+[SPEAKER_03]: Okay, so... You did not see... You could not see a tattoo on the leader, whom she called Aegorn.
+[SPEAKER_03]: But the thugs that you're looking over, they all have black snake tattoos.
+[SPEAKER_03]: I don't think there's anything more to do here.
+[SPEAKER_03]: Anyone got any ideas?
+[SPEAKER_03]: I think we get the fuck out of here.
+[SPEAKER_03]: So basically, the question I'm putting to you is, do you a skedaddle and make it like you were never here?
+[SPEAKER_03]: Or B, go find the authorities?
+[SPEAKER_03]: Or C, wait for somebody to arrive?
+[SPEAKER_03]: Those are really your three options.
+[SPEAKER_03]: I vote skedaddle.
+[SPEAKER_00]: Yeah I'm I'm down with that.
+[SPEAKER_04]: Yeah both of them recommends we we leave but we'll send message to one of our you know Waterdeep cohorts to let them know that the Zhentarium has assaulted a prisoner transport.
+[SPEAKER_03]: uh or feel confident yeah once once the scene is discovered it's going to be pretty obvious um okay if you guys are attempting to leave without evidence you were here i would like a group stealth chat
+[SPEAKER_04]: It's not going to be good.
+[SPEAKER_03]: I was right!
+[SPEAKER_03]: It's very in character.
+[SPEAKER_03]: It's very in character.
+[SPEAKER_03]: Okay, so what do we have?
+[SPEAKER_03]: We have a 13, 9, 11, 18, and 3.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: All I was looking for was three successes before three failures.
+[SPEAKER_03]: So, as far as you can tell, you did a pretty good job at hiding your presence there.
+[SPEAKER_03]: Brillthule, like, tries to right the flower cart that he put his foot through.
+[SPEAKER_03]: And, like, takes one of the thugs' maces and, like, puts it in the top of it like it fell off the street above and is, like, sticking out of the cart and that's why it smashed in.
+[SPEAKER_03]: Pretty good job dressing the scene.
+[SPEAKER_03]: This is before the age of fingerprints, so... Not much to worry about there.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: With that, you leave the ambush site behind you.
+[SPEAKER_03]: I believe everyone was headed back to Trollskull at the end of the session.
+[SPEAKER_03]: That's where we were going, right?
+[SPEAKER_03]: When we stumbled across the ambush?
+[SPEAKER_04]: Okay.
+[SPEAKER_03]: Uh...
+[SPEAKER_03]: So, as you approach Troll School, things are a bit calmer, but there's still a very kind of nervous air over the whole alley.
+[SPEAKER_03]: The cordons are still up.
+[SPEAKER_03]: Lots of people are not let through.
+[SPEAKER_03]: The bodies have been removed by the watch.
+[SPEAKER_03]: The watch present is still heavy.
+[SPEAKER_03]: Barnabas Stormwind has left, but Inspector Crowley?
+[SPEAKER_03]: Was that his name?
+[SPEAKER_03]: Cromley.
+[SPEAKER_03]: Inspector Cromley is still there.
+[SPEAKER_03]: Looks like he's mostly done talking to witnesses and is going over the scene in greater detail.
+[SPEAKER_03]: Your common room is still a bit of a triage, but most people who needed major medical attention have received it and have been removed.
+[SPEAKER_03]: But everyone else still seems to be treating it as like
+[SPEAKER_03]: the place to congregate, not necessarily feeling safe in their homes and shops by themselves.
+[SPEAKER_03]: The dead have also been taken away, likely to the city mortuary.
+[SPEAKER_03]: Fala's body is not there.
+[SPEAKER_03]: Tally Felbranch is nowhere to be found either.
+[SPEAKER_03]: You have to assume that he is wherever Falla's remains are.
+[SPEAKER_03]: As you approach Trollskull, though, you see a silver flash in the air as a raven makes its way down to you, clutching a little bit of paper in its claws.
+[SPEAKER_03]: You guys know this raven, right?
+[SPEAKER_03]: This is Romalia Hoventry's Raven.
+[SPEAKER_03]: This is how she's gotten a hold of you, I think, twice now.
+[SPEAKER_03]: So, the first thing it does is it drops the piece of paper it's carrying just in front of Aladin, like within reach to catch it.
+[SPEAKER_03]: I'm gonna catch it and read it aloud.
+[SPEAKER_03]: So you catch it, and it's just a blank sheet of paper.
+[SPEAKER_03]: And you realize she's restocking your paper bird.
+[SPEAKER_03]: So you now have a way to get a hold of her again.
+[SPEAKER_04]: Which would be good for reporting.
+[SPEAKER_03]: Which would be good for reporting.
+[SPEAKER_03]: So, as soon as you grab a hold of the paper...
+[SPEAKER_03]: The Silver Raven starts to talk with Rumalia's voice.
+[SPEAKER_03]: It's not very loud.
+[SPEAKER_03]: Loud enough that everybody near it can hear, and maybe the outside of the group has to lean in to hear it.
+[SPEAKER_03]: The recording says... Of the nimblewrights in the city, only eight known examples match Luskan construction.
+[SPEAKER_03]: All eight were sold by Zarda Zord,
+[SPEAKER_03]: I do not have buyer names.
+[SPEAKER_03]: Be careful.
+[SPEAKER_03]: Asking after them openly may tell the seller exactly what you know.
+[SPEAKER_03]: I will post that.
+[SPEAKER_03]: Thank you.
+[SPEAKER_03]: In handouts.
+[SPEAKER_03]: A little muffler.
+[SPEAKER_03]: And after delivering its message twice, it turns around and flies off.
+[SPEAKER_03]: My name is Zardozord.
+[SPEAKER_03]: You've met Zardoz.
+[SPEAKER_03]: I know.
+[SPEAKER_03]: Oh, okay.
+[SPEAKER_03]: We met him at the... What kind of name is it?
+[SPEAKER_00]: I don't know what it is.
+[SPEAKER_00]: I hope his parents regret naming him that.
+[SPEAKER_03]: It sounds made up.
+[SPEAKER_03]: Right?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah, I mean... What the fuck is Zgord?
+[SPEAKER_00]: Zgord?
+[SPEAKER_00]: Nah.
+[SPEAKER_05]: You ever watch Power Rangers?
+[SPEAKER_03]: It's probably where you got it.
+[SPEAKER_03]: A long time ago.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Sorry.
+[SPEAKER_03]: Uh...
+[SPEAKER_00]: Do what you will with that, I suppose.
+[SPEAKER_00]: Um...
+[SPEAKER_03]: This is the guy that we met also at the, uh... Is this the guy that owns the fleet?
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: He is the captain of the... What is the name of his vessel?
+[SPEAKER_03]: The Eyecatcher?
+[SPEAKER_03]: He has...
+[SPEAKER_03]: It's a flotilla.
+[SPEAKER_03]: He's got three ships in harbor right now for Sea Maidens Fair.
+[SPEAKER_03]: Um...
+[SPEAKER_03]: kind of festivities going on down by the docks.
+[SPEAKER_03]: All right.
+[SPEAKER_03]: They took part in a parade recently.
+[SPEAKER_03]: Elliot, you tell me if this is too complicated.
+[SPEAKER_03]: You go as you to him and be like, I saw one of these, what is it, really fancy, what are they called again?
+[SPEAKER_03]: A nimble rite.
+[SPEAKER_03]: Nimble rights.
+[SPEAKER_03]: And I want to get one for my father for his birthday or your mom for your birthday or whatever.
+[SPEAKER_03]: So it has to be a surprise.
+[SPEAKER_03]: Can you hook me up?
+[SPEAKER_03]: But before I spend my good money, I need to know, like, that they're good and they work well.
+[SPEAKER_03]: And so I'd like to talk to someone that has one.
+[SPEAKER_03]: Is that too complicated and obvious?
+[SPEAKER_04]: I heard, is that too obvious?
+[SPEAKER_03]: You go to Zardov and be like, I want to get one of these nimble rights as a surprise present for one of my parents.
+[SPEAKER_03]: but I want to know.
+[SPEAKER_03]: What is a nimblewright?
+[SPEAKER_03]: Oh, monster robot dude.
+[SPEAKER_03]: Oh wait, you were last week.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: We went over nimblewrights before the long break.
+[SPEAKER_03]: I think I posted a picture in handouts.
+[SPEAKER_03]: If I didn't, I will.
+[SPEAKER_03]: They're automatons.
+[SPEAKER_03]: They are magical human-sized automatons.
+[SPEAKER_03]: The one you're after has been pretty well described.
+[SPEAKER_03]: Right, okay.
+[SPEAKER_03]: Yeah, during the fireball?
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: You're pretty sure it was a specifically Luskan Nimblewright that threw a fireball into the alley.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: I was like, just Ankur uses the term get very liberally for what I thought was a person.
+[SPEAKER_04]: And I couldn't tell if that was his disposition or that word carried weight.
+[SPEAKER_03]: So I realized I either didn't understand something or Ankur is a sociopath.
+[SPEAKER_03]: I'm just going to, um, that's that's allowed.
+[SPEAKER_03]: I was like, get?
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: I understand.
+[SPEAKER_04]: So you want me to go to Zardoz?
+[SPEAKER_04]: Sorry, repeat back to me what you want.
+[SPEAKER_03]: I'm a little slow.
+[SPEAKER_03]: I'm feverish.
+[SPEAKER_03]: You're going to go to Zardoz and be like, hey, I've seen one of these nimble rights, and I want to get one for my dad's birthday or mom's birthday as a surprise gift.
+[SPEAKER_03]: So he keeps it on the down low, hopefully.
+[SPEAKER_03]: But I need to know that I'm spending my good money on something that's worthwhile.
+[SPEAKER_03]: Can I talk to somebody that has one that I can ask about, you know?
+[SPEAKER_04]: So look at the gift horse in the mouth kind of deal.
+[SPEAKER_03]: So, yeah, I mean, it's not a gift horse.
+[SPEAKER_03]: It's like, you want to expect it before you spend your good money on it.
+[SPEAKER_03]: And so you're not asking, you want to talk to someone who's used one.
+[SPEAKER_03]: Hopefully he can give you a list of some people.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Hmm.
+[SPEAKER_04]: I like the idea.
+[SPEAKER_03]: The only flaw in this plan is if you were him, if you knew that one of those people used it for something shady, you're not going to give their name.
+[SPEAKER_03]: So you're going to hope that he's clueless enough to give you all the names.
+[SPEAKER_03]: But then also we have a list of eight names and that's going to be a lot to run down.
+[SPEAKER_05]: And Zardoz, he...
+[SPEAKER_05]: Was he the guy we ran into in Light Singer Theater that is the captain of the three ships?
+[SPEAKER_03]: Okay, thank you.
+[SPEAKER_03]: I'm glad I'm not misremembering that.
+[SPEAKER_04]: He seems to like bitches.
+[SPEAKER_04]: He did have a bit of eye candy.
+[SPEAKER_04]: You think we hang over him?
+[SPEAKER_04]: Yeah, he had a closeted vibe, but he at least on airs.
+[SPEAKER_04]: We just go get him drunk?
+[SPEAKER_04]: I like your plan.
+[SPEAKER_04]: I think you had some modification.
+[SPEAKER_04]: What does he value based on what we know?
+[SPEAKER_04]: He's just festival, right?
+[SPEAKER_04]: He comes in.
+[SPEAKER_04]: So you don't know much.
+[SPEAKER_03]: That's true.
+[SPEAKER_03]: You don't know much about him other than you met him briefly at Light Singer Theater.
+[SPEAKER_03]: He was a large, loud...
+[SPEAKER_03]: I should say tall, loud, flamboyant man spoke with lots of swagger and bravado.
+[SPEAKER_03]: Flamboyant as in pirate, Ankur, before I see you saying, yeah.
+[SPEAKER_03]: You say that, but he traveled with a bunch of dudes and comes into town to throw a festival.
+[SPEAKER_03]: He does.
+[SPEAKER_03]: So his flotilla, it's a merchant fleet, is what it is, right?
+[SPEAKER_03]: They trade up and down Sword Coast.
+[SPEAKER_03]: He is here specifically to help run the Sea Maidens' Fair.
+[SPEAKER_03]: The...
+[SPEAKER_03]: Saloune Selchaise parade two days ago started at the docks at his boats and made its way through the city.
+[SPEAKER_03]: That is the same parade, I might add, that people had first seen nimble rights at.
+[SPEAKER_03]: Several of the people you spoke to on the streets.
+[SPEAKER_03]: Now, you already have some names of people who have nimble rights, is that right?
+[SPEAKER_03]: Yeah, we had three names.
+[SPEAKER_03]: Did anybody take notes or do I need to go back and look?
+[SPEAKER_03]: I wasn't here.
+[SPEAKER_05]: Which is not really an excuse, but.
+[SPEAKER_03]: I have, don't worry, I have all of this captured.
+[SPEAKER_03]: Just I got to find it all.
+[SPEAKER_03]: So then.
+[SPEAKER_03]: Is anyone else getting a little bit of static, or is that just me?
+[SPEAKER_03]: I'm getting static.
+OK.
+[SPEAKER_03]: is it from me because i'm not getting it yeah uh it's probably because i have to turn off voice isolation and you're probably hearing my computer running because it's a fucking blast furnace behind me i was gonna say like fast whisper is not doing great but i can hear you most of the time do i okay guys do i need to adjust volume on anything music any of that i'm good okay um
+[SPEAKER_03]: Okay, I found it.
+[SPEAKER_03]: Yeah, it's definitely EM noise there.
+[SPEAKER_03]: That fixed it, whatever you did.
+[SPEAKER_02]: Yeah.
+[SPEAKER_03]: I sat forward.
+[SPEAKER_03]: 60 cycle hum.
+[SPEAKER_03]: I'm not surprised.
+[SPEAKER_03]: I'm running a factory's worth of electricity through one circuit in my office.
+[SPEAKER_03]: It's fine.
+[SPEAKER_03]: Okay, so the names that you specifically got...
+[SPEAKER_03]: people mentioned uh zardozord uh mostly because of the parade and like they had seen the nimble rights in the parade that started at sea maidens fair someone also mentioned that the uh the house of inspired hands the temple of gond uh they owned uh at least one of the nimble rights that was in the parade uh you also got the name uh bogentra somerton
+[SPEAKER_03]: uh, who is a high up order, a member of the order of, uh, sorry, member of the watchful order of magists and protectors, uh, which is the magical arm of the city watch, basically.
+[SPEAKER_03]: Uh, you also got the name of a noble one.
+[SPEAKER_03]: Davin Cromer, uh, has required, has acquired a nimble right as a guard.
+[SPEAKER_04]: Hmm.
+[SPEAKER_03]: And I think that is all you picked up.
+[SPEAKER_04]: Would it be...
+[SPEAKER_04]: Okay, I like this plan.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Aladin.
+[SPEAKER_04]: With one exception.
+[SPEAKER_04]: I think we should do some recon.
+[SPEAKER_04]: I think we should hit up Margo Verita, the chick that he was with, to see if we can pry any information about...
+[SPEAKER_05]: like things he might want or like i mean we're gonna have to get him to reveal to us a pretty shady dealing in some way or another i think that we we gotta find the way to his heart do we know where to he's like she looked like she should she's a singer it can't be that hard to find just like listen she's a she's a retired singer
+[SPEAKER_03]: Oh, so the bar.
+[SPEAKER_03]: That actually tracks.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: If she's still alive.
+[SPEAKER_03]: Follow the smell of wine.
+[SPEAKER_05]: That would be my modulation to the plan.
+[SPEAKER_05]: Willing to.
+[SPEAKER_05]: I didn't hear any.
+[SPEAKER_03]: What?
+[SPEAKER_03]: Bro.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Do we have time to find her today or what time of day is it?
+[SPEAKER_03]: It is mid-afternoon on the... Oops, I didn't adjust the time.
+[SPEAKER_03]: That's my bad.
+[SPEAKER_00]: Oops, that was too far.
+[SPEAKER_03]: Mid-afternoon on the 22nd of Chess in the year 1492.
+[SPEAKER_03]: So we can still catch her at a bar tonight, hopefully.
+[SPEAKER_03]: And we can sail the ocean blue.
+[SPEAKER_03]: It is the right year.
+[SPEAKER_04]: I got that shitty joke.
+[SPEAKER_04]: It was so bad.
+[SPEAKER_04]: Shut the fuck up, dog.
+[SPEAKER_04]: Don't get a husky.
+[SPEAKER_03]: For sure.
+[SPEAKER_03]: Can we lean on our friends at Blackstaff?
+[SPEAKER_04]: To assist us in finding this person?
+[SPEAKER_03]: You are waiting to hear back from Blackstaff on if Vajra finds out anything else.
+[SPEAKER_03]: And also, she is maybe, maybe not, introducing you to Leryl Silverhand.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Well, I don't have any magic to find this person.
+[SPEAKER_03]: The downside of picking a sorcerer over an arcane caster.
+[SPEAKER_03]: I don't think sorcerers get anything like scry or anything like that, do they?
+[SPEAKER_05]: No.
+[SPEAKER_05]: They're too full of talent to worry about things like that.
+[SPEAKER_05]: Natural talent.
+[SPEAKER_03]: Uh-huh, uh-huh.
+[SPEAKER_03]: Oh, man.
+[SPEAKER_03]: Okay, well... Oh.
+[SPEAKER_03]: Uh... Could we...
+[SPEAKER_03]: Another option, too, is we have a private eye living in our alley.
+[SPEAKER_03]: You do.
+[SPEAKER_03]: He might have some leads or know how to track down people.
+[SPEAKER_03]: I like that idea.
+[SPEAKER_03]: And I think he'd probably be, I don't think he's going to charge us either because we're trying to do it to try to figure out what happened with the owl.
+[SPEAKER_03]: You don't know private eyes, do you?
+[SPEAKER_04]: Well, we're doing something that's going to benefit him, so we can at least ask.
+[SPEAKER_04]: Uh-huh.
+[SPEAKER_05]: We'll just tell him we'll help him with his marriage.
+[SPEAKER_04]: I feel like all private eyes have bad marriages.
+[SPEAKER_03]: I was going to say, you've never met any spouse.
+[SPEAKER_03]: That or they're, like, dead and that's what's embittered them to become a private eye.
+[SPEAKER_03]: Because they need just, yeah, I don't know, a
+[SPEAKER_05]: There was either too much focus to become a detective, or they were a detective, which is the more concerning one.
+[SPEAKER_03]: Nasty divorce.
+[SPEAKER_03]: Right?
+[SPEAKER_03]: She got the house, the kids, and the pension.
+[SPEAKER_03]: I have to put all my income under a D99 now so she can't take it.
+[SPEAKER_05]: All right, I like that plan.
+[SPEAKER_05]: That was my best plan.
+[SPEAKER_05]: Let's go ask him if he knows.
+[SPEAKER_05]: Since we don't have any magic.
+[SPEAKER_05]: Hooray!
+[SPEAKER_03]: Wait, what?
+[SPEAKER_00]: I said, hooray.
+[SPEAKER_03]: Oh, I heard wait.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Last you saw Vincent Tench, he was standing outside his office with a out-of-place woman who was trying very hard to not look out of place.
+[SPEAKER_03]: Since you've come and gone, it appears she has also left.
+[SPEAKER_03]: Tinch's building is undamaged, and he is not with everyone else in the common room of Trollskull.
+[SPEAKER_03]: Gonna go give him a visit?
+[SPEAKER_03]: I don't know if we all need to go, though.
+[SPEAKER_03]: Who wants to go, then?
+[SPEAKER_00]: Why don't we all go?
+[SPEAKER_03]: It's like two doors down, man.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: I don't know if we need to be subtle about this, but I guess we don't.
+[SPEAKER_03]: You approach Tenchi's building.
+[SPEAKER_03]: The entrance to his house is on the second floor.
+[SPEAKER_03]: uh let me take you back to troll school give me one second uh oh sorry my explosion map doesn't have tension's house on that that's fine um it's uh it's uh up here top of this
+[SPEAKER_03]: Anyway, doesn't matter.
+[SPEAKER_03]: You knock on his door.
+[SPEAKER_03]: You hear some shuffling inside.
+[SPEAKER_03]: And you hear him shout, one moment.
+[SPEAKER_03]: Takes him a good 30 seconds to come to the door.
+[SPEAKER_03]: And he opens it partway and sees all of you standing out on his stoop.
+[SPEAKER_03]: Opens it the rest of the way.
+[SPEAKER_03]: What can I do for you guys today?
+[SPEAKER_03]: I imagine it's alley business.
+[SPEAKER_03]: That it is, my friend.
+[SPEAKER_03]: Can we come in?
+[SPEAKER_03]: Please.
+[SPEAKER_03]: He invites you in to one or two of you have been in here before.
+[SPEAKER_03]: It's a homey little seating room.
+[SPEAKER_03]: He clearly turned the front living room of a
+[SPEAKER_03]: of a dwelling into a reception area.
+[SPEAKER_03]: The door to his office is open.
+[SPEAKER_03]: You can see his desk and papers in there.
+[SPEAKER_03]: Question to the group.
+[SPEAKER_03]: We just tell them everything, right?
+[SPEAKER_03]: There's no armor.
+[SPEAKER_03]: I think so.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: So we will have to go through it all.
+[SPEAKER_03]: We're going to tell him what we found in our investigation.
+[SPEAKER_03]: Like the full download of everything that's gone on.
+[SPEAKER_03]: Yeah, and then tell him that we get more information from the captain, but we need to... We need some information about him that will help us, and we need to find that singer that we saw with him at the opera.
+[SPEAKER_03]: And so...
+[SPEAKER_03]: Yeah, for the good of the alley, we need his services.
+[SPEAKER_03]: For the good of the alley and the mirror, perhaps.
+[SPEAKER_04]: I'm going to drop and reboot and see if I can get Fast Whisperer to go because I'm having problems following everybody.
+[SPEAKER_03]: All right.
+[SPEAKER_04]: We'll do it back, hopefully.
+[SPEAKER_03]: Yep, we'll give you a minute.
+[SPEAKER_03]: Let's see if Tom sorts it out.
+[SPEAKER_03]: Maybe I should turn down the music just a little.
+[SPEAKER_00]: It's not that loud, but I imagine anything that will help is worthwhile.
+[SPEAKER_03]: Man, I... My head is pounding.
+[SPEAKER_03]: I don't know what's going on.
+[SPEAKER_00]: Yeah, I started having one of those earlier.
+[SPEAKER_05]: I am lying down while we do this because I was not enjoying the
+[SPEAKER_00]: headache time yeah still reeling from that fight around the uh from the uh what is it the carriage and yeah yep so very in character trying my best
+[SPEAKER_03]: I'm just waiting for rolling sickness season to take over where one kid gets it, gives it to everyone.
+[SPEAKER_03]: And by the time all of us are getting better, someone else has brought something else home.
+[SPEAKER_05]: I have a child in daycare and my wife runs two centers that teach kids from every different school.
+[SPEAKER_03]: I'm screwed about a month earlier than everyone else.
+[SPEAKER_03]: And then I remember when my kids were in daycare, I was sick all fall.
+[SPEAKER_03]: Like, I don't know if they just like sit around and spit in each other's mouths or what, but they do exactly what they're doing, dude.
+[SPEAKER_03]: Hang on.
+[SPEAKER_03]: But right now I've got, I've got three kids in three different schools, so I get everything, but not patient zero.
+[SPEAKER_04]: Cause Sydney probably services like 64 different schools across the valley.
+[SPEAKER_04]: So guaranteed to be patient zero for everything.
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: Give me two seconds.
+[SPEAKER_03]: How about now, Tom?
+[SPEAKER_03]: Okay, go ahead.
+[SPEAKER_05]: I don't give you permission.
+[SPEAKER_00]: I don't know what the fuck happened.
+[SPEAKER_00]: Sorry to talk over people.
+[SPEAKER_00]: But yeah, I can actually read you all now.
+[SPEAKER_03]: No, it's good.
+[SPEAKER_03]: You probably just had to dump Whisper's context.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Sure.
+[SPEAKER_03]: What do you know about audio AI, Nick?
+[SPEAKER_03]: Shut up.
+[SPEAKER_03]: Just kidding.
+[SPEAKER_03]: Nothing.
+[SPEAKER_03]: Nothing about it at all.
+[SPEAKER_03]: That shit's a mystery to me.
+[SPEAKER_03]: You don't know how much we used Whisper.
+[SPEAKER_03]: Because what wasn't hard to get was sample audio.
+[SPEAKER_03]: What was hard to get was good, clean transcripts of sample audio.
+[SPEAKER_04]: I just imagine you always listen to that, what is it, the Ying Ying Twins song that came out in the 2000s?
+[SPEAKER_03]: What is
+[SPEAKER_04]: Constantly.
+[SPEAKER_00]: Essentially, you use fast whisper to transcribe audio and then just fix it if it fucked up.
+[SPEAKER_03]: There you go.
+[SPEAKER_03]: My old boss is running Fixie.
+[SPEAKER_03]: Fixie?
+[SPEAKER_03]: Fixie.ai.
+[SPEAKER_03]: The man who invented WebRTC, or helped invent WebRTC, and also the man who invented Stadia.
+[SPEAKER_03]: I used to work for him at Google, and then he left, and when I was at Play, he started Fixie.
+[SPEAKER_04]: Stadia seemed like such a good idea, man.
+[SPEAKER_03]: Stadia was amazing technology, and unfortunately, it was Google's marketing.
+[SPEAKER_03]: No, but it's typical Google.
+[SPEAKER_03]: They're always just a couple years too early on everything.
+[SPEAKER_03]: if they if they hadn't made you buy all your stadia games if they had made it truly like a netflix like it was originally intended to be it would have been huge but they couldn't work out a licensing deal probably because xbox was just about to do their game pass thing yeah yeah i mean that's exactly what the whole game pass games with gold thing was like it's
+[SPEAKER_04]: I don't, it's hard for me because I understand why it's those cloud gaming things are so much better.
+[SPEAKER_05]: Like, and why it's, and I just, I just can't get over the hump.
+[SPEAKER_05]: Like I just.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Latency, man.
+[SPEAKER_05]: I can't fuck with the latency.
+[SPEAKER_03]: Did you ever play Stadia?
+[SPEAKER_03]: I didn't play Stadia, but if it's, I cannot imagine it.
+[SPEAKER_03]: being under my threshold of acceptable latency.
+[SPEAKER_03]: It was under the threshold of human perception.
+[SPEAKER_03]: Their P90 latency was under 20 milliseconds.
+[SPEAKER_03]: 20 milliseconds is not beneath imperceptible.
+[SPEAKER_04]: Yeah, it is.
+[SPEAKER_04]: I'm going to argue with that.
+[SPEAKER_03]: They were 20 seconds from button press to action on screen.
+[SPEAKER_03]: 20 milliseconds.
+[SPEAKER_00]: Before we get into arguments like this, Nick, I got a question for you.
+[SPEAKER_03]: I just came back in and logged into Necronomicon and I've just got a black screen.
+[SPEAKER_03]: Is that correct?
+[SPEAKER_03]: Give it a second.
+[SPEAKER_03]: What happened to me too?
+[SPEAKER_03]: It took a minute to load.
+[SPEAKER_03]: I'll have to see if I have to pull you in.
+[SPEAKER_03]: I'm having a night.
+[SPEAKER_03]: I'm like Mr.
+[SPEAKER_03]: Problem Child over here.
+[SPEAKER_03]: I'll just shut up.
+[SPEAKER_03]: Sorry.
+[SPEAKER_03]: It's my tiny little instance that's running it.
+[SPEAKER_03]: try try and move around it's like a pi zero number four or something in here uh probably it's uh i i i paid 30 a year at uh rack nerd for like a two vcpu three gig instance it's it's tiny um
+[SPEAKER_03]: I shared a video that I may have shared before that is exactly what I imagine children are doing at school or at daycare if you jump to the 24 second mark.
+[SPEAKER_02]: Oh god.
+[SPEAKER_03]: Oh, you've sent me this.
+[SPEAKER_03]: Yeah, I was gonna say, I'm pretty sure I've shared at least once, I don't know, with you or us.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: It's so ridiculous.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Sorry.
+[SPEAKER_03]: What were we doing before Tom dropped?
+[SPEAKER_03]: Uh...
+[SPEAKER_03]: Oh, Tom, did Foundry load for you?
+[SPEAKER_03]: No.
+[SPEAKER_03]: Oh.
+[SPEAKER_03]: It's JavaScript's fault, man.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Playing JavaScript.
+[SPEAKER_05]: Don't even get started on this.
+[SPEAKER_05]: I've been arguing with the 1099 because they want to rewrite things in TypeScript.
+[SPEAKER_03]: Like from JavaScript to TypeScript?
+[SPEAKER_03]: Yeah, do it.
+[SPEAKER_05]: No, from Elixir into TypeScript.
+[SPEAKER_00]: The Foundry console says it's reconnected to the server socket using session blog with, right?
+[SPEAKER_00]: So hopefully it's coming.
+[SPEAKER_03]: I don't know.
+[SPEAKER_03]: I just refreshed and the whole thing loaded for me.
+[SPEAKER_03]: My hit F5?
+[SPEAKER_03]: We probably won't need Foundry for a minute.
+[SPEAKER_03]: It's probably OK.
+[SPEAKER_03]: Tom's been an engineer for like 40 years or something.
+[SPEAKER_03]: And you're like, you try turning it off and on again.
+[SPEAKER_03]: But I usually get a black screen that can last up to 10 seconds when I first log in.
+[SPEAKER_03]: But not this long.
+[SPEAKER_00]: Yeah, it's still black.
+[SPEAKER_00]: All the sections have loaded.
+[SPEAKER_00]: So I have UI left, UI middle, UI bottom, UI right.
+[SPEAKER_00]: But there's just nothing in there.
+[SPEAKER_00]: They're all empty.
+[SPEAKER_00]: The console is empty, basically.
+[SPEAKER_00]: It says, I reconnected the server socket using session.
+[SPEAKER_03]: And network ain't doing shit.
+[SPEAKER_05]: You drink a swig of water?
+[SPEAKER_05]: Because I bet you it's a hydration issue.
+[SPEAKER_03]: Oh.
+[SPEAKER_00]: I just hydrated the page.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: I just tried to pull.
+[SPEAKER_03]: I went back to Waterdeep map and tried to pull Brofool into the scene, and I don't think it worked.
+[SPEAKER_03]: Everybody else is still fine, right?
+[SPEAKER_03]: Yeah, I'm fine.
+[SPEAKER_03]: I'm going to pull you off the map real quick.
+[SPEAKER_00]: Earthle's overrated.
+[SPEAKER_00]: Hey, there it goes.
+[SPEAKER_00]: It started loading.
+[SPEAKER_03]: Whoa.
+[SPEAKER_03]: Oh, yeah.
+[SPEAKER_03]: You popped up back in Trollskull Alley.
+[SPEAKER_03]: All right.
+[SPEAKER_02]: Let's roll.
+[SPEAKER_02]: Good enough for me.
+[SPEAKER_03]: I've got a great screen, so I keep loading.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Wild.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Yeah, I just switched scenes and switched back.
+[SPEAKER_03]: All right.
+[SPEAKER_03]: So if we need it.
+[SPEAKER_03]: Anyway.
+[SPEAKER_03]: So you explained to Vincent Tench kind of what you're doing, what you're investigating, and that you need to find Margo Verita to get information from her about Zardoz Zord.
+[SPEAKER_03]: Right?
+[SPEAKER_03]: That's the rundown?
+[SPEAKER_03]: You gave him the whole thing about Luskan Nimble Rites, probably that's what he saw through the fireball, the whole bit.
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: Tinch says, so are you asking me to find a retired performer, or are you asking me to look into Zord?
+[SPEAKER_03]: My fee's the same either way.
+[SPEAKER_03]: Hmm.
+[SPEAKER_03]: A few beers, and...
+[SPEAKER_03]: He smiles with way too much teeth.
+[SPEAKER_03]: No two for one deal?
+[SPEAKER_05]: Because we're doing this for the good of the alley.
+[SPEAKER_00]: Of which we were not the target either.
+[SPEAKER_03]: I don't know what good this does the alley.
+[SPEAKER_03]: To find out who did this?
+[SPEAKER_03]: It's not going to bring any of these people back to life.
+[SPEAKER_03]: Yes, but it could stop future attacks.
+[SPEAKER_03]: It is definitely divorced.
+[SPEAKER_03]: I understand that, but my job has expenses.
+[SPEAKER_03]: I don't think you work for free.
+[SPEAKER_03]: I don't work for free.
+[SPEAKER_03]: We were for free all the time.
+[SPEAKER_02]: I think we were primarily for free.
+[SPEAKER_04]: He's just gonna like photos now, but it's true.
+[SPEAKER_03]: I think you guys have asked for gold from everyone who's ever asked you to do anything.
+[SPEAKER_00]: And how much have we gotten?
+[SPEAKER_03]: Minus 800.
+[SPEAKER_03]: We might be in the red after we have to fix everything.
+[SPEAKER_03]: Is life emulating D&D or is D&D emulating life?
+[SPEAKER_03]: D&D is all.
+[SPEAKER_03]: It's all just one unified experience.
+[SPEAKER_03]: It all feels about the same level of reality to me.
+[SPEAKER_03]: I mean, this is exactly what I did from 9 to 5 today anyway.
+[SPEAKER_03]: All right, what's your rate?
+[SPEAKER_03]: What if you were to look into both of them, if we chose to just look into one of them?
+[SPEAKER_03]: An investigation to get started is 50 gold.
+[SPEAKER_03]: If it takes me more than a 10-day, it's another 50.
+[SPEAKER_03]: For 50 gold...
+[SPEAKER_03]: Each of us can go to ten different taverns and give five different people in each of the taverns a gold and ask them what they know.
+[SPEAKER_04]: Well, I think we should send him on Zardoz.
+[SPEAKER_04]: At least.
+[SPEAKER_04]: That seems more in his wheelhouse.
+[SPEAKER_04]: I think we could probably track down the singer on our own.
+[SPEAKER_05]: That's fair.
+[SPEAKER_05]: I want to have him investigate Zardoz.
+[SPEAKER_05]: And I'll give him details about the transactions and nimble rights and ultimately what we're looking for.
+[SPEAKER_03]: Yeah, so you give him the full download and you want him to look into Zardoz because you want to find the nimble right that dropped a fireball on the alley.
+[SPEAKER_05]: Yeah.
+[SPEAKER_03]: This is okay.
+[SPEAKER_03]: I wonder if he might take, like, I don't know, raw rubies?
+[SPEAKER_00]: You have raw rubies.
+[SPEAKER_03]: Random stones.
+[SPEAKER_03]: Was that a hint hint at Davey?
+[SPEAKER_01]: I don't think I told anyone about my rubies.
+[SPEAKER_03]: No, however, you were spotted.
+[SPEAKER_03]: You were spotted by at least one person, and oh, that's right, because it was just me and Aladin.
+[SPEAKER_03]: Aladin saw you get caught.
+[SPEAKER_03]: swiping oh okay all right yeah i'll just be real ruby's a little meta those are where are those people back from the dead okay we don't we don't get those are those are those still in your pocket yes okay yeah i mean if all adine knows about the rubies then i don't need to be coy i can tell the whole class
+[SPEAKER_04]: what's our uh what's our upfront fee mr detect private eye i need to tell you guys all something yeah whatever reason when hannah says rubies it usually gets translated as roofies so apparently hannah is roofing everybody she's got a lot of uh just so you know not actually everyone go to sleep and tell them i was sneaky
+[SPEAKER_04]: Jake's actually been on a low dose of Ruvlin for about five years now.
+[SPEAKER_03]: Yeah, I mean, that's how she keeps me hustle.
+[SPEAKER_03]: I'm just so tired all the time.
+[SPEAKER_03]: Moro Hypno Soup?
+[SPEAKER_03]: Okay, yeah, so Davy has revealed to everyone that he pilfered a small bag of gemstones from Dalakar's corpse before the watch got there.
+[SPEAKER_03]: Aladin saw it, so did someone else.
+[SPEAKER_03]: You both saw that Davy got clocked.
+[SPEAKER_03]: Okay, for Tench to get him started, it's 50 gold up front.
+[SPEAKER_03]: if he doesn't find anything, he'll return half of it, but some of it's going to immediately go towards expenses.
+[SPEAKER_03]: But seeing as how it's a fairly open-ended investigation, like find out about Zardoz Zord and the nimble rights he's selling, he's going to come up with something.
+[SPEAKER_03]: He's fairly confident.
+[SPEAKER_03]: Yeah, what do we got to pay you to get started?
+[SPEAKER_03]: It says 50 gold up front.
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: 50 gold!
+[SPEAKER_03]: Jeez!
+[SPEAKER_03]: And I can get started tonight.
+[SPEAKER_03]: And that's the...
+[SPEAKER_03]: In a very convincing tone, I'm going to ask him if that's the alley neighbor's rate.
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: You know how much mackerel that is?
+[SPEAKER_03]: Yeah, dude.
+[SPEAKER_03]: That's like 120 mackerels.
+[SPEAKER_03]: I can throw down ten if everyone else wants to throw down ten yeah alright yeah yeah I can do that alright I'm starting to become poor guys in addition to being in debt everybody mark off ten and he says uh do you if I find anything do you want me to bring it to the manor or do you want to meet back here that's ten gold right
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: Yeah.
+[SPEAKER_05]: Fuck, bro.
+[SPEAKER_03]: I think we'll take some home delivery on that.
+[SPEAKER_03]: Thank you very much.
+[SPEAKER_03]: Okay.
+[SPEAKER_02]: Yeah, to the manor.
+[SPEAKER_03]: I just noticed that Trollskull's a very busy place these days.
+[SPEAKER_04]: We have a room upstairs for more delicate conversations.
+[SPEAKER_03]: Yeah, we can take you to Justice's bedroom.
+[SPEAKER_03]: It's not very busy.
+[SPEAKER_03]: Oh, God.
+[SPEAKER_03]: okay what do you mean good here what do you mean i spend a lot of time meditating there yeah that's what we should use our bedrooms for i agree okay that's why i do it all right i don't know what happens there because i spend a lot of time in there
+[SPEAKER_03]: Tinch is like ushering you towards the door as you're still expressing your complete bewilderment.
+[SPEAKER_03]: All right.
+[SPEAKER_03]: Time to hit the bars.
+[SPEAKER_03]: You've set a private eye on Zardoz.
+[SPEAKER_03]: As you get back to the manor,
+[SPEAKER_03]: You see a familiar figure standing outside, uh, looks to be waiting for you.
+[SPEAKER_03]: It is Willifort Crowley.
+[SPEAKER_03]: You know this, uh, you know him as Castle Lenter's, uh, majordomo.
+[SPEAKER_03]: He's the guy who brought your funds.
+[SPEAKER_03]: Uh,
+[SPEAKER_03]: his his obvious distaste of the surroundings is only masked by his extreme nervousness uh at the condition of his master's investment ah mr crowley come to join a drink uh no i do not partake in these establishments i have come with a message
+[SPEAKER_03]: from Master Castellenter.
+[SPEAKER_03]: You are to attend him at his villa at your earliest convenience.
+[SPEAKER_03]: In regards to what?
+[SPEAKER_03]: He looks around at the blast site.
+[SPEAKER_03]: So... That's probably for him to tell you.
+[SPEAKER_03]: We have rather urgent matters to attend to at this time.
+[SPEAKER_03]: I see, I see.
+[SPEAKER_03]: More urgent than a 2,000 dragon loan.
+[SPEAKER_03]: What?
+[SPEAKER_03]: No, no, no, no, no, no.
+[SPEAKER_04]: I'm going to go up to the guy and be like, so sorry, excuse him.
+[SPEAKER_05]: Commoners, am I right?
+[SPEAKER_03]: He like daintily puts like a smelling handkerchief up over his nose.
+[SPEAKER_03]: He says, again, at your earliest convenience.
+[SPEAKER_03]: and heads north back towards Casalenta's villa.
+[SPEAKER_03]: Tomorrow morning for breakfast?
+[SPEAKER_01]: He leaves.
+[SPEAKER_01]: Get some of my pour on him.
+[SPEAKER_03]: Say what?
+[SPEAKER_01]: I'm going to cough on his face before he leaves and get some of my pour on him.
+[SPEAKER_03]: He's already pale, but he turns an even more pallid tone.
+[SPEAKER_03]: and wipes away with his smelly handkerchief.
+[SPEAKER_03]: Wow, coughed upon by an Orcfin.
+[SPEAKER_03]: That's good luck.
+[SPEAKER_03]: That's good luck.
+[SPEAKER_03]: It's always a pleasure to come down here.
+[SPEAKER_03]: Elevation-wise, it's not really down, but I get what he's saying.
+[SPEAKER_03]: Maybe he just means south.
+[SPEAKER_03]: Because, you know, the villa's north of here.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: like upstate New York right that's not what it means okay I mentioned this before but for the nobleman in the party Elior and Justice you understand the phrase at your earliest convenience to mean right the fuck now but it is up to you whether or not let's go I'm coming
+[SPEAKER_03]: How about, I mean, we don't all need to go, do we?
+[SPEAKER_03]: You're definitely not going.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: So why don't you and Justice go noble to noble, and the rest of us all hit the bars looking for this thing.
+[SPEAKER_03]: You guys are going to make me split the party?
+[SPEAKER_03]: Can we bring Berthold?
+[SPEAKER_03]: You guys should come with us.
+[SPEAKER_03]: You should just wait outside.
+[SPEAKER_03]: Berthold can come inside.
+[SPEAKER_03]: I'll come inside.
+[SPEAKER_03]: It's fine.
+[SPEAKER_03]: He's house trained.
+[SPEAKER_04]: Okay.
+[SPEAKER_04]: Brothel has a je ne sais quoi that the elites find appealing.
+[SPEAKER_00]: Can we go to the nearest bar while they go there?
+[SPEAKER_03]: Does that work?
+[SPEAKER_03]: Say what?
+[SPEAKER_03]: We'll go to the nearest bar in that area?
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: The nearest establishment.
+[SPEAKER_03]: To the castle enter villa.
+[SPEAKER_03]: Boys.
+[SPEAKER_03]: That's a great question.
+[SPEAKER_03]: Whoops, closed my map.
+[SPEAKER_03]: There we go.
+[SPEAKER_03]: So up on Delzoran Street.
+[SPEAKER_03]: In the North Ward.
+[SPEAKER_03]: Which one is... Oh, I lied.
+[SPEAKER_03]: They're actually not...
+[SPEAKER_03]: He's not that far.
+[SPEAKER_03]: North of you, he's almost due west.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: Don't worry about it then.
+[SPEAKER_03]: You know what?
+[SPEAKER_03]: We'll clean up the bar and make it presentable for tonight.
+[SPEAKER_03]: Ah, can I get ready to open?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: I like this idea.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: All right, so who is going to the castle hunters?
+[SPEAKER_03]: Noble boys.
+[SPEAKER_00]: And the prince that nobody recognizes.
+[SPEAKER_03]: Oh, I consider you noble as well.
+[SPEAKER_03]: Yeah, he counts.
+[SPEAKER_00]: I mean, you guys do.
+[SPEAKER_00]: I have a leaf to back it up.
+[SPEAKER_03]: It's true, it's true, you do.
+[SPEAKER_03]: I have no concept of what that means, but it sounds important.
+[SPEAKER_03]: Were you here when he got, the dragon handed him a leaf
+[SPEAKER_03]: Yeah, I remember that.
+[SPEAKER_03]: Somehow survived underwater, yeah.
+[SPEAKER_03]: Yeah, I just don't know what it means to him, but... Yeah, well, you probably heard me, I mean, just to recap, because it actually is kind of an interesting thing about what those are.
+[SPEAKER_00]: Aladin asked me, like, what it says, and I said, well, I can't really tell you.
+[SPEAKER_00]: That's like if I handed you a book you'd never read and asked you what it said, right?
+[SPEAKER_00]: Because they told a lot of information, so... Clearly, I've read it by now.
+[SPEAKER_02]: Yeah.
+[SPEAKER_03]: Uh, if you did want to go bar hopping near Castellanters, uh, kind of on the border between... Eh, it's almost entirely in Seaworth.
+[SPEAKER_03]: There is the Broken Lance, a tavern for mostly mercenaries.
+[SPEAKER_03]: Uh, it's a little ways out there.
+[SPEAKER_03]: Uh, but Tarth's Towers is a luxury inn, and Mermaid on a Dolphin is a very expensive restaurant.
+[SPEAKER_03]: uh i think mermaid on a dolphin is like the closest one to them nope uh tarth's towers a luxury inn is basically across the street from them or you can stay and clean up the bar and get ready to open um in which case we'll come back to you uh so it's not a
+[SPEAKER_03]: Go ahead.
+[SPEAKER_03]: I was going to say, Davy, do you want to stick around and maybe also try to find Liff?
+[SPEAKER_01]: Sure, yeah.
+[SPEAKER_03]: You guys haven't heard from Liff since you gave him the news about Fala.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: We'll come back to you then.
+[SPEAKER_03]: So, the three of you make your way to the Castle Winter Villa.
+[SPEAKER_03]: It's not that far.
+[SPEAKER_03]: It's probably...
+[SPEAKER_03]: Getting towards sunset, I want to say.
+[SPEAKER_03]: Maybe not even that late, just kind of like early evening.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Okay, I want to know.
+[SPEAKER_03]: The last time you were here, I believe Jonathan had a run-in with the guards at the gate.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: And they're both on duty this time.
+[SPEAKER_03]: So this time they see you approach and before last time where they tried to chase off the rabble, they instead turn and open up the gates with a polite bow to both Jonathan and Elior and say, you are awaited in the main foyer.
+[SPEAKER_03]: Absolute top manners this time.
+[SPEAKER_00]: I like this.
+[SPEAKER_03]: You either made an impression or they got in trouble for their treatment last time.
+[SPEAKER_00]: You're not sure which.
+[SPEAKER_03]: Sorry, let me find my notes on Castle Enter just real quick.
+[SPEAKER_03]: So you're led into kind of the entrance hall of the villa.
+[SPEAKER_03]: Crowley only beats you here by like maybe five minutes.
+[SPEAKER_03]: He sees you enter and says, ah, I see that you took my meaning after all.
+[SPEAKER_03]: Please, wait here, and I will go fetch the master.
+[SPEAKER_03]: And as you're kind of standing around the entrance hall, you hear like a clatter of feet as two children come running into the entrance hall at full tilt, apparently playing some sort of game.
+[SPEAKER_04]: Yes, buddy.
+[SPEAKER_03]: What's up?
+[SPEAKER_04]: I'm not naked.
+[SPEAKER_04]: Sorry, my son is yelling at me.
+[SPEAKER_04]: I was going to say, may I make a slate of hand and stealth check to tickle them with the feather?
+[SPEAKER_03]: Yes, you may.
+[SPEAKER_03]: Give me a stealth check and an attack roll because we have decided the feather is a weapon.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: eh okay 13 on stealth okay and you want an unarmed uh yep just a straight unarmed attack uh no proficiency because you are not feather proficient yet son of a bitch it's against the kids ac so like so
+[SPEAKER_03]: They don't see you at first because they're busy playing their whatever game it is.
+[SPEAKER_03]: It might be some sort of mock combat.
+[SPEAKER_03]: It's a little boy and a little girl.
+[SPEAKER_03]: They look to be about the same age and look remarkably similar.
+[SPEAKER_03]: And they both happen to look just like Amalia Castellinter, whom you've met before also at Leisinger Theatre.
+[SPEAKER_03]: so as you try and sneak up on them with the feather, they go from playing with each other to like, like mock competing with each other to immediately like two against one, uh, trying to tackle you.
+[SPEAKER_03]: Excellent.
+[SPEAKER_03]: Um, yep.
+[SPEAKER_03]: So, uh, a whole, a whole tussle starts.
+[SPEAKER_03]: Uh, you, it's, it's loud.
+[SPEAKER_03]: It's chaos.
+[SPEAKER_03]: They're like,
+[SPEAKER_03]: trying to dodge between, like, standing art pieces in the central room.
+[SPEAKER_03]: Like, probably ones that are worth more than all of Trollskull.
+[SPEAKER_03]: They're, like, dodging around those, trying to, like, jump-tackle you.
+[SPEAKER_04]: This is fun.
+[SPEAKER_03]: Super excited to see somebody, like, want to get involved with their playing.
+[SPEAKER_03]: Uh...
+[SPEAKER_03]: before they can knock over any fragile urns or artwork, Amalia Castellinter herself enters from the back entryway and says, children, Terenzio, Elzerina, stop, that is not how we treat guests.
+[SPEAKER_03]: Where is Nana?
+[SPEAKER_03]: And a very old tiefling woman.
+[SPEAKER_03]: was apparently following the children at her pace, uh, comes through the entrance that they had obviously escaped from.
+[SPEAKER_03]: She's trying to, like, gather them back together, like, now, children, children, it's late, it's late.
+[SPEAKER_03]: We need baths before bedtime, please.
+[SPEAKER_03]: Come on, come along.
+[SPEAKER_03]: Leave the master's guests to the master.
+[SPEAKER_03]: She's, like, ushering them out of the room.
+[SPEAKER_03]: Uh,
+[SPEAKER_03]: And the little girl like turns around on the way out.
+[SPEAKER_03]: Says, next time we'll both have feathers and it'll be a fair fight.
+[SPEAKER_03]: She's like pulling the children away.
+[SPEAKER_04]: Next time I'll be level four and I'll put weapon proficiency and feather and you're fucked.
+[SPEAKER_03]: Amalia gathers
+[SPEAKER_03]: Gets them out of the room and comes over to you three and says, I'm sorry.
+[SPEAKER_03]: They're my children.
+[SPEAKER_03]: I love them very much, but they are at an age where they're still learning their manners.
+[SPEAKER_03]: I hope nobody was offended.
+[SPEAKER_04]: We can always allow for children.
+[SPEAKER_04]: We know how they will be.
+[SPEAKER_04]: It was not so long ago that we were all children.
+[SPEAKER_04]: So it feels that way.
+[SPEAKER_04]: Speak for yourself, I'm a big boy.
+[SPEAKER_03]: Most of us don't.
+[SPEAKER_03]: Real quick, does anybody need a bio break before we get into this?
+[SPEAKER_03]: My alarm's going off.
+[SPEAKER_04]: Yeah, my ass hurts.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: I want to take ten minutes real quick and then we'll get back to what Amalia and Victorio have to say.
+[SPEAKER_03]: Alright, back in a few.
+[SPEAKER_04]: What was that, buddy?
+[SPEAKER_04]: Was that a doggie?
+[SPEAKER_04]: Yes.
+[SPEAKER_04]: Do you like doggies?
+[SPEAKER_05]: What's your doggie's name?
+[SPEAKER_05]: Bobo.
+[SPEAKER_05]: Bobo?
+[SPEAKER_05]: Oats.
+[SPEAKER_04]: Bobo Oats.
+[SPEAKER_05]: Yeah, he's got a couple names.
+[SPEAKER_05]: Aaron, can you hear me?
+[SPEAKER_02]: No.
+[SPEAKER_02]: Yeah, you can.
+[SPEAKER_04]: They can hear you.
+[SPEAKER_02]: They do hear you.
+[SPEAKER_05]: That's what this device does, and that's why I wouldn't let you put Sprite in it.
+[SPEAKER_03]: Beautiful.
+[SPEAKER_02]: Damn, dude, you've got the music in you.
+[SPEAKER_03]: That's crazy.
+[SPEAKER_04]: Did you start a podcast with two of your other men baby friends?
+[SPEAKER_00]: Dan, you need to buy yourself a long feather.
+[SPEAKER_04]: You don't even need a feather.
+[SPEAKER_04]: Watch.
+[SPEAKER_04]: You can just get him.
+[SPEAKER_04]: That boy's got the music in him.
+[SPEAKER_04]: Who needs a feather?
+[SPEAKER_04]: Animals?
+[SPEAKER_04]: What about him?
+[SPEAKER_00]: Oh, that is an animal.
+[SPEAKER_00]: It's a beaver.
+[SPEAKER_05]: That's Jake's profile picture.
+[SPEAKER_05]: It's a beaver, that's right.
+[SPEAKER_05]: You love beavers?
+[SPEAKER_05]: You want to watch beavers?
+[SPEAKER_04]: You're a little young for that, pal.
+[SPEAKER_04]: No!
+[SPEAKER_04]: I'm using this for my game.
+[SPEAKER_04]: Go ask mommy.
+[SPEAKER_04]: She'll put on beavers for you.
+[SPEAKER_04]: Sorry, buddy.
+[SPEAKER_04]: How about daddy's phone?
+[SPEAKER_04]: You're such a dick.
+[SPEAKER_05]: You're literally eating like mischief incarnate.
+[SPEAKER_05]: Here, you want to see what a beaver looks like?
+[SPEAKER_05]: That sounds...
+[SPEAKER_04]: I'm a good parent, I swear.
+[SPEAKER_00]: That's a beaver.
+[SPEAKER_00]: What the heck?
+[SPEAKER_00]: What the heck?
+[SPEAKER_00]: You see how its feet has webs, buddy?
+[SPEAKER_00]: Why do you think that is?
+[SPEAKER_05]: Why do you think they got webs on their feet?
+[SPEAKER_05]: Well, what else do you know that has a web on their foot like that?
+[SPEAKER_04]: They have webs on their feet because they live with spiders.
+[SPEAKER_04]: Everybody knows that.
+[SPEAKER_05]: What's that?
+[SPEAKER_02]: Sand.
+[SPEAKER_05]: Sand?
+[SPEAKER_05]: Oh, hands.
+[SPEAKER_05]: You're right.
+[SPEAKER_05]: They have hands.
+[SPEAKER_05]: But why do they have webbed feet, you think, buddy?
+[SPEAKER_04]: They have hands.
+[SPEAKER_04]: They do have hands, yeah.
+[SPEAKER_04]: Oh, a baby beaver.
+[SPEAKER_04]: It's so cute.
+[SPEAKER_05]: It can swim.
+[SPEAKER_05]: That's right.
+[SPEAKER_05]: What do you think helps them swim, buddy?
+[SPEAKER_05]: The feet?
+[SPEAKER_05]: The feet?
+[SPEAKER_04]: Yeah, and its tail.
+[SPEAKER_04]: You're right.
+[SPEAKER_04]: That's right, buddy.
+[SPEAKER_04]: They're all wet.
+[SPEAKER_05]: They're all wet.
+[SPEAKER_05]: That's right.
+[SPEAKER_05]: Can you think of other animals that have webs on their feet?
+[SPEAKER_00]: What about ducks?
+[SPEAKER_00]: Ducks?
+[SPEAKER_00]: Yeah, do they have webbed feet?
+[SPEAKER_00]: They do.
+[SPEAKER_04]: Yeah, they do.
+[SPEAKER_00]: Why?
+[SPEAKER_00]: It's because it makes them go faster in water, buddy.
+[SPEAKER_00]: That's why beavers have them too.
+[SPEAKER_04]: You want to know something else about beavers, pal?
+[SPEAKER_04]: They build big dams.
+[SPEAKER_00]: Beavers built that.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: An excavator, that's right.
+[SPEAKER_00]: They're destroying its habitat.
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: See?
+[SPEAKER_02]: Look at that.
+[SPEAKER_00]: Really out here just spewing this liberal propaganda to your child.
+[SPEAKER_02]: I need to get that kit.
+[SPEAKER_04]: He does.
+[SPEAKER_04]: He eats sticks.
+[SPEAKER_04]: Yeah, beavers eat sticks, buddy.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: It's gonna be communist agenda here.
+[SPEAKER_04]: Yeah, they eat sticks.
+[SPEAKER_04]: Isn't that efficient?
+[SPEAKER_04]: Is that like... Oh, I thought it was playing the guts theme to the beaver.
+[SPEAKER_04]: I was like, Jesus.
+[SPEAKER_00]: I don't know any...
+[SPEAKER_00]: I don't have any association yet with any Berserk music, because I haven't watched any, but I've only read.
+[SPEAKER_04]: It's a funny beaver.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: It's kind of like a bear.
+[SPEAKER_00]: Whoa.
+[SPEAKER_02]: Whoa.
+[SPEAKER_05]: You know what, buddy?
+[SPEAKER_05]: I think it's time for an old classic.
+[SPEAKER_05]: Your favorite.
+[SPEAKER_05]: Do you remember these?
+[SPEAKER_02]: The spooky ones.
+[SPEAKER_02]: The spooky ones?
+[SPEAKER_04]: Oh, skeletons?
+Yes.
+[SPEAKER_04]: Okay, let's look up spooky skeletons.
+[SPEAKER_02]: Spooky skeletons.
+[SPEAKER_01]: Spooky skeletons.
+[SPEAKER_01]: Spooky skeletons.
+[SPEAKER_02]: Spooky skeletons.
+[SPEAKER_04]: Kitty cat skeleton.
+[SPEAKER_02]: This kitty cat.
+[SPEAKER_02]: Gross.
+[SPEAKER_04]: Rip ass on my leg.
+[SPEAKER_00]: Was that him farting?
+[SPEAKER_04]: Yes, and laughing.
+[SPEAKER_04]: Jeez, dude.
+[SPEAKER_04]: That was pretty rough.
+[SPEAKER_04]: Oh, you just shit your pants, didn't you?
+[SPEAKER_04]: Did you just poop?
+[SPEAKER_04]: What?
+[SPEAKER_04]: Did you just poop?
+[SPEAKER_04]: You farted?
+[SPEAKER_04]: It smells like poop, bro.
+[SPEAKER_04]: It's not that fun.
+[SPEAKER_05]: You think you're real funny, don't you, pal?
+[SPEAKER_05]: Oh, that looks funny.
+[SPEAKER_00]: Did he actually shit on you, bro?
+[SPEAKER_05]: He definitely farted.
+[SPEAKER_05]: I don't think he shit.
+[SPEAKER_04]: I mean, I think he's still pretty funny.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Who is definitely, like, a top five funniest things?
+[SPEAKER_04]: It is.
+[SPEAKER_04]: Whoa, a skeleton DJ?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: It's
+[SPEAKER_00]: It's Avicii.
+[SPEAKER_00]: Skeleton DJ, is he watching One Piece?
+[SPEAKER_05]: No, he's just watching whatever YouTube drivel.
+[SPEAKER_05]: Whoa.
+[SPEAKER_05]: Hey, buddy, you want to tell them what your favorite color is?
+[SPEAKER_05]: Your three favorite colors?
+[SPEAKER_05]: What is it?
+[SPEAKER_05]: It better be red, white, and blue.
+[SPEAKER_04]: And pink.
+[SPEAKER_05]: And pink?
+[SPEAKER_05]: And what's your third one?
+[SPEAKER_05]: Yeah, I turned it off so you could be in the real world.
+[SPEAKER_05]: Go ask mommy.
+[SPEAKER_05]: Mommy'll do it.
+[SPEAKER_03]: You're scared?
+[SPEAKER_05]: Fine.
+[SPEAKER_05]: fine only because you didn't have it all day son what do you want to watch super kitties okay okay you don't throw a fit about it show me buddy come here show me which one you want this a long video that one that one
+[SPEAKER_05]: Bones for kids?
+[SPEAKER_05]: Did Danny go?
+[SPEAKER_05]: Oh, okay.
+[SPEAKER_05]: You like this one?
+[SPEAKER_05]: There you go.
+[SPEAKER_05]: Louder?
+[SPEAKER_05]: No.
+[SPEAKER_05]: Hey.
+[SPEAKER_05]: Are we ready for bed, sweetheart?
+[SPEAKER_05]: Ooh, it's frustrating, isn't it?
+[SPEAKER_05]: Mommy will put it on for you louder downstairs.
+[SPEAKER_05]: Mm-hmm.
+[SPEAKER_05]: No, he just wants it louder.
+[SPEAKER_05]: I just can't, because we're playing games.
+[SPEAKER_05]: I know, buddy.
+[SPEAKER_05]: It's frustrating, huh?
+[SPEAKER_05]: You want to throw that right there?
+[SPEAKER_05]: You want to throw Bobo's toy?
+[SPEAKER_05]: Yeah, I get it.
+[SPEAKER_02]: Mm-hmm.
+[SPEAKER_05]: What are you doing with that, pal?
+[SPEAKER_00]: Kids, man.
+[SPEAKER_05]: I realize that everything is a monkey's paw with children.
+[SPEAKER_05]: I was like, when he would cry a lot before, I was like, I wish you could tell me what you want.
+[SPEAKER_05]: And now I'm like, Jesus, I miss when you couldn't tell me what you wanted.
+[SPEAKER_05]: And then the other day, he's been going to
+[SPEAKER_03]: S-C-H-O-O-L. Oh, yeah.
+[SPEAKER_05]: Like, we've been sending him daycare three days a week, and just for, like, socialization, because we have a family member that watches him, but we were like, it's good for him to play with other kids, so we've been doing that, and it was rough for the first few weeks, and I can't remember, like, I cannot wait until he doesn't just, like...
+[SPEAKER_05]: scream or how and then the other like two days ago he's going there and it's just a silent tears as he's like let's go it's like that's so much worse like i'm gonna be worse but like now i just feel like i feel like he's got stockholm like oh man it's just hard yep you gotta do it you know it'd be worse if he stayed at home the whole time
+[SPEAKER_05]: yeah yeah i mean that's the it's you know i mean i don't know you don't have to have kids if you're married you're just like oh man like wife's gone for the win for like the night
+[SPEAKER_04]: And then an hour goes by and you're like, I'm bored.
+[SPEAKER_03]: You fantasize about that.
+[SPEAKER_03]: And then it happens.
+[SPEAKER_03]: And then an hour or two later, you're like, jeez, this is hella lame.
+[SPEAKER_03]: This sucks.
+[SPEAKER_04]: This actually sucks.
+[SPEAKER_04]: It was actually super cool having my wife around all the time.
+[SPEAKER_00]: Hannah is just getting back in with the pup.
+[SPEAKER_00]: OK, that's fine.
+[SPEAKER_00]: Spicy quesadilla.
+[SPEAKER_04]: What did you post?
+[SPEAKER_04]: He's gonna eat this dog?
+[SPEAKER_00]: Oh, I posted that when y'all were talking about what kids are spitting on each other at daycare.
+[SPEAKER_05]: They are, though.
+[SPEAKER_00]: takes a chunk off of the dog's face and immediately as violent as I've ever seen someone animate someone spitting something straight into that dude's mouth is this Jojo?
+[SPEAKER_03]: yeah oh shit it's part 4 okay everybody back?
+[SPEAKER_05]: I am cool
+[SPEAKER_03]: Uh, let's see what we do.
+[SPEAKER_00]: Was Tom back?
+[SPEAKER_00]: I see him.
+[SPEAKER_00]: Yeah, do I not look back?
+[SPEAKER_00]: I'm definitely back.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: I didn't hear you, so.
+[SPEAKER_00]: Oh, it's all right.
+[SPEAKER_00]: No, I've been on mute.
+[SPEAKER_03]: Okay, so the Lady Castellentor escorts you through the house to the reading room.
+[SPEAKER_03]: Different room than you were in last time you were here.
+[SPEAKER_03]: It's a smaller, cozier room.
+[SPEAKER_03]: Overlooks the back garden.
+[SPEAKER_03]: I call it cozy, but it's like...
+[SPEAKER_03]: Rich person study cozy, right?
+[SPEAKER_03]: Books along the walls, comfy overstuffed chairs, a mounted dragon head on the wall.
+[SPEAKER_03]: There's like a mounted, like, it's a black dragon's head on a plaque that's been taxidermied.
+[SPEAKER_03]: Through the window, you can see the children have escaped from Nana again and have resumed their game out in the backyard.
+[SPEAKER_03]: but this time they're pretending they have feathers and are dueling each other.
+[SPEAKER_03]: A moment after you enter, Victorio Castellinter comes in behind you.
+[SPEAKER_03]: Lady Amalia turns and says, I imagine you think we've called you here tonight
+[SPEAKER_03]: about our investment, but that's not the case.
+[SPEAKER_03]: We know what happened in the alley to a degree, or we at least heard, and we're not worried.
+[SPEAKER_03]: We think you're capable enough to take care of anything that comes up.
+[SPEAKER_03]: We've actually asked you here for a different reason.
+[SPEAKER_03]: And Amalia looks like she's about to tear up.
+[SPEAKER_03]: And she looks away and watches her kids outside the window.
+[SPEAKER_03]: Victorio takes over, he says, as a matter of fact, it's about our children.
+[SPEAKER_03]: Nearly nine years ago, when they were born, they were cursed
+[SPEAKER_03]: by cultists of Asmodeus.
+[SPEAKER_03]: It's a very specific curse.
+[SPEAKER_03]: On their ninth birthday, Asmodeus will come and take them.
+[SPEAKER_04]: I don't mean to sound skeptical, but might I ask how you know this to be the case?
+[SPEAKER_03]: We were there when he cursed them.
+[SPEAKER_03]: We've taken them to temples.
+[SPEAKER_03]: We've taken them to the spire.
+[SPEAKER_03]: The clerics there have all agreed that the children are cursed and that this will in fact happen and that there was nothing they could do about it.
+[SPEAKER_03]: But I didn't bring you here for a sob story.
+[SPEAKER_03]: There is something we can do about it.
+[SPEAKER_03]: We learned of this
+[SPEAKER_03]: just a few weeks ago there is a way to remove a contracted curse from Asmodeus but it does require sacrifice in our case it requires one gold shy of 1 million gold coins now we are wealthy but even leveraging everything we own we cannot come up with
+[SPEAKER_03]: with the correct amount.
+[SPEAKER_03]: And their ninth birthday... Their ninth birthday is a week after Founder's Feast, which you guys would know Founder's Feast is about a 10 day away.
+[SPEAKER_03]: So about 20 days until their ninth birthday.
+[SPEAKER_03]: I... We will do anything.
+[SPEAKER_03]: to keep our children's souls.
+[SPEAKER_03]: We will sell everything we have, but it doesn't seem to be enough.
+[SPEAKER_03]: Or didn't.
+[SPEAKER_03]: But then we learned about Never Ember's Enigma.
+[SPEAKER_03]: There's been quiet talk about around town, and we started looking into it.
+[SPEAKER_03]: Never Ember's Enigma
+[SPEAKER_03]: is 500,000 dragons that he embezzled and hid somewhere in the city.
+[SPEAKER_03]: And if we can recover that, that is enough.
+[SPEAKER_03]: We will have enough.
+[SPEAKER_03]: We can save our children.
+[SPEAKER_03]: We've asked you here to help us, to help us recover Never Ember's gold.
+[SPEAKER_03]: specifically because we think the key to the gold is somehow entangled with you guys you see the reason we know about what happened at troll school manor is our agents were following a rock gnome named dalekar we think dalekar was in possession
+[SPEAKER_03]: Do we know Dalekar?
+[SPEAKER_00]: Yeah, that's the gnome that got blown up in the alley.
+[SPEAKER_03]: Right, okay, okay.
+[SPEAKER_03]: Sorry, continue.
+[SPEAKER_03]: Dalekar, we're fairly certain, was in possession of something called the Stone of Galore.
+[SPEAKER_03]: And that stone is apparently the key to unlocking Neverember's Enigma.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: We...
+[SPEAKER_03]: He was our best lead, but he's dead now.
+[SPEAKER_03]: We need to recover that stone, because we need to recover that gold.
+[SPEAKER_03]: And we have a very narrow window into which to do it.
+[SPEAKER_03]: And so we are begging you for your help.
+[SPEAKER_04]: Tell me about this stone.
+[SPEAKER_04]: Do you know what it looks like, how large it is, how small it is?
+[SPEAKER_04]: They already gave us money, Aladin.
+[SPEAKER_03]: The stone itself is roughly palm-sized, completely round.
+[SPEAKER_03]: It has three eyes on it.
+[SPEAKER_03]: I'm not sure it's actually a stone.
+[SPEAKER_03]: is a magical artifact that is said to capture and hold knowledge for later recall.
+[SPEAKER_03]: Everybody in the room, make an arcana check.
+[SPEAKER_03]: Are they describing a book?
+[SPEAKER_03]: No.
+[SPEAKER_03]: A book?
+[SPEAKER_03]: What's that?
+[SPEAKER_05]: Who has the money for that?
+[SPEAKER_00]: It was so close to 20.
+[SPEAKER_00]: I was going to say, give me that nat 20.
+[SPEAKER_00]: Give me that nat 20.
+[SPEAKER_03]: If Jonathan comes in with the arcana knowledge again, it's going to start getting weird.
+[SPEAKER_03]: My roles are here to reinforce my character.
+[SPEAKER_03]: Yeah, oh, they're perfect.
+[SPEAKER_03]: You haven't really heard of anything...
+[SPEAKER_03]: like they're describing um but the name the stone of golor is like ringing something uh for brothel and elior like you know something in the back of your mind you've heard of it it's it's definitely a magical artifact but you can't quite recall about it um the most the cast lenders can give you is it is small roughly stone shaped has three eyes on it and holds information
+[SPEAKER_03]: Last known in the possession of Dalakar, but who knows what happened after that.
+[SPEAKER_03]: And if it's compensation you're worried about, we would of course forgive the loan.
+[SPEAKER_03]: And as for the Horde itself, we could offer you 10%, the rest we need.
+[SPEAKER_03]: Is this something you will help us with?
+[SPEAKER_00]: I believe this is a good starting place.
+[SPEAKER_00]: And of course, we need to make friends in the city.
+[SPEAKER_00]: It would be unwise to spurn such an opportunity.
+[SPEAKER_00]: And of course, as you just saw, I do happen to have a rematch scheduled with your children.
+[SPEAKER_03]: she smiles and like the tears actually start to to form in her eyes uh victorio steps in and says i don't i don't want you to think we're trying to strong-arm you even if you say no our business will continue as is but i i think you have the best chance
+[SPEAKER_00]: well as you've probably noticed our compatriots are not entirely here but as i mentioned uh it sounds like a terrific starting point and of course we have every reason to help you i can't promise anything at this point in time but considering the time frame i can tell you that we can take this to our compatriots and have a discussion and probably give you a final answer no later than tomorrow morning
+[SPEAKER_03]: I would appreciate that.
+[SPEAKER_03]: And of course, we'll help you however we can.
+[SPEAKER_04]: I'd like to know a little bit more about this arrangement.
+[SPEAKER_04]: About this curse.
+[SPEAKER_03]: Uh...
+[SPEAKER_03]: we we don't know much other than what the the clerics have told us and what we observed what would you like to know sir who were the clerics that told you about this were there any additional details uh the first was a cleric of il mater this was shortly after the incident happened um
+[SPEAKER_03]: The cultist that cursed them took his own life as part of the ritual, so we couldn't really question him.
+[SPEAKER_03]: We're not sure about motive.
+[SPEAKER_03]: Could have been to hurt us.
+[SPEAKER_03]: It could have been for advancement.
+[SPEAKER_03]: I don't know.
+[SPEAKER_03]: The clerics have confirmed that there is a heavy curse of Asmodeus, of his, I don't know, smell around them, and that it's ticking away, getting stronger and stronger, and their ninth birthday seems the likeliest.
+[SPEAKER_03]: It's also what the cultists said.
+[SPEAKER_03]: before he died.
+[SPEAKER_03]: I don't...
+[SPEAKER_03]: I don't have much more.
+[SPEAKER_03]: Of course, the children, we've kept this from them.
+[SPEAKER_03]: They were infants when it happened, and we've never told them.
+[SPEAKER_03]: I don't think that's something you should grow up with hanging over your head.
+[SPEAKER_04]: Did the clerics express how this a million gold minus one or less one should be delivered?
+[SPEAKER_03]: The clerics didn't find this.
+[SPEAKER_03]: Our agents did.
+[SPEAKER_03]: It's an old bit of Asmodian scrap that explains
+[SPEAKER_03]: how to get out of a curse or a bargain um basically we're going to liquefy it and burn it in a ritual pyre offer an exchange in lieu of their souls one shy of one million gold
+[SPEAKER_03]: Now, we could be wrong.
+[SPEAKER_03]: This could be a piece of fiction that we've stumbled across, but it's the best hope we've had yet.
+[SPEAKER_03]: And I will gladly light one million gold on fire if I think it even has a chance of working.
+[SPEAKER_02]: Hmm.
+[SPEAKER_03]: What else do you want to know?
+[SPEAKER_04]: I think that's it for now.
+[SPEAKER_04]: If these agents that you sent, is there a chance that we could speak with them?
+[SPEAKER_03]: We've sent several agents.
+[SPEAKER_03]: Mr. Crowley oversees most of them.
+[SPEAKER_03]: Which... Who do you want to talk to?
+[SPEAKER_03]: About what?
+[SPEAKER_03]: Crowley can put you in touch with whoever.
+[SPEAKER_04]: Yeah, I think maybe I'll take it up with Mr. Crowley.
+[SPEAKER_04]: I think I want to speak about some additional details that may have been provided or just want to make sure I have my whole head around this problem because you is my financier, our number one concern.
+[SPEAKER_03]: Spoken like a true tavern owner.
+[SPEAKER_04]: Hmm.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: If there are no other immediate questions, please feel free to speak to Mr. Crowley.
+[SPEAKER_03]: He should still be waiting in the entrance, or we'll summon him if not.
+[SPEAKER_03]: And we await to hear.
+[SPEAKER_03]: What's up, Bunker?
+[SPEAKER_03]: I don't know if you can tell them.
+[SPEAKER_03]: You're not here.
+[SPEAKER_03]: We need gold to hire some private eyes.
+[SPEAKER_04]: They already gave us gold.
+[SPEAKER_04]: I'm not going to ask for more gold.
+[SPEAKER_04]: We can have this discussion when we meet the group, right?
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Once we start making money, well, you're talking money, then they start talking interest.
+[SPEAKER_05]: Not take it there.
+[SPEAKER_03]: I mean, you guys still have, I don't remember the number.
+[SPEAKER_03]: It's like 500 gold.
+[SPEAKER_02]: They need a million gold.
+[SPEAKER_03]: They're going to call early on that.
+[SPEAKER_03]: I mean, he said he wouldn't.
+[SPEAKER_03]: He's also saying do whatever is necessary to save his children.
+[SPEAKER_03]: I don't really think we're going to stand in front of that.
+[SPEAKER_03]: Yeah, where is he going to get the gold from five tavern owners?
+[SPEAKER_03]: What's that?
+[SPEAKER_03]: Even if he wanted the gold from us, the best we could do is give him back the remaining gold.
+[SPEAKER_03]: No, he wants you to find...
+[SPEAKER_03]: The tavern is not liquid.
+[SPEAKER_03]: He would make us sell it.
+[SPEAKER_03]: He would liquidate us.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: But mostly he just wants you to find Neverember's hidden hoard of half a million gold coins.
+[SPEAKER_03]: We just have to find one person who's very shy of a million gold.
+[SPEAKER_03]: Turn the riddle on its head.
+[SPEAKER_03]: Very clever.
+[SPEAKER_03]: And then you just have to sacrifice him to Asmodeus.
+[SPEAKER_03]: It's fine.
+[SPEAKER_04]: Yeah, I don't think that Asmodeus is...
+[SPEAKER_03]: One of the, like, oh, that's clever.
+[SPEAKER_03]: I'll be leaving now.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: Oh, you've caught me in a logic trap.
+[SPEAKER_03]: The name, without tapping into metagaming, the name does not imply.
+[SPEAKER_03]: Nope.
+[SPEAKER_03]: Actually, that is a good point.
+[SPEAKER_03]: What would the three of you know about Asmodeus?
+[SPEAKER_03]: I got some arcane.
+[SPEAKER_04]: I mean, actually, I guess history, actually.
+[SPEAKER_03]: Arcana or history, I'll take either one.
+[SPEAKER_03]: What's that?
+[SPEAKER_03]: Oh, you know nothing?
+[SPEAKER_03]: I got you.
+[SPEAKER_00]: Yeah, I mean, I said metaproblem.
+[SPEAKER_00]: I know all the things, but Breath of the Wild's nothing.
+[SPEAKER_00]: He probably has heard the name, obviously, because most people have.
+[SPEAKER_03]: Do I know Asmodeus?
+[SPEAKER_03]: That'd be like saying you've never heard of the devil.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Can I make a history roll to...
+[SPEAKER_03]: yeah dude you guys can throw history or arcana and i'll tell you roughly what you know arcana what that sucks that's a plus three i rolled on that one yep saw that
+[SPEAKER_03]: I mean, Jonathan, you're like, yeah, it's Modius, right?
+[SPEAKER_03]: The devil, he eats children.
+[SPEAKER_03]: This all makes sense.
+[SPEAKER_00]: I feel like I would probably be blown away by the very thought.
+[SPEAKER_03]: No, because, like, you are a paladin and an asmere.
+[SPEAKER_03]: Like, that'd be like saying you...
+[SPEAKER_03]: tried to remember your name, rolled a nat 1, and had amnesia now.
+[SPEAKER_03]: Like, this is...
+[SPEAKER_03]: The name Asmodeus is steeped in kind of the culture, just like if it were a Christian culture, like, calling on Satan.
+[SPEAKER_03]: Like, that part is known.
+[SPEAKER_03]: But...
+[SPEAKER_03]: I was gonna roll to see, like, how much more you would know beyond, like, what is the
+[SPEAKER_03]: the talk, right?
+[SPEAKER_03]: All you know is, yeah, he's evil, he's the devil, he probably eats children.
+[SPEAKER_03]: That's obviously it.
+[SPEAKER_03]: Specifically, he's a devil, not a demon, but you might not know the difference because you're you.
+[SPEAKER_03]: Rothul, are you going to roll Arcana or History?
+[SPEAKER_00]: Yeah, happily.
+[SPEAKER_00]: You're just making me do all this before I become a cleric, man.
+[SPEAKER_00]: Yeah, I know, right?
+[SPEAKER_00]: Well, they're the same.
+[SPEAKER_00]: Doesn't matter.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Dude, I'm going to roll not shitty one of these days.
+[SPEAKER_00]: You're telling me, brother.
+[SPEAKER_03]: I mean, like, you know, it should be 50-50, you know, above or below 10, but everything's been below 10 for, like, two sessions.
+[SPEAKER_03]: Uh...
+[SPEAKER_03]: So you do recall a little more.
+[SPEAKER_03]: Um...
+[SPEAKER_03]: The Asmodeus, the greatest devil, the ruler of all devil kind, lord of the ninth, the lord of lies, supreme master of the nine hells.
+[SPEAKER_03]: He's the big bad.
+[SPEAKER_00]: I want you to recite all of that to us.
+[SPEAKER_04]: Oh, you don't have to.
+[SPEAKER_04]: It's tattooed here on my chest.
+[SPEAKER_03]: The deity of indulgence and a patron of oppression and power, the greatest devil, ruler of all devil kind, lord of the night, the overlord of all nine hells, the lord of lies, supreme master.
+[SPEAKER_03]: Sounds like he's lying.
+[SPEAKER_04]: We're good.
+[SPEAKER_04]: I want to go talk to, was it Mr. Crowley?
+[SPEAKER_04]: That's right.
+[SPEAKER_04]: Oh, great.
+[SPEAKER_03]: Mr. Crowley.
+[SPEAKER_03]: Yeah, I was waiting for it.
+[SPEAKER_03]: I knew someone was going to.
+[SPEAKER_03]: Oh, I've been biting my tongue for sessions.
+[SPEAKER_03]: Not long enough.
+[SPEAKER_03]: His name is Mr. Crowley?
+[SPEAKER_03]: That's not sus at all.
+[SPEAKER_03]: Noelle Crowley.
+[SPEAKER_03]: I want to talk to him.
+[SPEAKER_03]: Yeah, I want to talk to him.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: He is waiting in the main entrance hall as you guys emerge from the reading room.
+[SPEAKER_05]: I'm going to
+[SPEAKER_03]: My lord says you may have some questions for me.
+[SPEAKER_03]: Yeah, I mean... What's your take on all this?
+[SPEAKER_03]: My take?
+[SPEAKER_03]: Yeah, what are your thoughts?
+[SPEAKER_03]: My thoughts are... A deranged cultist of Asmodeus... Has damned my lord's children's souls.
+[SPEAKER_03]: And we...
+[SPEAKER_03]: maybe have a chance to undo it.
+[SPEAKER_04]: Have you ever noticed any strangeness around the children?
+[SPEAKER_03]: Well, they carry a curse, but it's remarkably dormant.
+[SPEAKER_03]: Occasionally a whiff of brimstone, but less so than even your average Asmodean tiefling.
+[SPEAKER_03]: That's the other thing.
+[SPEAKER_03]: They weren't born tieflings.
+[SPEAKER_03]: There was no... Well, I mean, they're not tieflings.
+[SPEAKER_03]: They're human.
+[SPEAKER_03]: Usually when there's some sort of infernal curse or mark on you... Oh, I thought they had become tieflings.
+[SPEAKER_03]: I was like, that would be a pretty good material sign that something is going on.
+[SPEAKER_03]: Yes.
+[SPEAKER_03]: But they weren't
+[SPEAKER_03]: So this curse, we know its origin because they weren't born as tieflings.
+[SPEAKER_03]: I was present when the cultist finished his ritual.
+[SPEAKER_03]: It was tragic.
+[SPEAKER_03]: We thought him a madman at first.
+[SPEAKER_03]: But a friend of the family, a cleric of the Dawnfather, noticed signs that we didn't early on.
+[SPEAKER_03]: And he was the first to confirm that they are, in fact, cursed.
+[SPEAKER_03]: And he looks down the hall to make sure that there's no kids scampering around with an earshot.
+[SPEAKER_05]: Any assertion as to why this family was targeted?
+[SPEAKER_03]: My personal theory is this is...
+[SPEAKER_03]: This is the machinations of a jealous rival, maybe.
+[SPEAKER_03]: But I believe it has to do with their rapid advancement.
+[SPEAKER_05]: What do you mean by that?
+[SPEAKER_03]: I mean, my master is quite astute at business and has taken his house from minor nobility to one of the richest in Waterdeep and he did it fairly rapidly.
+[SPEAKER_03]: Undoubtedly, he has upset many people on his rise.
+[SPEAKER_03]: Many who would love to gouge him when he falls.
+[SPEAKER_05]: Well,
+[SPEAKER_03]: what time did this rapid ascent start uh well i mean he's always been quite successful um castle enters exploded onto the the public eye oh man it's in the back story it's a few years ago uh
+[SPEAKER_03]: i want to say three years ago is when they really started um getting public attention when did this but they've been but they've been climbing they've been socially climbing for the last 20 years right yeah when did this cultist event happen uh it was nearly nine years ago okay
+[SPEAKER_05]: And your opinion on the help they hired and this bit about one shy one million gold?
+[SPEAKER_03]: The help we hired are agents of the Castellentor household.
+[SPEAKER_03]: They have worked for us for years.
+[SPEAKER_03]: As you know, every noble house keeps a network.
+[SPEAKER_03]: And this was ours.
+[SPEAKER_03]: I don't remember the origin of the paper off the top of my head.
+[SPEAKER_03]: I'm speaking as GM now.
+[SPEAKER_03]: But as much as anything can be trusted, I trust its providence.
+[SPEAKER_03]: Now, whether or not it was a lie when it was written, I don't know.
+[SPEAKER_03]: I am not a scholar.
+[SPEAKER_05]: Thank you for your time, Mr. Crowley.
+[SPEAKER_05]: We're off to hopefully help.
+[SPEAKER_03]: Please.
+[SPEAKER_03]: Please help them.
+[SPEAKER_03]: And he opens up the door for you on your way out.
+[SPEAKER_03]: Just as quick as the first time, the guards at the gate see you coming and get the iron gate open and give their appropriately deferential bows on the way back through.
+[SPEAKER_03]: Even to Brofool.
+[SPEAKER_05]: And that's some good help.
+[SPEAKER_05]: Hard to find these days.
+[SPEAKER_03]: OK.
+[SPEAKER_03]: So while you guys were dealing with the heavy shit, what's going on at the tavern?
+[SPEAKER_00]: It better be feathers and wildness, guys.
+[SPEAKER_01]: Oh, ghost.
+[SPEAKER_01]: Yoo-hoo.
+[SPEAKER_03]: Hey, Lif, are you around?
+[SPEAKER_03]: Are you back?
+[SPEAKER_03]: I think the glass in the windows were blown in downstairs, right?
+[SPEAKER_03]: So I'm going to be, I'm assuming our staff is there, so I'm helping them clean up.
+[SPEAKER_03]: I mean, they've been cleaning up all day and running the triage out of it.
+[SPEAKER_03]: So there's no glass pieces left on the floor or anything.
+[SPEAKER_03]: Your windows are missing.
+[SPEAKER_03]: It's pretty busy still in the common room.
+[SPEAKER_03]: Like I said, even earlier, most of the triage is pretty much over.
+[SPEAKER_03]: The wounded have been taken care of, bandaged, and released or sent on to more urgent medical care as needed.
+[SPEAKER_03]: But mostly just everyone is gathering there because nobody wants to be home alone right now.
+[SPEAKER_03]: the tavern is semi-open like the cooks are definitely in the kitchen cooking but they might have been giving away provisions all day I want to start asking some people if they've ever heard of that singer that we're looking for everybody has heard of her she was famous up and down the sword coast and she was a water deep local
+[SPEAKER_03]: It's the whole local girl makes good, right?
+[SPEAKER_03]: Like, rising star story.
+[SPEAKER_03]: I guess the next question is, does anyone know where we can find her?
+[SPEAKER_03]: Ooh.
+[SPEAKER_03]: You make an investigation check while I...
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Okay, that's pretty good.
+[SPEAKER_03]: Um...
+[SPEAKER_03]: Nobody knows exactly other than she does hang out in the castle ward.
+[SPEAKER_03]: Like when people have spotted her, they spotted her most often there, but nobody actually like knows where she lives.
+[SPEAKER_03]: But she has been seen frequenting.
+[SPEAKER_03]: I did not know I'd have to be tracking down a bit.
+[SPEAKER_03]: An NPC's NPC from our second session.
+[SPEAKER_05]: I got you, don't worry.
+[SPEAKER_03]: Yeah, yeah, yeah.
+[SPEAKER_03]: She has occasionally shown up at the Smiling Siren.
+[SPEAKER_03]: It's a nightclub and theater.
+[SPEAKER_03]: One or two times she's popped in and put on an impromptu performance.
+[SPEAKER_03]: She's still an amazing singer.
+[SPEAKER_03]: But these days it'd be like...
+[SPEAKER_03]: It'd be like if Celine Dion showed up at your local karaoke.
+[SPEAKER_03]: Her star has definitely faded, but she's still very famous.
+[SPEAKER_03]: Face of the Smiling Dragon?
+[SPEAKER_03]: The Smiling Siren.
+[SPEAKER_03]: Smiling Siren.
+[SPEAKER_03]: She's been seen at a few other bars in the castle ward.
+[SPEAKER_03]: It seems like she doesn't have a regular watering hole because she still seems to get attention.
+[SPEAKER_03]: Which she probably enjoys in doses, right?
+[SPEAKER_03]: So she's not exactly like a recluse.
+[SPEAKER_03]: Nobody commented on seeing her in public when she showed up at the theater.
+[SPEAKER_03]: It's just nobody knows exactly where she lives.
+[SPEAKER_03]: Probably Castle Ward.
+[SPEAKER_04]: Good to know.
+[SPEAKER_03]: Let me see if I have anything else in my notes.
+[SPEAKER_00]: because I keep detailed notes, but maybe not on her.
+[SPEAKER_03]: Don't see anything off the top of my head.
+[SPEAKER_03]: Margo Verda.
+[SPEAKER_03]: There's my notes.
+[SPEAKER_03]: Nope.
+[SPEAKER_03]: All I have is that you met her at the theater.
+[SPEAKER_04]: I'm going to make sure Chip lifts chalk.
+[SPEAKER_04]: board is back up on the wall, and put some new chalk out next to it.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: And just write a message, sorry for your loss.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: I mean, it's hanging right there, and the message is up where he can see it, but he hasn't responded or anything.
+[SPEAKER_03]: I mean, this was hours ago, right?
+[SPEAKER_03]: This was...
+[SPEAKER_03]: eight, ten hours ago.
+[SPEAKER_03]: It's pretty fresh.
+[SPEAKER_03]: Anything else you're doing to prep for the evening?
+[SPEAKER_03]: No, I think just generally helping out around the bar.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: And the tavern area.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: What's Davey up to?
+[SPEAKER_01]: So I know I'm no, like, dorker, but I'm wondering if I can do, like, a DIY kind of Ouija board seance situation.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: To talk to Liv?
+[SPEAKER_01]: Yeah.
+[SPEAKER_03]: Give me...
+[SPEAKER_03]: I don't know whether to call for religion or arcana here, so I'll let you choose.
+[SPEAKER_01]: They are both plus zero, so... Great!
+[SPEAKER_02]: Straight roll.
+[SPEAKER_01]: I will go religion.
+[SPEAKER_03]: Okay.
+[SPEAKER_03]: Okay!
+[SPEAKER_03]: Fourteen.
+[SPEAKER_03]: Um... You... You... No ways to entice the departed to speak or react.
+[SPEAKER_03]: You...
+[SPEAKER_03]: you know enough to know that you are not strong enough to compel him to do anything um but you you do know some like tips and tricks to get his attention um about half of what you know though is um like antagonistic like like poking at them and goading them into reacting as opposed to to appealing to them to to come speak but you do know a few
+[SPEAKER_03]: a few tricks to do so um if you want to try and and get him to react say something something like that um hmm in that same vein i already forgot his buddy's name what was it which buddy the one who just died
+[SPEAKER_03]: Fala?
+[SPEAKER_01]: Fala?
+[SPEAKER_01]: Mm-hmm.
+[SPEAKER_01]: Would I be able to detect if he's left some kind of spirit or presence?
+[SPEAKER_03]: Oh, if Fala's a ghost now?
+[SPEAKER_01]: Yeah.
+[SPEAKER_03]: Hmm.
+[SPEAKER_03]: That is a good question.
+[SPEAKER_03]: You know enough about poltergeists and things like that that Fala...
+[SPEAKER_03]: died in the alley um pretty much crushed under the the corner of their shop caving in um so if there was a haunting then the place that they lived and worked for years and years and years uh would be most likely it could be the alley itself since they died out like in the alley um
+[SPEAKER_03]: but probably wouldn't be in Trollskull.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: Yeah, I want to see if I can find if they have left a ghost, either in the alley or in their place of business.
+[SPEAKER_03]: You can go look for the obvious signs, but anything kind of metaphysical or spiritual, you would have to get Dorgur for.
+[SPEAKER_03]: For sure.
+[SPEAKER_03]: Give me, if you want to go check out the shop.
+[SPEAKER_03]: So, sorry, what was the name of the shop?
+[SPEAKER_03]: Coralon's Leaf?
+[SPEAKER_03]: Maybe?
+[SPEAKER_03]: My brain is not firing very well tonight.
+[SPEAKER_03]: Coralon's Crown, that's what it was.
+[SPEAKER_03]: uh if you go to the shop across the way um you can see that it has been somebody has shorted up looks like with um looks like freshly cut timber is kind of shoring up the the corner that collapsed uh which you suspect was probably tally's work uh or the apprentices um but nothing else has really been done to it uh
+[SPEAKER_03]: You can easily get inside the shop because even if the door was locked, you could crawl in through the hole in the corner.
+[SPEAKER_03]: Are you trying to sneak in there?
+[SPEAKER_03]: Are you being obvious about it?
+[SPEAKER_03]: Or not specifically trying to go unnoticed?
+[SPEAKER_00]: I think I'd like to peek in and see if anyone is in there sneakily.
+[SPEAKER_00]: Give me a perception check.
+[SPEAKER_00]: It's dark.
+[SPEAKER_03]: There are...
+[SPEAKER_03]: I mean, you know, it's early evening, but I mean, there's no lanterns, candles, anything burning in there.
+[SPEAKER_03]: Other than the section around the corner, the shop is quite tidy.
+[SPEAKER_03]: Did not appear to take much damage from the fall.
+[SPEAKER_03]: It looked like there was something in a mortar and pestle on the counter where fall had been in the middle of something when they
+[SPEAKER_03]: rushed outside um you don't notice or sense any presence spiritual or otherwise this is a very empty and abandoned building no no ghostly sensations okay are there any ghostly sensations like in the alley the alley
+[SPEAKER_03]: kind of hums with its own...
+[SPEAKER_03]: It's not like a frantic energy.
+[SPEAKER_03]: It's like...
+[SPEAKER_03]: I don't know.
+[SPEAKER_03]: There's a weird feeling in the alley, but it's the feeling of being in an area that was comfortable and recognizable and was home to you and to a lot of people, which has suddenly been struck with a bomb.
+[SPEAKER_03]: any wrongness in the alley might be your feelings more than anything weird.
+[SPEAKER_03]: Again, only being an apprentice, you don't necessarily have a bead on this yet.
+[SPEAKER_03]: For sure.
+[SPEAKER_03]: So I guess the best you could say is that
+[SPEAKER_03]: If... Oh, you can't say.
+[SPEAKER_03]: If Falla is there, they're not doing anything obvious to let it be known.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I think I will go back into the manor and I will tell Liff that if Falla is still around, I want to reunite you.
+[SPEAKER_01]: And I'll do everything I can to make that happen.
+[SPEAKER_03]: No response one way or another.
+[SPEAKER_03]: Meanwhile, was his name Patrick, one of your bar backs?
+[SPEAKER_03]: uh yes patrick nifka uh he has kind of unofficially taken over as bartender because lift hasn't been pouring drinks um not doing a lot of business people are still drinking but it's pretty subdued in the common room um
+[SPEAKER_03]: I mean, it's a community trying to put itself back together after a tragedy.
+[SPEAKER_03]: The talk in the tavern is hushed.
+[SPEAKER_03]: People glancing around nervously still, like, pretty sure it's all over, but don't know if it is or not.
+[SPEAKER_03]: It's not a great energy.
+[SPEAKER_03]: But it looks like the residents of the alley will recover in time.
+[SPEAKER_03]: Okay, anything else you guys want to do while the other three are out?
+[SPEAKER_01]: I think I do want to short rest and change my proficiency to that healer's kit.
+[SPEAKER_03]: Yeah, okay.
+[SPEAKER_03]: uh everybody else at this point can can take a short rest as well uh yeah i think there's been enough down time yep hooray use any any hit dice you need uh i think a couple of you got kind of banged up in the fight oops
+[SPEAKER_05]: Hooray.
+[SPEAKER_03]: Does short rest not give any expended slots back?
+[SPEAKER_03]: For a bard, no.
+[SPEAKER_03]: Wait, I have a thingy.
+[SPEAKER_03]: A thingy?
+[SPEAKER_03]: Yeah.
+[SPEAKER_04]: Like if I play a song or something while we're resting.
+[SPEAKER_03]: Yeah, you can...
+[SPEAKER_03]: I forget the ability.
+[SPEAKER_03]: A song of rest.
+[SPEAKER_03]: At the beginning of the second level, use music or ornation to help visualize your wounded allies during a short rest.
+[SPEAKER_03]: If you or any friendly creatures you hear as your performance regain points at the end of a short rest by spending one or more hit dice, each of those creatures regains an extra 1d6.
+[SPEAKER_03]: Okay, so never mind.
+[SPEAKER_03]: It's only... You and Davey get an extra 1d6 on your short list.
+[SPEAKER_03]: I mean, I was at full health anyway, so... Oh, okay.
+[SPEAKER_03]: I think Davey was too.
+[SPEAKER_03]: Right?
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: I think it was mostly Jonathan and Brothul got fucked up in that fight.
+[SPEAKER_00]: Yeah, but I am back.
+[SPEAKER_00]: I'm back, baby.
+[SPEAKER_03]: Alright then, so while you guys are kind of resting and recuperating and doing a little tending of the bar, about that time your compatriots come back with news of their own.
+[SPEAKER_00]: Hello.
+[SPEAKER_00]: Perhaps we should all gather upstairs in our central room.
+[SPEAKER_04]: We have some momentous news.
+[SPEAKER_00]: Let's go on out.
+[SPEAKER_00]: All right, I'll head on out.
+[SPEAKER_03]: It's no one else's.
+[SPEAKER_03]: Yeah, yeah, yeah.
+[SPEAKER_03]: And I see you guys give them the full download.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: No reason to hold anything back.
+[SPEAKER_04]: Yes, plus some things.
+[SPEAKER_00]: So, A, we need to give them an answer by tomorrow at some point, hopefully tomorrow morning.
+[SPEAKER_00]: I hate to say this, but I'll do it in character.
+[SPEAKER_03]: Should I wait for Hannah?
+[SPEAKER_03]: There she is.
+[SPEAKER_00]: She's still here.
+[SPEAKER_00]: Oh, she got her headphones in.
+[SPEAKER_03]: Perfect.
+[SPEAKER_04]: Well, let me pull my notes so I get names right.
+[SPEAKER_03]: Tell me about it.
+[SPEAKER_04]: I took too many notes.
+[SPEAKER_03]: What was the name of the lady that we just talked to?
+[SPEAKER_04]: Romalia Hoventry.
+[SPEAKER_03]: No, Romalia Hoventry, she's your contact with the Harpers.
+[SPEAKER_03]: Oh, the Harpers, yes.
+[SPEAKER_03]: Amalia Casalenter is the lady.
+[SPEAKER_00]: The wife of whom we got the loan from.
+[SPEAKER_03]: Of Victorow, yeah.
+[SPEAKER_04]: Um, we were summoned by the castle enters.
+[SPEAKER_00]: However, it was not about the loan, which is interesting.
+[SPEAKER_04]: We apparently have garnered enough of a reputation for ourself that she felt the lady of the house, mind you, whose name is Amalia.
+[SPEAKER_04]: that we might be the most likely candidates to help them out with a different matter entirely.
+[SPEAKER_04]: And considering the things that we have discovered in the last month, I tend to agree with her.
+[SPEAKER_04]: Her children have been cursed.
+[SPEAKER_04]: The antidote to the curse is a million gold dragons minus one.
+[SPEAKER_04]: And even as a wealthy lender, they do not have this kind of money, but Never Embers Enigma is rumored to be a 500,000 gold dragons hidden somewhere in the city.
+[SPEAKER_04]: And they have asked us to look into finding this.
+[SPEAKER_04]: Now, interestingly enough,
+[SPEAKER_00]: They believe that Dalekar, the very gnome that was blown up by a fireball earlier today, was able or knew of the means to find this gold.
+[SPEAKER_00]: Interestingly enough, Lady Castlelinter told us that Dalekar is rumored to hold a stone called the Stone of Galore, or Galore,
+[SPEAKER_04]: uh that holds information about how to find this if you think about what we have seen in the last month the zentarium the zentero excuse me have been trading notes about
+[SPEAKER_04]: The air, the scion of Never Ember, and a stone, specifically.
+[SPEAKER_04]: And here we are.
+[SPEAKER_03]: Oh, yeah.
+[SPEAKER_03]: I forgot about that note.
+[SPEAKER_04]: With a murdered agent of Never Ember, known as Dalekar, who supposedly had this stone.
+[SPEAKER_04]: The agent of the Zhentarim was found here.
+[SPEAKER_04]: he was then taken in a wagon whom we just saw being assaulted and were unfortunately not able to stop by agents with the tattoo of the xanterium which means we need to leave three things first this stone is probably real and dalekar probably was the best lead to it second
+[SPEAKER_04]: It is highly likely that the Zhentarium is in possession of it.
+[SPEAKER_04]: Third, as much as we hate this, we will probably have to speak to the Watch to understand if they found anything resembling a stone upon that prisoner on the prisoner transport.
+[SPEAKER_03]: Two things that you did see that is forever sessions ago.
+[SPEAKER_03]: uh part of the information you picked up when canvassing especially talking to martim and one of the other folks in the alley you saw whoever threw that fireball jumped down uh went through dollar car's pockets and took off ah okay sorry um but yeah so i do know that you know that yeah no fair enough it is like that whomever owns that nimble right
+[SPEAKER_04]: took the stone if it was on Dalekar.
+[SPEAKER_04]: We don't know that yet, but that is likely what the Zhentarim was looking for also.
+[SPEAKER_04]: So regardless of whether or not we choose to help out the castle enters, there appear to be a massive hoard of gold up for grabs somewhere in the city.
+[SPEAKER_00]: Now with that thought in mind, personally, I am inclined to help the castle hunters.
+[SPEAKER_04]: However, this is a group decision because we are the skullduggers.
+[SPEAKER_00]: We must decide whether or not we want to help them or try to find the hoard for ourselves, or just let it all be and hope we can pay off the debt.
+[SPEAKER_04]: What say you?
+[SPEAKER_03]: You know me, I'm a sucker for helping kids.
+[SPEAKER_03]: Plus, it wouldn't hurt to have some rather powerful and influential people in our backing even more so than now.
+[SPEAKER_05]: What do you think, Jonathan?
+[SPEAKER_00]: I mean, I am...
+[SPEAKER_00]: and i i kind of already made uh i think that call internally when we when i heard it from from the horse's mouth yeah 100 that's that's jonathan right jump on it immediately i figured i didn't even need to verbalize it more that like jonathan just started like heavy breathing
+[SPEAKER_04]: at the thought of being able to do this, like Tony Soprano eating meats over his counter.
+[SPEAKER_01]: I don't think that children should be held responsible for the sins of their fathers.
+[SPEAKER_01]: These kids are innocent, so it probably is the right thing to help them out.
+[SPEAKER_01]: But I do not like the idea of helping Castleenter become even richer.
+[SPEAKER_01]: So I vote that we secure the money and then decide what to do from there.
+[SPEAKER_04]: I mean, he's going to, they're going to burn the gold.
+[SPEAKER_04]: So how does that make them richer?
+[SPEAKER_01]: Look, I know it's not his kid's fault, but I don't like the guy.
+[SPEAKER_02]: Fair enough.
+[SPEAKER_00]: Sounds like we're gonna do it.
+[SPEAKER_03]: What about Elior?
+[SPEAKER_03]: What about him?
+[SPEAKER_03]: You're muted.
+[SPEAKER_05]: Yeah, we're going to do it.
+[SPEAKER_03]: Because the guy that holds your note.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Yeah, that that is my M.O.
+[SPEAKER_04]: I mean, he is strong arm us.
+[SPEAKER_03]: I can't.
+[SPEAKER_04]: I can't argue that out of that regardless.
+So.
+[SPEAKER_04]: I think it'd be easier for me to hit my own child.
+[SPEAKER_04]: Dragon heist.
+[SPEAKER_03]: Heisting dragons.
+[SPEAKER_04]: We're heisting and there's like a weird kind of potentially neurodivergent dragon in the bay.
+[SPEAKER_04]: That's the extent of the heisting dragons.
+[SPEAKER_04]: I am 100% convinced...
+[SPEAKER_03]: I am 100% convinced that all dragons are neurodivergent.
+[SPEAKER_03]: Yeah.
+[SPEAKER_00]: Yeah, like, they might...
+[SPEAKER_03]: They're like the originals.
+[SPEAKER_03]: Yeah, I mean... As were probably the people who fantasized about it.
+[SPEAKER_05]: This is my new headcanon because now I can believe that I have dragon blood in me.
+[SPEAKER_03]: 100%.
+[SPEAKER_03]: um okay uh so while you guys are are talking and seems to you've come to a consensus that you're if not necessarily going to directly help the castle enters you're going to agree and for sure try and find this gold uh was was the kind of least enthusiastic opinion from from Davey um
+[SPEAKER_03]: So, and about that time, when you've come to this agreement, you hear a knock on the second story door, the one to your dwelling, not the one downstairs.
+[SPEAKER_03]: And standing in the doorway is Vincent Tench, the private eye you hired.
+[SPEAKER_03]: That was fast.
+[SPEAKER_03]: Uh-huh.
+[SPEAKER_03]: And he hands you a small sack of coins.
+[SPEAKER_03]: That's not good.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Uh... Nope.
+[SPEAKER_03]: You... You're gonna have to get somebody else.
+[SPEAKER_03]: I'm not doing this.
+[SPEAKER_03]: What happened?
+[SPEAKER_03]: That's as much as I'm gonna say, but I am not taking this job.
+[SPEAKER_00]: What?
+[SPEAKER_00]: What are you, a fucking baby?
+[SPEAKER_03]: Coming back to bargain for more gold?
+[SPEAKER_03]: For what it's worth...
+[SPEAKER_03]: I like you guys.
+[SPEAKER_03]: I also recommend you drop the Zardoz Zord business.
+[SPEAKER_04]: Is he gonna give us our money back?
+[SPEAKER_03]: He handed you it.
+[SPEAKER_03]: That's the first thing he did when the door opened.
+[SPEAKER_03]: Good.
+[SPEAKER_03]: And judging by the weight, it's all 50, not like the 25 he said if he couldn't find anything.
+[SPEAKER_04]: Mr. Tench.
+[SPEAKER_04]: Can I at least hope that since you like us, that you did not divulge who had asked you to make inquisitions before you discovered whom they might lead towards?
+[SPEAKER_03]: Nope.
+[SPEAKER_03]: Your name never came up.
+[SPEAKER_03]: And if anyone asks, mine didn't either.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: For the alley then.
+[SPEAKER_04]: Can I just have a parting question with you?
+[SPEAKER_02]: Mm-hmm.
+[SPEAKER_05]: I mean, you seem like a grizzled man and you charge relative to your skill.
+[SPEAKER_05]: And I'm just wondering, what would scare a man of your stature and your skills?
+[SPEAKER_03]: I'm not going to say.
+[SPEAKER_03]: What if?
+[SPEAKER_03]: I think you understand the situation.
+[SPEAKER_03]: All right.
+[SPEAKER_03]: What did you just roll?
+[SPEAKER_03]: What was that?
+[SPEAKER_03]: 19.
+[SPEAKER_03]: Persuasion.
+[SPEAKER_03]: Persuasion?
+[SPEAKER_03]: Sorry.
+[SPEAKER_03]: Tinch thinks about it for a long minute and says, I'm not getting into it with Menzo Varanzen.
+[SPEAKER_03]: And that is the most I'm going to say.
+[SPEAKER_03]: Now, goodnight.
+[SPEAKER_03]: One more time?
+[SPEAKER_03]: He said, I'm not going to get into it with Menzo Baransin.
+[SPEAKER_03]: Who is Menzo Baransin?
+[SPEAKER_03]: Where is Menzo Baransin is a better question.
+[SPEAKER_04]: It's a city.
+[SPEAKER_04]: I don't know this.
+[SPEAKER_04]: Why is Menzo Baransin?
+[SPEAKER_03]: You guys might know this because this is after the break between the Lulthsworn and the Seldarine Drow.
+[SPEAKER_03]: The Seldarine Drow have come to the surface and...
+[SPEAKER_03]: have been integrating with society for a while.
+[SPEAKER_03]: And that's why everything's wrong.
+[SPEAKER_03]: I'm just kidding.
+[SPEAKER_00]: I mean, yeah, it's an interesting question.
+[SPEAKER_00]: I'll leave it to you, but far northeastern here, I don't know how...
+[SPEAKER_00]: I mean, I guess Waterdeep would know because it knows fucking everything, right?
+[SPEAKER_03]: Like you... Well, let's find out.
+[SPEAKER_03]: Everybody roll history.
+[SPEAKER_03]: It's certainly not the eight masked people making all of our decisions.
+[SPEAKER_03]: DC...
+[SPEAKER_03]: DC 12.
+[SPEAKER_03]: The immigrants.
+[SPEAKER_03]: So, yeah.
+[SPEAKER_03]: Finally a good roll.
+[SPEAKER_03]: Yeah, yeah, yeah.
+[SPEAKER_03]: You all got it.
+[SPEAKER_03]: You all got it.
+[SPEAKER_03]: We all know what we see with our eyes around us.
+[SPEAKER_03]: Yes!
+[SPEAKER_03]: Everybody but Jonathan.
+[SPEAKER_03]: Jonathan, you're like, that sounds like a made-up word.
+[SPEAKER_03]: The rest of you know... All words are made up.
+[SPEAKER_03]: It's true.
+[SPEAKER_03]: And you are caught...
+[SPEAKER_03]: upon this deep philosophical contemplation, while the rest of the party realizes that Menzel Baranzen...
+[SPEAKER_00]: The communication between mortals isn't real.
+[SPEAKER_00]: Only you and your god.
+[SPEAKER_03]: What if my green is their red, and their red is my green?
+[SPEAKER_03]: As he's brushing his hair.
+[SPEAKER_03]: So, unable to see around the navel-gazing, the rest of you realize that Menzel Baranzen is a city in the Underdark, which is full of the Baddrow, the ones sworn to the Spider-Queen.
+[SPEAKER_03]: And one of the evil pantheon.
+[SPEAKER_03]: Lolth.
+[SPEAKER_03]: L-O-L-T-H.
+[SPEAKER_03]: The Spider Queen.
+[SPEAKER_03]: She's so much fun.
+[SPEAKER_03]: Oh, she's so much fun.
+[SPEAKER_03]: When Tench says that, he turns around and starts walking away and says, we never had this conversation.
+[SPEAKER_03]: You never asked me to look into Zord.
+[SPEAKER_03]: I didn't.
+[SPEAKER_04]: For the good of the alley, Mr. Tench, I hope you have a good evening.
+[SPEAKER_03]: Yeah, for the good of the alley.
+[SPEAKER_03]: And he wanders off into the night.
+[SPEAKER_03]: So, do with that what you will.
+[SPEAKER_04]: Why the fuck would a bunch of dark elves want to get their hands upon gold in Waterdeep?
+[SPEAKER_00]: This is a question worth looking into.
+[SPEAKER_03]: I think that's actually a really good place to stop tonight.
+[SPEAKER_03]: We're in a 20-day race to beat the spider queen who's using some gangs
+[SPEAKER_03]: to find a treasure that every bad person in the city would love to get their hands on.
+[SPEAKER_03]: To be fair, every good person would love to get it, too.
+[SPEAKER_03]: It's half a million gold coins.
+[SPEAKER_04]: Yeah.
+[SPEAKER_00]: Out of character, though, just for people who don't know this, it's highly unlikely that Lolth and her followers directly give a shit about gold.
+[SPEAKER_00]: It is highly likely that if they are involved in any way at the direction of Lolth, it is simply to cause chaos.
+[SPEAKER_00]: That is what Lolth loves.
+[SPEAKER_03]: And there's always all sorts of, like, political faction violence in that city, right?
+[SPEAKER_03]: There's constant infighting.
+[SPEAKER_03]: It could be one house against the other.
+[SPEAKER_03]: It doesn't necessarily mean the Spider Queen.
+[SPEAKER_03]: There's just a connection to mental variety.
+[SPEAKER_00]: Yeah, I mean, they just, they are, yeah, they are, you know, followers of Loth.
+[SPEAKER_00]: This is what Loth loves, so they just do it, right?
+[SPEAKER_00]: And if you think about what's going on within Waterdeep, like,
+[SPEAKER_00]: The whole idea of, like, oh, hey, if we can stir up a craze about, you know, Never Remember Senior and a bunch of money and get a bunch of people to fight each other, and then we kill a bunch of other people and get more powerful, like, that's just what they do because that's what they think Wolf likes, which, in general, is what she likes.
+[SPEAKER_00]: But you're not going to be going up directly against, you know, the Spider Queen in any way, shape, or form.
+[SPEAKER_00]: Not at all, Frank.
+[SPEAKER_03]: i mean you know yeah wait until we're like at least level four but yeah drought kind of suck you know it happens but the children the kids the children think about the children think about the children so i think we'll leave that here tonight uh you guys need to find a stone
+[SPEAKER_00]: Yeah, that apparently Mento Varanzen and the Zenterum are looking for.
+[SPEAKER_00]: That's rad.
+[SPEAKER_03]: Also Xanathar's Guild.
+[SPEAKER_00]: And Xanathar's Guild.
+[SPEAKER_03]: Right, Xanathar's Guild was... That's probably why they've been fighting with the Zent.
+[SPEAKER_03]: I mean, that's... All the clues you've gotten so far have mostly been between the criminal enterprises.
+[SPEAKER_03]: This is fine.
+[SPEAKER_05]: We got it.
+[SPEAKER_03]: You now know there is a Dark Elf connection.
+[SPEAKER_03]: Let's see.
+[SPEAKER_03]: What else?
+[SPEAKER_03]: Your best lead is an escaped nimblewright who may or may not have the stone that leads to the gold.
+[SPEAKER_03]: And all you know about him is a good description.
+[SPEAKER_03]: It is one of eight in the city.
+[SPEAKER_03]: And Zarda Zord supplied them.
+[SPEAKER_00]: Cool.
+[SPEAKER_00]: Well, I think heist number one is getting all the names from Zord.
+[SPEAKER_00]: But anyways.
+Hmm?
+[SPEAKER_03]: That's probably a good place to start next week.
+[SPEAKER_04]: We already expanded a myriad amount of resources that were returned immediately to us.
+[SPEAKER_03]: Cool.
+[SPEAKER_03]: That was fun, guys.
+[SPEAKER_00]: Yeah, we've only got 20 days to do this, right?
+[SPEAKER_00]: So if we get that shit done in 20 days, we don't have to worry about the bar anymore.
+[SPEAKER_00]: It's true.
+[SPEAKER_02]: Yeah, I guess .
+[SPEAKER_00]: We're not playing D&D to kill shit or anything.
+[SPEAKER_00]: We're playing D&D to run a profitable bar.
+[SPEAKER_00]: Mm-hmm.
+[SPEAKER_03]: I assume.
+[SPEAKER_03]: That's the whole point.
+[SPEAKER_03]: No.
+[SPEAKER_03]: Right, because I need to take a long break from my day job.
+[SPEAKER_03]: I mean, the sooner we finish, the sooner we get the bar profitable, the sooner we can get our podcast up.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: Yep.
+[SPEAKER_03]: So here's what it takes to start a profitable bar.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: In dungeons.
+[SPEAKER_03]: That's what we're going to do, guys.
+[SPEAKER_03]: Here, I'm going to stop the recording.
+[SPEAKER_03]: Stay tuned.
