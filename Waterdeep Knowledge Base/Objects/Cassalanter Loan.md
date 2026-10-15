@@ -3,8 +3,9 @@ type: object
 status: signed
 revealed: true
 revealed_session: 10
-updated: 2026-08-06
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
@@ -46,7 +47,16 @@ The Cassalanter Loan is the financing arrangement negotiated with [[People/NPCs/
 
 Signed in [[Sessions/Session 12 - 2026-07-09]] by [[People/PCs/Aladeen]], [[People/PCs/Broethuul]], [[People/PCs/Davy]], [[People/PCs/Elior Thalosmere]], and [[People/PCs/Jonathan Usman Sonny Theodore Icarus Charles Eagleshield]]. Elior reviewed the contract and found it straightforward.
 
+## Session 17 Conditional Forgiveness
+
+- Victoro offered to forgive the loan and award 10% of Neverember's hoard if the party helps recover the gold for the twins. This is an offer, not a completed debt discharge.
+- He explicitly said refusal would leave the existing arrangement intact.
+- The party discussed agreeing, but had not delivered a reply by the endpoint. No principal, interest, or cash-reserve adjustment was recorded. See [[Objects/Cassalanter Rescue Offer]].
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/dm-planning/session-10/outline.md`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`

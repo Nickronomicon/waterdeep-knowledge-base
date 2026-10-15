@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-09-24
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_5_2026-04-01_18-17-33.txt
@@ -105,7 +106,7 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 
 ## Open Questions
 
-- What will Fala's research reveal about Lif and the limits of his haunting?
+- Can Fala's unfinished research be recovered, and can Dorgar help with Lif's grief or determine whether Fala's spirit remains?
 - Can the haunting become a working part of the tavern rather than a threat?
 - Can Lif be strengthened safely, and would strengthening him change his nature?
 - How much does Lif know about recent intrusions if he cannot always communicate?
@@ -113,7 +114,17 @@ Lif is the ghost haunting [[Places/Trollskull Manor]]. In session 6, [[People/NP
 - What customer-facing system will let patrons order from Lif without confusion?
 - What does Fala's death do to Lif emotionally and supernaturally?
 
+## Session 17 Withdrawal
+
+- Remained silent despite a restored chalkboard, fresh chalk, and a condolence message. No longer pouring drinks; [[People/NPCs/Patric Nivka]] informally covered the bar.
+- Davy learned some ways to attract a spirit's attention with a Religion result of 14 but could not compel communication.
+- Davy found no obvious sign of Fala's ghost at Corellon's Crown or in the alley, which does not rule one out. Deeper spiritual inquiry would require Dorgar.
+- Davy promised to try to reunite Lif with Fala **if Fala is still around**. Lif gave no response.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/dm-planning/session-3/prep-notes.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`

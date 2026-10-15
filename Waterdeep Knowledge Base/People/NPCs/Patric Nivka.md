@@ -1,8 +1,9 @@
 ---
 type: npc
 status: hired
-updated: 2026-07-25
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/dm-planning/session-13/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - Objects/Trollskull Hiring Applications.md
@@ -36,7 +37,15 @@ Patric Nivka is a young Illuskan barhand and general helper hired for [[Places/T
 - Does Patric become a loyal fixture if treated well?
 - How much does staff lodging complicate the party's privacy, hidden passages, and late-night faction business?
 
+## Session 17 Temporary Bar Service
+
+- Informally took over pouring drinks while Lif withdrew after Fala's death.
+- Trollskull was semi-open with subdued neighbors gathering after triage. This is temporary coverage; no pay change or permanent promotion was recorded.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/dm-planning/session-13/outline.md`
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

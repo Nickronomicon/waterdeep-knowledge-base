@@ -1,8 +1,9 @@
 ---
 type: place
 status: active
-updated: 2026-09-24
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
@@ -52,7 +53,17 @@ Important witness/evidence points:
 - [[People/NPCs/Vincent Trench]] shielded the identity of a higher-class woman who witnessed the rooftop throw.
 - [[People/NPCs/Saeth Cromley]] and [[People/NPCs/Barnibus Blastwind]] took over the investigation after City Guard cordoned the alley.
 
+## Session 17
+
+- Cordon and heavy Watch presence remained. Cromley continued scene work; Barnibus had left. Bodies and major casualties had been removed.
+- Corellon's Crown was shored with fresh timber. Tally and Fala's body were absent; their whereabouts were inferred rather than seen.
+- Trench's office was undamaged. He took a Zord commission and abandoned it the same night with a full refund and a Menzoberranzan warning.
+- Trollskull remained a subdued gathering place as residents began recovering.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`

@@ -1,10 +1,12 @@
 ---
 type: dashboard
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - Prep/Session Prep - 2026-10-01.md
   - ../raw/notes/dm-planning/session-17/notes.md
+  - Sessions/Session 17 - 2026-10-01.md
   - Sessions/Session 16 - 2026-09-24.md
   - Dashboard/Current Campaign State.md
   - Dashboard/Open Threads.md
@@ -16,22 +18,26 @@ tags:
 
 # Next Session
 
-Active prep: [[Prep/Session Prep - 2026-10-01]].
+Start after [[Sessions/Session 17 - 2026-10-01]]: evening/night Ches 22, 1492 DR, upstairs at Trollskull after Trench has returned the entire fee and refused the Zord investigation. No Session 18 prep date is established.
 
-Next play begins early afternoon Ches 22, 1492 DR, immediately after [[People/NPCs/Agorn Fuoco]] escaped with the Watch wagon carrying [[People/NPCs/Urstul Floxin]]. Tonight starts 30 minutes late, so plan for a 3.5-hour session focused on aftermath, information gathering, and heist preparation rather than a planned combat encounter.
+## Immediate Handoff
 
-## Run Priorities
+1. Send the promised Cassalanter answer by the following morning. The party agreed internally to pursue the gold/help the children; Davy wants the money secured before deciding its disposition. See [[Objects/Cassalanter Rescue Offer]].
+2. Pursue Zord's nimblewright buyer names, the proposed first score. Possible approaches are Margo at [[Places/Smiling Siren]], a prospective-buyer cover, or discreet faction research. No record location or ship floorplan is known.
+3. Decide what to do with Trench's [[Places/Menzoberranzan]] warning. His fee is fully refunded, he says the party's names never came up, and he wants his involvement denied. The faction identity remains unrevealed.
+4. Move through research and surveillance before prep declarations. The heist procedure was explained; nobody has declared a prep skill or begun the operation.
+5. Carry forward Lif's silence, Patric covering drinks, missing windows, Fala's remains/shop, unreported wagon-ambush involvement, and Vajra/Laeral follow-up.
 
-- Brief the players on the campaign heist structure before resuming play.
-- Resolve the Watch wagon aftermath quickly: dead guards, dead Zhents, statements, and legal heat.
-- Deliver [[People/NPCs/Remallia Haventree|Remallia's]] silver-raven clue: only eight known Luskan-design nimblewrights are in Waterdeep, all sold by [[People/NPCs/Zardoz Zord]].
-- Let the party gather information toward a score: likely Zord's nimblewright customer list, or the [[Factions/Cassalanters|Cassalanter]] Stone pitch if they do not pursue Zord.
-- End with a chosen target, known next steps, and heist prep skills declared if the table is ready.
+## Prep To Carry Forward
+
+[[Prep/Session Prep - 2026-10-01]] is played-session prep, retained for unused Zord/ship routes. Its meeting, Gralhund, hidden Eye, and scar details were not revealed in play. Use [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], and [[Dashboard/Faction Clocks]] for the current baseline.
+
+The dialogue gives roughly twenty days until the twins' birthday. Exact birthday and ritual cutoff dates differ from prep and need DM confirmation; do not silently count down to Tarsahk 9 or 11 as a party-known deadline.
 
 ## Sources
 
-- `../raw/notes/dm-planning/session-17/notes.md`
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 - [[Prep/Session Prep - 2026-10-01]]
-- [[Sessions/Session 16 - 2026-09-24]]
 - [[Dashboard/Current Campaign State]]
 - [[Dashboard/Open Threads]]

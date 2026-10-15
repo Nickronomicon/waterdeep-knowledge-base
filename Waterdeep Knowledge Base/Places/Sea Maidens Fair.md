@@ -1,8 +1,9 @@
 ---
 type: place
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
@@ -20,7 +21,7 @@ Sea Maidens Fair is the name used in the session 7 transcript for a Luskan-assoc
 ## Current Status
 
 - Three ships recently came into Waterdeep's port for the coming festival season.
-- Sea Maidens Fair is the carnival/fair operation attached to three ships. Session 15 established the flagship [[Places/Sea Maidens Fair|Eyecatcher]] is anchored about a mile out, while two other ships are docked near the fair.
+- Sea Maidens Fair is the carnival/fair operation attached to three ships. The offshore Eyecatcher and two docked ships were described in the retconned Session 15 branch; those access details are not current party discoveries.
 - The city has been buzzing about what the ships will show off this time.
 - Zardoz Zord said the whole city would know once the Fair was ready.
 - In the first version of session 15, the party came here as a nimblewright lead because the Fireball culprit looked Luskan-built, but [[Sessions/Session 16 - 2026-09-24]] retconned that visit.
@@ -44,7 +45,16 @@ This visit was played in the abbreviated Session 15 branch, then removed from ta
 - Confirm whether this page should remain a place, become a faction/organization, or split into individual ship pages once the party visits or investigates.
 - Confirm whether the second docked ship was named Heartbreaker or Hellbreaker in table truth.
 
+## Session 17
+
+- No visit occurred. The DM reiterated Zord's three-ship merchant flotilla, fair/parade role, and nimblewright displays.
+- Remallia identified Zord as seller of the eight known Luskan-design nimblewrights. Buyer names became the party's proposed score after Trench abandoned the inquiry.
+- Zord meeting access, actual records, storage location, and ship security are still unknown to the PCs. Do not restore retconned dockside details as new discoveries.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`
 - `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`

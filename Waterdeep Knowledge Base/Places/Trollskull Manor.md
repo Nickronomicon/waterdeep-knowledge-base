@@ -1,8 +1,9 @@
 ---
 type: place
 status: open
-updated: 2026-09-24
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md
   - ../raw/notes/dm-planning/session-3/prep-notes.md
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
@@ -33,7 +34,7 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Offered to the party at the end of [[Sessions/Session 03 - 2026-03-01]].
 - Inspected and occupied in [[Sessions/Session 04 - 2026-03-22]].
 - The deed is in the party's hands and the manor is treated as their home, but the transcript does not show the magistrate transfer scene; exact legal status should be confirmed.
-- Intended use: party home base and future tavern, possibly with a haunted-house theme.
+- Current use: party home base and open tavern, with Lif formerly serving as its ghostly showpiece and now withdrawn after Fala’s death.
 - [[People/NPCs/Nat]], [[People/NPCs/Jenks]], and [[People/NPCs/Squiddly]] now have a room in the manor.
 - The haunting is strongly confirmed as [[People/NPCs/Lif]], the former tavernkeeper.
 - The tavern opened on Ches 19, 1492 DR under the public name Trollskull Manor.
@@ -215,7 +216,17 @@ Trollskull Manor is a historic building in [[Places/Trollskull Alley]] in the No
 - Will Davy's gemstone theft become a Watch or witness problem?
 - How does Lif's grief over Fala reshape tavern operations?
 
+## Session 17
+
+- Party reconvened in its upstairs central room after the Cassalanter visit; Trench delivered his full refund and warning at the dwelling entrance that night.
+- Triage largely ended, with serious casualties moved and the dead removed. Neighbors still gathered in the common room for company and reassurance.
+- Semi-open: kitchen staff cooked, drinks were served, and Patric informally replaced a withdrawn Lif behind the bar. Glass was cleared but the windows remained missing.
+- No repair payment, relief-food total, new tenday roll, or completed window installation was recorded. See [[Dashboard/Trollskull Operations]].
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/waterdeep_dragon_heist/02.Trollskull-Alley.md`
 - `../raw/notes/dm-planning/session-3/prep-notes.md`

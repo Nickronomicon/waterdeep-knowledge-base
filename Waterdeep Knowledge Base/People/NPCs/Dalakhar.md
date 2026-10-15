@@ -1,8 +1,9 @@
 ---
 type: npc
 status: dead
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - Prep/Session Prep - 2026-08-20.md
@@ -43,9 +44,18 @@ Renaer recognized Dalakhar and said:
 ## DM Notes
 
 - Remix truth: Dalakhar had the Stone of Golorr before the Gralhund nimblewright took it.
-- Table truth as of session 15: the party knows Dalakhar carried something valuable and was searched, but the Stone itself has not been directly revealed as the stolen item.
+- Table truth after Session 17: the Cassalanters named the Stone as Dalakhar’s suspected cargo. Its theft by the nimblewright is a strong party inference, not a direct identification of the item taken.
+
+## Session 17 Stone And Gemstone Leads
+
+- The Cassalanters said their agents had followed Dalakhar because they believed he possessed the Stone of Golorr, the key to 500,000 hidden dragons.
+- Combined with the witnessed nimblewright search, this gives the party a likely Stone theft, not confirmed current custody.
+- Davy told the whole party he had pilfered Dalakhar's gemstone pouch. It remained in his possession, without a recorded sale or new valuation.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 - [[Prep/Session Prep - 2026-08-20]]

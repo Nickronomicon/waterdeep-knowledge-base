@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - Prep/Session Prep - 2026-08-20.md
@@ -29,7 +30,16 @@ Saeth Cromley is a City Watch investigator who helped take control of the Ches 2
 - Took a limited statement from Aladeen during the replayed Fireball investigation; Aladeen admitted he came out after the blast and helped people, but did not volunteer the full nimblewright/Davy details.
 - Urstul escaped later that day when Agorn's Zhentarim team hit the Watch prisoner wagon. Cromley may not yet know this at the table, but the Watch will.
 
+## Session 17 Alley Investigation
+
+- Still examined the Fireball scene after witness interviews when the party returned. Barnibus Blastwind had left; cordons and heavy Watch presence remained.
+- Bodies had been removed and the major medical triage had ended.
+- No wagon-ambush report or further interview with Cromley occurred in this session. The party left the ambush after searching bodies and disguising its presence.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 - `../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt`

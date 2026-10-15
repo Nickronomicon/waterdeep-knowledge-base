@@ -3,8 +3,9 @@ type: object
 status: opened-recovered
 revealed: true
 revealed_session: 14
-updated: 2026-09-24
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - Prep/Session Prep - 2026-07-23.md
   - ../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt
   - ../raw/json_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.json
@@ -63,7 +64,15 @@ The message is written on a narrow strip of cheap paper, rolled tight enough to 
 - Session 15 table truth connected the message to Dalakhar and the Fireball. The party has not yet directly confirmed the Stone was what the nimblewright took.
 - The transcript mangles one phrase as "old never-under chant"; keep "old Neverember channels" as the intended note text unless the table says otherwise.
 
+## Session 17 Interpretation
+
+- During the upstairs discussion, the party connected the tube's Stone/gnome/Neverember clues to the Cassalanter account of the Stone of Golorr and 500,000 hidden dragons.
+- The nimblewright that searched Dalakhar is now a likely Stone-carrier lead, not a confirmed current holder. No new tube text, handout, or custody change was recorded.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - [[Prep/Session Prep - 2026-07-23]]
 - `../raw/text_transcripts/Waterdeep_Session_13_2026-07-23_18-07-05.txt`

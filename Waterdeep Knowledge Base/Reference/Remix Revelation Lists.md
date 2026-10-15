@@ -1,8 +1,9 @@
 ---
 type: reference
 status: active
-updated: 2026-07-11
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/Dragon-Heist-Remix.pdf
 tags:
   - waterdeep
@@ -66,6 +67,20 @@ See [[Reference/Remix Faction Outposts]] and [[Reference/Remix Response Teams]] 
 | Cassalanter loan | Yes | Gives the Cassalanters social and financial access to the party before their Eye role is visible. |
 | Zardoz / Sea Maidens | Yes | Gives Jarlaxle a preexisting social entry before nimblewright evidence fully matters. |
 
+## Session 17 Reveal Update
+
+| Revelation | Table Status |
+|---|---|
+| Eight Luskan-design nimblewrights; all sold by Zord | Explicitly supplied by Remallia's silver raven; buyer names unknown. |
+| Stone of Golorr stores knowledge and leads to 500,000 dragons | Explicit Cassalanter account, shared with all PCs; no Stone sighting/use. |
+| Dalakhar carried the Stone; nimblewright took it | Cassalanter suspicion plus witness evidence supports party inference, not direct item identification or present custody. |
+| Cassalanter rescue terms | 999,999-coin proposed ritual, conditional debt forgiveness/10% share, roughly twenty-day birthday urgency. Origin/cure unverified; exact dates unresolved. |
+| Zord/drow connection | Trench's full refund and Menzoberranzan warning; specific faction, Jarlaxle identity, and Lolth agenda unrevealed. |
+| Gralhund culprit / missing Eye holders / nimblewright surveillance | Still unrevealed. Do not import the structural answers above into a player recap. |
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/Dragon-Heist-Remix.pdf`

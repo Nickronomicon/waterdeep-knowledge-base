@@ -1,8 +1,9 @@
 ---
 type: reference
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/waterdeep_dragon_heist/05.Spring-Madness.md
   - ../raw/waterdeep_dragon_heist/06.Hell-of-a-Summer.md
@@ -56,11 +57,14 @@ Use original adventure chapters for maps, NPC/stat references, and room-key base
 
 ## Current Campaign Fit
 
-- Session 17 is expected to introduce the player-facing heist loop before the party commits to an operation.
+- Session 17 introduced the five-phase loop and one declared prep skill/tool/ability per PC, cashed in through explanation and a roll during the operation. No prep declarations or operation occurred.
 - Zardoz, Zelifarn, and the Cassalanter loan mean two heist target networks already have soft social entry points.
-- The most likely near-term score is Zord's nimblewright customer list; Cassalanter Villa, Xanathar infrastructure, and Kolat Towers remain later heist networks unless the table swerves.
+- The party proposed Zord’s buyer names as its first score. No physical list, storage location, floorplan, or surveillance was obtained. Cassalanter Villa, Xanathar infrastructure, and Kolat Towers remain later heist networks unless play changes that.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/Dragon-Heist-Remix.pdf`
 - `../raw/waterdeep_dragon_heist/05.Spring-Madness.md`

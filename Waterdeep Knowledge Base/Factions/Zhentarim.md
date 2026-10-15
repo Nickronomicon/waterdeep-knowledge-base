@@ -1,8 +1,9 @@
 ---
 type: faction
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
@@ -61,7 +62,16 @@ The Zhentarim, also called the Black Network or "the Zhents" at the table, are a
 - Where did Oren flee after Yellowspire, and who reaches him first?
 - What does Amath report to Manshoon, and what response follows?
 
+## Session 17 Extraction Aftermath
+
+- Agorn and Urstul remain escaped. The recap confirmed both thugs and the spellcaster died; only the two thugs' bodies stayed at the scene alongside the two Watch dead.
+- No surviving attacker was interrogated. The party looted coins, concealed its presence, and left without a Watch report.
+- The Cassalanter Stone description helped the party connect the tube, Dalakhar, the nimblewright search, and the faction war. Urstul's possession of the Stone is unproven; the nimblewright's owner is the stronger immediate lead.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`

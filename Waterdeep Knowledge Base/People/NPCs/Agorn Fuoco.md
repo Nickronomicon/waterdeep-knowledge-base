@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - Reference/Remix Response Teams.md
 tags:
@@ -36,7 +37,16 @@ Agorn Fuoco is a Manshoon-aligned Zhentarim response-team figure. In table truth
 - [[Reference/Remix Response Teams]] lists Agorn Fuoco as a Manshoon's Zhentarim response-team lead, typically a bard with thugs.
 - Preserve the split between this Manshoon/Banite pressure and any Davil/Yagra/Doom Raider Zhentarim relationship until the table proves otherwise.
 
+## Session 17 Aftermath
+
+- Remains escaped with Urstul; no pursuit or new confrontation occurred.
+- Opening recap confirmed the mage and both thugs died. The mage's body traveled on the wagon; two thugs and two Watch guards remained at the scene.
+- The party looted/dressed the scene and left without notifying the Watch on screen. Agorn's destination and next move remain unknown.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt`
 - [[Reference/Remix Response Teams]]

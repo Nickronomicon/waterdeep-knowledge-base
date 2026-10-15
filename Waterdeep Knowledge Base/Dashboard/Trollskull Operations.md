@@ -1,8 +1,9 @@
 ---
 type: dashboard
 status: active
-updated: 2026-09-24
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/dm-planning/session-13/outline.md
   - Sessions/Session 13 - 2026-07-23.md
   - Sessions/Session 14 - 2026-08-06.md
@@ -111,7 +112,19 @@ The opening-day accounting is resolved from user-provided table bookkeeping on 2
 - Session 15 prep suggested a working repair baseline if needed: 50 gp and two days for glass, doors, and street-facing repairs; running a relief kitchen costs another 10 gp but prevents a Fireball penalty on the first tenday business roll; abandoning the damaged tavern without delegating care gives `-10` to that roll.
 - Before rolling the first full tenday, decide whether Ches 22-29 is a normal operating stretch, a damaged/closed stretch, a relief-kitchen stretch, or a special partial-period result.
 
+## Session 17 Relief And Staff Coverage
+
+- By evening Ches 22, Trollskull was semi-open. Most major triage had ended, but neighbors still gathered for company and reassurance.
+- Kitchen staff kept cooking; provisions may have been given away during relief, with no exact quantity or expense established.
+- Glass was cleared, but windows were still missing. No completed repair or paid repair invoice was recorded.
+- Lif remained silent and stopped pouring drinks. Patric informally covered service; reconsider the assumed Lif bonus before the next roll, without assigning an automatic new modifier here.
+- Trench's investigation used personal contributions of 10 gp per PC, then was refunded in full. Net party fee 0; individual redistribution unshown. Do not debit the 637 gp loan reserve for this.
+- No new tenday business roll, reserve reconciliation, or relief-kitchen accounting occurred. The 50 gp repairs/10 gp relief numbers above remain prep options, not expenses paid at the table.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/dm-planning/session-13/outline.md`
 - [[Sessions/Session 13 - 2026-07-23]]

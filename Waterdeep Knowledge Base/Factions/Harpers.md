@@ -1,8 +1,9 @@
 ---
 type: faction
 status: active
-updated: 2026-08-20
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/dm-planning/session-6/lightsinger_theater.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_8_2026-04-30_18-09-18.txt
@@ -61,7 +62,16 @@ The Harpers are a semi-secret network of agents who work quietly against tyrants
 - How will Remallia follow up now that the one-use paper bird has been spent and the party hit Yellowspire?
 - What useful rumors does Trollskull produce now that the tavern is actually open?
 
+## Session 17 Nimblewright Intelligence
+
+- Remallia answered the Fireball paper-bird report through her silver raven: eight known Luskan-design nimblewrights in the city, all sold by Zord, buyer names unknown.
+- Warned that open inquiries could expose what the party knows and delivered a replacement paper bird to Aladeen.
+- No further Harper message, new assignment, or faction commitment was made this session.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/dm-planning/session-6/lightsinger_theater.md`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`

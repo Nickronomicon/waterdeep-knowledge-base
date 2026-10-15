@@ -1,8 +1,9 @@
 ---
 type: timeline
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
@@ -30,7 +31,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 
 ## Current Endpoint
 
-The latest ingested table state is early afternoon Ches 22, 1492 DR, near the Watch wagon ambush site after [[People/NPCs/Agorn Fuoco]] escaped with [[People/NPCs/Urstul Floxin]]. The [[Places/Sea Maidens Fair]] endpoint from Session 15 was retconned in Session 16 and never happened.
+The latest ingested table state is evening/night Ches 22, 1492 DR, upstairs at [[Places/Trollskull Manor]] after Trench's full refund and Menzoberranzan warning. The party agreed internally to pursue the Stone/hoard and help the Cassalanter twins; a formal reply remains due by the following morning. The retconned Session 15 fair visit remains outside table truth.
 
 ## Session Chronology
 
@@ -52,6 +53,7 @@ The latest ingested table state is early afternoon Ches 22, 1492 DR, near the Wa
 | [[Sessions/Session 14 - 2026-08-06]] | 2026-08-06 | Ches 19-22, 1492 DR | Party opens and reads the Zhent runner tube, handles Staget's Watch response with Elra nearby, questions and releases Thugby, releases then hunts down Oren Fallow, uses Remallia's paper bird, rescues Nat from Yellowspire, fights Banite Zhentarim and an infernal panther, loses Amath and Oren as escapees, returns to Trollskull, and ends as the Fireball detonates outside on Ches 22. |
 | [[Sessions/Session 15 - 2026-08-20]] | 2026-08-20 | Ches 22, 1492 DR | Party rescues Squiddly from burning debris, confirms Fala died in the blast, turns Trollskull into triage, identifies Dalakhar as the dead rock gnome coming to meet Renaer, learns a red-caped nimblewright used a necklace of fireballs and searched Dalakhar, sees Urstul Floxin arrested by Cromley, conceals the broken necklace and gemstone pouch, and gathers nimblewright owner leads. The original Sea Maidens Fair endpoint was later retconned. |
 | [[Sessions/Session 16 - 2026-09-24]] | 2026-09-24 | Ches 22, 1492 DR | Aladeen replays the Fireball investigation, sees Davy pocket Dalakhar's pouch, redirects the party from the retconned Sea Maidens Fair route to Blackstaff Tower, gets Vajra to warn Laeral about Neverember involvement, sends Remallia a paper bird, and fights Agorn's Zhent extraction team as they break Urstul Floxin out of Watch custody. |
+| [[Sessions/Session 17 - 2026-10-01]] | 2026-10-01 | Ches 22, 1492 DR | Party loots/dresses the ambush site and leaves; Remallia identifies eight Luskan nimblewrights/all sold by Zord and sends a replacement paper bird; Trench is hired; Cassalanters pitch the twins’ rescue for the 500,000-dragon hoard; Davy finds no obvious Fala haunting; party agrees internally to seek the gold; Trench refunds all 50 gp and warns of Menzoberranzan. |
 
 ## Date Anchors
 
@@ -63,6 +65,8 @@ The latest ingested table state is early afternoon Ches 22, 1492 DR, near the Wa
 - Session 13 covers final opening prep, skips to the grand opening on Ches 19, and ends that evening or night.
 - Session 14 begins around midnight after the Ches 19 opening, moves through Nat's kidnapping on Ches 20, Yellowspire at moonrise on Ches 21, and ends with the Fireball blast at mid-morning on Ches 22.
 - Session 15 begins immediately after the Ches 22 Fireball. Session 16 retconned the Sea Maidens Fair endpoint and replaces it with the Blackstaff/Remallia/Urstul extraction route on the same in-world day.
+- Session 17 starts after the wagon escape, explicitly places the investigation planning at mid-afternoon Ches 22, and ends that evening/night without a day advance.
+- The Cassalanter answer is due next morning (Ches 23 if play advances normally). Their birthday explanation is only approximate: a week after Founder's Feast, feast about a tenday away, total called about twenty days. Prep's Tarsahk 11 birthday/Tarsahk 9 ritual date were not disclosed; confirm before fixing absolute dates.
 
 ## Open Chronology Questions
 
@@ -74,7 +78,7 @@ The latest ingested table state is early afternoon Ches 22, 1492 DR, near the Wa
 - Exact final damage to Thomril & Sons after the burning-stable fight.
 - Whether Thugby reports to anyone after leaving Trollskull in session 14, and what Remallia's manservant learns about him.
 - Who used the Trollskull smuggler's passage to release rats, and how the party secures it.
-- What Fala knows about Lif and whether he can be strengthened.
+- What Fala’s unfinished research contains and whether Dorgar can help determine if their spirit remains.
 - Whether Tally's bucklers are picked up before the urchins cause another weapon-training incident.
 - What happened during the urchins' offscreen "adventure" on Ches 5-6.
 - Whether the escaped Drowned Lantern cutpurse or salvage boss reports the Gray Hands harbor mission.
@@ -88,6 +92,9 @@ The latest ingested table state is early afternoon Ches 22, 1492 DR, near the Wa
 - Whether the Stone theft becomes table-confirmed through Renaer, Zord, Urstul, or later Gralhund investigation.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/discord-synopsis-channel.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`

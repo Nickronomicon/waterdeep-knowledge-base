@@ -1,8 +1,9 @@
 ---
 type: npc
 status: dead
-updated: 2026-09-24
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
@@ -18,7 +19,7 @@ tags:
 
 # Fala Lefaliir
 
-Fala Lefaliir is the wood elf herbalist who runs [[Places/Corellon's Crown]] in [[Places/Trollskull Alley]].
+Fala Lefaliir was the wood elf herbalist who ran [[Places/Corellon's Crown]] in [[Places/Trollskull Alley]].
 
 ## Current Role
 
@@ -75,7 +76,17 @@ Fala Lefaliir is the wood elf herbalist who runs [[Places/Corellon's Crown]] in 
 - Said that strengthening or changing a ghost would require research, especially because the party needed to define what kind of strengthening they meant.
 - Later brought herbs to help with the cellar smell and left a note behind the bar for Lif.
 
+## Session 17 Aftermath
+
+- Fala's body was gone when the party returned. The DM suggested the city mortuary as a likely destination and inferred Tally was with the remains; neither was confirmed on screen.
+- Corellon's Crown had been shored up with fresh timber, probably by Tally or apprentices. Davy saw no obvious haunting there or in the alley.
+- This does not prove Fala's spirit is absent. Davy would need Dorgar for deeper investigation and promised Lif to try to reunite them if Fala remains.
+- Shop inheritance, funeral arrangements, and unfinished research remain unresolved.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_4_2026-03-22_18-18-25.txt`

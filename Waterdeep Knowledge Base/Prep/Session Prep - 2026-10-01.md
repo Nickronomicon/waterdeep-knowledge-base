@@ -1,11 +1,12 @@
 ---
 type: prep
-status: active
+status: played
 session: 17
 real_date: 2026-10-01
 campaign_date: Ches 22, 1492 DR
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/dm-planning/session-17/notes.md
   - Sessions/Session 16 - 2026-09-24.md
   - Dashboard/Current Campaign State.md
@@ -25,6 +26,12 @@ tags:
 # Session Prep - 2026-10-01
 
 Session 17 is a shortened 3.5-hour session starting late. The goal is not a major fight. The goal is to cleanly exit the [[Sessions/Session 16 - 2026-09-24|Session 16]] wagon-extraction aftermath, explain the campaign's heist procedure to the players, and let the party gather information toward a likely heist.
+
+## Actual Play Outcome
+
+Ingested into [[Sessions/Session 17 - 2026-10-01]]. The table received the heist briefing, looted/dressed and left the wagon scene without a Watch report, received Remallia's eight-nimblewright clue/replacement bird, hired Trench, visited the Cassalanters, and agreed internally to seek the hoard. Trench then refunded all 50 gp and warned of Menzoberranzan. Formal Cassalanter reply remains due by morning.
+
+No docks/Zord/Fergus scene, Gralhund identification, record location, floorplan, surveillance, prep declaration, or heist operation occurred. No scar reaction or Cassalanter Eye was revealed. The dialogue's approximate birthday countdown and clerical accounts differ from prep; see [[Objects/Cassalanter Rescue Offer]] before setting deadlines.
 
 ## Session Shape
 
@@ -267,6 +274,9 @@ Any one of these is a successful shortened session:
 - The party names a heist target, has a rough information plan, and each player declares a prep skill for the future operation.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/dm-planning/session-17/notes.md`
 - [[Sessions/Session 16 - 2026-09-24]]

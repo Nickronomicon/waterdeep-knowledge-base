@@ -2,8 +2,9 @@
 type: dashboard
 status: active
 audience: players
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -573,3 +574,28 @@ The Skullduggers then sent a paper bird to Remallia Haventree: Fireball at Troll
 The party attacked. Aladeen and Davy fired from range. Jonathan climbed up behind the attackers and brought thunder to a woman who answered with thunder of her own. Elior's ice knives burst across the bridge. Broethuul parkoured up a flower cart, ruined it, and later made a dead thug rise just long enough to club his friend before collapsing again. Two Watch guards died in the chaos. The Zhent spellcaster died too. But the leader, addressed as Agorn, got the reins, drove the wagon away, and escaped with Urstul despite the party coming very close to stopping him.
 
 So the session ended not at the Sea Maidens Fair, but in the aftermath of a daylight prison break: dead Watch guards, dead Zhents, Urstul gone, Agorn named, and the Fireball investigation now tangled with the Blackstaff, the Harpers, Laeral Silverhand, and a very active Zhentarim cleanup crew.
+
+
+## Session 17
+
+With Urstul and Agorn disappearing down the street in a stolen Watch wagon, the Skullduggers took stock of the aftermath. Two dead guards, two dead thugs, and a surprising shortage of pocket money. The search produced twenty-three silver and eight copper, after which the bodies were made presentable and the party made itself scarce. Broethuul even supplied the ruined flower cart with an alternative explanation for its condition. Civic responsibility comes in many forms.
+
+Back at Trollskull, the cordons remained, but the worst of the triage was over. Remallia's silver raven arrived with a fresh paper bird and a much narrower suspect pool: only eight known nimblewrights in Waterdeep matched Luskan construction, and Zardoz Zord had sold every one. Buyer names, unfortunately, were not included. Neither was permission to ask loudly without consequences.
+
+The party considered sending Elior shopping for a surprise parental gift, with customer references naturally required before any respectable noble spends his money. First, though, they wanted a better idea of Zord himself. Vincent Trench accepted fifty gold to investigate the captain and his nimblewright sales, while the Skullduggers planned to track down his opera companion, Margo Verida. During the financial discussion, Davy admitted to having acquired Dalakhar's gemstone pouch. The stones remained stones, rather than becoming a detective's retainer.
+
+Then Willifort Crowelle arrived with a Cassalanter summons. Broethuul, Elior, and Jonathan went to the villa; Aladeen and Davy stayed to help the tavern. The gate guards were remarkably polite this time. Inside, Broethuul immediately found suitable noble company: two children willing to engage in feather combat among extremely expensive ornaments. Ammalia eventually rescued the ornaments and introduced the real reason for the visit.
+
+The Cassalanters said their twins, Terenzio and Elzerina, had been cursed by an Asmodean cultist at birth. On their ninth birthday, roughly twenty days away, their souls would be taken. There might be a way out: an old text suggested a ritual offering of one gold coin short of a million. Even the family's wealth could not cover it. Neverember's missing five hundred thousand dragons could.
+
+They also supplied a name for the object everyone seemed to be chasing: the Stone of Golorr. A small, rounded artifact with three eyes, said to hold knowledge—and the key to the hidden gold. Their agents had been following Dalakhar because they believed he carried it. The gnome's death and the nimblewright's search of his pockets suddenly fit together rather too well.
+
+The offer was loan forgiveness and ten percent of the hoard. Elior asked about clerics, curse mechanics, and the suspiciously specific sum. The family admitted their proposed cure was a hope, not a guarantee. The visitors promised to discuss it with the others and answer by morning.
+
+At the tavern, Aladeen found a possible lead on Margo: Castle Ward, especially a nightclub and theater called the Smiling Siren. Davy had less luck finding a voice from the other side. Lif remained silent despite fresh chalk and condolences. Corellon's Crown had been shored up, but there was no obvious sign of Fala's spirit. Davy promised to try to reunite them if Fala was still around. Behind the bar, Patric quietly took over the drinks.
+
+Once everyone reunited upstairs, the Skullduggers agreed to pursue the gold and help the children. Davy made one qualification: innocent children deserved help, but that did not make the Cassalanters trustworthy. Better to secure the money before deciding what to do with it.
+
+Then Trench knocked. He returned all fifty gold and announced that he was done. He would not explain what he had found, advised them to drop Zord, and insisted their names had never come up. Pressed a little further, he gave them exactly one more piece of information: he would not get entangled with Menzoberranzan.
+
+An Underdark drow city was quite an addition to an already crowded investigation. For now, the next score looks like Zord's buyer names. First, an answer to the Cassalanters by morning; then, somehow, a customer inquiry that does not announce itself to everyone beneath Waterdeep.

@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-07-25
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/handouts/s4-businesses-of-trollskull-alley.md
   - ../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt
   - ../raw/text_transcripts/Waterdeep_Session_10_2026-06-11_18-06-12.txt
@@ -53,7 +54,15 @@ Talisolvanar "Tally" Fellbranch is the half-elf carpenter and woodcarver who run
 - Delivered the finished Trollskull Manor sign on Ches 19 with apprentices.
 - The sign carries the Skullduggers identity beneath the troll skull and crossed swords.
 
+## Session 17 Whereabouts
+
+- Absent when the party returned after the wagon ambush; Fala's remains had also been removed. The DM inferred he was probably with the remains, without confirming it.
+- Fresh timbers shored the damaged corner of Corellon's Crown. Davy suspected Tally or his apprentices did the work; no conversation confirmed who did it.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/handouts/s4-businesses-of-trollskull-alley.md`
 - `../raw/text_transcripts/Waterdeep_Session_6_2026-04-09_18-17-17.txt`

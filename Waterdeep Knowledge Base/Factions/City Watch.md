@@ -1,8 +1,9 @@
 ---
 type: faction
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
@@ -54,7 +55,17 @@ The City Watch is Waterdeep's civic law-enforcement presence.
 - Two Watch guards died during the extraction, and Urstul escaped with Agorn.
 - The Watch now has a public daylight prison break tied to the Fireball suspect, with the party present as armed interveners rather than bystanders.
 
+## Session 17 Unreported Ambush And Cordon
+
+- Session opening confirmed two dead Watch guards and two dead Zhent thugs at the ambush site; the dead mage's body went away on Agorn's wagon.
+- Party looted coins from attackers and guards, left the uniforms, dressed the scene, and departed by a group Stealth check judged successful as far as they knew. No statement or notification was made on screen.
+- On returning to Trollskull, the party found the Fireball cordons still up, bodies removed, Cromley still examining the scene, and Barnibus gone.
+- Later consideration of asking the Watch whether Urstul had a stone was discussion only. Watch knowledge of the party's ambush involvement and any consequences remain unresolved.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`
 - `../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt`

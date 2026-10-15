@@ -7,8 +7,9 @@ class: Bard
 subclass: College of Eloquence
 species: Human
 background: Entertainer
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Aladeen-level-3.pdf
@@ -276,7 +277,18 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - Track Aladeen knowing that Davy took Dalakhar's pouch and whether he confronts Davy about it.
 - Track whether Aladeen's counter-rumor against Frewn creates Watch, guild, or neighborhood blowback.
 
+## Session 17 Table-Facing Notes
+
+- Stayed at Trollskull with Davy while the other three visited the Cassalanters.
+- Received Remallia's replacement paper bird and the eight-nimblewright/Zord clue.
+- Asked patrons about Margo Verida; learned Castle Ward sightings and the Smiling Siren lead, without a home address.
+- Joined the party discussion favoring pursuit of the hoard to help the twins. No new outgoing paper-bird message is recorded.
+- Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Aladeen-level-3.pdf`

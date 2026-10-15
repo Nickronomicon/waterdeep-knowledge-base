@@ -1,8 +1,9 @@
 ---
 type: npc
 status: escaped
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
   - Prep/Session Prep - 2026-08-20.md
@@ -40,7 +41,16 @@ Urstul Floxin is a dangerous-looking burned man who survived the Ches 22 Firebal
 - Session 15 ended with Urstul in Watch custody, but session 16 changed his current status: he escaped via Agorn's extraction team.
 - Agorn's team and Urstul appeared mutually familiar enough that Urstul expected to bargain for rescue.
 
+## Session 17 Follow-Up
+
+- Still escaped with Agorn; no fresh sighting, interrogation, or custody change.
+- Party briefly considered asking whether the Watch found a stone on him. The DM reiterated the nimblewright's search of Dalakhar, making its owner the stronger Stone lead; Urstul's possession remains unproven.
+- Party left the wagon ambush without a Watch report after looting and disguising its presence.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt`
 - [[Prep/Session Prep - 2026-08-20]]

@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/notes/handouts/s9-thalosmere-archive-report.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
@@ -41,7 +42,7 @@ Remallia Haventree, also known as the Widow Ulbrinter, is a secluded Waterdhavia
 
 - The party sent Remallia a paper bird after reporting the Fireball to [[People/NPCs/Vajra Safahr]].
 - The message identified a Fireball attack in Trollskull Alley, dead and wounded, a rock gnome tied to Dagult Neverember, and a nimblewright attacker.
-- The message was signed from the Skullduggers. Her response has not yet occurred on screen.
+- The message was signed from the Skullduggers. She answered by silver raven in Session 17; see below.
 
 ## Thalosmere Archive Context
 
@@ -64,7 +65,17 @@ The private [[Objects/Thalosmere Archive Report on Remallia Haventree]] revealed
 - How will she follow up now that the paper bird has been used and the party hit Yellowspire?
 - Was the silver-raven message purely congratulations, or did it also mark Trollskull as a live Harper listening post?
 
+## Session 17 Reply
+
+- Replied to the Fireball report with her silver raven as the party returned to Trollskull.
+- Confirmed eight known Luskan-construction nimblewrights in the city, all sold by Zardoz Zord; she had no buyer names.
+- Warned that open inquiries could tell the seller exactly what the party knows.
+- Supplied Aladeen with a replacement [[Objects/Remallia's Paper Bird|paper bird]] for future contact. The raven repeated the message twice and left.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/notes/handouts/s9-thalosmere-archive-report.md`
 - `../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt`

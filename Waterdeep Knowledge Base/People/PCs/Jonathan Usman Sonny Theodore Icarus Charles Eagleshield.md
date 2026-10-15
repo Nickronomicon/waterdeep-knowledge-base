@@ -9,8 +9,9 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Jonathan-level-3.pdf
@@ -259,7 +260,18 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - Track how Jonathan defines justice in play, especially when Waterdeep law and moral duty diverge.
 - Decide when Jonathan learns that Davy is Anastasia Crommor, and how that tests his view of punishment, truth, and obligation.
 
+## Session 17 Table-Facing Notes
+
+- Visited Cassalanter Villa with Elior and Broethuul, heard the family's proposal, and strongly supported helping the twins.
+- The visitors promised a reply after consulting the party, no later than next morning. The whole group later agreed internally to pursue the gold, with Davy's reservation about its final use.
+- Did not pass the history recall check for Menzoberranzan when Trench refused the Zord inquiry.
+- Zord buyer names are the proposed first score; no prep skill was declared or operation begun.
+- Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Jonathan-level-3.pdf`

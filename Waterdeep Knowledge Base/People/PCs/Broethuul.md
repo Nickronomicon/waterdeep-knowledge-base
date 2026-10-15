@@ -7,8 +7,9 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Broethuul-level-3.pdf
@@ -246,7 +247,18 @@ In session 12, the Amberleaf Dispatch reframed Broethuul's arrival as planted ra
 - Will Broethuul share the Amberleaf Dispatch, and can he find the wrong-water door again?
 - Will Broethuul reveal the hidden broken necklace of fireballs, and what happens if the Watch discovers he concealed evidence?
 
+## Session 17 Table-Facing Notes
+
+- Helped disguise the ambush aftermath by staging a thug's mace in the broken flower cart.
+- Visited Cassalanter Villa with Elior and Jonathan, played a feather game with the twins, and heard the curse/hoard proposal before briefing the others.
+- The Stone's name sounded familiar without additional recalled lore. No Amberleaf Dispatch or hidden-necklace disclosure occurred.
+- Part of the internally favorable response, with formal acceptance still to be sent by morning.
+- Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Broethuul-level-3.pdf`

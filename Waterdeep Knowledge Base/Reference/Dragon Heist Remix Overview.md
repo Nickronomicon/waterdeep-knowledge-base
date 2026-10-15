@@ -1,8 +1,9 @@
 ---
 type: reference
 status: active
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/waterdeep_dragon_heist/00.Introduction.md
 tags:
@@ -50,7 +51,7 @@ The current major players are:
 ## Campaign Alignment
 
 - The campaign is currently early afternoon Ches 22, 1492 DR, immediately after the Fireball investigation, Blackstaff/Remallia contact, and Agorn's extraction of Urstul from Watch custody.
-- The Fireball/Nimblewright pivot has triggered, but Gralhund Villa has not yet entered table truth. Session 17 prep begins moving the table into information gathering and possible heist planning.
+- The Fireball/Nimblewright pivot has triggered, but Gralhund Villa has not yet entered table truth. Session 17 made the Stone/500,000-dragon stakes explicit through the Cassalanter proposal; the party internally agreed to pursue the gold, and Zord buyer names are the proposed next score.
 - The party already has several Remix-adjacent clues: [[Objects/Renaer's Locket]], [[Objects/Scrap of Note]], Maxeene's rock gnome lead, the Cassalanter loan, Zardoz exposure, the opened [[Objects/Zhent Runner Message Tube]], Yellowspire, Dalakhar's death, the red-cloaked nimblewright, and Broethuul's [[Objects/The Amberleaf Dispatch]].
 - Use transcript truth first. Remix material is future-facing structure until it appears in play.
 
@@ -65,6 +66,9 @@ The current major players are:
 - [[Reference/Original Adventure Overview]]
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/Dragon-Heist-Remix.pdf`
 - `../raw/waterdeep_dragon_heist/00.Introduction.md`

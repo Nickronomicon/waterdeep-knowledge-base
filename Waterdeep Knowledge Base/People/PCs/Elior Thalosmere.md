@@ -7,8 +7,9 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Elior-level-3.pdf
@@ -272,7 +273,18 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - Determine whether Grum'shar's spellbook has ongoing plot relevance or is just carried loot.
 - Decide how much of the Crommor archive Elior shares with the party.
 
+## Session 17 Table-Facing Notes
+
+- Visited Cassalanter Villa with Jonathan and Broethuul. Questioned the curse, confirming clerics, ritual payment, and household agents; no independent witness or text was obtained.
+- Heard the Stone of Golorr's name/description and recognized the name vaguely, without recalling additional lore.
+- Joined the internally favorable rescue discussion. A prospective-buyer cover using his status was considered for Zord but never executed.
+- No scar reaction was recorded; do not import the Session 17 prep note's expected heat as an observed event.
+- Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Elior-level-3.pdf`

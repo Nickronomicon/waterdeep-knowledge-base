@@ -7,8 +7,9 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-10-01
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
   - ../raw/notes/character-sheets/Davy-level-3.pdf
@@ -247,7 +248,19 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - Track whether the bystander who saw Davy take Dalakhar's gemstones becomes a legal, blackmail, or reputation problem.
 - Track how Davy handles the Davin Crommor nimblewright lead.
 
+## Session 17 Table-Facing Notes
+
+- Revealed Dalakhar's pilfered gemstone pouch to the whole party and still held it. No valuation, sale, or use as payment occurred.
+- Stayed at Trollskull with Aladeen. A Religion result of 14 gave some ghost-contact techniques but no power to compel Lif.
+- Found no obvious Fala haunting at Corellon's Crown or in the alley, without ruling a spirit out. Promised Lif to try to reunite them if Fala remains; Lif did not respond.
+- Took a short rest and changed borrowed proficiency to the healer's kit.
+- Supports saving the innocent twins but distrusts the Cassalanters; wants to recover the gold before choosing its disposition. The party still owes a formal reply.
+- Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/roster.md`
 - `../raw/notes/character-sheets/Davy-level-3.pdf`

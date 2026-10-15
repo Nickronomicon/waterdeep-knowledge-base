@@ -1,8 +1,9 @@
 ---
 type: thread
 status: active
-updated: 2026-09-24
+updated: 2026-10-15
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
@@ -30,7 +31,7 @@ The Remix uses similar machinery under the name Grand Game / Neverember's Enigma
 - In session 14, the party opened the Zhent runner tube. Its message tied a living gnome, old Neverember channels, the Stone remembering the road but not the eyes, Xanathar watchers, the lord's son, and the Portal together.
 - The Fireball has now triggered at Trollskull, moving the Great Game from clue frame into the active blast-investigation phase.
 - The party has learned the Fireball was caused by a red-clad nimblewright using a necklace of fireballs, that the dead gnome was [[People/NPCs/Dalakhar]], and that Dalakhar came to meet Renaer while carrying something valuable for Dagult Neverember.
-- The table has not yet directly confirmed that the stolen object was the [[Objects/Stone of Golorr]].
+- Session 17 made the Stone/hoard connection explicit through the Cassalanter account. The actual item taken from Dalakhar is still inferred, not directly identified.
 
 ## Current Inputs
 
@@ -49,11 +50,22 @@ The Remix uses similar machinery under the name Grand Game / Neverember's Enigma
 - Does "Lady B" refer to a noble, faction leader, alias, or something else?
 - Who is "R" in the note?
 - How much does Remallia know beyond what she told the party?
-- When should the table-facing phrase "Great Game" broaden into the Remix's full Grand Game structure?
+- Which faction and heist route surfaces next now that the party is actively seeking the hoard?
 - How much of the opened tube message should point the party toward Davil/Yagra, and how much should remain ambiguous now that Urstul and the nimblewright trail are onstage?
-- When and how should the Stone itself become explicit table truth?
+- How can the party verify the Cassalanter account and the nimblewright’s current Stone custody?
+
+## Session 17 Overt Hoard Race
+
+- The Cassalanters named the 500,000-dragon hoard and Stone of Golorr, connecting their rescue proposal to Dalakhar and the nimblewright investigation.
+- Party consensus is to pursue the gold and agree to help the twins, with Davy reserving judgment on final disposition. The formal reply is due by next morning.
+- Remallia identified Zord as seller of eight known Luskan-design nimblewrights. Trench's abandoned inquiry adds a Menzoberranzan/drow connection, not an identified faction or divine agenda.
+- Getting Zord's buyer names is the proposed next score; the record location and means of obtaining them remain undecided.
+- [[Objects/Cassalanter Rescue Offer]] records the claimed roughly twenty-day urgency, reward, and unverified account. Missing Eye holdings remain unrevealed.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
+- [[Sessions/Session 17 - 2026-10-01]]
 
 - `../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt`
 - `../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt`

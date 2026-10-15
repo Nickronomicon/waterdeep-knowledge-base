@@ -476,3 +476,24 @@ Follow-up:
 - Reconstruct session 1 from the session 2 recap and user memory.
 - Create the first current-state dashboard after latest-session ingest.
 - Ingest the Remix as runnable structures rather than long copied prose.
+
+
+## [2026-10-15] ingest | Session 17
+
+- Ingested [[Sessions/Session 17 - 2026-10-01]] from the complete text transcript; checked that the JSON companion is nonempty and structured with segments/language. Compared the Session 17 prep with actual play.
+- Created [[Objects/Cassalanter Rescue Offer]], [[People/NPCs/Terenzio Cassalanter]], [[People/NPCs/Elzerina Cassalanter]], [[Places/Smiling Siren]], and [[Places/Menzoberranzan]]. Recorded claimed curse/cure evidence, conditional loan forgiveness/10% share, internal agreement versus pending formal reply, and the unresolved deadline/clerical discrepancies.
+- Updated affected PCs, NPCs, factions, locations, objects, threads, heist/revelation reference pages, all active dashboards, [[Timeline/Campaign Timeline]], [[Dashboard/Player-Facing Synopsis]], [[Prep/Session Prep - 2026-10-01]], [[Meta/Raw Source Inventory]], [[Meta/DM Prep Source Map]], [[AGENTS]], and [[INDEX]].
+- Carried forward the 23 sp/8 cp ambush loot with uncertain holder, full 50 gp Trench refund, replacement paper bird, party-wide gemstone disclosure, Lif's continued silence, Patric's temporary bar service, and no new priced repairs/business roll. Preserved the retconned fair visit and unrevealed Bregan/Jarlaxle, missing Eyes, hidden necklace, and private Amberleaf boundaries.
+- Raw inventory now records 227 files, including 16 text/16 JSON transcripts for sessions 2-17. No raw files were edited.
+- Sources read: Session 17 text transcript and JSON structure, `../raw/notes/dm-planning/session-17/notes.md`, `../raw/notes/discord-synopsis-channel.md`, canonical guide/index/recent changelog, Session 17 prep, and maintained campaign/entity/reference pages.
+
+Follow-up:
+
+- Begin after Trench's departure upstairs at Trollskull on evening/night Ches 22. Send the promised Cassalanter reply by morning, then research Zord's buyer names through Margo, a buyer cover, faction help, or a properly scoped heist.
+- Confirm the birthday/ritual calendar before fixing a deadline; preserve the Ilmater-versus-Dawnfather account for DM review. No record location, floorplan, surveillance, prep declaration, or operation is established.
+- Continue Lif/Dorgar/Fala, staff/repair/relief accounting, Watch/official follow-up, and escaped-Zhent consequences.
+
+Validation:
+
+- Parsed updated YAML frontmatter, checked source paths and new wikilinks, verified timeline/table formatting, and ran `git diff --check`. No new unresolved wikilinks were introduced.
+- Confirmed the prior changelog is unchanged and all 227 raw source files match pre-edit SHA-256 hashes.
