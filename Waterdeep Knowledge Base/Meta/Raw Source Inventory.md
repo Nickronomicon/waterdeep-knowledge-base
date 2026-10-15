@@ -10,15 +10,15 @@ tags:
 
 # Raw Source Inventory
 
-Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 17 planning notes and transcripts. Raw sources were read and classified only; no files under `../raw/` were edited.
+Inventory of `../raw/` after commit `6fad85b`, updated for the current raw working tree including session 17 transcripts and session 18 planning notes. Raw sources were read and classified only; no files under `../raw/` were edited.
 
 ## Summary
 
-`../raw/` currently contains 227 files:
+`../raw/` currently contains 228 files:
 
 | Extension | Count | Notes |
 |---|---:|---|
-| `.md` | 58 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
+| `.md` | 59 | Adventure markdown, roster/stats, DM notes, handouts, technical notes, character notes |
 | `.pdf` | 6 | Remix PDF plus five level-3 character sheets |
 | `.txt` | 16 | Text transcripts for Waterdeep sessions 2-17 |
 | `.json` | 16 | JSON transcripts for Waterdeep sessions 2-17 |
@@ -79,6 +79,7 @@ These are aspirational prep sources. Per `AGENTS.md`, they may contradict transc
 | Session 15 | `../raw/notes/dm-planning/session-15/notes.md` | Used for [[Prep/Session Prep - 2026-08-20]] and [[Sessions/Session 15 - 2026-08-20]]. Stable actual play covered the Fireball rescue, Fala's death, Squiddly's rescue, Dalakhar/Renaer reveal, Urstul's Watch custody, and the nimblewright clue. The Sea Maidens Fair endpoint was retconned by Session 16. |
 | Session 16 | `../raw/notes/dm-planning/session-16/notes.md` | Used for [[Prep/Session Prep - 2026-09-24]] and [[Sessions/Session 16 - 2026-09-24]]. Actual play replayed Session 15's Fireball investigation for Aladeen, retconned the Sea Maidens Fair endpoint, went to Blackstaff/Remallia leads, and ended with Agorn's team extracting Urstul from Watch custody. |
 | Session 17 | `../raw/notes/dm-planning/session-17/notes.md` | Used for [[Prep/Session Prep - 2026-10-01]] and [[Sessions/Session 17 - 2026-10-01]]. Actual play delivered the heist briefing, ambush departure, Remallia clue/replacement bird, Trench commission/refund, Cassalanter rescue proposal, Margo lead, and Lif/Fala follow-up; no docks, Gralhund, or operation. |
+| Session 18 | `../raw/notes/dm-planning/session-18/notes.md` | Read for [[Prep/Session Prep - 2026-10-15]]: investigation direction, Margo, Vajra nudge, fresh combat. Draft planning only; no transcript or played outcomes. |
 
 Missing planning folders for sessions 2 and 9 are expected from current raw contents.
 

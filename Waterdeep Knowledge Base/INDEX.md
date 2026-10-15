@@ -47,6 +47,7 @@ Core dashboards are active for weekly use. Add or revise prep-facing dashboards 
 - [[Prep/Session Prep - 2026-08-20]] - Session 15 Fireball aftermath; Squiddly rescue, Fala casualty, crime scene, Watch/Renaer, nimblewright owners, Zord, and Dripping Dagger contingencies.
 - [[Prep/Session Prep - 2026-09-24]] - Session 16 Aladeen-focused rewind of Session 15 Fireball investigation, retcon boundaries, witness cards, branch leads, response teams, and generic encounter/map prep.
 - [[Prep/Session Prep - 2026-10-01]] - played Session 17 prep with actual-outcome note; unused Zord/ship routes remain available.
+- [[Prep/Session Prep - 2026-10-15]] - draft Session 18 brainstorming and runnable prep: Ches 23 opening, Margo access clues, Zord/ledger fork, Vajra nudge, and theater duergar/gazer encounter with a level-3 utility loot table.
 
 ## Source Inventory
 
@@ -105,7 +106,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 - `../raw/notes/discord-synopsis-channel.md` - existing synopsis notes for sessions 1 and 2; ingested into [[Sessions/Session 01 - 2026-02-15]], [[Sessions/Session 02 - 2026-02-22]], [[Dashboard/Player-Facing Synopsis]], and [[Meta/DM Prep Source Map]].
 - `../raw/notes/character-sheets/` - level-3 character sheets and Broethuul expanded character notes.
 - `../raw/notes/character-arcs/` - DM-facing character arc notes; currently Davy.
-- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, and 17; scaffolded into session pages, prep pages, and [[Meta/DM Prep Source Map]].
+- `../raw/notes/dm-planning/` - aspirational DM prep notes for sessions 1, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, and 18; scaffolded into session pages, prep pages, and [[Meta/DM Prep Source Map]].
 - `../raw/notes/handouts/` - record copies of session-0 backstory handouts, in-game clue handouts, and other player-facing documents.
 - See [[Meta/Raw Source Inventory]] for the detailed classified source map.
 
@@ -352,7 +353,7 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Make a git commit for the completed initial wiki build.
-2. Continue from [[Sessions/Session 17 - 2026-10-01]]: Cassalanter reply by morning, Zord buyer names as proposed score, Margo/Smiling Siren, and Trench’s Menzoberranzan warning. Confirm the rescue deadline before setting an absolute countdown.
+2. Run/refine [[Prep/Session Prep - 2026-10-15]] from [[Sessions/Session 17 - 2026-10-01]]: Cassalanter reply by morning, Zord buyer names as proposed score, Margo/Smiling Siren, and Trench’s Menzoberranzan warning. Confirm the rescue deadline before setting an absolute countdown.
 3. Expand the nimblewright investigation prep as its own follow-up arc, with Zord customer-list, Gralhund, House of Inspired Hands, Davin Crommor, and Cassalanter routes ready to surface in play.
 4. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
 5. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.

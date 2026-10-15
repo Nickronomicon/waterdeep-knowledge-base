@@ -497,3 +497,17 @@ Validation:
 
 - Parsed updated YAML frontmatter, checked source paths and new wikilinks, verified timeline/table formatting, and ran `git diff --check`. No new unresolved wikilinks were introduced.
 - Confirmed the prior changelog is unchanged and all 227 raw source files match pre-edit SHA-256 hashes.
+
+## [2026-10-15] prep | Session 18 investigation and theater encounter
+
+- Created [[Prep/Session Prep - 2026-10-15]] from the Session 18 rambling notes and post-Session-17 campaign state. Draft includes recap, planned Ches 23 transition, party state, three investigation directions, Margo access/ledger clue options, a bounded Vajra Sending, Zord social versus ledger routes, background agendas, and flexible endings.
+- Added a runnable reduced Xanathar response encounter: two legacy duergar and a gazer at the Smiling Siren, interactive scenery, capture goals, morale, clue, and difficulty variants for five level-3 PCs. Marked all new dialogue, staging, and relationship adaptations as proposals.
+- Checked Remix Parts 3C/4B/5C for response teams, Eyecatcher J30 ledger, published Margo role, and social Gralhund reveal; compared original Chapter 7 and the local gazer block. Preserved table-known eight versus published nine nimblewright uncertainty, campaign owner changes, unrevealed identities/evidence, and unresolved rescue calendar.
+- Updated [[Dashboard/Next Session]], [[INDEX]], [[Meta/DM Prep Source Map]], and [[Meta/Raw Source Inventory]]. Inventory now includes the user-provided Session 18 source: 228 raw files, 59 markdown. Raw files remain read-only.
+- Follow-up: choose Margo's degree of ship familiarity, confirm long-rest resources, review legacy duergar in Foundry, and finalize the campaign buyer handout if a ledger score becomes likely. No Session 18 events have been ingested.
+
+## [2026-10-15] prep | Duergar utility loot
+
+- Added a d6 duergar loot table to [[Prep/Session Prep - 2026-10-15]] at the DM's request: capture gear, climbing rig, smoke pellet, stonegrip salve, mufflewax, and paired magical tap-stones. Defined original item mechanics and marked homebrew explicitly.
+- Set the encounter-wide reward at one healing potion plus two distinct table results, with smoke/tap-stones as the recommended selection. Kept capture orders independent of treasure rolls and added a personal soapstone keepsake. Rewards remain proposed, not party inventory.
+- Updated [[INDEX]]. Sources reviewed: campaign guide, index, recent changelog, and existing Session 18 encounter prep. No raw files were edited.
