@@ -48,6 +48,9 @@ Core dashboards are active for weekly use. Add or revise prep-facing dashboards 
 - [[Prep/Session Prep - 2026-09-24]] - Session 16 Aladeen-focused rewind of Session 15 Fireball investigation, retcon boundaries, witness cards, branch leads, response teams, and generic encounter/map prep.
 - [[Prep/Session Prep - 2026-10-01]] - played Session 17 prep with actual-outcome note; unused Zord/ship routes remain available.
 - [[Prep/Session Prep - 2026-10-15]] - played Session 18 prep with actual-outcome note; unused proposals remain separate from Margo/theater/Zord events.
+- [[Prep/Session Prep - 2026-11-12]] - Session 19, three-hour theater-of-the-mind ledger heist: Zelifarn, fixed ship security/routes, Alert, bargaining/escape, encounter cards, and Discord reveal order; proposed, not played.
+- [[Prep/Session 19 - Quick Run Sheet]] - concise at-table version; start here tonight.
+- Session 19 player handouts, individual Discord posts: [[Prep/Session 19 Handouts/01 - Recap]], [[Prep/Session 19 Handouts/02 - Known Ship Facts]], [[Prep/Session 19 Handouts/03 - Plan And Preparation]], [[Prep/Session 19 Handouts/04 - Ship Positions]], [[Prep/Session 19 Handouts/05 - Sales Entry]] (gated reveal), and [[Prep/Session 19 Handouts/06 - Extraction]].
 
 ## Source Inventory
 
@@ -361,7 +364,7 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Make a git commit for the completed initial wiki build.
-2. Continue from [[Sessions/Session 18 - 2026-10-15]] using [[Dashboard/Next Session]]: Zelifarn contact, breathing-potion reconciliation, suspected ledger heist planning, and Zord/Margo/theater consequences. Cassalanter reply sent; ritual/birthday dates named.
+2. Run [[Prep/Session Prep - 2026-11-12]] / [[Prep/Session 19 - Quick Run Sheet]] from the Session 18 endpoint: three-hour ledger heist without a VTT, optional Zelifarn help, and gated Discord handouts. Reconcile resources at the table; ingest actual outcomes afterward.
 3. Expand the nimblewright investigation prep as its own follow-up arc, with Zord customer-list, Gralhund, House of Inspired Hands, Davin Crommor, and Cassalanter routes ready to surface in play.
 4. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
 5. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.

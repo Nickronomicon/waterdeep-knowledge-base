@@ -532,3 +532,22 @@ Validation:
 
 - Parsed changed/new frontmatter, checked source paths and new wikilinks, fixed table continuation formatting, reviewed live endpoint/thread claims, and ran `git diff --check`. No new unresolved links or missing sources.
 - Verified text/JSON segment agreement, preserved the entire prior changelog unchanged, and confirmed all 230 raw files match pre-edit SHA-256 hashes. No raw source was edited, moved, renamed, or deleted.
+
+
+## [2026-11-12] prep | Session 19 theater-of-the-mind ledger heist
+
+- Created [[Prep/Session Prep - 2026-11-12]] and [[Prep/Session 19 - Quick Run Sheet]] for tonight's approximately three-hour session without Foundry or another VTT. Packet provides a return-from-break recap, resource checks, research/dragon scene options, entry/support/escape roles, the established one-prep declaration per PC, and a paced ledger operation.
+- Prepared fixed exterior watch positions, six connected play locations, an office-door warning/ward, window and wardrobe alternatives, Alert responses, readable ledger payoff, escape/bargain/capture contingencies, homebrew crew encounter cards, and published nimblewright/Jarlaxle threat references. Explicitly adapted the published J30 functions into Session 18's already-visited aftcastle office; the ledger is genuine and stays put.
+- Included source-faithful Zelifarn/Asphosis crystal-ball motive as an optional later score with bounded transport/diversion help. Flagged that questioning him can reveal Jarlaxle's identity; no automatic reveal, agreement, free shapechange, or underwater access was recorded as played truth.
+- Created six individually copyable player handouts under `Prep/Session 19 Handouts/`: recap, known ship facts, planning/preparation, positions, gated sales-entry clue, and extraction plan. Each is plain Markdown under 2,000 characters. Release order separates opening knowledge from the Gralhund delivery entry and other new discoveries. No Discord messages were sent.
+- Updated [[Dashboard/Next Session]], [[INDEX]], and [[Meta/DM Prep Source Map]]. Kept actual campaign state at Ches 23 after Session 18; no new rest, resource total, heist result, faction clock advancement, or calendar skip was asserted. Preserved breathing-potion uncertainty and eight-known-versus-published-nine owner boundaries; the clue handout is an excerpt, not a revised full buyer list.
+- Sources reviewed: canonical guide/index/recent changelog; Session 18 and live dashboards/open threads/faction clocks; Zelifarn/Bregan/ship/ledger/potion/tap-stone pages; existing heist and Session 17/18 prep; Remix Parts 4B/5C; original Chapter 7 ship keys/features and dragon event; Chapter 3 for Gralhund's address only; local nimblewright/Jarlaxle stat references. All new routines, DCs, dimensions, encounter simplifications, and dialogue are marked as proposed adaptations.
+
+Validation:
+
+- Checked new/changed frontmatter, source paths and links; no new unresolved links or missing sources. Existing planned index links remain unchanged. Checked handout lengths, plain-text copyability, and opening-handout reveal boundaries; ran `git diff --check`.
+- Verified all 230 raw source files match pre-edit SHA-256 hashes and preserved the entire prior changelog unchanged. PDF reading output stayed under `/tmp/`; no raw files were edited.
+
+Follow-up:
+
+- Run from the quick sheet and release player handouts when earned. Record actual potion/rest rulings, prep use, dragon commitments, ledger custody, witnesses, information traded, identities revealed, and the Gralhund next intention before ingesting Session 19.

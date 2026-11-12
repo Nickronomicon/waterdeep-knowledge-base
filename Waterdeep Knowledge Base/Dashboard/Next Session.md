@@ -1,7 +1,7 @@
 ---
 type: dashboard
 status: active
-updated: 2026-10-21
+updated: 2026-11-12
 source_paths:
   - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
 tags:
@@ -10,7 +10,9 @@ tags:
 
 # Next Session
 
-Resume after [[Sessions/Session 18 - 2026-10-15]] on **Ches 23**, at/returning to the Sea Maidens Fair pier. Aladeen and Elior have left Zord's cabin; the others have scouted the docks. The stated next direction is **speak with Zelifarn**, then finish planning the ledger operation. No new real session date or evening time has been fixed here.
+**Session 19 tonight, 2026-11-12:** approximately three hours, no VTT. Start with [[Prep/Session 19 - Quick Run Sheet]]; full scene/security packet and Discord release order are in [[Prep/Session Prep - 2026-11-12]]. These are proposed scenes, not new campaign events.
+
+Resume after [[Sessions/Session 18 - 2026-10-15]] on **Ches 23**, at/returning to the Sea Maidens Fair pier. Aladeen and Elior have left Zord's cabin; the others have scouted the docks. The stated next direction is **speak with Zelifarn**, then finish planning the ledger operation. The real session is scheduled for tonight; no further in-world time or rest has been fixed.
 
 ## Immediate Handoff
 
@@ -34,6 +36,8 @@ Resume after [[Sessions/Session 18 - 2026-10-15]] on **Ches 23**, at/returning t
 [[Prep/Session Prep - 2026-10-15]] is archived as played-session prep with an outcome note. Unused details remain proposals/DM reference. J30, the Gralhund answer, true faction identities, missing Eyes, and nimblewright surveillance were not revealed. Use [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], and [[Dashboard/Faction Clocks]] as the live baseline.
 
 ## Sources
+
+- [[Prep/Session Prep - 2026-11-12]] — user-directed Session 19 planning, 2026-11-12.
 
 - `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
 - [[Sessions/Session 18 - 2026-10-15]]
