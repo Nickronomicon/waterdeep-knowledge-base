@@ -1,8 +1,9 @@
 ---
 type: reference
 status: active
-updated: 2026-07-11
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/Dragon-Heist-Remix.pdf
 tags:
   - waterdeep
@@ -45,6 +46,13 @@ Response teams are proactive nodes: they come looking for the party, contest hei
 - [[Factions/Harpers]] and [[Factions/Gray Hands]] are allied pressure rather than villain teams; use them to deliver leads, obligations, or consequences.
 - [[Factions/Zhentarim]] response should preserve the table distinction between Davil/Yagra and Manshoonian violence unless a later source collapses that split.
 
+## Session 18 Update
+
+- Session 18 deployed a reduced/custom Xanathar team at the Smiling Siren: two duergar and one gazer, all killed. [[Objects/Xanathar Capture Orders]] supplied a live-capture/Stone-information clue. No published team leader, outpost address, or passphrase was revealed. This played encounter supersedes treating a Xanathar response as merely a future possibility.
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/Dragon-Heist-Remix.pdf`

@@ -3,8 +3,9 @@ type: object
 status: described-not-recovered
 revealed: true
 revealed_session: 17
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/waterdeep_dragon_heist/Magic-Items.md
@@ -20,6 +21,10 @@ tags:
 # Stone of Golorr
 
 DM-facing artifact page for the Stone at the center of Neverember's Enigma and the Remix's Eye heist structure.
+
+## Session 18 Update
+
+- [[Objects/Xanathar Capture Orders]] seek one live party member to discover the Stone’s whereabouts. The party inferred Xanathar is still searching; current custody remains unproven. The Zord meeting produced no buyer names or Stone revelation, only [[Objects/Zord's Suspected Customer Ledger|a likely ledger target]].
 
 ## Current Table Status
 
@@ -56,6 +61,9 @@ DM-facing artifact page for the Stone at the center of Neverember's Enigma and t
 - See [[Objects/Cassalanter Rescue Offer]] for the party's intended search and the promised response.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

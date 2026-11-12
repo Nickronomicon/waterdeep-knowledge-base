@@ -7,8 +7,9 @@ class: Rogue
 subclass: Phantom
 species: Human
 background: Noble
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
@@ -39,6 +40,13 @@ tags:
 # Davy
 
 Davy is a level 3 human Phantom rogue with a noble background. The sheet presents him as a stealth and sleight-of-hand specialist with spectral rogue features, practical tools, and a very young noble profile.
+
+## Session 18 Update
+
+- Noticed possible followers without identifying them. Was struck by an invisible duergar, received 8 HP healing from Aladeen, critically stabbed the attacker, and shot down the gazer.
+- Scouted launches, cargo traffic, similar ship layouts, and visible Eyecatcher alert responses to large vessels. No full interior map or record contents obtained.
+- Confirmed a forgery kit, correcting the suggestion of a disguise kit. Proposed invisibility/infiltration was not performed. No gem sale or change to the Cassalanter reservation was shown.
+- Cassalanter acceptance/update was sent at the opening; the next proposed action is Zelifarn/heist research, with no ledger operation executed.
 
 ## Current Sheet Snapshot
 
@@ -258,6 +266,9 @@ The DM arc notes and unrevealed handout establish a deeper secret: the ceremonia
 - Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

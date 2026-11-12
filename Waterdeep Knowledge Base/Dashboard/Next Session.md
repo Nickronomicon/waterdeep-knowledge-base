@@ -1,47 +1,39 @@
 ---
 type: dashboard
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
-  - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
-  - Prep/Session Prep - 2026-10-01.md
-  - Prep/Session Prep - 2026-10-15.md
-  - ../raw/notes/dm-planning/session-18/notes.md
-  - ../raw/notes/dm-planning/session-17/notes.md
-  - Sessions/Session 17 - 2026-10-01.md
-  - Sessions/Session 16 - 2026-09-24.md
-  - Dashboard/Current Campaign State.md
-  - Dashboard/Open Threads.md
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
 tags:
   - waterdeep
-  - dashboard
-  - next-session
 ---
 
 # Next Session
 
-Active draft: [[Prep/Session Prep - 2026-10-15]] for Session 18 tonight. The DM plans to open on the morning of Ches 23; confirm the overnight rest/resources at the table. Last played endpoint remains evening/night Ches 22 upstairs at Trollskull after Trench refunded the fee and refused the Zord investigation.
-
-Recommended session spine: Cassalanter reply → Margo at the Smiling Siren → Zord conversation or Eyecatcher ledger research. Optional combat: a smaller Xanathar duergar/gazer response team in a theater with interactive rigging. All of this is draft prep, not played events.
+Resume after [[Sessions/Session 18 - 2026-10-15]] on **Ches 23**, at/returning to the Sea Maidens Fair pier. Aladeen and Elior have left Zord's cabin; the others have scouted the docks. The stated next direction is **speak with Zelifarn**, then finish planning the ledger operation. No new real session date or evening time has been fixed here.
 
 ## Immediate Handoff
 
-1. Send the promised Cassalanter answer by the following morning. The party agreed internally to pursue the gold/help the children; Davy wants the money secured before deciding its disposition. See [[Objects/Cassalanter Rescue Offer]].
-2. Pursue Zord's nimblewright buyer names, the proposed first score. Possible approaches are Margo at [[Places/Smiling Siren]], a prospective-buyer cover, or discreet faction research. No record location or ship floorplan is known to the party. The new prep identifies the DM-side ledger location and proposes ways to discover it.
-3. Decide what to do with Trench's [[Places/Menzoberranzan]] warning. His fee is fully refunded, he says the party's names never came up, and he wants his involvement denied. The faction identity remains unrevealed.
-4. Move through research and surveillance before prep declarations. The heist procedure was explained; nobody has declared a prep skill or begun the operation.
-5. Carry forward Lif's silence, Patric covering drinks, missing windows, Fala's remains/shop, unreported wagon-ambush involvement, and Vajra/Laeral follow-up.
+1. Reconcile [[Objects/Force Grey Water Breathing Potions]]: five spares are documented from Session 12; Session 18 tentatively recalled six and a one-hour duration. None were consumed. Do this before committing to a dive.
+2. Ask [[People/NPCs/Zelifarn]] for help. Transport, diversion, and dragon-as-whale ideas are unagreed proposals; remember the prior Gray Hands mission and dragon's interests.
+3. Plan the [[Objects/Zord's Suspected Customer Ledger|suspected ledger]] score. Elior saw Zord glance at the bound book on his cabin desk. It is not verified/read. Decide whether to copy or steal, how to enter/escape, and who does what.
+4. Expand actual reconnaissance from [[Places/Sea Maidens Fair]]: launches shuttle between ships; large vessels trigger visible alerts, small boats did not; crew/troupe seem insular. Aladeen/Elior know the main-deck/aftcastle route, not a full plan or security layout.
+5. Declare each PC's preparation before the operation under [[Reference/Remix Eye Heists]]. Disguises, smoke, false affiliations, invisibility, launch rental, and Harper/Cassalanter supplies remain ideas, with no purchases or spells committed.
+
+## Consequences And Resources
+
+- Margo's letter secured access, then Zord dismissed the pair after Elior's threat. He asked Klarr to tell Margo he wanted a word. Decide the consequence; no retaliation has happened yet.
+- Two duergar and a gazer died at the Smiling Siren. [[Objects/Xanathar Capture Orders]] sought a living prisoner and Stone information. Two patrolmen received only a commotion report; no detailed Watch interview occurred.
+- Long rest happened at Session 18 start; no later rest. Broethuul was knocked unconscious and healed for 9 HP. Elior is last recorded mildly intoxicated; do not assume full recovery/resources before the heist.
+- New potion, rig, [[Objects/Tap Stones]], letter, and orders are in Session 18. Davy has a forgery kit; a disguise kit was not confirmed.
+- Cassalanter acceptance/update sent. [[Objects/Cassalanter Rescue Offer]] now names **Tarsahk 9 ritual / Tarsahk 11 birthday**. Debt forgiveness remains conditional; clerical evidence and cure are unverified.
+- Keep Lif/Fala, tavern damage/accounting, escaped Zhents, gemstones, hidden necklace/Amberleaf, and the unreported wagon ambush active.
 
 ## Prep To Carry Forward
 
-[[Prep/Session Prep - 2026-10-01]] is played-session prep, retained for unused Zord/ship routes. Its meeting, Gralhund, hidden Eye, and scar details were not revealed in play. Use [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], and [[Dashboard/Faction Clocks]] for the current baseline.
-
-The dialogue gives roughly twenty days until the twins' birthday. Exact birthday and ritual cutoff dates differ from prep and need DM confirmation; do not silently count down to Tarsahk 9 or 11 as a party-known deadline.
+[[Prep/Session Prep - 2026-10-15]] is archived as played-session prep with an outcome note. Unused details remain proposals/DM reference. J30, the Gralhund answer, true faction identities, missing Eyes, and nimblewright surveillance were not revealed. Use [[Dashboard/Current Campaign State]], [[Dashboard/Open Threads]], and [[Dashboard/Faction Clocks]] as the live baseline.
 
 ## Sources
 
-- `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
-- [[Sessions/Session 17 - 2026-10-01]]
-- [[Prep/Session Prep - 2026-10-01]]
-- [[Dashboard/Current Campaign State]]
-- [[Dashboard/Open Threads]]
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]

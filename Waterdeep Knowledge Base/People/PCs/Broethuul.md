@@ -7,8 +7,9 @@ class: Blood Hunter
 subclass: Order of the Faeslayer
 species: Bugbear
 background: Faewild Exile
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
@@ -39,6 +40,13 @@ tags:
 # Broethuul
 
 Broethuul is a level 3 bugbear Blood Hunter using the homebrew Order of the Faeslayer specialization. He is a displaced Faewild aristocrat: charming, lazy, dangerous with a rapier, and carrying unresolved claims tied to the Starfern clan and the Autumn Court.
+
+## Session 18 Update
+
+- Took 9 friendly-fire Thunderwave damage, used Rite of the Equinox, killed a duergar, then fell unconscious to the gazer. Jonathan restored him for 9 HP; no later rest.
+- Accepted Margo’s introduction and gave her his purple feather. Dockside job inquiry failed; the fair troupe appeared insular and employed no locals.
+- Wants to revisit Zelifarn for heist help. No dive or dragon agreement yet. Necklace and Amberleaf were not shared in this session.
+- Cassalanter acceptance/update was sent at the opening; the next proposed action is Zelifarn/heist research, with no ledger operation executed.
 
 ## Current Sheet Snapshot
 
@@ -256,6 +264,9 @@ In session 12, the Amberleaf Dispatch reframed Broethuul's arrival as planted ra
 - Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

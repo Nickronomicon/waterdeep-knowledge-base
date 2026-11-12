@@ -511,3 +511,24 @@ Validation:
 - Added a d6 duergar loot table to [[Prep/Session Prep - 2026-10-15]] at the DM's request: capture gear, climbing rig, smoke pellet, stonegrip salve, mufflewax, and paired magical tap-stones. Defined original item mechanics and marked homebrew explicitly.
 - Set the encounter-wide reward at one healing potion plus two distinct table results, with smoke/tap-stones as the recommended selection. Kept capture orders independent of treasure rolls and added a personal soapstone keepsake. Rewards remain proposed, not party inventory.
 - Updated [[INDEX]]. Sources reviewed: campaign guide, index, recent changelog, and existing Session 18 encounter prep. No raw files were edited.
+
+
+## [2026-10-21] ingest | Session 18
+
+- Ingested [[Sessions/Session 18 - 2026-10-15]] from the complete text transcript and verified all 2,549 JSON segments match it line-for-line. Compared the raw Session 18 notes and maintained prep with actual play.
+- Advanced current state to Ches 23 after the confirmed long rest, Cassalanter acceptance/investigation update, Smiling Siren capture-team fight, first current-continuity fair visit, failed Zord audience, suspected desk-ledger discovery, and dockside reconnaissance. Next proposed action is Zelifarn/heist research; no formal prep declarations or operation occurred.
+- Created [[People/NPCs/Fergus Crabwater]], [[People/NPCs/Klarr Besham]], [[Objects/Margo's Letter of Introduction]], [[Objects/Zord's Suspected Customer Ledger]], [[Objects/Tap Stones]], and [[Objects/Xanathar Capture Orders]]. Preserved transcript name/ship variants, the ledger's roughly 70% identification confidence, limited Watch reporting, provisional loot custody, Broethuul's unconsciousness/revival, and Elior's intoxication.
+- Updated affected PCs, NPCs, factions, locations, obligations, Stone/hoard threads, dashboards, [[Timeline/Campaign Timeline]], [[Dashboard/Player-Facing Synopsis]], heist/revelation/response/faction-timeline references, played-session prep, source maps/inventory, [[AGENTS]], and [[INDEX]].
+- Recorded the recap's explicitly named Tarsahk 9 ritual / Tarsahk 11 birthday; curse/cure evidence and Ilmater-versus-Dawnfather discrepancy remain unresolved. Kept five documented breathing potions versus the DM's tentative six/one-hour recollection as an inventory/rules question before the next dive. No new potion, price, debt discharge, rest, or heist purchase was invented.
+- Preserved the Session 15 fair retcon and unrevealed Bregan/Jarlaxle/captain identities, Gralhund answer, missing Eye holdings, magical surveillance, hidden necklace, and private Amberleaf boundaries. Raw inventory now records 230 files, with 17 text and 17 JSON transcripts for sessions 2-18.
+- Sources read: Session 18 text/JSON; `../raw/notes/dm-planning/session-18/notes.md`; `../raw/notes/discord-synopsis-channel.md`; Session 12 potion-award passages; original Chapter 7 captain-name/role comparison; canonical guide/index/recent changelog; maintained prep, session, entity, dashboard, and reference pages.
+
+Follow-up:
+
+- Reconcile breathing-potion count/duration, visit Zelifarn, finish ship/record-security research, decide copying versus theft and escape/diversion/disguise roles, then declare individual preparations before an operation.
+- Resolve Zord's requested conversation with Margo and the Xanathar/Watch theater aftermath. Continue unreported wagon consequences, escaped Zhents, tavern recovery, Lif/Fala, and private evidence threads.
+
+Validation:
+
+- Parsed changed/new frontmatter, checked source paths and new wikilinks, fixed table continuation formatting, reviewed live endpoint/thread claims, and ran `git diff --check`. No new unresolved links or missing sources.
+- Verified text/JSON segment agreement, preserved the entire prior changelog unchanged, and confirmed all 230 raw files match pre-edit SHA-256 hashes. No raw source was edited, moved, renamed, or deleted.

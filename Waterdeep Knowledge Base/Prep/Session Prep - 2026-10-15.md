@@ -1,11 +1,12 @@
 ---
 type: prep
-status: draft
+status: played
 session: 18
 real_date: 2026-10-15
-campaign_date: Ches 23, 1492 DR (planned opening)
-updated: 2026-10-15
+campaign_date: Ches 23, 1492 DR
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/notes/dm-planning/session-18/notes.md
   - Sessions/Session 17 - 2026-10-01.md
   - Dashboard/Current Campaign State.md
@@ -22,6 +23,21 @@ tags:
 ---
 
 # Session Prep - 2026-10-15
+
+## Actual Outcome — Session 18
+
+Archived prep; use [[Sessions/Session 18 - 2026-10-15]] and the live dashboards for current truth. The proposals below remain historical preparation rather than discoveries.
+
+- Ches 23 and long rest confirmed; Cassalanter acceptance/update sent. Recap named Tarsahk 9 ritual / Tarsahk 11 birthday.
+- Margo was rehearsing at the Smiling Siren and actually said she was staying aboard Zord's ship as his guest. She gave an introduction, then stayed behind after the fight.
+- Two duergar and one gazer attacked and died. Broethuul fell unconscious and was healed for 9 HP. The suspended prop was not dropped.
+- Loot actually awarded: one healing potion, compact climbing rig, [[Objects/Tap Stones]], and [[Objects/Xanathar Capture Orders]]. Smoke pellets and other table results were not awarded. The note ordered one Trollskull member captured alive for gnome/Stone information; no outpost clue or named commander was revealed.
+- Two Watch patrolmen received a limited commotion report. Aladeen/Elior then met Klarr/Fergus and visited Zord while the others scouted. Elior became mildly intoxicated.
+- Zord refused customer information after Elior's threat and requested a word with Margo. No Gralhund name, buyer handout, scar event, magical surveillance, or hidden identity was revealed. Elior instead spotted a likely ledger on his desk, about 70% confidence.
+- Surveillance produced launch patterns, visible large-vessel alerts, approximate counts, and an insular troupe. No interior floorplan or full security plan.
+- Next proposed action: Zelifarn and further heist planning. No dragon visit, formal prep declarations, infiltration spells/purchases, or operation occurred. Breathing-potion count/duration needs reconciliation before a dive.
+
+## Original Prep
 
 **Draft proposals, not established events.** Build tonight around one answer: **who owns the nimblewright that searched Dalakhar?** Margo can supply access, Zord can supply ownership, and a Xanathar response can make the investigation dangerous. Success is a usable next target or a concrete plan to obtain the sales ledger.
 

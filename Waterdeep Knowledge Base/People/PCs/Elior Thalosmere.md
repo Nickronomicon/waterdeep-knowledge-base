@@ -7,8 +7,9 @@ class: Sorcerer
 subclass: Divine Soul
 species: Variant Aasimar
 background:
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
@@ -40,6 +41,14 @@ tags:
 # Elior Thalosmere
 
 Elior Thalosmere is a level 3 variant aasimar Divine Soul sorcerer from a minor Waterdeep noble house. His magic is framed around divine correction, misassigned souls, contradictory prophecy, and a family archive that treats his existence as evidence of an unresolved divine function.
+
+## Session 18 Update
+
+- Led the Margo approach. Thunderwave failed to move the enlarged duergar but dealt 9 damage/pushed Jonathan and Broethuul; later healed Jonathan for 15 HP.
+- Handled inventory entry for the healing potion, compact climbing rig, and [[Objects/Tap Stones]]; final redistribution was not settled.
+- Became mildly intoxicated keeping pace with Fergus; table ruling gives disadvantage on Intelligence/Wisdom/Charisma checks. No recovery shown.
+- Threatened Zord’s reputation (Intimidation 23); Zord took him seriously and refused the inquiry. Spotted [[Objects/Zord's Suspected Customer Ledger|a likely ledger]] on the desk, about 70% confidence, unread. No theft, scar event, buyer names, or operation.
+- Cassalanter acceptance/update was sent at the opening; the next proposed action is Zelifarn/heist research, with no ledger operation executed.
 
 ## Current Sheet Snapshot
 
@@ -282,6 +291,9 @@ House Thalosmere's private archive treats [[Threads/Crommor Incident|the Crommor
 - Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

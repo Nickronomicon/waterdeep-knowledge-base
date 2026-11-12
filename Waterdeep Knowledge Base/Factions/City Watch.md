@@ -1,8 +1,9 @@
 ---
 type: faction
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
@@ -17,6 +18,10 @@ tags:
 # City Watch
 
 The City Watch is Waterdeep's civic law-enforcement presence.
+
+## Session 18 Update
+
+- Session 18: two patrolmen were told of a commotion at the Smiling Siren after the party killed two duergar and a gazer. They headed there without urgency; no detailed interview or official finding was played. Heavy fair security was observed, of uncertain normality. Elior’s allegation that the Watch was on the take during the Zord meeting is a PC claim, not established fact. The earlier wagon-ambush report is still absent.
 
 ## Session 2
 
@@ -63,6 +68,9 @@ The City Watch is Waterdeep's civic law-enforcement presence.
 - Later consideration of asking the Watch whether Urstul had a stone was discussion only. Watch knowledge of the party's ambush involvement and any consequences remain unresolved.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

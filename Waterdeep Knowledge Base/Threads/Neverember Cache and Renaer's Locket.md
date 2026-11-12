@@ -1,8 +1,9 @@
 ---
 type: thread
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
@@ -15,6 +16,10 @@ tags:
 # Neverember Cache and Renaer's Locket
 
 The session 2 rescue of [[People/NPCs/Renaer Neverember]] revealed that the gang conflict may be tied to rumors of Dagult Neverember's embezzled cache of dragons and to a hidden compartment in [[Objects/Renaer's Locket]].
+
+## Session 18 Update
+
+- Cassalanter acceptance/update sent on Ches 23, with ritual Tarsahk 9 / birthday Tarsahk 11 named in recap. The party is targeting [[Objects/Zord's Suspected Customer Ledger]] after an unsuccessful audience and plans to seek Zelifarn’s help. [[Objects/Xanathar Capture Orders]] seek information about the gnome/Stone; no Stone custody, locket contents, or Eye location was established.
 
 ## Current Evidence
 
@@ -44,6 +49,9 @@ The session 2 rescue of [[People/NPCs/Renaer Neverember]] revealed that the gang
 - No new evidence resolved the locket's missing contents, the magical parchment, missing Eyes, or current Stone possession.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

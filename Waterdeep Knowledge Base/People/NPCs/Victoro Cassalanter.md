@@ -1,8 +1,9 @@
 ---
 type: npc
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
@@ -17,6 +18,10 @@ tags:
 # Victoro Cassalanter
 
 Victoro Cassalanter is a Waterdeep noble and member of the old banking family [[Factions/Cassalanters]]. He appeared directly at [[Places/Lightsinger Theater]] during [[Sessions/Session 07 - 2026-04-16]].
+
+## Session 18 Update
+
+- On Ches 23 the party dispatched acceptance and a fairly complete nimblewright/Stone lead update. Session 18’s recap names **Tarsahk 9** for the planned ritual and **Tarsahk 11** for the twins’ birthday. See [[Objects/Cassalanter Rescue Offer]]. The curse/cure account remains unverified, no debt discharge occurred, and no new family meeting or assistance was shown.
 
 ## Current Status
 
@@ -65,6 +70,9 @@ Victoro is central to [[Threads/Cassalanter Warning in the Bugle]] and [[Threads
 - [[Objects/Cassalanter Rescue Offer]] holds the full terms, clerical-account discrepancy, and unresolved deadline. No household Eye or hidden cult operation was revealed.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

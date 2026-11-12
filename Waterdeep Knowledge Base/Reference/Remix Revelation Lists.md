@@ -1,8 +1,9 @@
 ---
 type: reference
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/Dragon-Heist-Remix.pdf
 tags:
@@ -78,7 +79,20 @@ See [[Reference/Remix Faction Outposts]] and [[Reference/Remix Response Teams]] 
 | Zord/drow connection | Trench's full refund and Menzoberranzan warning; specific faction, Jarlaxle identity, and Lolth agenda unrevealed. |
 | Gralhund culprit / missing Eye holders / nimblewright surveillance | Still unrevealed. Do not import the structural answers above into a player recap. |
 
+## Session 18 Update
+
+| Revelation | Table Status |
+|---|---|
+| Cassalanter response/calendar | Acceptance/update sent; recap explicitly names Tarsahk 9 ritual / Tarsahk 11 birthday. Curse/cure still unverified. |
+| Margo access | Staying on Zord’s ship as guest; letter secured one audience. No ledger clue from her. |
+| Xanathar information hunt | [[Objects/Xanathar Capture Orders]] seek a live party member and Stone whereabouts; lack of custody is an inference. |
+| Customer-record location | [[Objects/Zord's Suspected Customer Ledger]] likely on his desk; Elior ~70% confident. No contents read. |
+| Gralhund / Eyes / identities / surveillance magic | Still unrevealed. No buyer names obtained from Zord. |
+
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

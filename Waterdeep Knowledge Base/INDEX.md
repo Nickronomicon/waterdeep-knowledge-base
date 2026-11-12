@@ -5,10 +5,10 @@ This is the content map for the Obsidian vault. It should be updated whenever th
 ## Current Status
 
 - Vault initialized: 2026-07-09.
-- Transcript ingest has started; sessions 1 through 17 are ingested/reconstructed.
+- Transcript ingest has started; sessions 1 through 18 are ingested/reconstructed.
 - DM prep notes have been scaffolded into session pages and [[Meta/DM Prep Source Map]].
 - Session 1 is not available in the recorded transcript sources.
-- Waterdeep session transcripts are available for sessions 2 through 17; sessions 2 through 17 are ingested.
+- Waterdeep session transcripts are available for sessions 2 through 18; sessions 2 through 18 are ingested.
 - The adventure should be tracked through the *Dragon Heist Remix* first, with the original `waterdeep_dragon_heist` markdown as supporting reference.
 - Structural adventure reference ingest has begun with active Remix overview, timeline, revelation, outpost, response-team, Eye heist, Golorr artifact, and original-adventure overview pages.
 - Raw sources live outside the vault in `../raw/` and are read-only.
@@ -47,7 +47,7 @@ Core dashboards are active for weekly use. Add or revise prep-facing dashboards 
 - [[Prep/Session Prep - 2026-08-20]] - Session 15 Fireball aftermath; Squiddly rescue, Fala casualty, crime scene, Watch/Renaer, nimblewright owners, Zord, and Dripping Dagger contingencies.
 - [[Prep/Session Prep - 2026-09-24]] - Session 16 Aladeen-focused rewind of Session 15 Fireball investigation, retcon boundaries, witness cards, branch leads, response teams, and generic encounter/map prep.
 - [[Prep/Session Prep - 2026-10-01]] - played Session 17 prep with actual-outcome note; unused Zord/ship routes remain available.
-- [[Prep/Session Prep - 2026-10-15]] - draft Session 18 brainstorming and runnable prep: Ches 23 opening, Margo access clues, Zord/ledger fork, Vajra nudge, and theater duergar/gazer encounter with a level-3 utility loot table.
+- [[Prep/Session Prep - 2026-10-15]] - played Session 18 prep with actual-outcome note; unused proposals remain separate from Margo/theater/Zord events.
 
 ## Source Inventory
 
@@ -97,6 +97,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 | Session 15 | 2026-08-20 | `../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt` | `../raw/json_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.json` | Ingested; Sea Maidens Fair endpoint retconned in session 16 |
 | Session 16 | 2026-09-24 | `../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt` | `../raw/json_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.json` | Ingested; JSON source empty |
 | Session 17 | 2026-10-01 | `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt` | `../raw/json_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.json` | Ingested; JSON nonempty |
+| Session 18 | 2026-10-15 | `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt` | `../raw/json_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.json` | Ingested; JSON nonempty (2,549 segments) |
 
 ### Non-Campaign or Unclassified Sources
 
@@ -112,7 +113,7 @@ Use text transcripts for normal reading. Use JSON transcripts when timestamps or
 
 ## Campaign Pages
 
-Initial PC pages have been generated from level-3 character-sheet sources and updated with session-0 background and character arc notes.
+PC pages derive from level-3 sheets/backgrounds and are maintained through Session 18. Dashboards, timeline, synopsis, affected NPCs/factions/places/objects, and heist/revelation/response/faction-timeline references reflect the latest ingest.
 
 As pages are created, maintain these sections:
 
@@ -137,6 +138,7 @@ As pages are created, maintain these sections:
   - [[Sessions/Session 15 - 2026-08-20]]
   - [[Sessions/Session 16 - 2026-09-24]]
   - [[Sessions/Session 17 - 2026-10-01]]
+  - [[Sessions/Session 18 - 2026-10-15]]
 
 ### Player Characters
 
@@ -197,6 +199,8 @@ Create pages under `People/NPCs/`. Early expected pages include:
 - [[People/NPCs/Elzerina Cassalanter]]
 - [[People/NPCs/Margo Verida]]
 - [[People/NPCs/Zardoz Zord]]
+- [[People/NPCs/Fergus Crabwater]] - Hellraiser captain met in Session 18.
+- [[People/NPCs/Klarr Besham]] - Heartbreaker captain and Zord escort; transcript name variants preserved.
 - [[People/NPCs/Orond Gralhund]]
 - [[People/NPCs/Yalah Gralhund]]
 - [[People/NPCs/Mr Jones]]
@@ -304,7 +308,11 @@ Create pages under `Objects/` for durable campaign objects and paperwork:
 - [[Objects/Dragonstaff of Ahghairon]]
 - [[Objects/Trollskull Manor Deed]]
 - [[Objects/Cassalanter Loan]]
-- [[Objects/Cassalanter Rescue Offer]] - Session 17 terms, promised reply, claimed curse, and unresolved countdown.
+- [[Objects/Cassalanter Rescue Offer]] - acceptance/update sent; Tarsahk 9 ritual / Tarsahk 11 birthday named; curse/cure evidence unresolved.
+- [[Objects/Margo's Letter of Introduction]] - secured the Session 18 Zord audience.
+- [[Objects/Zord's Suspected Customer Ledger]] - unread likely book on the cabin desk; current score.
+- [[Objects/Tap Stones]] - common homebrew signaling pair looted at the theater.
+- [[Objects/Xanathar Capture Orders]] - live-capture/Stone-information clue from Session 18.
 - [[Objects/Dorgar's Seance Candles]]
 - [[Objects/The Crommor Warning]]
 - [[Objects/Floon's Unicorn Necklace]]
@@ -353,7 +361,7 @@ Create synthesized adventure reference pages under `Reference/` as needed:
 ## Immediate Backlog
 
 1. Make a git commit for the completed initial wiki build.
-2. Run/refine [[Prep/Session Prep - 2026-10-15]] from [[Sessions/Session 17 - 2026-10-01]]: Cassalanter reply by morning, Zord buyer names as proposed score, Margo/Smiling Siren, and Trench’s Menzoberranzan warning. Confirm the rescue deadline before setting an absolute countdown.
+2. Continue from [[Sessions/Session 18 - 2026-10-15]] using [[Dashboard/Next Session]]: Zelifarn contact, breathing-potion reconciliation, suspected ledger heist planning, and Zord/Margo/theater consequences. Cassalanter reply sent; ritual/birthday dates named.
 3. Expand the nimblewright investigation prep as its own follow-up arc, with Zord customer-list, Gralhund, House of Inspired Hands, Davin Crommor, and Cassalanter routes ready to surface in play.
 4. Continue expanding people, factions, places, objects, dashboards, and timeline pages as future sessions are processed.
 5. Continue adventure-reference ingest where active prep needs it: Waterdeep wards, faction quick references, NPC/stat lookups, lair maps, and the Code Legal.

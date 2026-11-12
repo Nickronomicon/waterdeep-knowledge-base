@@ -1,8 +1,9 @@
 ---
 type: reference
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/waterdeep_dragon_heist/05.Spring-Madness.md
@@ -59,9 +60,16 @@ Use original adventure chapters for maps, NPC/stat references, and room-key base
 
 - Session 17 introduced the five-phase loop and one declared prep skill/tool/ability per PC, cashed in through explanation and a roll during the operation. No prep declarations or operation occurred.
 - Zardoz, Zelifarn, and the Cassalanter loan mean two heist target networks already have soft social entry points.
-- The party proposed Zord’s buyer names as its first score. No physical list, storage location, floorplan, or surveillance was obtained. Cassalanter Villa, Xanathar infrastructure, and Kolat Towers remain later heist networks unless play changes that.
+- Session 18 made [[Objects/Zord's Suspected Customer Ledger]] the concrete score: likely bound book on his cabin desk, unread. Aladeen/Elior learned the escorted main-deck/aftcastle route; Davy observed launches and visible ship alerts. No interior floorplan or formal prep declarations/operation. Next proposed action is Zelifarn and further planning. Cassalanter Villa, Xanathar infrastructure, and Kolat Towers remain later heist networks unless play changes that.
+
+## Session 18 Update
+
+- Social access via Margo succeeded; buyer inquiry failed after Elior’s threat. The party prefers information without a missing ledger; copying versus taking it remains undecided. Launches, disguises, smoke, dragon help, and allied supplies are proposals, not completed preparations.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

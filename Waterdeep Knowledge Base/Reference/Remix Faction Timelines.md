@@ -1,8 +1,9 @@
 ---
 type: reference
 status: active
-updated: 2026-07-11
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/waterdeep_dragon_heist/00.Introduction.md
 tags:
@@ -43,10 +44,10 @@ The Remix's spring schedule assumes:
 
 ## Current Campaign Fit
 
-- Actual table chronology has reached the evening or night of Ches 19 after session 13.
-- Trollskull opened on Ches 19, matching the Remix's suggested opening pressure.
-- Fireball has not occurred. The campaign plan currently places it on Ches 22.
-- Zardoz and the Sea Maidens are already socially visible, while Cassalanter leverage is stronger than default because the party has signed the loan.
+- Actual play has reached **Ches 23, 1492 DR**, after [[Sessions/Session 18 - 2026-10-15]]. Trollskull opened on Ches 19; Fireball struck on Ches 22.
+- Cassalanter acceptance/update has been sent. The recap explicitly names **Tarsahk 9 ritual / Tarsahk 11 birthday**; curse/cure evidence remains unverified. See [[Objects/Cassalanter Rescue Offer]].
+- A Xanathar capture team died at the Smiling Siren, carrying orders to seek a live prisoner and Stone information. Zord refused the buyer inquiry, but Elior spotted a likely ledger; further heist planning and Zelifarn contact are proposed.
+- Actual Stone custody, Gralhund culpability, Eye holders, and Zord/faction identities remain unrevealed. The backstory and default knowledge rows on this page are DM structure, not player discoveries.
 
 ## Faction Knowledge Quick View
 
@@ -59,6 +60,9 @@ The Remix's spring schedule assumes:
 | Gralhunds | Enough to meddle, not enough to survive cleanly | Use the Stone for advancement or leverage. |
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/Dragon-Heist-Remix.pdf`
 - `../raw/waterdeep_dragon_heist/00.Introduction.md`

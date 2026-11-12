@@ -2,8 +2,9 @@
 type: dashboard
 status: active
 audience: players
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/notes/dm-planning/session-1/opening-scene.md
@@ -599,3 +600,24 @@ Once everyone reunited upstairs, the Skullduggers agreed to pursue the gold and 
 Then Trench knocked. He returned all fifty gold and announced that he was done. He would not explain what he had found, advised them to drop Zord, and insisted their names had never come up. Pressed a little further, he gave them exactly one more piece of information: he would not get entangled with Menzoberranzan.
 
 An Underdark drow city was quite an addition to an already crowded investigation. For now, the next score looks like Zord's buyer names. First, an answer to the Cassalanters by morning; then, somehow, a customer inquiry that does not announce itself to everyone beneath Waterdeep.
+
+
+## Session 18
+
+Morning on Ches 23 brought a long rest, a letter to the Cassalanters agreeing to help, and the useful clarification that their proposed ritual was on Tarsahk 9, two days before the twins' birthday. The gold remained missing, the curse remained alarming, and the first order of business was still finding the nimblewright that had blown up the alley.
+
+The trail led to the Smiling Siren, an older Castle Ward theater where Margo Verida was teaching her accompanist the difference between pressing piano keys and striking them with conviction. Elior secured a private conversation. Margo was staying aboard Zord's ship, apparently on the strength of being a singer he admired, and offered a letter of introduction. She doubted he had anything to do with the bombing. If the party intended anything nefarious aboard his ship, she would appreciate being left out of it.
+
+Before she could finish being helpful, a duergar and a floating eyeball appeared with an invitation from an employer who was also interested in dead gnomes and nimblewrights. Our heroes declined. Margo went backstage. A second duergar turned out to have been invisible, which did rather explain how the invitation had become an ambush.
+
+Elior attempted to blast the enlarged duergar beneath a suspended dragon prop for what would surely have been a magnificent theatrical accident. The dwarf stayed put. Jonathan and Broethuul took the blast instead. Jonathan recovered his composure by smashing the giant dwarf down to ordinary corpse size with a spectacularly radiant blow, then announcing that justice had been served in a voice nobody quite expected. Broethuul skewered the other attacker, only to be dropped by the gazer's icy rays. Jonathan got him back on his feet—or at least back among the conscious—before Davy shot the eyeball out of the air.
+
+The duergar carried a healing potion, a compact climbing rig, a pair of stones that could tap messages to one another, and orders to bring one of the Trollskull gang in alive. Someone wanted to know what they knew and where the Stone was. That suggested Xanathar was still looking too. Margo supplied her letter, accepted Broethuul's purple feather, and retreated to her dressing room. Two Watch patrolmen received a passing report of a commotion at the theater. Detailed statements remained someone else's preferred afternoon activity.
+
+At the Sea Maidens Fair, the party split its attention. Davy watched the ships and launches, Jonathan watched for trouble, and Broethuul discovered that the carnival was not especially interested in hiring outsiders. Aladeen and Elior presented Margo's letter to Klarr Besham, the serious captain with the shoulder tarantula. While he fetched permission to visit Zord, Fergus Crabwater offered wine. Aladeen successfully pretended to keep pace. Elior successfully became drunk.
+
+Zord welcomed them aboard the offshore Eyecatcher, remembered their connection to Renaer, and proved much less welcoming to requests for customer information. They described the Fireball and the nimblewright while leaving the gnome and Stone out of the account. Zord cited discretion. Elior cited the damage that rumors might do to his reputation. Zord took the threat seriously, pointed out whose word carried weight a mile from shore, and had them escorted back to their boat. He also wanted a word with Margo.
+
+The visit did produce one useful clue: whenever nimblewrights or customers came up, Zord kept glancing at a bound book on his desk. Elior reckoned it was probably the ledger they needed. Davy's surveillance added a few practical details: launches shuttled between the ships, larger approaching vessels put the flagship's crew on alert, and small rowboats drew no such visible reaction.
+
+So the next score has a likely address: a book on Zord's cabin desk. Reading it would be preferable to leaving an empty space and an obvious accusation. Getting there, getting out, and persuading a bronze dragon to take an interest are still matters for discussion. Next stop, if the plan holds: Zelifarn—and a count of the remaining breathing potions before anyone goes overboard.

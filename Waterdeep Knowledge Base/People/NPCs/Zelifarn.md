@@ -4,8 +4,9 @@ status: active
 aliases:
   - Zelopharn
   - Zelifern
-updated: 2026-07-11
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/notes/dm-planning/session-12/force-grey.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
@@ -18,6 +19,10 @@ tags:
 # Zelifarn
 
 Zelifarn is a young bronze dragon living around a wreck in [[Places/Deepwater Harbor]]. The party met him during the [[Factions/Gray Hands]] harbor assignment in [[Sessions/Session 12 - 2026-07-09]].
+
+## Session 18 Update
+
+- Party chose a return visit as the next likely action for Eyecatcher-ledger planning. Transport/diversion (including a whale-like display) were brainstormed; no contact, agreement, reward, or use of breathing potions occurred. See [[Objects/Force Grey Water Breathing Potions]] for the five-versus-six inventory discrepancy.
 
 ## Current Status
 
@@ -40,6 +45,9 @@ Zelifarn delivered the leaf and considered it better than treasure, though Broet
 The transcript has several phonetic spellings, including Zelopharn and Zelifern. Use Zelifarn as the stable page name unless the table later corrects it.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/notes/dm-planning/session-12/force-grey.md`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

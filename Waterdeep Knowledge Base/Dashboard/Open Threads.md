@@ -1,8 +1,9 @@
 ---
 type: dashboard
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/character-arcs/davy-dm-notes.md
   - ../raw/notes/handouts/s0-aladeen-backstory.md
@@ -52,23 +53,22 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 
 ### Hot Next Session
 
-- **Party:** send the [[Objects/Cassalanter Rescue Offer|Cassalanter reply]] by the following morning. Internal consensus favors pursuing the gold/helping the twins; Davy reserves judgment over final disposition. Debt has not been forgiven.
-- **Party / Zord lead:** get buyer names for the eight known Luskan-design nimblewrights Remallia traced to Zord. Possible entries: Margo at [[Places/Smiling Siren]], a buyer cover, faction research, or a heist once the record location is learned.
-- **Trench warning:** full 50 gp refunded, commission over, [[Places/Menzoberranzan]] named. No specific faction, house, or Lolth agenda is confirmed. Protect his requested discretion.
-- **DM / verification:** resolve the roughly twenty-day birthday versus prep's exact dates, and Ilmater-versus-Dawnfather clerical accounts. Independent text/cleric evidence is still missing.
-- **Staff / Davy:** Lif remains silent; Patric covers drinks. Davy promised reunion if Fala's spirit remains, but no obvious haunting was found. Dorgar is a possible next contact.
-- **Party / Watch:** wagon scene was looted and dressed, then left without a report. Two guards and two thugs remained dead; the mage's body departed on the wagon. Future Watch response is unresolved.
-- **Vajra / Laeral:** no further official response on screen. Remallia has answered and supplied a fresh paper bird; that bird is unused.
-- **Party / staff:** windows still missing, tavern semi-open and serving neighbors. No priced repairs, quantified relief expense, or new tenday roll. Establish body/shop arrangements and staffing in [[Dashboard/Trollskull Operations]].
-- **Hostile Zhents:** Agorn, Urstul, Amath, and Oren remain at large.
-- **Private evidence:** Broethuul's necklace and Amberleaf remain undisclosed. Davy's gemstone pouch is now party-known, still unreported to the Watch.
+- **Party / dragon:** next stated direction is to speak with Zelifarn for ledger-heist help. No agreement or dive occurred. Reconcile five documented versus six tentatively recalled breathing potions before spending.
+- **Party / score:** [[Objects/Zord's Suspected Customer Ledger]] on Eyecatcher's cabin desk is the target; Elior is about 70% confident. No contents, interior map, individual prep declarations, or operation yet. Reading/copying versus theft remains a decision.
+- **Zord / Margo:** the meeting failed after a reputational threat. Zord asked Klarr to tell Margo he wanted a word. Her introduction is not continuing ship access.
+- **Xanathar / Watch:** capture team dead at Smiling Siren; [[Objects/Xanathar Capture Orders]] seek one party member alive. Two Watch patrolmen received only a commotion report; subsequent response unplayed.
+- **Party / resources:** long rest at Session 18 start, theater damage afterward; Broethuul revived for 9 HP, no later rest. Elior last recorded mildly intoxicated. Potion/rig/tap stones acquired; final distribution partly uncertain.
+- **Cassalanters / verification:** acceptance and investigation update dispatched on Ches 23. Tarsahk 9 ritual / Tarsahk 11 birthday named in recap. Loan still active; Ilmater-versus-Dawnfather account and curse/cure evidence unresolved.
+- **Trench warning:** full refund and commission over; Menzoberranzan connection remains unexplained. Specific faction and Lolth agenda unconfirmed; respect his discretion.
+- **Staff / Davy:** Lif silent, Patric covering drinks; Fala's spirit not established. Dorgar remains a possible contact.
+- **Party / earlier fallout:** wagon ambush still unreported, Agorn/Urstul/Amath/Oren at large, tavern repairs/relief unpriced, replacement paper bird unused, and private necklace/Amberleaf undisclosed. Davy's gems are party-known, not reported to Watch.
 
 ### Active Background Pressure
 
 - [[Factions/Xanathar Guild]] may learn about the [[Places/Drowned Lantern]] / [[People/NPCs/Zelifarn]] mission from survivors, and the opening-night gazer may have escaped.
 - [[Factions/Zhentarim]] remains split or opaque: Davil/Yagra's spy effort may be separate from the hostile Banite/Manshoon-linked Yellowspire cell that kidnapped Nat.
 - [[Factions/Harpers]] and [[Factions/Gray Hands]] both have reasons to value Trollskull as the party's base.
-- [[Factions/Cassalanters]] hold the tavern debt and have made the conditional rescue offer; formal reply is pending.
+- [[Factions/Cassalanters]] hold the tavern debt and have made the conditional rescue offer; acceptance/update sent in Session 18; forgiveness remains conditional.
 - [[Threads/Great Game]] is now an overt Stone/hoard search with Cassalanter stakes and a drow-connected Zord lead.
 
 ### Private Or Limited-Knowledge Threads
@@ -109,7 +109,7 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Factions/Cassalanters]] / [[Places/Cassalanter Villa]] | Whole party | Reply due by morning | [[Objects/Cassalanter Rescue Offer]] offers debt forgiveness and 10% of the hoard. Party internally favors helping, with Davy’s final-disposition reservation; loan still active. |
 | [[Objects/Scrap of Note]] / Stone clue | Whole party | Active mystery | Decode X, Z, Lady B, R, "third eye," and how the note connects to the watcher/ambush. |
 | [[People/NPCs/Mr Jones]] and Castle Ward ambush | Whole party | Aftermath active | [[People/NPCs/Thugby]] was released/intimidated, reappeared with the Thomril arson crew, escaped, accidentally attended Trollskull's opening, and then claimed in session 14 that he was mostly staying clean. |
-| [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | Whole party, especially Elior | Buyer names proposed as score | Remallia identifies Zord as seller of eight Luskan designs. Trench refunds the inquiry and warns of Menzoberranzan. No fair visit or Zord meeting; Margo/Smiling Siren offers an indirect lead. |
+| [[Places/Sea Maidens Fair]] / [[People/NPCs/Zardoz Zord]] | Whole party, especially Elior | Suspected ledger is current score | Margo’s letter secured a Zord audience; threat ended it without buyer names. Elior spotted a likely desk ledger; dock surveillance collected launch/security clues. Zord wants a word with Margo. Next proposed contact is Zelifarn; no operation begun. |
 | [[People/NPCs/Maxeene]] / [[Places/Thomril & Sons Cartage]] | Whole party | Active consequence | Maxeene survived, her report reached Remallia, Thomril & Sons burned, the stablemaster is likely dead, and no Watch report is captured yet. |
 | [[People/NPCs/Davil Starsong]] / [[People/NPCs/Yagra Stonefist]] | Whole party | New faction lead | Maxeene overheard them discussing spies to locate Xanathar Guild hideouts; determine whether this cell is foe, ally, or separate Zhentarim splinter. |
 | Rock gnome Stone lead | Whole party | New mystery lead | Maxeene remembered a rock gnome following a lord's carriage and a well-dressed red-haired man while talking about a stone. |
@@ -121,7 +121,7 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 | [[Objects/Elior's Ghost Research Books]] / Kelemvorite exorcism | [[People/PCs/Elior Thalosmere]] | Private parallel track | Elior has quietly sought exorcism options while the rest of the party prepares Dorgar's seance. |
 | [[Places/Steam and Steel]] / [[Places/The Bent Nail]] | Whole party, especially Aladeen | Local business links | Pick up urchin bucklers, use forge credit, and maintain the now-open tavern; loan funds arrived in Session 12. |
 | [[Places/Trollskull Smuggler's Passage]] | Whole party | Newly discovered security threat | Determine who opened the latched sewer-side door, then seal, secure, exploit, or monitor the route. |
-| [[People/NPCs/Zelifarn]] / [[Places/Deepwater Harbor]] | Whole party, especially Broethuul | New Gray Hands contact | Keep the bronze dragon discreet, decide whether to visit him, and monitor harbor faction attention. |
+| [[People/NPCs/Zelifarn]] / [[Places/Deepwater Harbor]] | Whole party, especially Broethuul | New Gray Hands contact | Next proposed contact for ledger-heist help; no new visit or agreement. Confirm breathing resources and monitor harbor attention. |
 | [[Objects/The Amberleaf Dispatch]] | [[People/PCs/Broethuul]] | Revealed privately | Broethuul-only clue tying the wrong-water door, Starfern claim, Stone/Eye, Crommor horn, and House of Coin and Smile. |
 | [[Objects/Zhent Runner Message Tube]] | Whole party | Opened and retained | Message revealed the gnome/Stone/Neverember/Portal trail; currently retained by Elior after Yellowspire. |
 | [[Places/Yellowspire]] / [[People/NPCs/Amath Sercent]] / [[People/NPCs/Oren Fallow]] | Whole party | Active fallout | Nat rescued, but Amath escaped to report to Manshoon and Oren escaped wounded. |
@@ -141,6 +141,9 @@ Current DM-facing thread index built from character backgrounds, arc notes, and 
 - Use [[Dashboard/Current Campaign State]] and [[Dashboard/Faction Clocks]] as the starting point for weekly prep.
 
 ## Sources
+
+- [[Sessions/Session 18 - 2026-10-15]]
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
 
 - [[Sessions/Session 17 - 2026-10-01]]
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`

@@ -1,8 +1,9 @@
 ---
 type: object
 status: active
-updated: 2026-07-11
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/notes/dm-planning/session-12/force-grey.md
   - ../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt
 tags:
@@ -16,6 +17,12 @@ tags:
 
 These are water-breathing potions supplied through [[People/NPCs/Laraelra Harsard]] for the session 12 [[Factions/Gray Hands]] investigation of [[People/NPCs/Zelifarn]] in [[Places/Deepwater Harbor]].
 
+## Session 18 Update
+
+- No potion was consumed during Session 18; Zelifarn help remains a proposed next action.
+- DM tentatively recalled **six remaining**, one per PC plus an extra, and stated a **one-hour duration**. Session 12 explicitly awarded **five spares**, the last documented supply.
+- **Reconcile count and table duration before the next dive.** Do not silently add a sixth potion or replace the earlier inventory; no new award was shown.
+
 ## Current Status
 
 - Five initial potions were supplied before the harbor dive and consumed by the party.
@@ -23,6 +30,9 @@ These are water-breathing potions supplied through [[People/NPCs/Laraelra Harsar
 - The spare potions remain a party resource unless later used or returned.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/notes/dm-planning/session-12/force-grey.md`
 - `../raw/text_transcripts/Waterdeep_Session_12_2026-07-09_18-20-21.txt`

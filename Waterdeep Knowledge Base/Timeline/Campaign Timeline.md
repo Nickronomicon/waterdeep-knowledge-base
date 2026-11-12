@@ -1,8 +1,9 @@
 ---
 type: timeline
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
@@ -31,7 +32,7 @@ This timeline tracks actual-play events in order. In-world dates are partly conf
 
 ## Current Endpoint
 
-The latest ingested table state is evening/night Ches 22, 1492 DR, upstairs at [[Places/Trollskull Manor]] after Trench's full refund and Menzoberranzan warning. The party agreed internally to pursue the Stone/hoard and help the Cassalanter twins; a formal reply remains due by the following morning. The retconned Session 15 fair visit remains outside table truth.
+The latest ingested table state is **Ches 23, 1492 DR**, at/returning to the [[Places/Sea Maidens Fair]] pier after [[Sessions/Session 18 - 2026-10-15]]. Cassalanter acceptance/update has been sent. A Xanathar theater capture team is dead, Zord refused customer information, and Elior spotted a likely ledger on his cabin desk. The next proposed action is Zelifarn/heist research; no operation has begun. The retconned Session 15 fair visit remains outside table truth.
 
 ## Session Chronology
 
@@ -54,6 +55,7 @@ The latest ingested table state is evening/night Ches 22, 1492 DR, upstairs at [
 | [[Sessions/Session 15 - 2026-08-20]] | 2026-08-20 | Ches 22, 1492 DR | Party rescues Squiddly from burning debris, confirms Fala died in the blast, turns Trollskull into triage, identifies Dalakhar as the dead rock gnome coming to meet Renaer, learns a red-caped nimblewright used a necklace of fireballs and searched Dalakhar, sees Urstul Floxin arrested by Cromley, conceals the broken necklace and gemstone pouch, and gathers nimblewright owner leads. The original Sea Maidens Fair endpoint was later retconned. |
 | [[Sessions/Session 16 - 2026-09-24]] | 2026-09-24 | Ches 22, 1492 DR | Aladeen replays the Fireball investigation, sees Davy pocket Dalakhar's pouch, redirects the party from the retconned Sea Maidens Fair route to Blackstaff Tower, gets Vajra to warn Laeral about Neverember involvement, sends Remallia a paper bird, and fights Agorn's Zhent extraction team as they break Urstul Floxin out of Watch custody. |
 | [[Sessions/Session 17 - 2026-10-01]] | 2026-10-01 | Ches 22, 1492 DR | Party loots/dresses the ambush site and leaves; Remallia identifies eight Luskan nimblewrights/all sold by Zord and sends a replacement paper bird; Trench is hired; Cassalanters pitch the twins’ rescue for the 500,000-dragon hoard; Davy finds no obvious Fala haunting; party agrees internally to seek the gold; Trench refunds all 50 gp and warns of Menzoberranzan. |
+| [[Sessions/Session 18 - 2026-10-15]] | 2026-10-15 | Ches 23, 1492 DR | Long rest and Cassalanter acceptance; Margo introduction; Smiling Siren duergar/gazer capture team defeated; potion/rig/tap stones/orders looted; limited Watch report; Aladeen/Elior meet captains and Zord; buyer request refused; likely ledger located; dock surveillance and proposed Zelifarn/heist planning. |
 
 ## Date Anchors
 
@@ -66,7 +68,8 @@ The latest ingested table state is evening/night Ches 22, 1492 DR, upstairs at [
 - Session 14 begins around midnight after the Ches 19 opening, moves through Nat's kidnapping on Ches 20, Yellowspire at moonrise on Ches 21, and ends with the Fireball blast at mid-morning on Ches 22.
 - Session 15 begins immediately after the Ches 22 Fireball. Session 16 retconned the Sea Maidens Fair endpoint and replaces it with the Blackstaff/Remallia/Urstul extraction route on the same in-world day.
 - Session 17 starts after the wagon escape, explicitly places the investigation planning at mid-afternoon Ches 22, and ends that evening/night without a day advance.
-- The Cassalanter answer is due next morning (Ches 23 if play advances normally). Their birthday explanation is only approximate: a week after Founder's Feast, feast about a tenday away, total called about twenty days. Prep's Tarsahk 11 birthday/Tarsahk 9 ritual date were not disclosed; confirm before fixing absolute dates.
+- Session 18 opens explicitly on **Ches 23**, confirms an overnight long rest, and dispatches the Cassalanter acceptance/update. The theater visit and docks investigation follow that morning; no evening or further date advance is stated.
+- Session 18's recap explicitly names **Tarsahk 9** for the planned ritual and **Tarsahk 11** for the twins' birthday, superseding Session 17's rough timing. Spoken eighteen/nineteen-day counts remain approximate; track named dates.
 
 ## Open Chronology Questions
 
@@ -92,6 +95,9 @@ The latest ingested table state is evening/night Ches 22, 1492 DR, upstairs at [
 - Whether the Stone theft becomes table-confirmed through Renaer, Zord, Urstul, or later Gralhund investigation.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

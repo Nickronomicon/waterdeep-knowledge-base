@@ -1,8 +1,9 @@
 ---
 type: dashboard
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/stats.md
   - ../raw/notes/technical-notes.md
@@ -18,7 +19,7 @@ tags:
 
 # Current Campaign State
 
-Live DM-facing snapshot after [[Sessions/Session 17 - 2026-10-01]]. The latest played endpoint is evening/night on Ches 22, 1492 DR, upstairs at [[Places/Trollskull Manor]]. The party has agreed internally to pursue Neverember's gold and help the Cassalanter twins, with a reply still owed by morning. Trench has abandoned the Zord inquiry and warned of Menzoberranzan.
+Live DM-facing snapshot after [[Sessions/Session 18 - 2026-10-15]]. It is Ches 23, 1492 DR, at/returning to the Sea Maidens Fair pier after Zord refused the customer inquiry. Elior spotted a likely ledger on his cabin desk. The party wants to speak with Zelifarn and prepare its first heist; the Cassalanter acceptance has been sent.
 
 ## Stable Operating Facts
 
@@ -27,9 +28,9 @@ Live DM-facing snapshot after [[Sessions/Session 17 - 2026-10-01]]. The latest p
 | Party level | 3 |
 | Party name | The Skullduggers |
 | Tavern name | Trollskull Manor |
-| Current in-world date | Evening/night Ches 22, 1492 DR |
-| Current location | Upstairs dwelling at [[Places/Trollskull Manor]], after Trench’s refund and warning |
-| Real session coverage | Sessions 1-17 ingested; session 1 reconstructed |
+| Current in-world date | Ches 23, 1492 DR; later the same day after the morning investigation |
+| Current location | [[Places/Sea Maidens Fair]] pier / returning ashore from Eyecatcher |
+| Real session coverage | Sessions 1-18 ingested; session 1 reconstructed |
 | Cadence | Thursday evenings when scheduled |
 
 ## Immediate Situation
@@ -48,32 +49,32 @@ Live DM-facing snapshot after [[Sessions/Session 17 - 2026-10-01]]. The latest p
 - [[Objects/Zhent Runner Message Tube]] was opened, read, badly resealed, returned to Oren, recovered again, and retained by [[People/PCs/Elior Thalosmere]] after Yellowspire.
 - [[People/NPCs/Nat]] was kidnapped by hostile Zhentarim, rescued at Yellowspire after being stabbed, and healed back to safety.
 - The Fireball investigation has begun. The party knows the blast came from a thrown Fireball effect, a red-caped nimblewright searched [[People/NPCs/Dalakhar|Dalakhar's]] body and fled east, Dalakhar was coming to meet [[People/NPCs/Renaer Neverember]], and nimblewright leads point toward [[People/NPCs/Zardoz Zord]], [[Places/House of Inspired Hands]], [[Factions/Watchful Order of Magists and Protectors]], [[People/NPCs/Davin Crommor]], and other early noble owners.
-- [[Objects/Broken Necklace of Fireballs]] is hidden by [[People/PCs/Broethuul]] with two active beads remaining; as of Session 17 he has still not told the party or Watch.
+- [[Objects/Broken Necklace of Fireballs]] is hidden by [[People/PCs/Broethuul]] with two active beads remaining; as of Session 18 he has still not told the party or Watch.
 - [[People/PCs/Davy]] retains Dalakhar’s five-gem pouch and disclosed it to the whole party in Session 17. A civilian and Aladeen previously saw the theft; the Watch has not been told on screen.
 - [[People/NPCs/Urstul Floxin]] was recognized by [[People/NPCs/Saeth Cromley]] and taken into Watch custody, but [[People/NPCs/Agorn Fuoco]] and a Manshoon-Zhentarim team attacked the Watch wagon and escaped with him.
 - Session 17 confirmed two dead Watch guards and two dead Zhent thugs remained at the ambush site; the dead mage went away on the wagon. The party took 23 sp and 8 cp, disguised its presence, and left without a Watch report. No surviving attacker was interrogated.
 - [[People/NPCs/Vajra Safahr]] has informed [[People/NPCs/Laeral Silverhand]] that Dagult Neverember may be entangled in the Fireball/Stone matter.
 - [[People/NPCs/Remallia Haventree]] replied: eight known Luskan-design nimblewrights in Waterdeep, all sold by [[People/NPCs/Zardoz Zord]], buyers unknown. She warned against open inquiries and delivered Aladeen a replacement paper bird.
-- The Cassalanters claim their twins’ souls are due on their ninth birthday, roughly twenty days away, and that burning/melting 999,999 gold coins could save them. They named the [[Objects/Stone of Golorr]] as the key to Neverember’s 500,000-dragon hoard. These claims have not been independently verified.
-- [[Objects/Cassalanter Rescue Offer]] promises loan forgiveness plus 10% of the hoard. The party agreed internally to pursue the gold and help, with Davy reserving judgment over its final disposition. Formal reply remains due by morning.
+- The Cassalanters claim their twins’ souls are due on their ninth birthday, now named as Tarsahk 11, and that burning/melting 999,999 gold coins could save them. They named the [[Objects/Stone of Golorr]] as the key to Neverember’s 500,000-dragon hoard. These claims have not been independently verified.
+- [[Objects/Cassalanter Rescue Offer]] promises loan forgiveness plus 10% of the hoard. The party agreed internally to pursue the gold and help, with Davy reserving judgment over its final disposition. Acceptance and an investigation update were dispatched on Ches 23; forgiveness remains conditional. The planned ritual is Tarsahk 9.
 - [[People/NPCs/Vincent Trench]] took a 50 gp Zord commission (10 gp per PC), then returned all 50 gp and refused to cross [[Places/Menzoberranzan]]. No commission remains. He said the party’s names never came up; Bregan D’aerthe/Jarlaxle remain unrevealed.
-- Buyer names are the proposed next heist score. [[People/NPCs/Margo Verida]] may be found in Castle Ward, especially [[Places/Smiling Siren]]. No Zord meeting, list location, floorplan, surveillance, or prep declarations yet.
+- Margo supplied an introduction after a Xanathar duergar/gazer capture team attacked at [[Places/Smiling Siren]]. All three attackers died; the party gave two patrolmen a limited commotion report. Zord refused Aladeen/Elior's inquiry and took Elior's threat seriously. [[Objects/Zord's Suspected Customer Ledger]] is likely on his cabin desk; dockside surveillance is recorded, but no interior floorplan, contents, formal prep declarations, or operation yet.
 - Trollskull is semi-open, cooking and serving subdued neighbors. Glass is cleared but windows are still missing; no priced repairs or new business roll occurred.
 
 ## Retcon Resolution
 
-- Session 16 rewound the end of Session 15 for Aladeen's player.
-- The Sea Maidens Fair visit was retconned. The party did not go to the Dock Ward, did not speak with Captain Fergus, and did not reach Zardoz after session 15.
-- Keep the Zord/Sea Maidens Fair lead as a valid future option, not a completed trip.
+- Session 16 rewound the end of Session 15; that fair visit remains removed from continuity.
+- Session 18 is the first current-continuity visit after the Fireball. The party met Fergus and Klarr, and Aladeen/Elior reached Zord aboard Eyecatcher. Use these discoveries from Session 18, not the retconned branch's purchases or unconfirmed travel claims.
 
-## Recent Session 17 Changes
+## Recent Session 18 Changes
 
-- Left the ambush after looting and concealing involvement; no new combat.
-- Received Remallia's eight-nimblewright clue and replacement paper bird.
-- Hired Trench, learned the Cassalanter rescue proposal, and received his full refund and drow warning that night.
-- Shared the villa account with the whole party and agreed internally to seek the Stone/hoard; formal answer pending.
-- Located a possible Margo venue and checked unsuccessfully for obvious signs of Fala's spirit. Lif remains silent; Patric covers drinks.
-- Short rests allowed; Davy changed borrowed proficiency to healer's kit. No long rest, date advance, or level-up.
+- Confirmed Ches 23 and a long rest; sent the Cassalanter reply and lead update.
+- Margo is Zord's shipboard guest; her introduction secured a meeting. Zord now wants a word with her.
+- Defeated two duergar and a gazer at the Smiling Siren. Broethuul fell unconscious and Jonathan restored him for 9 HP; no subsequent rest.
+- Gained a healing potion, compact climbing rig, [[Objects/Tap Stones]], and [[Objects/Xanathar Capture Orders]]. Elior handled item entry; final distribution partly uncertain.
+- Aladeen stayed sober by sleight of hand; Elior became mildly intoxicated (disadvantage on Intelligence/Wisdom/Charisma checks until resolved).
+- Located a suspected ledger; observed small-boat traffic, large-vessel alerts, approximate crew numbers, and an insular troupe. No infiltration started.
+- Next proposed action: visit Zelifarn and complete heist research. Dragon help and allied supplies remain requests to make.
 
 ## Party Resources And Obligations
 
@@ -83,7 +84,8 @@ Live DM-facing snapshot after [[Sessions/Session 17 - 2026-10-01]]. The latest p
 | [[Objects/Remallia's Paper Bird]] | One replacement delivered to Aladeen in Session 17, unused. The earlier Session 14/16 inventory ambiguity remains historical. |
 | [[Objects/Remallia's Fala Credit Note]] | Emergency medical/supply support through Fala; disrupted by Fala's death and Corellon's Crown damage. |
 | [[Objects/Remallia's Lender List]] | Mostly superseded by the signed Cassalanter loan, but still useful context. |
-| [[Objects/Force Grey Water Breathing Potions]] | Five spare potions remain after session 12. |
+| [[Objects/Force Grey Water Breathing Potions]] | Five spares documented in Session 12; Session 18 tentatively recalled six, one hour each. None used; reconcile before a dragon visit. |
+| Session 18 loot | One healing potion (unused), compact climbing rig, tap-stone pair, capture orders, and Margo's returned introduction. See Session 18 for custody/mechanics. |
 | Healer's kit | Aladeen bought a healer's kit for 5 gp on Ches 22 after the Fireball. |
 | [[Objects/Borrowed Monster Books]] | Rishaal's books should be returned. |
 | [[Objects/Elior's Ghost Research Books]] | Elior's private or semi-private Kelemvorite ghost research remains unresolved. |
@@ -97,27 +99,28 @@ Live DM-facing snapshot after [[Sessions/Session 17 - 2026-10-01]]. The latest p
 
 - [[Factions/Harpers]]: Remallia supplied the eight-nimblewright/Zord clue, caution, and a replacement contact bird. No new message sent afterward.
 - [[Factions/Gray Hands]]: Vajra knows the party's Fireball findings and has elevated the Neverember angle to Laeral Silverhand.
-- [[Factions/Xanathar Guild]]: The party has repeatedly disrupted Xanathar-linked operations; Xanathar's people were apparently on the same gnome/Stone trail.
+- [[Factions/Xanathar Guild]]: Two duergar and a gazer tried to capture a party member alive for gnome/Stone information at the theater; all died. Orders suggest an information gap, not proven Stone custody.
 - [[Factions/Zhentarim]]: Hostile Manshoon-aligned pressure is now undeniable: Yellowspire, Amath/Oren, Urstul at the Fireball, and Agorn's successful extraction of Urstul from Watch custody. Davil/Yagra's relationship to this remains unresolved.
-- [[Factions/Cassalanters]]: Active lenders offering conditional forgiveness and a hoard share for saving the twins. Reply due by morning; claimed birthday urgency roughly twenty days. Exact calendar and ritual deadline need confirmation.
+- [[Factions/Cassalanters]]: Active lenders offering conditional forgiveness and a hoard share for saving the twins. Acceptance sent. Tarsahk 9 ritual and Tarsahk 11 birthday named in recap; origin/cure claims remain unverified.
 - [[People/NPCs/Emmet Frewn]] / [[Places/Frewn's Brews]]: Local rivalry is active and now entangled with Fireball blame rumors.
-- [[Factions/Bregan D'aerthe]] / [[People/NPCs/Zardoz Zord]]: Trench’s refusal adds a Menzoberranzan connection after indirect investigation. Specific faction and identity remain unrevealed to the PCs.
+- [[Factions/Bregan D'aerthe]] / [[People/NPCs/Zardoz Zord]]: Zord personally refused the buyer inquiry and took Elior’s threat seriously; Margo may face questions. Trench’s Menzoberranzan warning remains unexplained. Specific faction and identity remain unrevealed.
 
 See [[Dashboard/Faction Clocks]] for the working escalation view.
 
 ## Hot Next-Session Questions
 
-- What reply and conditions does the party send the Cassalanters by morning?
-- How can the family’s curse/cure claims be checked? Resolve the Ilmater-versus-Dawnfather account and calendar discrepancy before fixing an absolute deadline.
-- Does the party find Margo at the Smiling Siren, try a buyer cover with Zord, call in faction help, or research a record heist?
-- Where would buyer records actually be kept? No storage location, ship access, or floorplan has been learned.
-- What does Trench's warning imply, and who learns of it? Do not confirm a faction identity or Lolth agenda prematurely.
-- Does Vajra/Laeral follow up? Does the party report the ambush, hidden evidence, or gemstones?
-- What do Agorn, Urstul, Amath, and Oren do next?
-- How do staff cover Lif, replace windows, fund relief, arrange Fala's remains/shop, and protect the first tenday business result?
-- Does Davy ask Dorgar for help, and does Broethuul share the necklace or Amberleaf Dispatch?
+- What will Zelifarn agree to, and does the party want transport, a diversion, or advice? Reconcile five documented versus six tentatively recalled breathing potions before spending.
+- How can the crew reach/read the suspected ledger, leave, and avoid recognition? Who declares which prep skill/tool/ability?
+- Does the party copy information or steal the book if necessary? No buyer contents, interior map, locks, or guard schedule is known.
+- What happens when Zord speaks with Margo, and how do Xanathar and the Watch react to the theater bodies?
+- Does Elior recover from intoxication or does the party rest before acting? Broethuul was restored from unconsciousness, but no later rest occurred.
+- Can the family’s curse/cure claims be checked before the Tarsahk 9 ritual? The clerical discrepancy remains unresolved.
+- Carry forward escaped Zhents, unreported wagon aftermath, hidden evidence, Lif/Fala, staff and repair/relief accounting.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

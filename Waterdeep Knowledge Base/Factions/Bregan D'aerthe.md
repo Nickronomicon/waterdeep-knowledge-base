@@ -1,8 +1,9 @@
 ---
 type: faction
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/Dragon-Heist-Remix.pdf
   - ../raw/text_transcripts/Waterdeep_Session_15_2026-08-20_18-08-44.txt
@@ -19,6 +20,12 @@ tags:
 # Bregan D'aerthe
 
 Bregan D'aerthe is Jarlaxle Baenre's drow mercenary/intelligence network. At the table, the faction is currently visible through [[People/NPCs/Zardoz Zord]], [[Places/Sea Maidens Fair]], and the broader harbor presence, but its full identity and role in the Grand Game remain unrevealed to the party.
+
+## Session 18 Update
+
+- Aladeen/Elior met public-facing Zord through Margo’s introduction and Klarr’s escort. Elior threatened reputational harm; Zord refused the buyer inquiry and dismissed them, then requested a word with Margo.
+- Elior identified a likely ledger on the cabin desk; Davy surveilled launches and visible ship responses. A ledger operation is proposed, without formal individual prep declarations or execution.
+- The faction’s name, Jarlaxle’s identity, true captain identities, magical surveillance, and hidden ship infrastructure remain unrevealed. Do not turn the visitors’ omitted gnome/Stone account into an explicit disclosure to Zord.
 
 ## Current Table Status
 
@@ -39,7 +46,7 @@ Bregan D'aerthe is Jarlaxle Baenre's drow mercenary/intelligence network. At the
 
 - If the party follows Zardoz, asks about ships, investigates nimblewrights, or returns to Zelifarn, use [[Reference/Remix Eye Heists]] and [[Reference/Remix Faction Outposts]].
 - If the Stone / Great Game clock advances through harbor activity, Bregan D'aerthe can notice the party before the party notices them.
-- The abbreviated Session 15 branch reached the Sea Maidens Fair before the party spoke with Captain Fergus or Zord, but Session 16 retconned that visit. Current table truth: Session 17 pursued Zord indirectly; no fair visit or direct meeting has followed the Fireball.
+- The abbreviated Session 15 branch reached the Sea Maidens Fair before the party spoke with Captain Fergus or Zord, but Session 16 retconned that visit. Current table truth: Session 18 brought a fair visit and Zord audience; the Session 15 trip stays retconned.
 
 ## Session 17 Reveal Boundary
 
@@ -49,6 +56,9 @@ Bregan D'aerthe is Jarlaxle Baenre's drow mercenary/intelligence network. At the
 - Buyer names are the proposed next score. No actual Zord meeting, fair visit, record location, or surveillance scene occurred.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

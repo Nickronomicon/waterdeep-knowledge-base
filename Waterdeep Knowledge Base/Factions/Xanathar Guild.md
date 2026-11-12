@@ -1,8 +1,9 @@
 ---
 type: faction
 status: active
-updated: 2026-08-20
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/notes/discord-synopsis-channel.md
   - ../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt
   - ../raw/text_transcripts/Waterdeep_Session_3_2026-03-01_17-31-11.txt
@@ -23,6 +24,13 @@ tags:
 # Xanathar Guild
 
 The Xanathar Guild is a violent underworld faction currently fighting the [[Factions/Zhentarim]] in Waterdeep.
+
+## Session 18 Update
+
+- Two duergar (one initially invisible, one enlarging) and a gazer confronted the party at Margo’s Smiling Siren rehearsal on Ches 23. Their spokesman referred to nimblewright/dead-gnome inquiries; all three attackers died.
+- [[Objects/Xanathar Capture Orders]] demand one Trollskull member alive to learn what they know and where the Stone is. No named commander/outpost was obtained. Party inference that Xanathar lacks the Stone or did not own the Fireball nimblewright remains an inference.
+- Margo recognized Xanathar trouble. Earlier repeated faces suggested surveillance but were never identified as this team or its spotters.
+- The party took potion/rig/[[Objects/Tap Stones]]/orders and gave two Watch patrolmen a limited commotion report. Follow-up pressure is unplayed.
 
 ## Current Campaign State
 
@@ -70,6 +78,9 @@ The Xanathar Guild is a violent underworld faction currently fighting the [[Fact
 - Did the watcher mentioned in the opened tube message survive long enough to report the gnome or Trollskull lead?
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/notes/discord-synopsis-channel.md`
 - `../raw/text_transcripts/Waterdeep_Session_2_2026-02-22_17-27-38.txt`

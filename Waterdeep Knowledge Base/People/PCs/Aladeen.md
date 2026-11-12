@@ -7,8 +7,9 @@ class: Bard
 subclass: College of Eloquence
 species: Human
 background: Entertainer
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
@@ -37,6 +38,13 @@ tags:
 # Aladeen
 
 Aladeen is a level 3 human College of Eloquence bard and entertainer from Waterdeep. He is a charming social specialist with strong control and support magic, a small streak of luck, and ties to an old performing troupe.
+
+## Session 18 Update
+
+- Joined the long-rested Ches 23 investigation. Used mockery, inspiration, Lucky crossbow rerolls, and 8 HP of healing for Davy in the theater fight.
+- Accompanied Elior to Zord with Margo’s letter. Pretended to drink with Fergus and avoided intoxication; omitted the gnome/Stone details. Zord refused access and sent them ashore.
+- No heist prep declaration or new outgoing Harper message; replacement paper bird remains unused.
+- Cassalanter acceptance/update was sent at the opening; the next proposed action is Zelifarn/heist research, with no ledger operation executed.
 
 ## Current Sheet Snapshot
 
@@ -286,6 +294,9 @@ House Crommor never answered publicly, but Aladeen later received enough quiet w
 - Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

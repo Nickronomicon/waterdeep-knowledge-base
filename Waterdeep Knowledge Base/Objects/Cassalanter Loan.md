@@ -3,8 +3,9 @@ type: object
 status: signed
 revealed: true
 revealed_session: 10
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/notes/dm-planning/session-10/outline.md
   - ../raw/text_transcripts/Waterdeep_Session_7_2026-04-16_18-09-58.txt
@@ -23,6 +24,10 @@ tags:
 # Cassalanter Loan
 
 The Cassalanter Loan is the financing arrangement negotiated with [[People/NPCs/Victoro Cassalanter]] to restore and open [[Places/Trollskull Manor]]. It was signed by all five PCs in [[Sessions/Session 12 - 2026-07-09]].
+
+## Session 18 Update
+
+- Session 18 acceptance/update was dispatched, but forgiveness remains conditional on the rescue arrangement. No payment, principal/interest change, new expense, or reserve adjustment was recorded. See [[Objects/Cassalanter Rescue Offer]].
 
 ## Current Terms
 
@@ -54,6 +59,9 @@ Signed in [[Sessions/Session 12 - 2026-07-09]] by [[People/PCs/Aladeen]], [[Peop
 - The party discussed agreeing, but had not delivered a reply by the endpoint. No principal, interest, or cash-reserve adjustment was recorded. See [[Objects/Cassalanter Rescue Offer]].
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

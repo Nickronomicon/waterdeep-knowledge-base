@@ -1,8 +1,9 @@
 ---
 type: thread
 status: active
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_9_2026-05-07_18-24-35.txt
   - ../raw/text_transcripts/Waterdeep_Session_14_2026-08-06_18-15-47.txt
@@ -22,6 +23,10 @@ tags:
 The Great Game is Remallia Haventree's frame for a kind of Waterdhavian noble competition: powerful families and factions orbiting a prized affair or object while public institutions, commoners, and street-level operators suffer the consequences.
 
 The Remix uses similar machinery under the name Grand Game / Neverember's Enigma: a multi-faction race for the [[Objects/Stone of Golorr]], its missing Eyes, and the Vault of Dragons. In this vault, "Great Game" is the table-facing phrase Remallia used; "Grand Game" appears in Remix reference pages.
+
+## Session 18 Update
+
+- Cassalanter acceptance/update sent on Ches 23; ritual Tarsahk 9 / birthday Tarsahk 11 now named. [[Objects/Xanathar Capture Orders]] show a live-prisoner information hunt. Zord refused the buyer inquiry; [[Objects/Zord's Suspected Customer Ledger]] became the concrete score. No Stone custody, Gralhund owner, or missing-Eye holder was confirmed. Next proposed contact is Zelifarn.
 
 ## Current Status
 
@@ -63,6 +68,9 @@ The Remix uses similar machinery under the name Grand Game / Neverember's Enigma
 - [[Objects/Cassalanter Rescue Offer]] records the claimed roughly twenty-day urgency, reward, and unverified account. Missing Eye holdings remain unrevealed.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]

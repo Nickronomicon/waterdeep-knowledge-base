@@ -9,8 +9,9 @@ species: Aasimar
 background: Noble
 aliases:
   - JUSTICE
-updated: 2026-10-15
+updated: 2026-10-21
 source_paths:
+  - ../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt
   - ../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt
   - ../raw/text_transcripts/Waterdeep_Session_16_2026-09-24_18-14-20.txt
   - ../raw/roster.md
@@ -39,6 +40,14 @@ tags:
 # Jonathan Usman Sonny Theodore Icarus Charles Eagleshield
 
 Jonathan Usman Sonny Theodore Icarus Charles Eagleshield, sometimes abbreviated JUSTICE, is a level 3 aasimar Oath of Devotion paladin with a noble background. He is the party's heavily armored moral front line, built around devotion, radiant/celestial features, healing, and direct confrontation.
+
+## Session 18 Update
+
+- Took 9 damage from Elior’s Thunderwave, killed the enlarged duergar with a critical morningstar/Divine Smite (36 damage), and pronounced justice served in a gravelly voice.
+- Received 15 HP healing from Elior and restored unconscious Broethuul for 9 HP. No later rest.
+- Watched fair security; saw heavy Watch presence but no overt attack and could not establish whether the security level was unusual.
+- Opening DID/Icarus banter was out-of-character joking, not a confirmed identity/backstory change. No formal heist prep skill was declared.
+- Cassalanter acceptance/update was sent at the opening; the next proposed action is Zelifarn/heist research, with no ledger operation executed.
 
 ## Current Sheet Snapshot
 
@@ -269,6 +278,9 @@ After [[Threads/Crommor Incident|the Crommor Incident]] and House Crommor's rapi
 - Contributed 10 gp to the 50 gp Trench fee. He returned the full party payment that night; redistribution was not shown. Short rests were allowed during the downtime; no long rest or level-up occurred.
 
 ## Sources
+
+- `../raw/text_transcripts/Waterdeep_Session_18_2026-10-15_18-07-47.txt`
+- [[Sessions/Session 18 - 2026-10-15]]
 
 - `../raw/text_transcripts/Waterdeep_Session_17_2026-10-01_18-41-44.txt`
 - [[Sessions/Session 17 - 2026-10-01]]
